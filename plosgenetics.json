@@ -1,5 +1,5 @@
 {
-  "url": "peerj.com",
+  "url": "plosgenetics.org",
   "elements": {
     "fulltext_pdf": {
       "selector": "//meta[@name='citation_pdf_url']",

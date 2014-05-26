@@ -1,5 +1,5 @@
 {
-  "url": "peerj.com",
+  "url": "plosone.org",
   "elements": {
     "fulltext_pdf": {
       "selector": "//meta[@name='citation_pdf_url']",
