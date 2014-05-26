@@ -14,13 +14,13 @@ There can be two keys in the root object:
 
 Elements are defined as key-value pairs, where the key is a description of the element, and the value is a dictionary of specifiers defining the element and its processing. Allowed keys in the specifier dictionary are:
 
-- ***selector*** - an XPath selector targetting the content to be extracted
-- ***download*** - a boolean flag: true if the element is a URL to a resource that must be downloaded
+- ***selector*** - an XPath selector targetting the content to be extracted. **Required**.
+- ***download*** - a boolean flag: true if the element is a URL to a resource that must be downloaded. **Optional** (omitting this key is equivalent to giving it a value of `false`).
 
 Example:
 ```json
 {
-  "url": "plosgenetics.org",
+  "url": "plos.*\\.org",
   "elements": {
     "fulltext_pdf": {
       "selector": "//meta[@name='citation_pdf_url']",
