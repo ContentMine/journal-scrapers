@@ -1,0 +1,22 @@
+{
+  "url": "peerj.com",
+  "elements": {
+    "fulltext_pdf": {
+      "selector": "//meta[@name='citation_pdf_url']",
+      "download": true
+    },
+    "fulltext_html": {
+      "selector": "//meta[@name='citation_fulltext_html_url']",
+      "download": true
+    },
+    "title": {
+      "selector": "//meta[@name='citation_title']"
+    },
+    "date": {
+      "selector": "//meta[@name='citation_date']"
+    },
+    "doi": {
+      "selector": "//meta[@name='citation_doi']"
+    }
+  }
+}
