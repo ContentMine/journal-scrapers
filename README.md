@@ -14,7 +14,8 @@ There can be two keys in the root object:
 
 Elements are defined as key-value pairs, where the key is a description of the element, and the value is a dictionary of specifiers defining the element and its processing. Allowed keys in the specifier dictionary are:
 
-- ***selector*** - an XPath selector targetting the content to be extracted
+- ***selector*** - an XPath or CSS selector targetting the element to be selected
+- ***attribute*** - a string specifying the attribute to extract from the selected element
 - ***download*** - a boolean flag: true if the element is a URL to a resource that must be downloaded
 
 Example:
@@ -24,6 +25,7 @@ Example:
   "elements": {
     "fulltext_pdf": {
       "selector": "//meta[@name='citation_pdf_url']",
+      "attribute": "content",
       "download": true
     }
   }

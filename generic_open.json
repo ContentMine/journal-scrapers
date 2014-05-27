@@ -1,5 +1,5 @@
 {
-  "url": "peerj.com",
+  "url": "\\w+\\.\\w+",
   "elements": {
     "fulltext_pdf": {
       "selector": "//meta[@name='citation_pdf_url']",
@@ -9,11 +9,6 @@
     "fulltext_html": {
       "selector": "//meta[@name='citation_fulltext_html_url']",
       "attribute": "content",
-      "download": true
-    },
-    "supplementary_material": {
-      "selector": "//a[contains(concat(' ', normalize-space(@class), ' '), ' article-supporting-download ')]",
-      "attribute": "href",
       "download": true
     },
     "title": {
