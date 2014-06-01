@@ -1,11 +1,21 @@
 journal-scrapers
 ================
 
-Journal scraper definitions for the ContentMine framework
+Journal scraper definitions for the ContentMine framework.
 
-### Definition
+This repo is a collection of ScraperJSON definitions targetting academic journals. They can be used to extract and download data from URLs of journal articles, such as:
 
-Scrapers are defined in JSON, using a schema that is currently evolving:
+- Title, author list, date
+- Figures and their captions
+- Fulltext PDF, HTML, XML, RDF
+- Supplementary materials
+- Reference lists
+
+### ScraperJSON definitions
+
+Scrapers are defined in JSON, using a schema called ScraperJSON which is currently evolving.
+
+The current schema is described below.
 
 There can be two keys in the root object:
 
