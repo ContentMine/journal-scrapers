@@ -18,23 +18,24 @@
       "selector": "//a[@class='authorName']"
     },
     "date": {
-      "selector": "//meta[@name='citation_date']",
-      "attribute": "content"
+      "selector": "//p[@class='volIssue']",
+      "patternProperties": "[A-Za-z0-9 ]+, [A-Za-z0-9 ]+, ([A-Za-z0-9 ]+),.*"
     },
     "doi": {
-      "selector": "//dd[@class='doiLink']/dd[@class='doi']/span"
+      "selector": "//dd[@class='doiLink']/dd[@class='doi']/span",
+      "patternProperties": "DOI: ([A-Za-z0-9./]+)"
     },
     "volume": {
       "selector": "//p[@class='volIssue']/a",
-      "patternProperties": "/Volume: ([0-9]+)/g"
+      "patternProperties": "Volume ([0-9]+)"
     },
     "issue": {
-      "selector": "//meta[@name='citation_issue']",
-      "attribute": "content"
+      "selector": "//p[@class='volIssue']/a",
+      "patternProperties": "Issue ([0-9]+)"
     },
     "firstpage": {
-      "selector": "//meta[@name='citation_firstpage']",
-      "attribute": "content"
+      "selector": "//p[@class='volIssue']",
+      "patternProperties": "Pages ([0-9]+)[^0-9]"
     },
     "abstract": {
       "selector": "//div[@class='abstract svAbstract ']/p"
