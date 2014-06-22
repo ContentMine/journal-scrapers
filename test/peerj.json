@@ -1,0 +1,297 @@
+{
+  "https://peerj.com/articles/102/": [
+    {
+      "fulltext_pdf": "https://peerj.com/articles/102.pdf"
+    },
+    {
+      "fulltext_html": "https://peerj.com/articles/102"
+    },
+    {
+      "supplementary_material": "https://dfzljdn9uc3pi.cloudfront.net/2013/102/1/S1_CONSORT_checklist.pdf"
+    },
+    {
+      "supplementary_material": "https://dfzljdn9uc3pi.cloudfront.net/2013/102/1/S2_trial_protocol.pdf"
+    },
+    {
+      "title": "Affect-focused psychodynamic psychotherapy for depression and anxiety through the Internet: a randomized controlled trial"
+    },
+    {
+      "author": "Robert Johansson"
+    },
+    {
+      "author": "Martin Björklund"
+    },
+    {
+      "author": "Christoffer Hornborg"
+    },
+    {
+      "author": "Stina Karlsson"
+    },
+    {
+      "author": "Hugo Hesser"
+    },
+    {
+      "author": "Brjánn Ljótsson"
+    },
+    {
+      "author": "Andréas Rousseau"
+    },
+    {
+      "author": "Ronald J. Frederick"
+    },
+    {
+      "author": "Gerhard Andersson"
+    },
+    {
+      "date": "2013-07-09"
+    },
+    {
+      "doi": "10.7717/peerj.102"
+    },
+    {
+      "volume": "1"
+    },
+    {
+      "firstpage": "e102"
+    },
+    {
+      "description": "Background. Psychodynamic psychotherapy is a psychological treatment approach that has a growing empirical base. Research has indicated an association between therapist-facilitated affective experience and outcome in psychodynamic therapy. Affect-phobia therapy (APT), as outlined by McCullough et al., is a psychodynamic treatment that emphasizes a strong focus on expression and experience of affect. This model has neither been evaluated for depression nor anxiety disorders in a randomized controlled trial. While Internet-delivered psychodynamic treatments for depression and generalized anxiety disorder exist, they have not been based on APT. The aim of this randomized controlled trial was to investigate the efficacy of an Internet-based, psychodynamic, guided self-help treatment based on APT for depression and anxiety disorders.Methods. One hundred participants with diagnoses of mood and anxiety disorders participated in a randomized (1:1 ratio) controlled trial of an active group versus a control condition. The treatment group received a 10-week, psychodynamic, guided self-help treatment based on APT that was delivered through the Internet. The treatment consisted of eight text-based treatment modules and included therapist contact (9.5 min per client and week, on average) in a secure online environment. Participants in the control group also received online therapist support and clinical monitoring of symptoms, but received no treatment modules. Outcome measures were the 9-item Patient Health Questionnaire Depression Scale (PHQ-9) and the 7-item Generalized Anxiety Disorder Scale (GAD-7). Process measures were also included. All measures were administered weekly during the treatment period and at a 7-month follow-up.Results. Mixed models analyses using the full intention-to-treat sample revealed significant interaction effects of group and time on all outcome measures, when comparing treatment to the control group. A large between-group effect size of Cohen’s d = 0.77 (95% CI: 0.37–1.18) was found on the PHQ-9 and a moderately large between-group effect size d = 0.48 (95% CI: 0.08–0.87) was found on the GAD-7. The number of patients who recovered (had no diagnoses of depression and anxiety, and had less than 10 on both the PHQ-9 and the GAD-7) were at post-treatment 52% in the treatment group and 24% in the control group. This difference was significant, χ2(N = 100, d f = 1) = 8.3, p < .01. From post-treatment to follow-up, treatment gains were maintained on the PHQ-9, and significant improvements were seen on the GAD-7.Conclusion. This study provides initial support for the efficacy of Internet-delivered psychodynamic therapy based on the affect-phobia model in the treatment of depression and anxiety disorders. The results support the conclusion that psychodynamic treatment approaches may be transferred to the guided self-help format and delivered via the Internet."
+    },
+    {
+      "S2_trial_protocol.pdf": "26787550a80a05fc451d245fb7107183"
+    },
+    {
+      "rendered.html": "2db7d1ccd7a863ac9942dbb5ecc50825"
+    },
+    {
+      "102": "aa2aac89c8379b5c67250a26a48ae58b"
+    },
+    {
+      "S1_CONSORT_checklist.pdf": "eef414787965a937fc479d31f86a9541"
+    },
+    {
+      "102.pdf": "8e2c1cb94b99943cc618c437f8fd1618"
+    }
+  ],
+  "https://peerj.com/articles/234/": [
+    {
+      "fulltext_pdf": "https://peerj.com/articles/234.pdf"
+    },
+    {
+      "fulltext_html": "https://peerj.com/articles/234"
+    },
+    {
+      "title": "A new specimen of the Early Cretaceous bird Hongshanornis longicresta: insights into the aerodynamics and diet of a basal ornithuromorph"
+    },
+    {
+      "author": "Luis M. Chiappe"
+    },
+    {
+      "author": "Bo Zhao"
+    },
+    {
+      "author": "Jingmai K. O’Connor"
+    },
+    {
+      "author": "Gao Chunling"
+    },
+    {
+      "author": "Xuri Wang"
+    },
+    {
+      "author": "Michael Habib"
+    },
+    {
+      "author": "Jesus Marugan-Lobon"
+    },
+    {
+      "author": "Qingjin Meng"
+    },
+    {
+      "author": "Xiaodong Cheng"
+    },
+    {
+      "date": "2014-01-02"
+    },
+    {
+      "doi": "10.7717/peerj.234"
+    },
+    {
+      "volume": "2"
+    },
+    {
+      "firstpage": "e234"
+    },
+    {
+      "description": "The discovery of Hongshanornis longicresta, a small ornithuromorph bird with unusually long hindlimb proportions, was followed by the discovery of two closely related species, Longicrusavis houi and Parahongshanornis chaoyangensis. Together forming the Hongshanornithidae, these species reveal important information about the early diversity and morphological specialization of ornithuromorphs, the clade that contains all living birds. Here we report on a new specimen (DNHM D2945/6) referable to Hongshanornis longicresta that contributes significant information to better understand the morphology, trophic ecology, and aerodynamics of this species, as well as the taxonomy of the Hongshanornithidae. Most notable are the well-preserved wings and feathered tail of DNHM D2945/6, which afford an accurate reconstruction of aerodynamic parameters indicating that as early as 125 million years ago, basal ornithuromorphs had evolved aerodynamic surfaces comparable in size and design to those of many modern birds, and flight modes alike to those of some small living birds."
+    },
+    {
+      "234.pdf": "3aa12392730333dd193322c7fb7ac72c"
+    },
+    {
+      "234": "fa3274087243cf9e8b32b18f8d86d5c2"
+    },
+    {
+      "rendered.html": "48d795fb6a0567b3b8f1ee529fd25bf5"
+    }
+  ],
+  "https://peerj.com/articles/275/": [
+    {
+      "fulltext_pdf": "https://peerj.com/articles/275.pdf"
+    },
+    {
+      "fulltext_html": "https://peerj.com/articles/275"
+    },
+    {
+      "title": "Spectral characteristics of the mutant form GGBP/H152C of D-glucose/D-galactose-binding protein labeled with fluorescent dye BADAN: influence of external factors"
+    },
+    {
+      "author": "Alexander V. Fonin"
+    },
+    {
+      "author": "Olga V. Stepanenko"
+    },
+    {
+      "author": "Olga I. Povarova"
+    },
+    {
+      "author": "Catherine A. Volova"
+    },
+    {
+      "author": "Elizaveta M. Philippova"
+    },
+    {
+      "author": "Grigory S. Bublikov"
+    },
+    {
+      "author": "Irina M. Kuznetsova"
+    },
+    {
+      "author": "Alexander P. Demchenko"
+    },
+    {
+      "author": "Konstantin K. Turoverov"
+    },
+    {
+      "date": "2014-03-18"
+    },
+    {
+      "doi": "10.7717/peerj.275"
+    },
+    {
+      "volume": "2"
+    },
+    {
+      "firstpage": "e275"
+    },
+    {
+      "description": "The mutant form GGBP/H152C of the D-glucose/D-galactose-binding protein with the solvatochromic dye BADAN linked to cysteine residue Cys 152 can be used as a potential base for a sensitive element of glucose biosensor system. We investigated the influence of various external factors on the physical-chemical properties of GGBP/H152C-BADAN and its complex with glucose. The high affinity (Kd = 8.5 µM) and high binding rate of glucose make GGBP/H152C-BADAN a good candidate to determine the sugar content in biological fluids extracted using transdermal techniques. It was shown that changes in the ionic strength and pH of solution within the physiological range did not have a significant influence on the fluorescent characteristics of GGBP/H152C-BADAN. The mutant form GGBP/H152C has relatively low resistance to denaturation action of GdnHCl and urea. This result emphasizes the need to find more stable proteins for the creation of a sensitive element for a glucose biosensor system."
+    },
+    {
+      "275": "67744f9749de75719601ef63718d28a8"
+    },
+    {
+      "rendered.html": "14811027ddcf0230aed2aad5a0397347"
+    },
+    {
+      "275.pdf": "6b554c704f1ed7a8129863a2869036eb"
+    }
+  ],
+  "https://peerj.com/articles/311/": [
+    {
+      "fulltext_pdf": "https://peerj.com/articles/311.pdf"
+    },
+    {
+      "fulltext_html": "https://peerj.com/articles/311"
+    },
+    {
+      "title": "Religious attendance after elevated depressive symptoms: is selection bias at work?"
+    },
+    {
+      "author": "Lloyd Balbuena"
+    },
+    {
+      "author": "Marilyn Baetz"
+    },
+    {
+      "author": "Rudy Bowen"
+    },
+    {
+      "date": "2014-03-13"
+    },
+    {
+      "doi": "10.7717/peerj.311"
+    },
+    {
+      "volume": "2"
+    },
+    {
+      "firstpage": "e311"
+    },
+    {
+      "description": "In an attempt to determine if selection bias could be a reason that religious attendance and depression are related, the predictive value of elevated depressive symptoms for a decrease in future attendance at religious services was examined in a longitudinal panel of 1,673 Dutch adults. Religious attendance was assessed yearly over five years using the single question, “how often do you attend religious gatherings nowadays?” Depressive symptoms were assessed four times within the first year using the Depression subscale of the Brief Symptom Inventory. Logistic regression models of change in attendance were created, stratifying by baseline attendance status. Attenders who developed elevated symptoms were less likely to subsequently decrease their attendance (relative risk ratio: 0.55, 95% CI [0.38–0.79]) relative to baseline as compared to those without elevated symptoms. This inverse association remained significant after controlling for health and demographic covariates, and when using multiply imputed data to account for attrition. Non-attenders were unlikely to start attending after elevated depressive symptoms. This study provides counter evidence against previous findings that church attenders are a self-selected healthier group."
+    },
+    {
+      "311": "daf380aa95bfd59264132483e46581d8"
+    },
+    {
+      "311.pdf": "8aa4a538c24c0f3bfcc8b9fa5cd63d7c"
+    },
+    {
+      "rendered.html": "f886abd9f8484ad4a4275719b1077f0c"
+    }
+  ],
+  "https://peerj.com/articles/384/": [
+    {
+      "fulltext_pdf": "https://peerj.com/articles/384.pdf"
+    },
+    {
+      "fulltext_html": "https://peerj.com/articles/384"
+    },
+    {
+      "title": "Mutation analysis of the SLC26A4, FOXI1 and KCNJ10 genes in individuals with congenital hearing loss"
+    },
+    {
+      "author": "Lynn M. Pique"
+    },
+    {
+      "author": "Marie-Luise Brennan"
+    },
+    {
+      "author": "Colin J. Davidson"
+    },
+    {
+      "author": "Frederick Schaefer"
+    },
+    {
+      "author": "John Greinwald Jr"
+    },
+    {
+      "author": "Iris Schrijver"
+    },
+    {
+      "date": "2014-05-08"
+    },
+    {
+      "doi": "10.7717/peerj.384"
+    },
+    {
+      "volume": "2"
+    },
+    {
+      "firstpage": "e384"
+    },
+    {
+      "description": "Pendred syndrome (PDS) and DFNB4 comprise a phenotypic spectrum of sensorineural hearing loss disorders that typically result from biallelic mutations of the SLC26A4 gene. Although PDS and DFNB4 are recessively inherited, sequencing of the coding regions and splice sites of SLC26A4 in individuals suspected to be affected with these conditions often fails to identify two mutations. We investigated the potential contribution of large SLC26A4 deletions and duplications to sensorineural hearing loss (SNHL) by screening 107 probands with one known SLC26A4 mutation by Multiplex Ligation-dependent Probe Amplification (MLPA). A heterozygous deletion, spanning exons 4–6, was detected in only one individual, accounting for approximately 1% of the missing mutations in our cohort. This low frequency is consistent with previously published MLPA results. We also examined the potential involvement of digenic inheritance in PDS/DFNB4 by sequencing the coding regions of FOXI1 and KCNJ10. Of the 29 probands who were sequenced, three carried nonsynonymous variants including one novel sequence change in FOXI1 and two polymorphisms in KCNJ10. We performed a review of prior studies and, in conjunction with our current data, conclude that the frequency of FOXI1 (1.4%) and KCNJ10 (3.6%) variants in PDS/DFNB4 individuals is low. Our results, in combination with previously published reports, indicate that large SLC26A4 deletions and duplications as well as mutations of FOXI1 and KCNJ10 play limited roles in the pathogenesis of SNHL and suggest that other genetic factors likely contribute to the phenotype."
+    },
+    {
+      "384.pdf": "b2020a8f8037228e6face4a220751932"
+    },
+    {
+      "384": "befa18960e439f737d1a4bee7f0f7ae4"
+    },
+    {
+      "rendered.html": "28104961eb099d940b156396cac7d503"
+    }
+  ]
+}
