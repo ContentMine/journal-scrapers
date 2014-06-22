@@ -52,9 +52,9 @@ Dir.chdir('test') do
     url = url.strip
     puts "running quickscrape for URL #{url}"
     results = nil
-    Dir.mktmpdir do |tmpdir|
-      puts "using temporary directory #{tmpdir}"
-      Dir.chdir tmpdir do
+    dir = Dir.mktmpdir
+    Dir.chdir dir do
+      puts "using temporary directory #{dir}"
         # run the scraper
         cmd = "quickscrape"
         cmd << " --url #{url}"
@@ -63,19 +63,21 @@ Dir.chdir('test') do
         `#{cmd}`
         puts "scraping done - parsing results"
         # load the output
-        Dir.chdir('output') do
+        cleanurl = url.gsub(/:?\/+/, '_')
+        Dir.chdir("output/#{cleanurl}") do
           results = JSON.load(File.open 'results.json')
-          filehashes = `md5sum !(results.json)`
+          files = Dir['*']
+          files = files.keep_if { |f| f != 'results.json' }
+          filehashes = `md5sum #{files.join(' ')}`
           filehashes.split("\n").each do |line|
-            filehash, filename = line.strip.split("\t")
-            results += { filename => filehash }
+            filehash, filename = line.strip.split("  ")
+            results << { filename => filehash }
           end
         end
         if (index + 1) < urls.length
           puts "waiting 15 seconds before next scrape"
           sleep(15)
         end
-      end
     end
     # store results for this URL
     testobject[url] = results
