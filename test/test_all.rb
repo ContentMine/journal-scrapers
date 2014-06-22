@@ -43,14 +43,11 @@ puts "using tmp dir #{tmpdir}"
           end
           results = JSON.load(File.open 'results.json')
           files = Dir['*']
-          puts files
           files = files.keep_if { |f| f != 'results.json' }.map{ |f| f.strip }
           cmd = "md5sum #{files.join(' ')}"
-          puts cmd
           filehashes = `#{cmd}`
           filehashes.split("\n").each do |line|
             filehash, filename = line.strip.split("  ")
-          puts "#{filename} - #{filehash}"
             results << { filename => filehash }
           end
         end
