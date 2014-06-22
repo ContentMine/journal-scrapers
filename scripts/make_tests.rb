@@ -3,6 +3,7 @@
 require 'trollop'
 require 'digest'
 require 'json'
+require 'tmpdir'
 
 parser = Trollop::Parser.new do
   banner <<-EOS
@@ -51,28 +52,29 @@ Dir.chdir('test') do
     url = url.strip
     puts "running quickscrape for URL #{url}"
     results = nil
-    # hash the url
-    hash = Digest::SHA256.hexdigest url
-    # run the scraper
-    cmd = "quickscrape"
-    cmd << " --url #{url}"
-    cmd << " --scraper #{definition}"
-    cmd << " --output #{hash}"
-    cmd << " --loglevel silent"
-    `#{cmd}`
-    puts "scraping done - parsing results"
-    # load the output
-    Dir.chdir(hash) do
-      results = JSON.load(File.open 'results.json')
-      filehashes = `md5sum !(results.json)`
-      filehashes.split("\n").each do |line|
-        filehash, filename = line.strip.split("\t")
-        results += { filename => filehash }
+    Dir.mktmpdir do |tmpdir|
+      Dir.chdir tmpdir do
+        # run the scraper
+        cmd = "quickscrape"
+        cmd << " --url #{url}"
+        cmd << " --scraper #{definition}"
+        cmd << " --loglevel silent"
+        `#{cmd}`
+        puts "scraping done - parsing results"
+        # load the output
+        Dir.chdir('output') do
+          results = JSON.load(File.open 'results.json')
+          filehashes = `md5sum !(results.json)`
+          filehashes.split("\n").each do |line|
+            filehash, filename = line.strip.split("\t")
+            results += { filename => filehash }
+          end
+        end
+        if (index + 1) < urls.length
+          puts "waiting 15 seconds before next scrape"
+          sleep(15)
+        end
       end
-    end
-    if (index + 1) < urls.length
-      puts "waiting 15 seconds before next scrape"
-      sleep(15)
     end
     # store results for this URL
     testobject[url] = results

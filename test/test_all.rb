@@ -1,5 +1,6 @@
 require 'digest'
 require 'json'
+require 'tmpdir'
 
 testdir = File.expand_path(File.dirname(__FILE__))
 scrapers = Dir[File.join(thisdir, '..', '*.json')]
