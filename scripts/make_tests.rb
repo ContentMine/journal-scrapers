@@ -53,12 +53,13 @@ Dir.chdir('test') do
     puts "running quickscrape for URL #{url}"
     results = nil
     Dir.mktmpdir do |tmpdir|
+      puts "using temporary directory #{tmpdir}"
       Dir.chdir tmpdir do
         # run the scraper
         cmd = "quickscrape"
         cmd << " --url #{url}"
         cmd << " --scraper #{definition}"
-        cmd << " --loglevel silent"
+        cmd << " --output output"
         `#{cmd}`
         puts "scraping done - parsing results"
         # load the output
