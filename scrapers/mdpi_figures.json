@@ -1,0 +1,17 @@
+{
+  "url": "mdpi",
+  "elements": {
+    "dc.source": {
+      "selector": "//meta[@name='dc.source']",
+      "attribute": "content"
+    },
+    "figure_img": {
+      "selector": "//div[contains(@id, 'fig')]/div/img",
+      "attribute": "src",
+      "download": true
+    },
+    "figure_caption": {
+      "selector": "//div[contains(@class, 'html-fig_description')]"
+    }
+  }
+}
