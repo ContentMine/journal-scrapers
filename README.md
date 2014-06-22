@@ -1,6 +1,7 @@
 journal-scrapers
 ================
 
+
 Journal scraper definitions for the ContentMine framework.
 
 This repo is a collection of ScraperJSON definitions targetting academic journals. They can be used to extract and download data from URLs of journal articles, such as:
@@ -10,6 +11,14 @@ This repo is a collection of ScraperJSON definitions targetting academic journal
 - Fulltext PDF, HTML, XML, RDF
 - Supplementary materials
 - Reference lists
+
+### Scraper collection status
+
+All the scrapers in the collection are automatically tested daily as well as every time any scraper is changed. If the badge is green and says 'build | passing', all the scrapers are OK. If the badge is red and says 'build | failing', one or more of the scrapers has stopped working. You can click on the badge to see the test report, to see which scrapers are failing and how.
+
+[![Build Status](https://secure.travis-ci.org/ContentMine/journal-scrapers.png?branch=master)][travis]
+
+[travis]: http://travis-ci.org/ContentMine/journal-scrapers
 
 ### ScraperJSON definitions
 
