@@ -3,6 +3,7 @@ rvm:
   - 2.1.0
 before_install:
   - sudo apt-get update -qq
+  - sudo -H npm install --global phantomjs casperjs quickscrape
 install:
   - curl -sSL http://git.io/DAuTPQ | sudo bash
 script:
