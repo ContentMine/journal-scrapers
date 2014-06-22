@@ -1,0 +1,9 @@
+language: ruby
+rvm:
+  - 2.1.0
+before_install:
+  - sudo apt-get update -qq
+install:
+  - curl -sSL http://git.io/DAuTPQ | sudo bash
+script:
+  - ruby test/test_all.rb
