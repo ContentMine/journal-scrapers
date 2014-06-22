@@ -1,0 +1,233 @@
+{
+  "http://www.sciencedirect.com/science/article/pii/S2211124714004343": [
+    {
+      "fulltext_pdf": "http://www.sciencedirect.com/science/article/pii/S2211124714004343/pdfft?md5=82ec6328cc3285896d7ac5e5cebe8648&pid=1-s2.0-S2211124714004343-main.pdf"
+    },
+    {
+      "title": "Diet-Induced Alterations in Gut Microflora Contribute to Lethal Pulmonary Damage in TLR2/TLR4-Deficient Mice "
+    },
+    {
+      "author": "Yewei Ji"
+    },
+    {
+      "author": "Shengyi Sun"
+    },
+    {
+      "author": "Julia K. Goodrich"
+    },
+    {
+      "author": "Hana Kim"
+    },
+    {
+      "author": "Angela C. Poole"
+    },
+    {
+      "author": "Gerald E. Duhamel"
+    },
+    {
+      "author": "Ruth E. Ley"
+    },
+    {
+      "author": "Ling Qi"
+    },
+    {
+      "doi": " DOI: 10.1016/j.celrep.2014.05.040"
+    },
+    {
+      "abstract": "Chronic intake of Western diet has driven an epidemic of obesity and metabolic syndrome, but how it induces mortality remains unclear. Here, we show that chronic intake of a high-fat diet (HFD), not a low-fat diet, leads to severe pulmonary damage and mortality in mice deficient in Toll-like receptors 2 and 4 (DKO). Diet-induced pulmonary lesions are blocked by antibiotic treatment and are transmissible to wild-type mice upon either cohousing or fecal transplantation, pointing to the existence of bacterial pathogens. Indeed, diet and innate deficiency exert significant impact on gut microbiota composition. Thus, chronic intake of HFD promotes severe pulmonary damage and mortality in DKO mice in part via gut dysbiosis, a finding that may be important for immunodeficient patients, particularly those on chemotherapy or radiotherapy, where gut-microbiota-caused conditions are often life threatening."
+    }
+  ],
+  "http://www.sciencedirect.com/science/article/pii/S1755436514000218": [
+    {
+      "fulltext_pdf": "http://www.sciencedirect.com/science/article/pii/S1755436514000218/pdfft?md5=9d001518cb31c48d3609ab17d1be1163&pid=1-s2.0-S1755436514000218-main.pdf"
+    },
+    {
+      "title": "Surveillance of gastrointestinal disease in France using drug sales data"
+    },
+    {
+      "author": "Mathilde Pivette"
+    },
+    {
+      "author": "Judith E. Mueller"
+    },
+    {
+      "author": "Pascal Crépey"
+    },
+    {
+      "author": "Avner Bar-Hen"
+    },
+    {
+      "doi": " DOI: 10.1016/j.epidem.2014.05.001"
+    },
+    {
+      "volume": "Volume 8"
+    },
+    {
+      "abstract": "Drug sales data have increasingly been used for disease surveillance during recent years. Our objective was to assess the value of drug sales data as an operational early detection tool for gastroenteritis epidemics at national and regional level in France. For the period 2008–2013, we compared temporal trends of drug sales for the treatment of gastroenteritis with trends of cases reported by a Sentinel Network of general practitioners. We benchmarked detection models to select the one with the best sensitivity, false alert proportion and timeliness, and developed a prospective framework to assess the operational performance of the system. Drug sales data allowed the detection of seasonal gastrointestinal epidemics occurring in winter with a distinction between prescribed and non-prescribed drugs. Sales of non-prescribed drugs allowed epidemic detection on average 2.25 weeks earlier than Sentinel data. These results confirm the value of drug sales data for real-time monitoring of gastroenteritis epidemic activity."
+    }
+  ],
+  "http://www.sciencedirect.com/science/article/pii/S1755436514000206": [
+    {
+      "fulltext_pdf": "http://www.sciencedirect.com/science/article/pii/S1755436514000206/pdfft?md5=1474e634a576549b859cea84bd8a18b2&pid=1-s2.0-S1755436514000206-main.pdf"
+    },
+    {
+      "title": "OutbreakTools: A new platform for disease outbreak analysis using the R software"
+    },
+    {
+      "author": "Thibaut Jombart"
+    },
+    {
+      "author": "David M. Aanensen"
+    },
+    {
+      "author": "Marc Baguelin"
+    },
+    {
+      "author": "Paul Birrell"
+    },
+    {
+      "author": "Simon Cauchemez"
+    },
+    {
+      "author": "Anton Camacho"
+    },
+    {
+      "author": "Caroline Colijn"
+    },
+    {
+      "author": "Caitlin Collins"
+    },
+    {
+      "author": "Anne Cori"
+    },
+    {
+      "author": "Xavier Didelot"
+    },
+    {
+      "author": "Christophe Fraser"
+    },
+    {
+      "author": "Simon Frost"
+    },
+    {
+      "author": "Niel Hens"
+    },
+    {
+      "author": "Joseph Hugues"
+    },
+    {
+      "author": "Michael Höhle"
+    },
+    {
+      "author": "Lulla Opatowski"
+    },
+    {
+      "author": "Andrew Rambaut"
+    },
+    {
+      "author": "Oliver Ratmann"
+    },
+    {
+      "author": "Samuel Soubeyrand"
+    },
+    {
+      "author": "Marc A. Suchard"
+    },
+    {
+      "author": "Jacco Wallinga"
+    },
+    {
+      "author": "Rolf Ypma"
+    },
+    {
+      "author": "Neil Ferguson"
+    },
+    {
+      "doi": " DOI: 10.1016/j.epidem.2014.04.003"
+    },
+    {
+      "volume": "Volume 7"
+    },
+    {
+      "abstract": "The investigation of infectious disease outbreaks relies on the analysis of increasingly complex and diverse data, which offer new prospects for gaining insights into disease transmission processes and informing public health policies. However, the potential of such data can only be harnessed using a number of different, complementary approaches and tools, and a unified platform for the analysis of disease outbreaks is still lacking. In this paper, we present the new R package OutbreakTools, which aims to provide a basis for outbreak data management and analysis in R. OutbreakTools is developed by a community of epidemiologists, statisticians, modellers and bioinformaticians, and implements classes and methods for storing, handling and visualizing outbreak data. It includes real and simulated outbreak datasets. Together with a number of tools for infectious disease epidemiology recently made available in R, OutbreakTools contributes to the emergence of a new, free and open-source platform for the analysis of disease outbreaks."
+    }
+  ],
+  "http://www.sciencedirect.com/science/article/pii/S2211124714004355": [
+    {
+      "fulltext_html": "http://www.cell.com/article/S2211124714004355/fulltext"
+    },
+    {
+      "date": ""
+    },
+    {
+      "issue": "0"
+    },
+    {
+      "firstpage": ""
+    },
+    {
+      "rendered.html": "0042073821eb617327b0bf833e11f7f9"
+    }
+  ],
+  "http://www.sciencedirect.com/science/article/pii/S2215016114200112": [
+    {
+      "fulltext_pdf": "http://www.sciencedirect.com/science/article/pii/S2215016114200112/pdfft?md5=0b0f240cf90b0f595ce78cca6e8f340a&pid=1-s2.0-S2215016114200112-main.pdf"
+    },
+    {
+      "title": "Macropinosome quantitation assay"
+    },
+    {
+      "author": "Jack T.H. Wang"
+    },
+    {
+      "author": "Rohan D. Teasdale"
+    },
+    {
+      "author": "David Liebl"
+    },
+    {
+      "doi": " DOI: 10.1016/j.mex.2014.05.002"
+    },
+    {
+      "volume": "Volume 1"
+    },
+    {
+      "abstract": "In contrast to phagocytosis, macropinocytosis is not directly initiated by interactions between cell surface receptors and cargo ligands, but is a result of constitutive membrane ruffling driven by dynamic remodelling of cortical actin cytoskeleton in response to stimulation of growth factor receptors. Wang et al. (2010) [13] developed a reliable assay that allows quantitative assessment of the efficiency and kinetics of macropinosome biogenesis and/or maturation in cells where the function of a targeted protein has been perturbed by pharmacological inhibitors or by knock-down or knock-out approaches. In this manuscript we describe a modified quantitative protocol to measure the rate and volume of fluid phase uptake in adherent cells. This assay:"
+    },
+    {
+      "abstract": ""
+    },
+    {
+      "rendered.html": "17e602d25e2a307fad746536bb2385c8"
+    }
+  ],
+  "http://www.sciencedirect.com/science/article/pii/S221501611400003X": [
+    {
+      "fulltext_pdf": "http://www.sciencedirect.com/science/article/pii/S221501611400003X/pdfft?md5=7e5614118d66b8be106028e92f479c86&pid=1-s2.0-S221501611400003X-main.pdf"
+    },
+    {
+      "title": "The Nav channel bench series: Plasmid preparation"
+    },
+    {
+      "author": "Daniel H. Feldman"
+    },
+    {
+      "author": "Christoph Lossin"
+    },
+    {
+      "doi": " DOI: 10.1016/j.mex.2014.01.002"
+    },
+    {
+      "volume": "Volume 1"
+    },
+    {
+      "abstract": "Research involving recombinant voltage-gated sodium (Nav) channels has unique challenges. Multiple factors contribute, but undoubtedly at the top of the list is these channels’ DNA instability. Once introduced into bacterial hosts, Nav channel plasmid DNA will almost invariably emerge mutagenized and unusable, unless special conditions are adopted. This is particularly true for Nav1.1 (gene name SCN1A), Nav1.2 (SCN2A), and Nav1.6 (SCN8A), but less so for Nav1.4 (SCN4A) and Nav1.5 (SCN5A) while other Nav channel isoforms such as Nav1.7 (SCN9A) lie in between. The following recommendations for Nav plasmid DNA amplification and preparation address this problem. Three points are essential:"
+    },
+    {
+      "abstract": ""
+    },
+    {
+      "rendered.html": "27c831f847713528e12467b14b81eea2"
+    }
+  ]
+}
