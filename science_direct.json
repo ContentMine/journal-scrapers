@@ -1,0 +1,43 @@
+{
+  "url": "sciencedirect.com",
+  "elements": {
+    "fulltext_pdf": {
+      "selector": "//a[@id='pdfLink']",
+      "attribute": "href",
+      "download": true
+    },
+    "fulltext_html": {
+      "selector": "//meta[@name='citation_fulltext_html_url']",
+      "attribute": "content",
+      "download": true
+    },
+    "title": {
+      "selector": "//h1[@class='svTitle']"
+    },
+    "author": {
+      "selector": "//a[@class='authorName']"
+    },
+    "date": {
+      "selector": "//meta[@name='citation_date']",
+      "attribute": "content"
+    },
+    "doi": {
+      "selector": "//dd[@class='doiLink']/dd[@class='doi']/span"
+    },
+    "volume": {
+      "selector": "//p[@class='volIssue']/a",
+      "patternProperties": "/Volume: ([0-9]+)/g"
+    },
+    "issue": {
+      "selector": "//meta[@name='citation_issue']",
+      "attribute": "content"
+    },
+    "firstpage": {
+      "selector": "//meta[@name='citation_firstpage']",
+      "attribute": "content"
+    },
+    "abstract": {
+      "selector": "//div[@class='abstract svAbstract ']/p"
+    }
+  }
+}
