@@ -30,7 +30,7 @@ end
 
 opts = Trollop::with_standard_exception_handling parser do
   parser.parse ARGV
-  raise Trollop::HelpNeeded if ARGV.empty? # show help screen
+  # raise Trollop::HelpNeeded if ARGV.empty? # show help screen
 end
 
 urls = File.readlines(opts.urls)
@@ -38,10 +38,9 @@ if urls.length < 5 || urls.length > 10
   puts "ERROR: you must provide at least 5 and up to 10 URLS"
 end
 
-puts "generating ScraperJSON test files for #{opts.definition}"
+definition = File.expand_path opts.definition
+puts "generating ScraperJSON test files for #{definition}"
 puts "using #{urls.length} urls"
-
-opts.definition = File.expand_path opts.definition
 
 Dir.mkdir('test') unless Dir.exist?('test')
 
@@ -49,24 +48,26 @@ Dir.chdir('test') do
   testobject = {}
   # for each URL, run the scraper
   urls.each_with_index do |url, index|
+    url = url.strip
     puts "running quickscrape for URL #{url}"
     results = nil
     # hash the url
     hash = Digest::SHA256.hexdigest url
     # run the scraper
     cmd = "quickscrape"
-    cmd += " --url #{url}"
-    cmd += " --scraper #{opts.definition}"
-    cmd += " --output #{hash}"
-    cmd += " --loglevel silent"
-    puts `cmd`
+    cmd << " --url #{url}"
+    cmd << " --scraper #{definition}"
+    cmd << " --output #{hash}"
+    cmd << " --loglevel silent"
+    `#{cmd}`
+    puts "scraping done - parsing results"
     # load the output
     Dir.chdir(hash) do
       results = JSON.load(File.open 'results.json')
       filehashes = `md5sum !(results.json)`
       filehashes.split("\n").each do |line|
         filehash, filename = line.strip.split("\t")
-        results[filename] = filehash
+        results += { filename => filehash }
       end
     end
     if (index + 1) < urls.length
