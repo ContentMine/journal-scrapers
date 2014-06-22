@@ -1,11 +1,21 @@
 journal-scrapers
 ================
 
-Journal scraper definitions for the ContentMine framework
+Journal scraper definitions for the ContentMine framework.
 
-### Definition
+This repo is a collection of ScraperJSON definitions targetting academic journals. They can be used to extract and download data from URLs of journal articles, such as:
 
-Scrapers are defined in JSON, using a schema that is currently evolving:
+- Title, author list, date
+- Figures and their captions
+- Fulltext PDF, HTML, XML, RDF
+- Supplementary materials
+- Reference lists
+
+### ScraperJSON definitions
+
+Scrapers are defined in JSON, using a schema called ScraperJSON which is currently evolving.
+
+The current schema is described below.
 
 There can be two keys in the root object:
 
@@ -15,7 +25,9 @@ There can be two keys in the root object:
 Elements are defined as key-value pairs, where the key is a description of the element, and the value is a dictionary of specifiers defining the element and its processing. Allowed keys in the specifier dictionary are:
 
 - ***selector*** - an XPath selector targetting the element to be selected.
-- ***attribute*** - a string specifying the attribute to extract from the selected element. **Optional** (omitting this key is equivalent to giving it a value of 'text').
+- ***attribute*** - a string specifying the attribute to extract from the selected element. **Optional** (omitting this key is equivalent to giving it a value of `text`). In addition to html attributes there are two special attributes allowed:
+    - `text` - extracts any plaintext inside the selected element
+    - `html` - extracts the inner HTML of the selected element
 - ***download*** - a boolean flag: true if the element is a URL to a resource that must be downloaded. **Optional** (omitting this key is equivalent to giving it a value of `false`).
 
 Example:
