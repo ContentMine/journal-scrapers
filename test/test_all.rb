@@ -117,9 +117,9 @@ cov_report = {
 File.open('coverage.json', 'w') do |f|
   f.write JSON.dump(cov_report)
 end
-cmd = "curl -XPOST -H 'content-type:application/json'"
-cmd += " --form json_file=@coverage.json https://coveralls.io/api/v1/jobs"
+cmd = "curl -XPOST --form json_file=@coverage.json https://coveralls.io/api/v1/jobs"
 puts "posting coverage data to coveralls.io"
+puts cmd
 puts `#{cmd}`
 
 # report test results
