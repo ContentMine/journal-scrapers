@@ -1,7 +1,7 @@
 journal-scrapers
 ================
 
-[![Build Status](https://secure.travis-ci.org/ContentMine/journal-scrapers.png?branch=master)][travis]
+[![Build Status](http://img.shields.io/travis/joyent/node.svg)][travis]
 [![License](http://img.shields.io/badge/license-CC0-blue.svg)][license]
 
 Journal scraper definitions for the ContentMine framework.
