@@ -36,7 +36,7 @@ def coverage(scraperjsonpath, results)
     coverage << nil unless valid
   end
   { :name => scraperjsonpath,
-    :source => lines,
+    :source => lines.join(''),
     :coverage => coverage }
 end
 
@@ -111,14 +111,14 @@ end
 
 # send coverage report to coveralls.io
 cov_report = {
-  :service_name => 'travis-ci',
+  :repo_token => 'vHHvsw3QKvjK7zPb9DcFgt6ivLVS8r5uP',
   :source_files => coverage_files
 }
 File.open('coverage.json', 'w') do |f|
   f.write JSON.dump(cov_report)
 end
 cmd = "curl -XPOST -H 'content-type:application/json'"
-cmd += " --data @coverage.json https://coveralls.io/api/v1/jobs"
+cmd += " --form json_file=@coverage.json https://coveralls.io/api/v1/jobs"
 puts "posting coverage data to coveralls.io"
 puts `#{cmd}`
 
