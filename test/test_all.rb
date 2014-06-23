@@ -12,12 +12,13 @@ warnings = 0
 errors = 0
 
 # generate coverage information for tests
-def coverage scraperjsonpath, results
+def coverage(scraperjsonpath, results)
   lines = File.readlines scraperjsonpath
   # get the element names
-  elements = JSON.load(File.open scraperjson)['elements'].keys
+  elements = JSON.load(File.open scraperjsonpath)['elements'].keys
   coverage = []
   source = []
+  # calculate coverage
   lines.each do |line|
     valid = true
     elements.keys.each do |element|
@@ -121,6 +122,7 @@ cmd += "--data @coverage.json https://coveralls.io/api/v1/jobs"
 puts "posting coverage data to coveralls.io"
 puts `#{cmd}`
 
+# report test results
 puts "-" * 25
 puts "tests completed for #{scrapercount} scrapers"
 puts " - #{passed} passed"
