@@ -1,6 +1,8 @@
 journal-scrapers
 ================
 
+[![Build Status](https://secure.travis-ci.org/ContentMine/journal-scrapers.png?branch=master)][travis]
+[![License](http://img.shields.io/badge/license-CC0-blue.svg)][license]
 
 Journal scraper definitions for the ContentMine framework.
 
@@ -19,6 +21,7 @@ All the scrapers in the collection are automatically tested daily as well as eve
 [![Build Status](https://secure.travis-ci.org/ContentMine/journal-scrapers.png?branch=master)][travis]
 
 [travis]: http://travis-ci.org/ContentMine/journal-scrapers
+[license]: https://creativecommons.org/publicdomain/zero/1.0/
 
 ### ScraperJSON definitions
 
@@ -59,3 +62,8 @@ Example:
 ### Usage
 
 Currently these definitions can be used with the [quickscrape](http://github.com/ContentMine/quickscrape) tool.
+
+
+### License
+
+All scrapers are released under the [Creative Commons 0 (CC0)](https://creativecommons.org/publicdomain/zero/1.0/) license.
