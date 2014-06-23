@@ -11,17 +11,16 @@ journal-scrapers
 
 Journal scraper definitions for the ContentMine framework.
 
-<!-- START doctoc generated TOC please keep comment here to allow auto update -->
-<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 ### Table of Contents
 
+- [Summary](#summary)
 - [Scraper collection status](#scraper-collection-status)
 - [ScraperJSON definitions](#scraperjson-definitions)
 - [Contributing scrapers](#contributing-scrapers)
 - [Usage](#usage)
 - [License](#license)
 
-<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+### Summary
 
 This repo is a collection of ScraperJSON definitions targetting academic journals. They can be used to extract and download data from URLs of journal articles, such as:
 
