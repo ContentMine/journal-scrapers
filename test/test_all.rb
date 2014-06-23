@@ -24,7 +24,7 @@ def coverage(scraperjsonpath, results)
     elements.each do |element|
       if line =~ /"#{element}":/
         # calculate coverage for this line
-        if results.key? element
+        if results.detect { |result| result.key? element }
           coverage << 1
         else
           coverage << 0
