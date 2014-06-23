@@ -65,10 +65,20 @@ Example:
 }
 ```
 
+### Contributing scrapers
+
+If your favourite publisher or journal is not covered by a scraper in our collection, we'd love you to submit a new scraper.
+
+We ask that all contributions follow some simple rules that help us maintain a high-quality collection.
+
+1. The scraper covers all [the data elements used in the ContentMine])(wiki/data_collected_for_ContentMine).
+2. You must submit a set of 5-10 test URLs.
+3. It comes with a regression test ([which can be auto-generated](wiki/Generating-tests-for-your-scrapers)).
+4. You agree to release the scraper definition and tests under the [Creative Commons Zero license](https://creativecommons.org/publicdomain/zero/1.0/).
+
 ### Usage
 
 Currently these definitions can be used with the [quickscrape](http://github.com/ContentMine/quickscrape) tool.
-
 
 ### License
 
