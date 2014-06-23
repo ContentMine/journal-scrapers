@@ -1,7 +1,7 @@
 journal-scrapers
 ================
 
-[travis]: http://img.shields.io/travis/ContentMine/journal-scrapers.svg
+[travis]: http://travis-ci.org/ContentMine/journal-scrapers
 [license]: https://creativecommons.org/publicdomain/zero/1.0/
 [coverage]: https://coveralls.io/r/ContentMine/journal-scrapers
 
@@ -23,7 +23,7 @@ This repo is a collection of ScraperJSON definitions targetting academic journal
 
 All the scrapers in the collection are automatically tested daily as well as every time any scraper is changed. The tests work by having the expected results for a set of URLs stored, and randomly selecting one of those URLs to re-scrape. If the results match those expected the test passes. If the badge is green and says `build|passing`, all the scrapers are OK. If the badge is red and says `build|failing`, one or more of the scrapers has stopped working. You can click on the badge to see the test report, to see which scrapers are failing and how.
 
-[![Build Status](https://secure.travis-ci.org/ContentMine/journal-scrapers.png?branch=master)][travis]
+[![Build Status](http://img.shields.io/travis/ContentMine/journal-scrapers.svg)][travis]
 
 How well the scrapers are covered by the tests is also checked. Coverage should be 100% - this means every element of every scraper is checked at least once in the testing. If coverage is below 100%, you can see exactly which parts of which scrapers are not covered by clicking the `coverage` badge below.
 
