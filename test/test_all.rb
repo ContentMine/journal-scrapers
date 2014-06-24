@@ -72,6 +72,7 @@ Dir.chdir(tmpdir) do
           puts "FAIL: no results from scraping"
           errors += 1
           coverage_files << coverage(scraper, {})
+          next
         end
         results = JSON.load(File.open 'results.json')
         files = Dir['*']
@@ -105,15 +106,21 @@ Dir.chdir(tmpdir) do
     else
       puts "WARN: no test found!"
       warnings += 1
+      coverage_files << coverage(scraper, {})
     end
   end
 end
 
 # send coverage report to coveralls.io
 cov_report = {
-  :repo_token => 'vHHvsw3QKvjK7zPb9DcFgt6ivLVS8r5uP',
   :source_files => coverage_files
 }
+if ENV['TRAVIS']
+  cov_report[:service_job_id] = ENV['TRAVIS_JOB_ID']
+  cov_report[:service_name] = 'travis-ci'
+else
+  cov_report[:repo_token] = 'vHHvsw3QKvjK7zPb9DcFgt6ivLVS8r5uP',
+end
 File.open('coverage.json', 'w') do |f|
   f.write JSON.dump(cov_report)
 end
