@@ -119,7 +119,7 @@ if ENV['TRAVIS']
   cov_report[:service_job_id] = ENV['TRAVIS_JOB_ID']
   cov_report[:service_name] = 'travis-ci'
 else
-  cov_report[:repo_token] = 'vHHvsw3QKvjK7zPb9DcFgt6ivLVS8r5uP',
+  cov_report[:repo_token] = 'vHHvsw3QKvjK7zPb9DcFgt6ivLVS8r5uP'
 end
 File.open('coverage.json', 'w') do |f|
   f.write JSON.dump(cov_report)
