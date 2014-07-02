@@ -1,26 +1,19 @@
 {
   "url": "peerj.com",
   "elements": {
-    "fulltext_pdf": {
-      "selector": "//meta[@name='citation_pdf_url']",
-      "attribute": "content",
-      "download": true
+    "publisher": {
+      "selector": "//meta[@name='citation_publisher']",
+      "attribute": "content"
     },
-    "fulltext_html": {
-      "selector": "//meta[@name='citation_fulltext_html_url']",
-      "attribute": "content",
-      "download": true
-    },
-    "supplementary_material": {
-      "selector": "//a[contains(concat(' ', normalize-space(@class), ' '), ' article-supporting-download ')]",
-      "attribute": "href",
-      "download": true
+    "journal": {
+      "selector": "//meta[@name='citation_journal_title']",
+      "attribute": "content"
     },
     "title": {
       "selector": "//meta[@name='citation_title']",
       "attribute": "content"
     },
-    "author": {
+    "authors": {
       "selector": "//meta[@name='citation_author']",
       "attribute": "content"
     },
@@ -47,6 +40,42 @@
     "description": {
       "selector": "//meta[@name='description']",
       "attribute": "content"
+    },
+    "abstract": {
+      "selector": "//meta[@name='description']",
+      "attribute": "content"
+    },
+    "fulltext_html": {
+      "selector": "//meta[@name='citation_fulltext_html_url']",
+      "attribute": "content",
+      "download": true
+    },
+    "fulltext_pdf": {
+      "selector": "//meta[@name='citation_pdf_url']",
+      "attribute": "content",
+      "download": true
+    },
+    "supplementary_material": {
+      "selector": "//a[contains(concat(' ', normalize-space(@class), ' '), ' article-supporting-download ')]",
+      "attribute": "href",
+      "download": true
+    },
+    "figure": {
+      "selector": "//div[contains(concat(' ', normalize-space(@class), ' '), ' article-image-download ')]/a",
+      "attribute": "href",
+      "download": true
+    },
+    "figure_caption": {
+      "selector": "//figcaption",
+      "attribute": "text"
+    },
+    "license": {
+      "selector": "//div[contains(concat(' ', normalize-space(@class), ' '), ' license-p ')]",
+      "attribute": "text"
+    },
+    "copyright": {
+      "selector": "//div[contains(@class, 'copyright')]",
+      "attribute": "text"
     }
   }
 }
