@@ -63,7 +63,7 @@ Dir.chdir(tmpdir) do
       cmd += " --url #{url}"
       cmd += " --scraper #{scraper}"
       cmd += " --output output"
-      cmd += " --loglevel silent"
+      cmd += " --loglevel debug"
       puts `#{cmd}`
       # load the output
       cleanurl = url.gsub(/:?\/+/, '_')
