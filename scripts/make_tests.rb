@@ -70,7 +70,13 @@ Dir.chdir('test') do
           files = files.keep_if { |f| f != 'results.json' }
           filehashes = `md5sum #{files.join(' ')}`
           filehashes.split("\n").each do |line|
-            filehash, filename = line.strip.split("  ")
+            if line =~ /MD5 \(/
+              # OSX version of MD5
+              filename, filehash = /\((.*)\) = (\w+)/.match(line)[1, 2]
+            else
+              # linux version
+              filehash, filename = line.strip.split("  ")
+            end
             results << { filename => filehash }
           end
         end
