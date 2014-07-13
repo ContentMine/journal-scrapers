@@ -85,28 +85,28 @@
       "figure_caption": "\nFigure 3: Weekly PHQ-9 and GAD-7 scores.\nWeekly scores on the PHQ-9 and the GAD-7 for both groups. Vertical bars denote 95% confidence intervals (CI). PHQ-9: 9-item Patient Health Questionnaire Depression Scale; GAD-7: 7-item Generalized Anxiety Disorder Scale.\n  Download full-size image\nDOI: 10.7717/peerj.102/fig-3\n\n"
     },
     {
-      "": "MD5 (102) = 3479bd71a51ffb3bd0f4847289a3ed35"
+      "fig-3-full.png": "0146a2e575c584b50ab4832654e97a96"
     },
     {
-      "": "MD5 (102.pdf) = 8e2c1cb94b99943cc618c437f8fd1618"
+      "fig-1-full.png": "c72e8d96d4bda0fef5f986543c7a5970"
     },
     {
-      "": "MD5 (fig-1-full.png) = c72e8d96d4bda0fef5f986543c7a5970"
+      "rendered.html": "4461035334376c3cc6b33d56467df660"
     },
     {
-      "": "MD5 (fig-2-full.png) = 9072aa50632170a8558ee1bd2d086e38"
+      "102.pdf": "8e2c1cb94b99943cc618c437f8fd1618"
     },
     {
-      "": "MD5 (fig-3-full.png) = 0146a2e575c584b50ab4832654e97a96"
+      "102": "460e830d7dd7a3f929828342b9b6f12b"
     },
     {
-      "": "MD5 (rendered.html) = cf8d7e33f443c16041243cb41025e787"
+      "S2_trial_protocol.pdf": "26787550a80a05fc451d245fb7107183"
     },
     {
-      "": "MD5 (S1_CONSORT_checklist.pdf) = eef414787965a937fc479d31f86a9541"
+      "S1_CONSORT_checklist.pdf": "eef414787965a937fc479d31f86a9541"
     },
     {
-      "": "MD5 (S2_trial_protocol.pdf) = 26787550a80a05fc451d245fb7107183"
+      "fig-2-full.png": "9072aa50632170a8558ee1bd2d086e38"
     }
   ],
   "https://peerj.com/articles/234/": [
@@ -237,46 +237,46 @@
       "figure_caption": "\nFigure 11: Interpretive drawing of the outline of the wings and feathered tail of DNHM D2945/6 (see Figs. 1 and 3 for the maximum extent of the primaries and secondaries).\nThe aerodynamic parameters used in this study were derived from this reconstruction (see Materials and Methods).\n  Download full-size image\nDOI: 10.7717/peerj.234/fig-11\n\n"
     },
     {
-      "": "MD5 (234) = 7a9d98efbd63cc8c88559b215e17f768"
+      "fig-4-full.png": "9e43600b181b87de53f52d1ee145aec8"
     },
     {
-      "": "MD5 (234.pdf) = 3aa12392730333dd193322c7fb7ac72c"
+      "fig-3-full.png": "165114a6bd917393af1c628e4f15cc23"
     },
     {
-      "": "MD5 (fig-1-full.png) = 5870a310df205fb7216bd358568a11d9"
+      "fig-7-full.png": "7040496f9de9004852cf2bae90034fe7"
     },
     {
-      "": "MD5 (fig-10-full.png) = d3d1eadb360073c696eef317130004e8"
+      "fig-9-full.png": "3d3868736ac56e4f2e8e6395d05df051"
     },
     {
-      "": "MD5 (fig-11-full.png) = 0ce3c5edbe7822a1c6b5ea26f6cfd1c4"
+      "fig-10-full.png": "d3d1eadb360073c696eef317130004e8"
     },
     {
-      "": "MD5 (fig-2-full.png) = af0dbb6dbbdd9dc38ba8fdb5a4409d26"
+      "234": "9be160e6461eae366392ccc3945e7070"
     },
     {
-      "": "MD5 (fig-3-full.png) = 165114a6bd917393af1c628e4f15cc23"
+      "fig-1-full.png": "5870a310df205fb7216bd358568a11d9"
     },
     {
-      "": "MD5 (fig-4-full.png) = 9e43600b181b87de53f52d1ee145aec8"
+      "fig-6-full.png": "28860f72dcafe1bae43e29c49374e644"
     },
     {
-      "": "MD5 (fig-5-full.png) = 95ed20e2b3abffa642caccf50c73941d"
+      "rendered.html": "9baf1d55e8d7429ee2d6349afd8ab221"
     },
     {
-      "": "MD5 (fig-6-full.png) = 28860f72dcafe1bae43e29c49374e644"
+      "fig-11-full.png": "0ce3c5edbe7822a1c6b5ea26f6cfd1c4"
     },
     {
-      "": "MD5 (fig-7-full.png) = 7040496f9de9004852cf2bae90034fe7"
+      "234.pdf": "3aa12392730333dd193322c7fb7ac72c"
     },
     {
-      "": "MD5 (fig-8-full.png) = 73da14b5d45b36d95a9fa8a206651336"
+      "fig-8-full.png": "73da14b5d45b36d95a9fa8a206651336"
     },
     {
-      "": "MD5 (fig-9-full.png) = 3d3868736ac56e4f2e8e6395d05df051"
+      "fig-5-full.png": "95ed20e2b3abffa642caccf50c73941d"
     },
     {
-      "": "MD5 (rendered.html) = b46a53d7e3b3dcf68e35ef8991cf748d"
+      "fig-2-full.png": "af0dbb6dbbdd9dc38ba8fdb5a4409d26"
     }
   ],
   "https://peerj.com/articles/275/": [
@@ -383,34 +383,34 @@
       "figure_caption": "\nFigure 7: The effect of NaCl and MgCl2 on the fluorescent characteristics of GGBP/H152C-BADAN in open (solid curves) and closed (dashed curves) forms.\n(A) Fluorescence spectra of GGBP/H152C-BADAN in solutions with 0.8 M NaCl (red curve) and 2.5 M NaCl (blue curve). (B) Fluorescence spectra of GGBP/H152C-BADAN in solutions with 0.1 M MgCl2 (red curve) and 0.5 M MgCl2 (blue curve). The fluorescence spectra of GGBP/H152C-BADAN in PBS solution appear in black. (The excitation wavelength was 387 nm.)\n  Download full-size image\nDOI: 10.7717/peerj.275/fig-7\n\n"
     },
     {
-      "": "MD5 (275) = 576a158c3b08a6d0764bd189828d5bd2"
+      "fig-4-full.png": "e3ea581b9d3ae478cc5c7e3c630576e8"
     },
     {
-      "": "MD5 (275.pdf) = 6b554c704f1ed7a8129863a2869036eb"
+      "fig-3-full.png": "c41e4a8c837cfe6aeabff81982844a98"
     },
     {
-      "": "MD5 (fig-1-full.png) = 3698cf17a11ba9ef9183634bd3801b49"
+      "fig-7-full.png": "b76d31a596a07e5ef4fe238d687c5729"
     },
     {
-      "": "MD5 (fig-2-full.png) = 90442c7e0490029e4d59193979537f6a"
+      "275.pdf": "6b554c704f1ed7a8129863a2869036eb"
     },
     {
-      "": "MD5 (fig-3-full.png) = c41e4a8c837cfe6aeabff81982844a98"
+      "fig-1-full.png": "3698cf17a11ba9ef9183634bd3801b49"
     },
     {
-      "": "MD5 (fig-4-full.png) = e3ea581b9d3ae478cc5c7e3c630576e8"
+      "fig-6-full.png": "fff6b0de359e83441f6b5838d862fd93"
     },
     {
-      "": "MD5 (fig-5-full.png) = 97904c56a6215db7065fd1830624f708"
+      "rendered.html": "30d93308f1f8fa6d21f202254c6fa516"
     },
     {
-      "": "MD5 (fig-6-full.png) = fff6b0de359e83441f6b5838d862fd93"
+      "275": "c067c205f735cbb13d14a7771502cc30"
     },
     {
-      "": "MD5 (fig-7-full.png) = b76d31a596a07e5ef4fe238d687c5729"
+      "fig-5-full.png": "97904c56a6215db7065fd1830624f708"
     },
     {
-      "": "MD5 (rendered.html) = 0798f6f9153bd5208e0836d1456a9ad6"
+      "fig-2-full.png": "90442c7e0490029e4d59193979537f6a"
     }
   ],
   "https://peerj.com/articles/311/": [
@@ -469,19 +469,19 @@
       "figure_caption": "\nFigure 2: Probabilities.\nPredicted probabilities of a decrease, same, and increase in religious attendance (95% CI).\n  Download full-size image\nDOI: 10.7717/peerj.311/fig-2\n\n"
     },
     {
-      "": "MD5 (311) = 81468d060387974711cec3b724a142ca"
+      "311.pdf": "8aa4a538c24c0f3bfcc8b9fa5cd63d7c"
     },
     {
-      "": "MD5 (311.pdf) = 8aa4a538c24c0f3bfcc8b9fa5cd63d7c"
+      "fig-1-full.png": "3ff19ca931ac3850d2e6d045efb5d213"
     },
     {
-      "": "MD5 (fig-1-full.png) = 3ff19ca931ac3850d2e6d045efb5d213"
+      "311": "7c457cc73a24cb05df634e0d01dbe561"
     },
     {
-      "": "MD5 (fig-2-full.png) = b6a99fff0a72af9fde1e550f80d43799"
+      "rendered.html": "9d3054adc95559f5e507e87f2c2f2ae0"
     },
     {
-      "": "MD5 (rendered.html) = 9b8cedfb522b359d5715838a097a2ff8"
+      "fig-2-full.png": "b6a99fff0a72af9fde1e550f80d43799"
     }
   ],
   "https://peerj.com/articles/384/": [
@@ -543,16 +543,16 @@
       "figure_caption": "\nFigure 1: Identification of the heterozygous SLC26A4 deletion g.8091T-22145Cdel in subject PDS41.\n(A) The SLC26A4 MLPA probe mix includes probes for the 21 SLC26A4 exons, 14 reference probes and three probes specific for the point mutations c.1001+1G>A (IV S8+1G>A), c.707T>C (p.Leu236Pro) and c.1246A>C (p.Thr416Pro). Subject PDS41 is heterozygous for a deletion (g.8091T-22145Cdel) spanning exons 4–6 in SLC26A4, as evidenced by the reproducible reduction in peak height for these three exon probes (peaks labeled 4, 5, 6) relative to the control. PDS41 also has a heterozygous c.1246A>C (p.Thr416Pro) mutation that was previously identified by sequencing and confirmed by these MLPA results (peak labeled p.T416P). (B) Sequencing chromatogram of the deletion breakpoints in SLC26A4 IVS3 and IVS6. The deletion removes a total of 14,053 bp. IVS, intervening sequence.\n  Download full-size image\nDOI: 10.7717/peerj.384/fig-1\n\n"
     },
     {
-      "": "MD5 (384) = be322abd43c5c3a82883245d26fc0985"
+      "fig-1-full.png": "6ee6bf8676df1087e9d724bfdc9178e8"
     },
     {
-      "": "MD5 (384.pdf) = b2020a8f8037228e6face4a220751932"
+      "rendered.html": "96b5f65a07b9df06ab331f682f347d53"
     },
     {
-      "": "MD5 (fig-1-full.png) = 6ee6bf8676df1087e9d724bfdc9178e8"
+      "384.pdf": "b2020a8f8037228e6face4a220751932"
     },
     {
-      "": "MD5 (rendered.html) = ce8535e3c2971ad6cd724a42c9197470"
+      "384": "003b6f777ee95fffaf497181c427420b"
     }
   ]
 }
