@@ -42,6 +42,10 @@
     "description": {
       "selector": "//meta[@name='description']",
       "attribute": "content"
+    },
+    "abstract":{
+      "selector": "//div[contains(@class, 'abstract')]",
+      "attribute": "text"
     }
   }
 }
