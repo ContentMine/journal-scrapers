@@ -59,6 +59,13 @@
         "rename": "fulltext.pdf"
       }
     },
+    "fulltext_xml": {
+      "selector": "//a[@title='Download article XML']",
+      "attribute": "href",
+      "download": {
+        "rename": "fulltext.xml"
+      }
+    },
     "supplementary_material": {
       "selector": "//a[contains(concat(' ', normalize-space(@class), ' '), ' article-supporting-download ')]",
       "attribute": "href",
