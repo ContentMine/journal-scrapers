@@ -60,7 +60,7 @@
       }
     },
     "fulltext_xml": {
-      "selector": "//a[@title='Download article XML']",
+      "selector": "//a[@class='article-download-xml']",
       "attribute": "href",
       "download": {
         "rename": "fulltext.xml"

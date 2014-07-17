@@ -15,6 +15,13 @@
         "rename": "fulltext.html"
       }
     },
+    "fulltext_xml": {
+      "selector": "//a[@title='Download article XML']",
+      "attribute": "href",
+      "download": {
+        "rename": "fulltext.xml"
+      }
+    },
     "title": {
       "selector": "//meta[@name='citation_title']",
       "attribute": "content"

@@ -63,7 +63,7 @@
       "selector": "//meta[@name='fulltest_xml']",
       "attribute": "content",
       "download": {
-        "rename": "fulltext.pdf"
+        "rename": "fulltext.xml"
       }
     },
     "supplementary_material": {
