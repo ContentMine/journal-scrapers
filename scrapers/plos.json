@@ -4,12 +4,16 @@
     "fulltext_pdf": {
       "selector": "//meta[@name='citation_pdf_url']",
       "attribute": "content",
-      "download": true
+      "download": {
+        "rename": "fulltext.pdf"
+      }
     },
     "fulltext_html": {
       "selector": "//meta[@name='citation_fulltext_html_url']",
       "attribute": "content",
-      "download": true
+      "download": {
+        "rename": "fulltext.html"
+      }
     },
     "title": {
       "selector": "//meta[@name='citation_title']",
