@@ -22,7 +22,7 @@ def coverage(scraperjsonpath, results)
   lines.each do |line|
     valid = true
     elements.each do |element|
-      if line =~ /"#{element}":/
+      if line =~ /"#{element}": \{/
         # calculate coverage for this line
         if results.detect { |result| result.key? element }
           coverage << 1
