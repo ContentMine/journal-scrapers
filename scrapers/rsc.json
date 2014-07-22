@@ -1,0 +1,124 @@
+{
+  "url": "pubs\\.rsc\\.org",
+  "elements": {
+    "fulltext_pdf": {
+      "selector": "//meta[@name='citation_pdf_url']",
+      "attribute": "content",
+      "download": {
+        "rename": "fulltext.pdf"
+      }
+    },
+    "fulltext_html": {
+      "selector": "//meta[@name='citation_fulltext_html_url']",
+      "attribute": "content",
+      "download": {
+        "rename": "fulltext.html"
+      }
+    },
+    "abstract_url": {
+      "selector": "//meta[@name='citation_abstract_html_url']",
+      "attribute": "content"
+    },
+    "title": {
+      "selector": "//meta[@name='citation_title']",
+      "attribute": "content"
+    },
+    "author": {
+      "selector": "//meta[@name='citation_author']",
+      "attribute": "content"
+    },
+    "institution": {
+      "selector": "//meta[@name='citation_author_institution']",
+      "attribute": "content"
+    },
+    "date": {
+      "selector": "//meta[@name='citation_publication_date']",
+      "attribute": "content"
+    },
+    "online_date": {
+      "selector": "//meta[@name='citation_online_date']",
+      "attribute": "content"
+    },
+    "doi": {
+      "selector": "//meta[@name='citation_doi']",
+      "attribute": "content"
+    },
+    "journal": {
+      "selector": "//meta[@name='citation_journal_title']",
+      "attribute": "content"
+    },
+    "volume": {
+      "selector": "//meta[@name='citation_volume']",
+      "attribute": "content"
+    },
+    "issue": {
+      "selector": "//meta[@name='citation_issue']",
+      "attribute": "content"
+    },
+    "firstpage": {
+      "selector": "//meta[@name='citation_firstpage']",
+      "attribute": "content"
+    },
+    "lastpage": {
+      "selector": "//meta[@name='citation_lastpage']",
+      "attribute": "content"
+    },
+    "abstract": {
+      "selector": "//meta[@name='citation_abstract']",
+      "attribute": "content"
+    },
+    "publisher": {
+      "selector": "//meta[@name='citation_publisher']",
+      "attribute": "content"
+    },
+    "issn": {
+      "selector": "//meta[@name='citation_issn']",
+      "attribute": "content"
+    },
+    "language": {
+      "selector": "//meta[@name='DC.Language']",
+      "attribute": "content"
+    },
+    "keywords": {
+      "selector": "//meta[@name='keywords']",
+      "attribute": "content"
+    },
+    "license": {
+      "selector": "//a[@rel='license']",
+      "attribute": "href"
+    },
+    "copyright": {
+      "selector": "//div[contains(@class, 'copyright')]",
+      "attribute": "text"
+    },
+    "supplementary_information": {
+      "selector": "//li[contains(@class, 'ESIright_highlight_txt_red')]/a",
+      "attribute": "href",
+      "download": true
+    },
+    "graphical_abstract": {
+      "selector": "//img[@title='Graphical abstract']",
+      "attribute": "src",
+      "download": {
+        "rename": "graphical_abstract.gif"
+      }
+    },
+    "figure": {
+      "selector": "//td[@class='imgHolder']/a",
+      "attribute": "href",
+      "download": true
+    },
+    "figure_caption": {
+      "selector": "//span[@class='graphic_title']",
+      "attribute": "text"
+    },
+    "table_caption": {
+      "selector": "//div[@class='table_caption']",
+      "attribute": "text"
+    },
+    "reference": {
+      "selector": "//ol/li/span[starts-with(@id, 'cit')]",
+      "attribute": "text"
+    }
+  }
+}
