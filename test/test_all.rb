@@ -67,11 +67,8 @@ Dir.chdir(tmpdir) do
         results = JSON.load(File.open 'results.json')
         files = Dir['*']
         files = files.keep_if { |f| f != 'results.json' }.map{ |f| f.strip }
-        cmd = "md5sum #{files.join(' ')}"
-        filehashes = `#{cmd}`
-        filehashes.split("\n").each do |line|
-          filehash, filename = line.strip.split("  ")
-          results << { filename => filehash }
+        files.each do |f|
+          results << { f => Digest::MD5.file(f).hexdigest }
         end
       end
       coverage_files << coverage(scraper, results)
