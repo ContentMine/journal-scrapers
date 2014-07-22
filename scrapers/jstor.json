@@ -1,0 +1,98 @@
+{
+  "url": "jstor.org",
+  "elements": {
+    "fulltext_pdf": {
+      "selector": "//a[@class='pdflink']",
+      "attribute": "href",
+      "download": {
+        "rename": "fulltext.pdf"
+      }
+    },
+    "fulltext_html": {
+      "selector": "//ul[contains(@class, 'pageMenu')]/li/a[text()='Full Text']",
+      "attribute": "href",
+      "download": {
+        "rename": "fulltext.html"
+      }
+    },
+    "title": {
+      "selector": "//meta[@name='dc.Title']",
+      "attribute": "content"
+    },
+    "author": {
+      "selector": "//meta[@name='dc.Creator']",
+      "attribute": "content"
+    },
+    "date": {
+      "selector": "//meta[@name='dc.Date']",
+      "attribute": "content"
+    },
+    "doi": {
+      "selector": "//meta[@name='dc.Identifier' and @scheme='doi']",
+      "attribute": "content"
+    },
+    "volume": {
+      "selector": "/html/head/title",
+      "attribute": "text"
+      "regex": "(?<=Vol\.\s)\d{1,3}(?=,)"
+    },
+    "issue": {
+      "selector": "/html/head/title",
+      "attribute": "text"
+      "regex": "(?<=No\.\s)\d{1,2}(?=,)"
+    },
+    "firstpage": {
+      "selector": "/html/head/title",
+      "attribute": "text"
+      "regex": "(?<=pp\.\s)\d{1,2}(?=-)"
+    },
+    "description": {
+      "selector": "//meta[@name='dc.Description']",
+      "attribute": "content"
+    },
+    "abstract": {
+      "selector": "//meta[@name='dc.Description']",
+      "attribute": "content"
+    },
+    "supplementary_material": {
+      "selector": "//div[@class='NLM_label']/span[@class='appendixSupplement']/a",
+      "attribute": "href",
+      "download": true
+    },
+    "figure_page": {
+      "selector": "//div[@class='NLM_fig-group line']//a",
+      "attribute": "href"
+    },
+    "figure": {
+      "follow-on": "figure_page"
+      "selector": "//div[@class='graphic_popup']/div/a",
+      "attribute": "href",
+      "download": true
+    },
+    "figure_caption": {
+      "selector": "//div[@class='NLM_label']/div[@class='openLink')]",
+      "attribute": "text"
+    },
+    "table_page" {
+      "selector": "//div[@class='table-wrap line']//a",
+      "attribute": "href"
+    },
+    "table": {
+      "follow-on": "table_page"
+      "selector": "//div[@class='articleTable']",
+      "attribute": "html"
+    },
+    "copyright": {
+      "selector": "//div[@id='articleCopyright')]",
+      "attribute": "text"
+    },
+    "citation": { 
+      "selector": "//ul[includes(class, 'citeList')]/li",
+      "attribute": "text"
+    },
+    "citation-link": { 
+      "selector": "//ul[includes(class, 'citeList')]/li/div/a[target="_blank" or text()='Abstract']",
+      "attribute": "href"
+    }
+  }
+}
