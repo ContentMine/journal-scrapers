@@ -1,0 +1,44 @@
+
+{
+  "url": "pubs\\.acs\\.org",
+  "elements": {
+
+//  "acs:active_view_pdf": {
+//      "selector":  "//a[@title='View the ACS ActiveView PDF Full Text']",
+//      "attribute": "href",
+//      "download": true
+//    },
+
+  "fulltext_pdf": {
+      "selector":  "//a[@title='Download the PDF Full Text']",
+      "attribute": "href",
+      "download": true
+    },
+
+  "acs:quick_pdf": {
+      "selector":  "//a[@title='Download the quick PDF (Full Text with Links)']",
+      "attribute": "href",
+      "download": true
+    },
+
+  "fulltext_html": {
+      "selector":  "//a[@title='View the Full Text HTML']",
+      "attribute": "href",
+      "download": true
+    },
+
+  "dc:abstract": {
+      "selector":  "//a[@title='View the Abstract']",
+      "attribute": "href",
+      "download": true
+    },
+
+  "acs:supporting_info": {
+      "selector":  "//a[@title='View Supporting Information']",
+      "attribute": "href",
+      "download": true
+    }
+
+  }
+}
+
