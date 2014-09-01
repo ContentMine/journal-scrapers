@@ -1,0 +1,64 @@
+{
+  "url": "nature\\.com",
+  "elements": {
+    "publisher": {
+      "selector": "//meta[@name='DC.publisher']",
+      "attribute": "content"
+    },
+    "title": {
+      "selector": "//meta[@name='citation_title']",
+      "attribute": "content"
+    },
+    "authors": {
+      "selector": "//meta[@name='citation_author']",
+      "attribute": "content"
+    },
+    "date": {
+      "selector": "//meta[@id='citation_date']",
+      "attribute": "content"
+    },
+    "volume": {
+      "selector": "//meta[@class='citation_volume']",
+      "attribute": "content"
+    },
+    "issue": {
+      "selector": "//meta[@name='citation_issue']",
+      "attribute": "content"
+    },
+    "firstpage": {
+      "selector": "//meta[@name='citation_firstpage']",
+      "attribute": "content"
+    },
+    "doi": {
+      "selector": "//meta[@name='citation_doi']",
+      "attribute": "content"
+    },
+    "journal": {
+      "selector": "//meta[@name='citation_journal_title']",
+      "attribute": "content"
+    },
+    "abstract": {
+      "selector": "//div[@id='abstract']",
+      "attribute": "text"
+    },
+    "language": {
+      "selector": "//meta[@name='DC.language']",
+      "attribute": "content"
+    },
+    "fulltext_pdf": {
+      "selector": "//a[@id='download-pdf']",
+      "attribute": "href",
+      "download": {
+        "rename": "fulltext.pdf"
+      }
+    },
+    "copyright": {
+      "selector": "//div[@name='prism.copyright']",
+      "attribute": "content"
+    },
+    "license": {
+      "selector": "//div[@name='DC.rights']",
+      "attribute": "content"
+    }
+  }
+}
