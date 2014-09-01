@@ -1,6 +1,6 @@
 {
-  "url": "nature\\.com",
-  "elements": {
+  "url": "nature",
+  "elements": {    
     "publisher": {
       "selector": "//meta[@name='DC.publisher']",
       "attribute": "content"
@@ -52,12 +52,21 @@
         "rename": "fulltext.pdf"
       }
     },
+    "figure": {
+      "selector": "//img[@data-media-id='figure']",
+      "attribute": "src",
+      "download": true
+    },
+    "caption": {
+      "selector": "//figcaption",
+      "attribute": "text"
+    },
     "copyright": {
-      "selector": "//div[@name='prism.copyright']",
+      "selector": "//meta[@name='prism.copyright']",
       "attribute": "content"
     },
     "license": {
-      "selector": "//div[@name='DC.rights']",
+      "selector": "//meta[@name='DC.rights']",
       "attribute": "content"
     }
   }
