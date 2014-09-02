@@ -48,30 +48,22 @@
     "fulltext_pdf": {
       "selector": "//meta[@name='citation_pdf_url']",
       "attribute": "content",
-      "download": {
-        "rename": "fulltext.pdf"
-      }
+      "download": true
     },
     "abstract_html": {
       "selector": "//meta[@name='citation_abstract_html_url']",
       "attribute": "content",
-      "download": {
-        "rename": "abstract.html"
-      }
+      "download": true
     },
     "fulltext_html": {
       "selector": "//meta[@name='citation_fulltext_html_url']",
       "attribute": "content",
-      "download": {
-        "rename": "fulltext.html"
-      }
+      "download": true
     },
     "supplementary_material": {
       "selector": "//a[@rel='supplemental-data']",
       "attribute": "href",
-      "download": {
-        "rename": "supplemental_data.html"
-      }
+      "download": true
     }
   }
 }

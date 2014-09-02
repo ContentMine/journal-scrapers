@@ -40,9 +40,7 @@
     "abstract2": {
       "selector": "//a[@title='View the Abstract']",
       "attribute": "html",
-      "download": {
-        "rename": "abstract.pdf"
-      }
+      "download": true
     },
     "language": {
       "selector": "//meta[@name='dc.Language']",
@@ -51,16 +49,12 @@
     "fulltext_html": {
       "selector": "//a[@title='View the Full Text HTML']",
       "attribute": "href",
-      "download": {
-        "rename": "fulltext.html"
-      }
+      "download": true
     },
     "fulltext_pdf": {
       "selector": "//a[@title='Download the PDF Full Text']",
       "attribute": "href",
-      "download": {
-        "rename": "fulltext.pdf"
-      }
+      "download": true
     },
     "supplementary_material": {
       "selector": "//a[title='View Supporting Information']",
@@ -70,9 +64,7 @@
     "figure": {
       "selector": "//img[@alt='Abstract Image']",
       "attribute": "src",
-      "download": {
-        "rename": "graphical_abstract.gif"
-      }
+      "download": true
     },
     "copyright": {
       "selector": "//div[contains(@id, 'artCopyright')]",
