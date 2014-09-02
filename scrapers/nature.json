@@ -48,9 +48,7 @@
     "fulltext_pdf": {
       "selector": "//a[@id='download-pdf']",
       "attribute": "href",
-      "download": {
-        "rename": "fulltext.pdf"
-      }
+      "download": true
     },
     "figure": {
       "selector": "//img[@data-media-id='figure']",
