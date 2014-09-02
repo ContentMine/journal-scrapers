@@ -14,11 +14,11 @@
       "attribute": "content"
     },
     "date": {
-      "selector": "//meta[@id='citation_date']",
+      "selector": "//meta[@name='citation_date']",
       "attribute": "content"
     },
     "volume": {
-      "selector": "//meta[@class='citation_volume']",
+      "selector": "//meta[@name='citation_volume']",
       "attribute": "content"
     },
     "issue": {
@@ -36,10 +36,6 @@
     "journal": {
       "selector": "//meta[@name='citation_journal_title']",
       "attribute": "content"
-    },
-    "abstract": {
-      "selector": "//div[@id='abstract']",
-      "attribute": "text"
     },
     "language": {
       "selector": "//meta[@name='DC.language']",
