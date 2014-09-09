@@ -1,0 +1,75 @@
+{
+  "url": "pubs\\.acs\\.org",
+  "elements": {
+    "publisher": {
+      "selector": "//meta[@name='dc.Publisher']",
+      "attribute": "content"
+    },
+    "title": {
+      "selector": "//meta[@name='dc.Title']",
+      "attribute": "content"
+    },
+    "authors": {
+      "selector": "//meta[@name='dc.Creator']",
+      "attribute": "content"
+    },
+    "date": {
+      "selector": "//div[@id='pubDate']",
+      "attribute": "text"
+    },
+    "volume": {
+      "selector": "//span[@class='citation_volume']",
+      "attribute": "text"
+    },
+    "doi": {
+      "selector": "//meta[@scheme='doi']",
+      "attribute": "content"
+    },
+    "description": {
+      "selector": "//meta[@name='dc.Description']",
+      "attribute": "content"
+    },
+    "journal": {
+      "selector": "//cite",
+      "attribute": "text"
+    },
+    "abstract": {
+      "selector": "//p[@class='articleBody_abstractText']",
+      "attribute": "text"
+    },
+    "abstract2": {
+      "selector": "//a[@title='View the Abstract']",
+      "attribute": "html",
+      "download": true
+    },
+    "language": {
+      "selector": "//meta[@name='dc.Language']",
+      "attribute": "content"
+    },
+    "fulltext_html": {
+      "selector": "//a[@title='View the Full Text HTML']",
+      "attribute": "href",
+      "download": true
+    },
+    "fulltext_pdf": {
+      "selector": "//a[@title='Download the PDF Full Text']",
+      "attribute": "href",
+      "download": true
+    },
+    "supplementary_material": {
+      "selector": "//a[title='View Supporting Information']",
+      "attribute": "href",
+      "download": true
+    },
+    "figure": {
+      "selector": "//img[@alt='Abstract Image']",
+      "attribute": "src",
+      "download": true
+    },
+    "copyright": {
+      "selector": "//div[contains(@id, 'artCopyright')]",
+      "attribute": "text"
+    }
+  }
+}
+
