@@ -1,0 +1,73 @@
+{
+  "url": "pnas\\.org",
+  "elements": {
+    "publisher": {
+      "selector": "//meta[@name='citation_publisher']",
+      "attribute": "content"
+    },
+    "title": {
+      "selector": "//meta[@name='citation_title']",
+      "attribute": "content"
+    },
+    "authors": {
+      "selector": "//meta[@name='citation_author']",
+      "attribute": "content"
+    },
+    "date": {
+      "selector": "//meta[@name='citation_date']",
+      "attribute": "content"
+    },
+    "volume": {
+      "selector": "//meta[@name='citation_volume']",
+      "attribute": "content"
+    },
+    "issue": {
+      "selector": "//meta[@name='citation_issue']",
+      "attribute": "content"
+    },
+    "firstpage": {
+      "selector": "//meta[@name='citation_firstpage']",
+      "attribute": "content"
+    },
+    "lastpage": {
+      "selector": "//meta[@name='citation_lastpage']",
+      "attribute": "content"
+    },
+    "doi": {
+      "selector": "//meta[@name='citation_doi']",
+      "attribute": "content"
+    },
+    "journal": {
+      "selector": "//meta[@name='citation_journal_title']",
+      "attribute": "content"
+    },
+    "abstract": {
+      "selector": "//div[@class='section abstract']",
+      "attribute": "text"
+    },
+    "abstract_html": {
+      "selector": "//meta[@name='citation_abstract_html_url']",
+      "attribute": "content",
+      "download": true
+    },
+    "language": {
+      "selector": "//meta[@name='DC.Language']",
+      "attribute": "content"
+    },
+    "fulltext_pdf": {
+      "selector": "//meta[@name='citation_pdf_url']",
+      "attribute": "content",
+      "download": true
+    },
+    "fulltext_html": {
+      "selector": "//meta[@name='citation_fulltext_html_url']",
+      "attribute": "content",
+      "download": true
+    },
+    "supplementary_material": {
+      "selector": "//a[@rel='supplemental-data']",
+      "attribute": "href",
+      "download": true
+    }
+  }
+}
