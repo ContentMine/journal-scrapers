@@ -67,14 +67,17 @@ Dir.chdir(tmpdir) do
         results = JSON.load(File.open 'results.json')
         files = Dir['*']
         files = files.keep_if { |f| f != 'results.json' }.map{ |f| f.strip }
+        file_hashes = []
         files.each do |f|
-          results << { f => Digest::MD5.file(f).hexdigest }
+          file_hashes << { f => Digest::MD5.file(f).hexdigest }
         end
+        results['file_hashes'] = file_hashes
       end
       coverage_files << coverage(scraper, results)
       # compare results to expected
       expected.each do |hash|
         key = hash.keys.first
+        next if key == 'file_hashes'
         exp_val = hash[key]
         exist = results.detect { |result| result.key? key }
         match = results.detect { |result| result[key] == exp_val }

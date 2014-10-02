@@ -1,558 +1,690 @@
 {
-  "https://peerj.com/articles/102/": [
-    {
-      "publisher": "PeerJ Inc."
-    },
-    {
-      "journal": "PeerJ"
-    },
-    {
-      "title": "Affect-focused psychodynamic psychotherapy for depression and anxiety through the Internet: a randomized controlled trial"
-    },
-    {
-      "authors": "Robert Johansson"
-    },
-    {
-      "authors": "Martin Björklund"
-    },
-    {
-      "authors": "Christoffer Hornborg"
-    },
-    {
-      "authors": "Stina Karlsson"
-    },
-    {
-      "authors": "Hugo Hesser"
-    },
-    {
-      "authors": "Brjánn Ljótsson"
-    },
-    {
-      "authors": "Andréas Rousseau"
-    },
-    {
-      "authors": "Ronald J. Frederick"
-    },
-    {
-      "authors": "Gerhard Andersson"
-    },
-    {
-      "date": "2013-07-09"
-    },
-    {
-      "doi": "10.7717/peerj.102"
-    },
-    {
-      "volume": "1"
-    },
-    {
-      "firstpage": "e102"
-    },
-    {
-      "description": "Background. Psychodynamic psychotherapy is a psychological treatment approach that has a growing empirical base. Research has indicated an association between therapist-facilitated affective experience and outcome in psychodynamic therapy. Affect-phobia therapy (APT), as outlined by McCullough et al., is a psychodynamic treatment that emphasizes a strong focus on expression and experience of affect. This model has neither been evaluated for depression nor anxiety disorders in a randomized controlled trial. While Internet-delivered psychodynamic treatments for depression and generalized anxiety disorder exist, they have not been based on APT. The aim of this randomized controlled trial was to investigate the efficacy of an Internet-based, psychodynamic, guided self-help treatment based on APT for depression and anxiety disorders.Methods. One hundred participants with diagnoses of mood and anxiety disorders participated in a randomized (1:1 ratio) controlled trial of an active group versus a control condition. The treatment group received a 10-week, psychodynamic, guided self-help treatment based on APT that was delivered through the Internet. The treatment consisted of eight text-based treatment modules and included therapist contact (9.5 min per client and week, on average) in a secure online environment. Participants in the control group also received online therapist support and clinical monitoring of symptoms, but received no treatment modules. Outcome measures were the 9-item Patient Health Questionnaire Depression Scale (PHQ-9) and the 7-item Generalized Anxiety Disorder Scale (GAD-7). Process measures were also included. All measures were administered weekly during the treatment period and at a 7-month follow-up.Results. Mixed models analyses using the full intention-to-treat sample revealed significant interaction effects of group and time on all outcome measures, when comparing treatment to the control group. A large between-group effect size of Cohen’s d = 0.77 (95% CI: 0.37–1.18) was found on the PHQ-9 and a moderately large between-group effect size d = 0.48 (95% CI: 0.08–0.87) was found on the GAD-7. The number of patients who recovered (had no diagnoses of depression and anxiety, and had less than 10 on both the PHQ-9 and the GAD-7) were at post-treatment 52% in the treatment group and 24% in the control group. This difference was significant, χ2(N = 100, d f = 1) = 8.3, p < .01. From post-treatment to follow-up, treatment gains were maintained on the PHQ-9, and significant improvements were seen on the GAD-7.Conclusion. This study provides initial support for the efficacy of Internet-delivered psychodynamic therapy based on the affect-phobia model in the treatment of depression and anxiety disorders. The results support the conclusion that psychodynamic treatment approaches may be transferred to the guided self-help format and delivered via the Internet."
-    },
-    {
-      "abstract": "Background. Psychodynamic psychotherapy is a psychological treatment approach that has a growing empirical base. Research has indicated an association between therapist-facilitated affective experience and outcome in psychodynamic therapy. Affect-phobia therapy (APT), as outlined by McCullough et al., is a psychodynamic treatment that emphasizes a strong focus on expression and experience of affect. This model has neither been evaluated for depression nor anxiety disorders in a randomized controlled trial. While Internet-delivered psychodynamic treatments for depression and generalized anxiety disorder exist, they have not been based on APT. The aim of this randomized controlled trial was to investigate the efficacy of an Internet-based, psychodynamic, guided self-help treatment based on APT for depression and anxiety disorders.Methods. One hundred participants with diagnoses of mood and anxiety disorders participated in a randomized (1:1 ratio) controlled trial of an active group versus a control condition. The treatment group received a 10-week, psychodynamic, guided self-help treatment based on APT that was delivered through the Internet. The treatment consisted of eight text-based treatment modules and included therapist contact (9.5 min per client and week, on average) in a secure online environment. Participants in the control group also received online therapist support and clinical monitoring of symptoms, but received no treatment modules. Outcome measures were the 9-item Patient Health Questionnaire Depression Scale (PHQ-9) and the 7-item Generalized Anxiety Disorder Scale (GAD-7). Process measures were also included. All measures were administered weekly during the treatment period and at a 7-month follow-up.Results. Mixed models analyses using the full intention-to-treat sample revealed significant interaction effects of group and time on all outcome measures, when comparing treatment to the control group. A large between-group effect size of Cohen’s d = 0.77 (95% CI: 0.37–1.18) was found on the PHQ-9 and a moderately large between-group effect size d = 0.48 (95% CI: 0.08–0.87) was found on the GAD-7. The number of patients who recovered (had no diagnoses of depression and anxiety, and had less than 10 on both the PHQ-9 and the GAD-7) were at post-treatment 52% in the treatment group and 24% in the control group. This difference was significant, χ2(N = 100, d f = 1) = 8.3, p < .01. From post-treatment to follow-up, treatment gains were maintained on the PHQ-9, and significant improvements were seen on the GAD-7.Conclusion. This study provides initial support for the efficacy of Internet-delivered psychodynamic therapy based on the affect-phobia model in the treatment of depression and anxiety disorders. The results support the conclusion that psychodynamic treatment approaches may be transferred to the guided self-help format and delivered via the Internet."
-    },
-    {
-      "fulltext_html": "https://peerj.com/articles/102"
-    },
-    {
-      "fulltext_pdf": "https://peerj.com/articles/102.pdf"
-    },
-    {
-      "supplementary_material": "https://dfzljdn9uc3pi.cloudfront.net/2013/102/1/S1_CONSORT_checklist.pdf"
-    },
-    {
-      "supplementary_material": "https://dfzljdn9uc3pi.cloudfront.net/2013/102/1/S2_trial_protocol.pdf"
-    },
-    {
-      "figure": "https://dfzljdn9uc3pi.cloudfront.net/2013/102/1/fig-1-full.png"
-    },
-    {
-      "figure": "https://dfzljdn9uc3pi.cloudfront.net/2013/102/1/fig-2-full.png"
-    },
-    {
-      "figure": "https://dfzljdn9uc3pi.cloudfront.net/2013/102/1/fig-3-full.png"
-    },
-    {
-      "figure_caption": "\nFigure 1: CONSORT flowchart.\n\n  Download full-size image\nDOI: 10.7717/peerj.102/fig-1\n\n"
-    },
-    {
-      "figure_caption": "\nFigure 2: Malan’s two triangles - the triangle of conflict and the triangle of person.\nThe two triangles (Malan, 1995) represent what David Malan called “the universal principle of psychodynamic psychotherapy”. That is, defenses (D) and anxieties (A) can block the expression of true feelings (F). These patterns began with past persons (P), are maintained with current persons (C), and are often enacted with the therapist (T).\n  Download full-size image\nDOI: 10.7717/peerj.102/fig-2\n\n"
-    },
-    {
-      "figure_caption": "\nFigure 3: Weekly PHQ-9 and GAD-7 scores.\nWeekly scores on the PHQ-9 and the GAD-7 for both groups. Vertical bars denote 95% confidence intervals (CI). PHQ-9: 9-item Patient Health Questionnaire Depression Scale; GAD-7: 7-item Generalized Anxiety Disorder Scale.\n  Download full-size image\nDOI: 10.7717/peerj.102/fig-3\n\n"
-    },
-    {
-      "fig-3-full.png": "0146a2e575c584b50ab4832654e97a96"
-    },
-    {
-      "fig-1-full.png": "c72e8d96d4bda0fef5f986543c7a5970"
-    },
-    {
-      "rendered.html": "4461035334376c3cc6b33d56467df660"
-    },
-    {
-      "102.pdf": "8e2c1cb94b99943cc618c437f8fd1618"
-    },
-    {
-      "102": "460e830d7dd7a3f929828342b9b6f12b"
-    },
-    {
-      "S2_trial_protocol.pdf": "26787550a80a05fc451d245fb7107183"
-    },
-    {
-      "S1_CONSORT_checklist.pdf": "eef414787965a937fc479d31f86a9541"
-    },
-    {
-      "fig-2-full.png": "9072aa50632170a8558ee1bd2d086e38"
-    }
-  ],
-  "https://peerj.com/articles/234/": [
-    {
-      "publisher": "PeerJ Inc."
-    },
-    {
-      "journal": "PeerJ"
-    },
-    {
-      "title": "A new specimen of the Early Cretaceous bird Hongshanornis longicresta: insights into the aerodynamics and diet of a basal ornithuromorph"
-    },
-    {
-      "authors": "Luis M. Chiappe"
-    },
-    {
-      "authors": "Bo Zhao"
-    },
-    {
-      "authors": "Jingmai K. O’Connor"
-    },
-    {
-      "authors": "Gao Chunling"
-    },
-    {
-      "authors": "Xuri Wang"
-    },
-    {
-      "authors": "Michael Habib"
-    },
-    {
-      "authors": "Jesus Marugan-Lobon"
-    },
-    {
-      "authors": "Qingjin Meng"
-    },
-    {
-      "authors": "Xiaodong Cheng"
-    },
-    {
-      "date": "2014-01-02"
-    },
-    {
-      "doi": "10.7717/peerj.234"
-    },
-    {
-      "volume": "2"
-    },
-    {
-      "firstpage": "e234"
-    },
-    {
-      "description": "The discovery of Hongshanornis longicresta, a small ornithuromorph bird with unusually long hindlimb proportions, was followed by the discovery of two closely related species, Longicrusavis houi and Parahongshanornis chaoyangensis. Together forming the Hongshanornithidae, these species reveal important information about the early diversity and morphological specialization of ornithuromorphs, the clade that contains all living birds. Here we report on a new specimen (DNHM D2945/6) referable to Hongshanornis longicresta that contributes significant information to better understand the morphology, trophic ecology, and aerodynamics of this species, as well as the taxonomy of the Hongshanornithidae. Most notable are the well-preserved wings and feathered tail of DNHM D2945/6, which afford an accurate reconstruction of aerodynamic parameters indicating that as early as 125 million years ago, basal ornithuromorphs had evolved aerodynamic surfaces comparable in size and design to those of many modern birds, and flight modes alike to those of some small living birds."
-    },
-    {
-      "abstract": "The discovery of Hongshanornis longicresta, a small ornithuromorph bird with unusually long hindlimb proportions, was followed by the discovery of two closely related species, Longicrusavis houi and Parahongshanornis chaoyangensis. Together forming the Hongshanornithidae, these species reveal important information about the early diversity and morphological specialization of ornithuromorphs, the clade that contains all living birds. Here we report on a new specimen (DNHM D2945/6) referable to Hongshanornis longicresta that contributes significant information to better understand the morphology, trophic ecology, and aerodynamics of this species, as well as the taxonomy of the Hongshanornithidae. Most notable are the well-preserved wings and feathered tail of DNHM D2945/6, which afford an accurate reconstruction of aerodynamic parameters indicating that as early as 125 million years ago, basal ornithuromorphs had evolved aerodynamic surfaces comparable in size and design to those of many modern birds, and flight modes alike to those of some small living birds."
-    },
-    {
-      "fulltext_html": "https://peerj.com/articles/234"
-    },
-    {
-      "fulltext_pdf": "https://peerj.com/articles/234.pdf"
-    },
-    {
-      "figure": "https://dfzljdn9uc3pi.cloudfront.net/2014/234/1/fig-1-full.png"
-    },
-    {
-      "figure": "https://dfzljdn9uc3pi.cloudfront.net/2014/234/1/fig-2-full.png"
-    },
-    {
-      "figure": "https://dfzljdn9uc3pi.cloudfront.net/2014/234/1/fig-3-full.png"
-    },
-    {
-      "figure": "https://dfzljdn9uc3pi.cloudfront.net/2014/234/1/fig-4-full.png"
-    },
-    {
-      "figure": "https://dfzljdn9uc3pi.cloudfront.net/2014/234/1/fig-5-full.png"
-    },
-    {
-      "figure": "https://dfzljdn9uc3pi.cloudfront.net/2014/234/1/fig-6-full.png"
-    },
-    {
-      "figure": "https://dfzljdn9uc3pi.cloudfront.net/2014/234/1/fig-7-full.png"
-    },
-    {
-      "figure": "https://dfzljdn9uc3pi.cloudfront.net/2014/234/1/fig-8-full.png"
-    },
-    {
-      "figure": "https://dfzljdn9uc3pi.cloudfront.net/2014/234/1/fig-9-full.png"
-    },
-    {
-      "figure": "https://dfzljdn9uc3pi.cloudfront.net/2014/234/1/fig-10-full.png"
-    },
-    {
-      "figure": "https://dfzljdn9uc3pi.cloudfront.net/2014/234/1/fig-11-full.png"
-    },
-    {
-      "figure_caption": "\nFigure 1: Photograph of DNHM D2945.\nRed and white arrows point at the maximum extent of the primary and secondary feathers of the wing.\n  Download full-size image\nDOI: 10.7717/peerj.234/fig-1\n\n"
-    },
-    {
-      "figure_caption": "\nFigure 2: Interpretive drawing of DNHM D2945.\nAbbreviations: ce, cervical vertebrae; co, coracoid; fe, femur; fi, fibula; fu, furcula; gl, gastroliths; hu, humerus; il, ilium; mc, metacarpals; mt, metatarsals; pt, proximal tarsals; pu, pubis; ra, radius; rb, ribs; re, rectrices; sc, scapula; sy, synsacrum; ti, tibia; ul, ulna; I–IV, digits (manual or pedal) I–IV. Numbers in inset (close up of gastrolith cluster) refer to those in Table 2.\n  Download full-size image\nDOI: 10.7717/peerj.234/fig-2\n\n"
-    },
-    {
-      "figure_caption": "\nFigure 3: Photograph of DNHM D2946.\nRed and white arrows point at the maximum extent of the primary and secondary feathers of the wing.\n  Download full-size image\nDOI: 10.7717/peerj.234/fig-3\n\n"
-    },
-    {
-      "figure_caption": "\nFigure 4: Interpretive drawing of DNHM D2946.\nAbbreviations: ce, cervical vertebrae; co, coracoid; fe, femur; fi, fibula; fu, furcula; gl, gastroliths; hu, humerus; il, ilium; mc, metacarpals; mt, metatarsals; pu, pubis; ra, radius; rb, ribs; re, rectrices; sc, scapula; st, sternum; sy, synsacrum; ti, tibia; ul, ulna; I–IV, digits (manual or pedal) I–IV. Numbers in inset (close up of gastrolith cluster) refer to those in Table 2.\n  Download full-size image\nDOI: 10.7717/peerj.234/fig-4\n\n"
-    },
-    {
-      "figure_caption": "\nFigure 5: Close up photograph of the skull of DNHM D2945 in right lateral view and detail (inset) of the central portion of its maxilla.\nAbbreviations: al, alveoli.\n  Download full-size image\nDOI: 10.7717/peerj.234/fig-5\n\n"
-    },
-    {
-      "figure_caption": "\nFigure 6: Photograph (A) and interpretive drawing (B) of the thoracic girdle and vertebral series, rib cage, and humeri of DNHM D2946.\nAbbreviations: co, coracoid; fu, furcula; hu, humerus; lt, lateral trabecular; ra, radius; rb, ribs; sc, scapula; sp, supracondylar process; st, sternum; up, uncinate process.\n  Download full-size image\nDOI: 10.7717/peerj.234/fig-6\n\n"
-    },
-    {
-      "figure_caption": "\nFigure 7: Photograph of the left manus of DNHM D2945/6 in ventral (A; DNHM D2945) and dorsal (B; DNHM D2946) views.\nAbbreviations: mc I-III, metacarpals I-III; p1-I, phalanx 1 (proximal) of digit I (alular digit); p2-I, phalanx 2 (ungual) of digit I (alular digit); p1-II, phalanx 1 (proximal) of digit II (major digit); p2-II, phalanx 2 (intermediate) of digit II (major digit); p3-II, phalanx 3 (ungual) of digit II (major digit); p1-III, phalanx 1 (proximal) of digit III (minor digit); p2-III, phalanx 2 of digit III (minor digit); ra, radius; sl, semilunate carpal; ul, ulna.\n  Download full-size image\nDOI: 10.7717/peerj.234/fig-7\n\n"
-    },
-    {
-      "figure_caption": "\nFigure 8: Close up photograph of the right knee (medial view) and pubic symphysis (left laterocaudal view) of DNHM D2946.\nNote the detail of the gastroliths. Abbreviations: fe, femur; fi, fibula; gl, gastroliths, pu, pubis; ti, tibia. (l) and (r) refer to the left and right pubis, respectively.\n  Download full-size image\nDOI: 10.7717/peerj.234/fig-8\n\n"
-    },
-    {
-      "figure_caption": "\nFigure 9: Close up photograph of the left knee (lateral view) of DNHM D2946.\nAbbreviations: cn, cnemial crest; fc, fibular condyle; fe, femur; fi, fibula; ld, lateral articular facet of tibia; md, medial articular facet of tibia; ti, tibia.\n  Download full-size image\nDOI: 10.7717/peerj.234/fig-9\n\n"
-    },
-    {
-      "figure_caption": "\nFigure 10: Close up photograph of the feet and rectrices of DNHM D2945.\nAbbreviations: mt, metatarsals; re, rectrices; I-IV, digits I-IV.\n  Download full-size image\nDOI: 10.7717/peerj.234/fig-10\n\n"
-    },
-    {
-      "figure_caption": "\nFigure 11: Interpretive drawing of the outline of the wings and feathered tail of DNHM D2945/6 (see Figs. 1 and 3 for the maximum extent of the primaries and secondaries).\nThe aerodynamic parameters used in this study were derived from this reconstruction (see Materials and Methods).\n  Download full-size image\nDOI: 10.7717/peerj.234/fig-11\n\n"
-    },
-    {
-      "fig-4-full.png": "9e43600b181b87de53f52d1ee145aec8"
-    },
-    {
-      "fig-3-full.png": "165114a6bd917393af1c628e4f15cc23"
-    },
-    {
-      "fig-7-full.png": "7040496f9de9004852cf2bae90034fe7"
-    },
-    {
-      "fig-9-full.png": "3d3868736ac56e4f2e8e6395d05df051"
-    },
-    {
-      "fig-10-full.png": "d3d1eadb360073c696eef317130004e8"
-    },
-    {
-      "234": "9be160e6461eae366392ccc3945e7070"
-    },
-    {
-      "fig-1-full.png": "5870a310df205fb7216bd358568a11d9"
-    },
-    {
-      "fig-6-full.png": "28860f72dcafe1bae43e29c49374e644"
-    },
-    {
-      "rendered.html": "9baf1d55e8d7429ee2d6349afd8ab221"
-    },
-    {
-      "fig-11-full.png": "0ce3c5edbe7822a1c6b5ea26f6cfd1c4"
-    },
-    {
-      "234.pdf": "3aa12392730333dd193322c7fb7ac72c"
-    },
-    {
-      "fig-8-full.png": "73da14b5d45b36d95a9fa8a206651336"
-    },
-    {
-      "fig-5-full.png": "95ed20e2b3abffa642caccf50c73941d"
-    },
-    {
-      "fig-2-full.png": "af0dbb6dbbdd9dc38ba8fdb5a4409d26"
-    }
-  ],
-  "https://peerj.com/articles/275/": [
-    {
-      "publisher": "PeerJ Inc."
-    },
-    {
-      "journal": "PeerJ"
-    },
-    {
-      "title": "Spectral characteristics of the mutant form GGBP/H152C of D-glucose/D-galactose-binding protein labeled with fluorescent dye BADAN: influence of external factors"
-    },
-    {
-      "authors": "Alexander V. Fonin"
-    },
-    {
-      "authors": "Olga V. Stepanenko"
-    },
-    {
-      "authors": "Olga I. Povarova"
-    },
-    {
-      "authors": "Catherine A. Volova"
-    },
-    {
-      "authors": "Elizaveta M. Philippova"
-    },
-    {
-      "authors": "Grigory S. Bublikov"
-    },
-    {
-      "authors": "Irina M. Kuznetsova"
-    },
-    {
-      "authors": "Alexander P. Demchenko"
-    },
-    {
-      "authors": "Konstantin K. Turoverov"
-    },
-    {
-      "date": "2014-03-18"
-    },
-    {
-      "doi": "10.7717/peerj.275"
-    },
-    {
-      "volume": "2"
-    },
-    {
-      "firstpage": "e275"
-    },
-    {
-      "description": "The mutant form GGBP/H152C of the D-glucose/D-galactose-binding protein with the solvatochromic dye BADAN linked to cysteine residue Cys 152 can be used as a potential base for a sensitive element of glucose biosensor system. We investigated the influence of various external factors on the physical-chemical properties of GGBP/H152C-BADAN and its complex with glucose. The high affinity (Kd = 8.5 µM) and high binding rate of glucose make GGBP/H152C-BADAN a good candidate to determine the sugar content in biological fluids extracted using transdermal techniques. It was shown that changes in the ionic strength and pH of solution within the physiological range did not have a significant influence on the fluorescent characteristics of GGBP/H152C-BADAN. The mutant form GGBP/H152C has relatively low resistance to denaturation action of GdnHCl and urea. This result emphasizes the need to find more stable proteins for the creation of a sensitive element for a glucose biosensor system."
-    },
-    {
-      "abstract": "The mutant form GGBP/H152C of the D-glucose/D-galactose-binding protein with the solvatochromic dye BADAN linked to cysteine residue Cys 152 can be used as a potential base for a sensitive element of glucose biosensor system. We investigated the influence of various external factors on the physical-chemical properties of GGBP/H152C-BADAN and its complex with glucose. The high affinity (Kd = 8.5 µM) and high binding rate of glucose make GGBP/H152C-BADAN a good candidate to determine the sugar content in biological fluids extracted using transdermal techniques. It was shown that changes in the ionic strength and pH of solution within the physiological range did not have a significant influence on the fluorescent characteristics of GGBP/H152C-BADAN. The mutant form GGBP/H152C has relatively low resistance to denaturation action of GdnHCl and urea. This result emphasizes the need to find more stable proteins for the creation of a sensitive element for a glucose biosensor system."
-    },
-    {
-      "fulltext_html": "https://peerj.com/articles/275"
-    },
-    {
-      "fulltext_pdf": "https://peerj.com/articles/275.pdf"
-    },
-    {
-      "figure": "https://dfzljdn9uc3pi.cloudfront.net/2014/275/1/fig-1-full.png"
-    },
-    {
-      "figure": "https://dfzljdn9uc3pi.cloudfront.net/2014/275/1/fig-2-full.png"
-    },
-    {
-      "figure": "https://dfzljdn9uc3pi.cloudfront.net/2014/275/1/fig-3-full.png"
-    },
-    {
-      "figure": "https://dfzljdn9uc3pi.cloudfront.net/2014/275/1/fig-4-full.png"
-    },
-    {
-      "figure": "https://dfzljdn9uc3pi.cloudfront.net/2014/275/1/fig-5-full.png"
-    },
-    {
-      "figure": "https://dfzljdn9uc3pi.cloudfront.net/2014/275/1/fig-6-full.png"
-    },
-    {
-      "figure": "https://dfzljdn9uc3pi.cloudfront.net/2014/275/1/fig-7-full.png"
-    },
-    {
-      "figure_caption": "\nFigure 1: Determination of the dissociation constant (Kd) of the complex of GGBP/H152C-BADAN with glucose (Glc).\nThe excitation wavelength was 387 nm, the emission wavelength was 545 nm.\n  Download full-size image\nDOI: 10.7717/peerj.275/fig-1\n\n"
-    },
-    {
-      "figure_caption": "\nFigure 2: The kinetics of Glc binding to GGBP/H152C-BADAN in solutions with different viscosities.\nGlc concentration was 20 mM. The excitation wavelength was 405 nm. Curve 1, 2 and 3 represents the control, Glc binding to GGBP/H152C-BADAN in a PBS solution, and in PBS-glycerol solution with viscosity equal to 4.0 cP. Inset: The kinetic curves 1 and 2 in interval from 0.01 to 0.08 s are given.\n  Download full-size image\nDOI: 10.7717/peerj.275/fig-2\n\n"
-    },
-    {
-      "figure_caption": "\nFigure 3: The effect of solvent viscosity and temperature on the fluorescence quantum yield of the GGBP/H152C-BADAN in the open (circles) and closed (triangles) forms.\nThe excitation wavelength was 387 nm.\n  Download full-size image\nDOI: 10.7717/peerj.275/fig-3\n\n"
-    },
-    {
-      "figure_caption": "\nFigure 4: GdnHCl-induced (A, B) and urea-induced (C, D) conformational changing of GGBP/H152C-BADAN structure in open (circles) and closed forms (triangles).\n(A) and (C) represents the dependence of the fluorescence intensity (the excitation wavelength was 387 nm, the emission wavelength was 545 nm) on the denaturants concentration. (B) and (D) represents the dependence of the parameter A = I320/I365 (I320 and I365 fluorescence intensities recorded at 320 and 365 nm, respectively) on the denaturants concentration (the excitation wavelength was 297 nm).\n  Download full-size image\nDOI: 10.7717/peerj.275/fig-4\n\n"
-    },
-    {
-      "figure_caption": "\nFigure 5: Changes of ellipticity at 222 nm of GGBP/H152C-BADAN and GGBP/H152C-BADAN–Glc on the GdnHCl concentration.\n\n  Download full-size image\nDOI: 10.7717/peerj.275/fig-5\n\n"
-    },
-    {
-      "figure_caption": "\nFigure 6: The effect of the pH solution on the fluorescent characteristics of GGBP/H152C-BADAN in the open (the solid curves) and closed (the dashed curves) forms.\n(A) The excitation wavelength was 297 nm. (B) The excitation wavelength was 387 nm. The pH values of the solution were 2.8 (black curves), 4.2 (red curves), 6.4 (blue curves), 7.4 (dark green curves) and 9.6 (dark red curves).\n  Download full-size image\nDOI: 10.7717/peerj.275/fig-6\n\n"
-    },
-    {
-      "figure_caption": "\nFigure 7: The effect of NaCl and MgCl2 on the fluorescent characteristics of GGBP/H152C-BADAN in open (solid curves) and closed (dashed curves) forms.\n(A) Fluorescence spectra of GGBP/H152C-BADAN in solutions with 0.8 M NaCl (red curve) and 2.5 M NaCl (blue curve). (B) Fluorescence spectra of GGBP/H152C-BADAN in solutions with 0.1 M MgCl2 (red curve) and 0.5 M MgCl2 (blue curve). The fluorescence spectra of GGBP/H152C-BADAN in PBS solution appear in black. (The excitation wavelength was 387 nm.)\n  Download full-size image\nDOI: 10.7717/peerj.275/fig-7\n\n"
-    },
-    {
-      "fig-4-full.png": "e3ea581b9d3ae478cc5c7e3c630576e8"
-    },
-    {
-      "fig-3-full.png": "c41e4a8c837cfe6aeabff81982844a98"
-    },
-    {
-      "fig-7-full.png": "b76d31a596a07e5ef4fe238d687c5729"
-    },
-    {
-      "275.pdf": "6b554c704f1ed7a8129863a2869036eb"
-    },
-    {
-      "fig-1-full.png": "3698cf17a11ba9ef9183634bd3801b49"
-    },
-    {
-      "fig-6-full.png": "fff6b0de359e83441f6b5838d862fd93"
-    },
-    {
-      "rendered.html": "30d93308f1f8fa6d21f202254c6fa516"
-    },
-    {
-      "275": "c067c205f735cbb13d14a7771502cc30"
-    },
-    {
-      "fig-5-full.png": "97904c56a6215db7065fd1830624f708"
-    },
-    {
-      "fig-2-full.png": "90442c7e0490029e4d59193979537f6a"
-    }
-  ],
-  "https://peerj.com/articles/311/": [
-    {
-      "publisher": "PeerJ Inc."
-    },
-    {
-      "journal": "PeerJ"
-    },
-    {
-      "title": "Religious attendance after elevated depressive symptoms: is selection bias at work?"
-    },
-    {
-      "authors": "Lloyd Balbuena"
-    },
-    {
-      "authors": "Marilyn Baetz"
-    },
-    {
-      "authors": "Rudy Bowen"
-    },
-    {
-      "date": "2014-03-13"
-    },
-    {
-      "doi": "10.7717/peerj.311"
-    },
-    {
-      "volume": "2"
-    },
-    {
-      "firstpage": "e311"
-    },
-    {
-      "description": "In an attempt to determine if selection bias could be a reason that religious attendance and depression are related, the predictive value of elevated depressive symptoms for a decrease in future attendance at religious services was examined in a longitudinal panel of 1,673 Dutch adults. Religious attendance was assessed yearly over five years using the single question, “how often do you attend religious gatherings nowadays?” Depressive symptoms were assessed four times within the first year using the Depression subscale of the Brief Symptom Inventory. Logistic regression models of change in attendance were created, stratifying by baseline attendance status. Attenders who developed elevated symptoms were less likely to subsequently decrease their attendance (relative risk ratio: 0.55, 95% CI [0.38–0.79]) relative to baseline as compared to those without elevated symptoms. This inverse association remained significant after controlling for health and demographic covariates, and when using multiply imputed data to account for attrition. Non-attenders were unlikely to start attending after elevated depressive symptoms. This study provides counter evidence against previous findings that church attenders are a self-selected healthier group."
-    },
-    {
-      "abstract": "In an attempt to determine if selection bias could be a reason that religious attendance and depression are related, the predictive value of elevated depressive symptoms for a decrease in future attendance at religious services was examined in a longitudinal panel of 1,673 Dutch adults. Religious attendance was assessed yearly over five years using the single question, “how often do you attend religious gatherings nowadays?” Depressive symptoms were assessed four times within the first year using the Depression subscale of the Brief Symptom Inventory. Logistic regression models of change in attendance were created, stratifying by baseline attendance status. Attenders who developed elevated symptoms were less likely to subsequently decrease their attendance (relative risk ratio: 0.55, 95% CI [0.38–0.79]) relative to baseline as compared to those without elevated symptoms. This inverse association remained significant after controlling for health and demographic covariates, and when using multiply imputed data to account for attrition. Non-attenders were unlikely to start attending after elevated depressive symptoms. This study provides counter evidence against previous findings that church attenders are a self-selected healthier group."
-    },
-    {
-      "fulltext_html": "https://peerj.com/articles/311"
-    },
-    {
-      "fulltext_pdf": "https://peerj.com/articles/311.pdf"
-    },
-    {
-      "figure": "https://dfzljdn9uc3pi.cloudfront.net/2014/311/1/fig-1-full.png"
-    },
-    {
-      "figure": "https://dfzljdn9uc3pi.cloudfront.net/2014/311/1/fig-2-full.png"
-    },
-    {
-      "figure_caption": "\nFigure 1: Subjects.\n(A) LISS datasets used and participant flowchart; (B) schedule of religion and depression assessments.\n  Download full-size image\nDOI: 10.7717/peerj.311/fig-1\n\n"
-    },
-    {
-      "figure_caption": "\nFigure 2: Probabilities.\nPredicted probabilities of a decrease, same, and increase in religious attendance (95% CI).\n  Download full-size image\nDOI: 10.7717/peerj.311/fig-2\n\n"
-    },
-    {
-      "311.pdf": "8aa4a538c24c0f3bfcc8b9fa5cd63d7c"
-    },
-    {
-      "fig-1-full.png": "3ff19ca931ac3850d2e6d045efb5d213"
-    },
-    {
-      "311": "7c457cc73a24cb05df634e0d01dbe561"
-    },
-    {
-      "rendered.html": "9d3054adc95559f5e507e87f2c2f2ae0"
-    },
-    {
-      "fig-2-full.png": "b6a99fff0a72af9fde1e550f80d43799"
-    }
-  ],
-  "https://peerj.com/articles/384/": [
-    {
-      "publisher": "PeerJ Inc."
-    },
-    {
-      "journal": "PeerJ"
-    },
-    {
-      "title": "Mutation analysis of the SLC26A4, FOXI1 and KCNJ10 genes in individuals with congenital hearing loss"
-    },
-    {
-      "authors": "Lynn M. Pique"
-    },
-    {
-      "authors": "Marie-Luise Brennan"
-    },
-    {
-      "authors": "Colin J. Davidson"
-    },
-    {
-      "authors": "Frederick Schaefer"
-    },
-    {
-      "authors": "John Greinwald Jr"
-    },
-    {
-      "authors": "Iris Schrijver"
-    },
-    {
-      "date": "2014-05-08"
-    },
-    {
-      "doi": "10.7717/peerj.384"
-    },
-    {
-      "volume": "2"
-    },
-    {
-      "firstpage": "e384"
-    },
-    {
-      "description": "Pendred syndrome (PDS) and DFNB4 comprise a phenotypic spectrum of sensorineural hearing loss disorders that typically result from biallelic mutations of the SLC26A4 gene. Although PDS and DFNB4 are recessively inherited, sequencing of the coding regions and splice sites of SLC26A4 in individuals suspected to be affected with these conditions often fails to identify two mutations. We investigated the potential contribution of large SLC26A4 deletions and duplications to sensorineural hearing loss (SNHL) by screening 107 probands with one known SLC26A4 mutation by Multiplex Ligation-dependent Probe Amplification (MLPA). A heterozygous deletion, spanning exons 4–6, was detected in only one individual, accounting for approximately 1% of the missing mutations in our cohort. This low frequency is consistent with previously published MLPA results. We also examined the potential involvement of digenic inheritance in PDS/DFNB4 by sequencing the coding regions of FOXI1 and KCNJ10. Of the 29 probands who were sequenced, three carried nonsynonymous variants including one novel sequence change in FOXI1 and two polymorphisms in KCNJ10. We performed a review of prior studies and, in conjunction with our current data, conclude that the frequency of FOXI1 (1.4%) and KCNJ10 (3.6%) variants in PDS/DFNB4 individuals is low. Our results, in combination with previously published reports, indicate that large SLC26A4 deletions and duplications as well as mutations of FOXI1 and KCNJ10 play limited roles in the pathogenesis of SNHL and suggest that other genetic factors likely contribute to the phenotype."
-    },
-    {
-      "abstract": "Pendred syndrome (PDS) and DFNB4 comprise a phenotypic spectrum of sensorineural hearing loss disorders that typically result from biallelic mutations of the SLC26A4 gene. Although PDS and DFNB4 are recessively inherited, sequencing of the coding regions and splice sites of SLC26A4 in individuals suspected to be affected with these conditions often fails to identify two mutations. We investigated the potential contribution of large SLC26A4 deletions and duplications to sensorineural hearing loss (SNHL) by screening 107 probands with one known SLC26A4 mutation by Multiplex Ligation-dependent Probe Amplification (MLPA). A heterozygous deletion, spanning exons 4–6, was detected in only one individual, accounting for approximately 1% of the missing mutations in our cohort. This low frequency is consistent with previously published MLPA results. We also examined the potential involvement of digenic inheritance in PDS/DFNB4 by sequencing the coding regions of FOXI1 and KCNJ10. Of the 29 probands who were sequenced, three carried nonsynonymous variants including one novel sequence change in FOXI1 and two polymorphisms in KCNJ10. We performed a review of prior studies and, in conjunction with our current data, conclude that the frequency of FOXI1 (1.4%) and KCNJ10 (3.6%) variants in PDS/DFNB4 individuals is low. Our results, in combination with previously published reports, indicate that large SLC26A4 deletions and duplications as well as mutations of FOXI1 and KCNJ10 play limited roles in the pathogenesis of SNHL and suggest that other genetic factors likely contribute to the phenotype."
-    },
-    {
-      "fulltext_html": "https://peerj.com/articles/384"
-    },
-    {
-      "fulltext_pdf": "https://peerj.com/articles/384.pdf"
-    },
-    {
-      "figure": "https://dfzljdn9uc3pi.cloudfront.net/2014/384/1/fig-1-full.png"
-    },
-    {
-      "figure_caption": "\nFigure 1: Identification of the heterozygous SLC26A4 deletion g.8091T-22145Cdel in subject PDS41.\n(A) The SLC26A4 MLPA probe mix includes probes for the 21 SLC26A4 exons, 14 reference probes and three probes specific for the point mutations c.1001+1G>A (IV S8+1G>A), c.707T>C (p.Leu236Pro) and c.1246A>C (p.Thr416Pro). Subject PDS41 is heterozygous for a deletion (g.8091T-22145Cdel) spanning exons 4–6 in SLC26A4, as evidenced by the reproducible reduction in peak height for these three exon probes (peaks labeled 4, 5, 6) relative to the control. PDS41 also has a heterozygous c.1246A>C (p.Thr416Pro) mutation that was previously identified by sequencing and confirmed by these MLPA results (peak labeled p.T416P). (B) Sequencing chromatogram of the deletion breakpoints in SLC26A4 IVS3 and IVS6. The deletion removes a total of 14,053 bp. IVS, intervening sequence.\n  Download full-size image\nDOI: 10.7717/peerj.384/fig-1\n\n"
-    },
-    {
-      "fig-1-full.png": "6ee6bf8676df1087e9d724bfdc9178e8"
-    },
-    {
-      "rendered.html": "96b5f65a07b9df06ab331f682f347d53"
-    },
-    {
-      "384.pdf": "b2020a8f8037228e6face4a220751932"
-    },
-    {
-      "384": "003b6f777ee95fffaf497181c427420b"
-    }
-  ]
+  "https://peerj.com/articles/102/": {
+    "publisher": {
+      "value": [
+        "PeerJ Inc."
+      ]
+    },
+    "journal": {
+      "value": [
+        "PeerJ"
+      ]
+    },
+    "title": {
+      "value": [
+        "Affect-focused psychodynamic psychotherapy for depression and anxiety through the Internet: a randomized controlled trial"
+      ]
+    },
+    "authors": {
+      "value": [
+        "Robert Johansson",
+        "Martin Björklund",
+        "Christoffer Hornborg",
+        "Stina Karlsson",
+        "Hugo Hesser",
+        "Brjánn Ljótsson",
+        "Andréas Rousseau",
+        "Ronald J. Frederick",
+        "Gerhard Andersson"
+      ]
+    },
+    "date": {
+      "value": [
+        "2013-07-09"
+      ]
+    },
+    "doi": {
+      "value": [
+        "10.7717/peerj.102"
+      ]
+    },
+    "volume": {
+      "value": [
+        "1"
+      ]
+    },
+    "issue": {
+      "value": [
+
+      ]
+    },
+    "firstpage": {
+      "value": [
+        "e102"
+      ]
+    },
+    "description": {
+      "value": [
+        "Background. Psychodynamic psychotherapy is a psychological treatment approach that has a growing empirical base. Research has indicated an association between therapist-facilitated affective experience and outcome in psychodynamic therapy. Affect-phobia therapy (APT), as outlined by McCullough et al., is a psychodynamic treatment that emphasizes a strong focus on expression and experience of affect. This model has neither been evaluated for depression nor anxiety disorders in a randomized controlled trial. While Internet-delivered psychodynamic treatments for depression and generalized anxiety disorder exist, they have not been based on APT. The aim of this randomized controlled trial was to investigate the efficacy of an Internet-based, psychodynamic, guided self-help treatment based on APT for depression and anxiety disorders.Methods. One hundred participants with diagnoses of mood and anxiety disorders participated in a randomized (1:1 ratio) controlled trial of an active group versus a control condition. The treatment group received a 10-week, psychodynamic, guided self-help treatment based on APT that was delivered through the Internet. The treatment consisted of eight text-based treatment modules and included therapist contact (9.5 min per client and week, on average) in a secure online environment. Participants in the control group also received online therapist support and clinical monitoring of symptoms, but received no treatment modules. Outcome measures were the 9-item Patient Health Questionnaire Depression Scale (PHQ-9) and the 7-item Generalized Anxiety Disorder Scale (GAD-7). Process measures were also included. All measures were administered weekly during the treatment period and at a 7-month follow-up.Results. Mixed models analyses using the full intention-to-treat sample revealed significant interaction effects of group and time on all outcome measures, when comparing treatment to the control group. A large between-group effect size of Cohen’s d = 0.77 (95% CI: 0.37–1.18) was found on the PHQ-9 and a moderately large between-group effect size d = 0.48 (95% CI: 0.08–0.87) was found on the GAD-7. The number of patients who recovered (had no diagnoses of depression and anxiety, and had less than 10 on both the PHQ-9 and the GAD-7) were at post-treatment 52% in the treatment group and 24% in the control group. This difference was significant, χ2(N = 100, d f = 1) = 8.3, p < .01. From post-treatment to follow-up, treatment gains were maintained on the PHQ-9, and significant improvements were seen on the GAD-7.Conclusion. This study provides initial support for the efficacy of Internet-delivered psychodynamic therapy based on the affect-phobia model in the treatment of depression and anxiety disorders. The results support the conclusion that psychodynamic treatment approaches may be transferred to the guided self-help format and delivered via the Internet."
+      ]
+    },
+    "abstract": {
+      "value": [
+        "Background. Psychodynamic psychotherapy is a psychological treatment approach that has a growing empirical base. Research has indicated an association between therapist-facilitated affective experience and outcome in psychodynamic therapy. Affect-phobia therapy (APT), as outlined by McCullough et al., is a psychodynamic treatment that emphasizes a strong focus on expression and experience of affect. This model has neither been evaluated for depression nor anxiety disorders in a randomized controlled trial. While Internet-delivered psychodynamic treatments for depression and generalized anxiety disorder exist, they have not been based on APT. The aim of this randomized controlled trial was to investigate the efficacy of an Internet-based, psychodynamic, guided self-help treatment based on APT for depression and anxiety disorders.Methods. One hundred participants with diagnoses of mood and anxiety disorders participated in a randomized (1:1 ratio) controlled trial of an active group versus a control condition. The treatment group received a 10-week, psychodynamic, guided self-help treatment based on APT that was delivered through the Internet. The treatment consisted of eight text-based treatment modules and included therapist contact (9.5 min per client and week, on average) in a secure online environment. Participants in the control group also received online therapist support and clinical monitoring of symptoms, but received no treatment modules. Outcome measures were the 9-item Patient Health Questionnaire Depression Scale (PHQ-9) and the 7-item Generalized Anxiety Disorder Scale (GAD-7). Process measures were also included. All measures were administered weekly during the treatment period and at a 7-month follow-up.Results. Mixed models analyses using the full intention-to-treat sample revealed significant interaction effects of group and time on all outcome measures, when comparing treatment to the control group. A large between-group effect size of Cohen’s d = 0.77 (95% CI: 0.37–1.18) was found on the PHQ-9 and a moderately large between-group effect size d = 0.48 (95% CI: 0.08–0.87) was found on the GAD-7. The number of patients who recovered (had no diagnoses of depression and anxiety, and had less than 10 on both the PHQ-9 and the GAD-7) were at post-treatment 52% in the treatment group and 24% in the control group. This difference was significant, χ2(N = 100, d f = 1) = 8.3, p < .01. From post-treatment to follow-up, treatment gains were maintained on the PHQ-9, and significant improvements were seen on the GAD-7.Conclusion. This study provides initial support for the efficacy of Internet-delivered psychodynamic therapy based on the affect-phobia model in the treatment of depression and anxiety disorders. The results support the conclusion that psychodynamic treatment approaches may be transferred to the guided self-help format and delivered via the Internet."
+      ]
+    },
+    "fulltext_html": {
+      "value": [
+        "https://peerj.com/articles/102"
+      ]
+    },
+    "fulltext_pdf": {
+      "value": [
+        "https://peerj.com/articles/102.pdf"
+      ]
+    },
+    "fulltext_xml": {
+      "value": [
+        "/articles/102.xml"
+      ]
+    },
+    "supplementary_material": {
+      "value": [
+        "https://dfzljdn9uc3pi.cloudfront.net/2013/102/1/S1_CONSORT_checklist.pdf",
+        "https://dfzljdn9uc3pi.cloudfront.net/2013/102/1/S2_trial_protocol.pdf"
+      ]
+    },
+    "figure": {
+      "value": [
+        "https://dfzljdn9uc3pi.cloudfront.net/2013/102/1/fig-1-full.png",
+        "https://dfzljdn9uc3pi.cloudfront.net/2013/102/1/fig-2-full.png",
+        "https://dfzljdn9uc3pi.cloudfront.net/2013/102/1/fig-3-full.png"
+      ]
+    },
+    "figure_caption": {
+      "value": [
+        "\nFigure 1: CONSORT flowchart.\n\n  Download full-size image\nDOI: 10.7717/peerj.102/fig-1\n\n",
+        "\nFigure 2: Malan’s two triangles - the triangle of conflict and the triangle of person.\nThe two triangles (Malan, 1995) represent what David Malan called “the universal principle of psychodynamic psychotherapy”. That is, defenses (D) and anxieties (A) can block the expression of true feelings (F). These patterns began with past persons (P), are maintained with current persons (C), and are often enacted with the therapist (T).\n  Download full-size image\nDOI: 10.7717/peerj.102/fig-2\n\n",
+        "\nFigure 3: Weekly PHQ-9 and GAD-7 scores.\nWeekly scores on the PHQ-9 and the GAD-7 for both groups. Vertical bars denote 95% confidence intervals (CI). PHQ-9: 9-item Patient Health Questionnaire Depression Scale; GAD-7: 7-item Generalized Anxiety Disorder Scale.\n  Download full-size image\nDOI: 10.7717/peerj.102/fig-3\n\n"
+      ]
+    },
+    "license": {
+      "value": [
+
+      ]
+    },
+    "copyright": {
+      "value": [
+
+      ]
+    },
+    "file_hashes": [
+      {
+        "fig-1-full.png": "c72e8d96d4bda0fef5f986543c7a5970"
+      },
+      {
+        "fig-2-full.png": "9072aa50632170a8558ee1bd2d086e38"
+      },
+      {
+        "fig-3-full.png": "0146a2e575c584b50ab4832654e97a96"
+      },
+      {
+        "fulltext.html": "63379447ccbb411a3b65c2c28efba3f9"
+      },
+      {
+        "fulltext.pdf": "8e2c1cb94b99943cc618c437f8fd1618"
+      },
+      {
+        "fulltext.xml": "19e85ee275fb13e0d50a9fbd8c6e5b56"
+      },
+      {
+        "S1_CONSORT_checklist.pdf": "eef414787965a937fc479d31f86a9541"
+      },
+      {
+        "S2_trial_protocol.pdf": "26787550a80a05fc451d245fb7107183"
+      }
+    ]
+  },
+  "https://peerj.com/articles/234/": {
+    "publisher": {
+      "value": [
+        "PeerJ Inc."
+      ]
+    },
+    "journal": {
+      "value": [
+        "PeerJ"
+      ]
+    },
+    "title": {
+      "value": [
+        "A new specimen of the Early Cretaceous bird Hongshanornis longicresta: insights into the aerodynamics and diet of a basal ornithuromorph"
+      ]
+    },
+    "authors": {
+      "value": [
+        "Luis M. Chiappe",
+        "Bo Zhao",
+        "Jingmai K. O’Connor",
+        "Gao Chunling",
+        "Xuri Wang",
+        "Michael Habib",
+        "Jesus Marugan-Lobon",
+        "Qingjin Meng",
+        "Xiaodong Cheng"
+      ]
+    },
+    "date": {
+      "value": [
+        "2014-01-02"
+      ]
+    },
+    "doi": {
+      "value": [
+        "10.7717/peerj.234"
+      ]
+    },
+    "volume": {
+      "value": [
+        "2"
+      ]
+    },
+    "issue": {
+      "value": [
+
+      ]
+    },
+    "firstpage": {
+      "value": [
+        "e234"
+      ]
+    },
+    "description": {
+      "value": [
+        "The discovery of Hongshanornis longicresta, a small ornithuromorph bird with unusually long hindlimb proportions, was followed by the discovery of two closely related species, Longicrusavis houi and Parahongshanornis chaoyangensis. Together forming the Hongshanornithidae, these species reveal important information about the early diversity and morphological specialization of ornithuromorphs, the clade that contains all living birds. Here we report on a new specimen (DNHM D2945/6) referable to Hongshanornis longicresta that contributes significant information to better understand the morphology, trophic ecology, and aerodynamics of this species, as well as the taxonomy of the Hongshanornithidae. Most notable are the well-preserved wings and feathered tail of DNHM D2945/6, which afford an accurate reconstruction of aerodynamic parameters indicating that as early as 125 million years ago, basal ornithuromorphs had evolved aerodynamic surfaces comparable in size and design to those of many modern birds, and flight modes alike to those of some small living birds."
+      ]
+    },
+    "abstract": {
+      "value": [
+        "The discovery of Hongshanornis longicresta, a small ornithuromorph bird with unusually long hindlimb proportions, was followed by the discovery of two closely related species, Longicrusavis houi and Parahongshanornis chaoyangensis. Together forming the Hongshanornithidae, these species reveal important information about the early diversity and morphological specialization of ornithuromorphs, the clade that contains all living birds. Here we report on a new specimen (DNHM D2945/6) referable to Hongshanornis longicresta that contributes significant information to better understand the morphology, trophic ecology, and aerodynamics of this species, as well as the taxonomy of the Hongshanornithidae. Most notable are the well-preserved wings and feathered tail of DNHM D2945/6, which afford an accurate reconstruction of aerodynamic parameters indicating that as early as 125 million years ago, basal ornithuromorphs had evolved aerodynamic surfaces comparable in size and design to those of many modern birds, and flight modes alike to those of some small living birds."
+      ]
+    },
+    "fulltext_html": {
+      "value": [
+        "https://peerj.com/articles/234"
+      ]
+    },
+    "fulltext_pdf": {
+      "value": [
+        "https://peerj.com/articles/234.pdf"
+      ]
+    },
+    "fulltext_xml": {
+      "value": [
+        "/articles/234.xml"
+      ]
+    },
+    "supplementary_material": {
+      "value": [
+
+      ]
+    },
+    "figure": {
+      "value": [
+        "https://dfzljdn9uc3pi.cloudfront.net/2014/234/1/fig-1-full.png",
+        "https://dfzljdn9uc3pi.cloudfront.net/2014/234/1/fig-2-full.png",
+        "https://dfzljdn9uc3pi.cloudfront.net/2014/234/1/fig-3-full.png",
+        "https://dfzljdn9uc3pi.cloudfront.net/2014/234/1/fig-4-full.png",
+        "https://dfzljdn9uc3pi.cloudfront.net/2014/234/1/fig-5-full.png",
+        "https://dfzljdn9uc3pi.cloudfront.net/2014/234/1/fig-6-full.png",
+        "https://dfzljdn9uc3pi.cloudfront.net/2014/234/1/fig-7-full.png",
+        "https://dfzljdn9uc3pi.cloudfront.net/2014/234/1/fig-8-full.png",
+        "https://dfzljdn9uc3pi.cloudfront.net/2014/234/1/fig-9-full.png",
+        "https://dfzljdn9uc3pi.cloudfront.net/2014/234/1/fig-10-full.png",
+        "https://dfzljdn9uc3pi.cloudfront.net/2014/234/1/fig-11-full.png"
+      ]
+    },
+    "figure_caption": {
+      "value": [
+        "\nFigure 1: Photograph of DNHM D2945.\nRed and white arrows point at the maximum extent of the primary and secondary feathers of the wing.\n  Download full-size image\nDOI: 10.7717/peerj.234/fig-1\n\n",
+        "\nFigure 2: Interpretive drawing of DNHM D2945.\nAbbreviations: ce, cervical vertebrae; co, coracoid; fe, femur; fi, fibula; fu, furcula; gl, gastroliths; hu, humerus; il, ilium; mc, metacarpals; mt, metatarsals; pt, proximal tarsals; pu, pubis; ra, radius; rb, ribs; re, rectrices; sc, scapula; sy, synsacrum; ti, tibia; ul, ulna; I–IV, digits (manual or pedal) I–IV. Numbers in inset (close up of gastrolith cluster) refer to those in Table 2.\n  Download full-size image\nDOI: 10.7717/peerj.234/fig-2\n\n",
+        "\nFigure 3: Photograph of DNHM D2946.\nRed and white arrows point at the maximum extent of the primary and secondary feathers of the wing.\n  Download full-size image\nDOI: 10.7717/peerj.234/fig-3\n\n",
+        "\nFigure 4: Interpretive drawing of DNHM D2946.\nAbbreviations: ce, cervical vertebrae; co, coracoid; fe, femur; fi, fibula; fu, furcula; gl, gastroliths; hu, humerus; il, ilium; mc, metacarpals; mt, metatarsals; pu, pubis; ra, radius; rb, ribs; re, rectrices; sc, scapula; st, sternum; sy, synsacrum; ti, tibia; ul, ulna; I–IV, digits (manual or pedal) I–IV. Numbers in inset (close up of gastrolith cluster) refer to those in Table 2.\n  Download full-size image\nDOI: 10.7717/peerj.234/fig-4\n\n",
+        "\nFigure 5: Close up photograph of the skull of DNHM D2945 in right lateral view and detail (inset) of the central portion of its maxilla.\nAbbreviations: al, alveoli.\n  Download full-size image\nDOI: 10.7717/peerj.234/fig-5\n\n",
+        "\nFigure 6: Photograph (A) and interpretive drawing (B) of the thoracic girdle and vertebral series, rib cage, and humeri of DNHM D2946.\nAbbreviations: co, coracoid; fu, furcula; hu, humerus; lt, lateral trabecular; ra, radius; rb, ribs; sc, scapula; sp, supracondylar process; st, sternum; up, uncinate process.\n  Download full-size image\nDOI: 10.7717/peerj.234/fig-6\n\n",
+        "\nFigure 7: Photograph of the left manus of DNHM D2945/6 in ventral (A; DNHM D2945) and dorsal (B; DNHM D2946) views.\nAbbreviations: mc I-III, metacarpals I-III; p1-I, phalanx 1 (proximal) of digit I (alular digit); p2-I, phalanx 2 (ungual) of digit I (alular digit); p1-II, phalanx 1 (proximal) of digit II (major digit); p2-II, phalanx 2 (intermediate) of digit II (major digit); p3-II, phalanx 3 (ungual) of digit II (major digit); p1-III, phalanx 1 (proximal) of digit III (minor digit); p2-III, phalanx 2 of digit III (minor digit); ra, radius; sl, semilunate carpal; ul, ulna.\n  Download full-size image\nDOI: 10.7717/peerj.234/fig-7\n\n",
+        "\nFigure 8: Close up photograph of the right knee (medial view) and pubic symphysis (left laterocaudal view) of DNHM D2946.\nNote the detail of the gastroliths. Abbreviations: fe, femur; fi, fibula; gl, gastroliths, pu, pubis; ti, tibia. (l) and (r) refer to the left and right pubis, respectively.\n  Download full-size image\nDOI: 10.7717/peerj.234/fig-8\n\n",
+        "\nFigure 9: Close up photograph of the left knee (lateral view) of DNHM D2946.\nAbbreviations: cn, cnemial crest; fc, fibular condyle; fe, femur; fi, fibula; ld, lateral articular facet of tibia; md, medial articular facet of tibia; ti, tibia.\n  Download full-size image\nDOI: 10.7717/peerj.234/fig-9\n\n",
+        "\nFigure 10: Close up photograph of the feet and rectrices of DNHM D2945.\nAbbreviations: mt, metatarsals; re, rectrices; I-IV, digits I-IV.\n  Download full-size image\nDOI: 10.7717/peerj.234/fig-10\n\n",
+        "\nFigure 11: Interpretive drawing of the outline of the wings and feathered tail of DNHM D2945/6 (see Figs. 1 and 3 for the maximum extent of the primaries and secondaries).\nThe aerodynamic parameters used in this study were derived from this reconstruction (see Materials and Methods).\n  Download full-size image\nDOI: 10.7717/peerj.234/fig-11\n\n"
+      ]
+    },
+    "license": {
+      "value": [
+
+      ]
+    },
+    "copyright": {
+      "value": [
+
+      ]
+    },
+    "file_hashes": [
+      {
+        "fig-1-full.png": "5870a310df205fb7216bd358568a11d9"
+      },
+      {
+        "fig-10-full.png": "d3d1eadb360073c696eef317130004e8"
+      },
+      {
+        "fig-11-full.png": "0ce3c5edbe7822a1c6b5ea26f6cfd1c4"
+      },
+      {
+        "fig-2-full.png": "af0dbb6dbbdd9dc38ba8fdb5a4409d26"
+      },
+      {
+        "fig-3-full.png": "165114a6bd917393af1c628e4f15cc23"
+      },
+      {
+        "fig-4-full.png": "9e43600b181b87de53f52d1ee145aec8"
+      },
+      {
+        "fig-5-full.png": "95ed20e2b3abffa642caccf50c73941d"
+      },
+      {
+        "fig-6-full.png": "28860f72dcafe1bae43e29c49374e644"
+      },
+      {
+        "fig-7-full.png": "7040496f9de9004852cf2bae90034fe7"
+      },
+      {
+        "fig-8-full.png": "73da14b5d45b36d95a9fa8a206651336"
+      },
+      {
+        "fig-9-full.png": "3d3868736ac56e4f2e8e6395d05df051"
+      },
+      {
+        "fulltext.html": "b4033b0dd05addef2c0d237438ddaca2"
+      },
+      {
+        "fulltext.pdf": "3aa12392730333dd193322c7fb7ac72c"
+      },
+      {
+        "fulltext.xml": "a322b65a64bb8bcb3c5756b49eeb0ad6"
+      }
+    ]
+  },
+  "https://peerj.com/articles/275/": {
+    "publisher": {
+      "value": [
+        "PeerJ Inc."
+      ]
+    },
+    "journal": {
+      "value": [
+        "PeerJ"
+      ]
+    },
+    "title": {
+      "value": [
+        "Spectral characteristics of the mutant form GGBP/H152C of D-glucose/D-galactose-binding protein labeled with fluorescent dye BADAN: influence of external factors"
+      ]
+    },
+    "authors": {
+      "value": [
+        "Alexander V. Fonin",
+        "Olga V. Stepanenko",
+        "Olga I. Povarova",
+        "Catherine A. Volova",
+        "Elizaveta M. Philippova",
+        "Grigory S. Bublikov",
+        "Irina M. Kuznetsova",
+        "Alexander P. Demchenko",
+        "Konstantin K. Turoverov"
+      ]
+    },
+    "date": {
+      "value": [
+        "2014-03-18"
+      ]
+    },
+    "doi": {
+      "value": [
+        "10.7717/peerj.275"
+      ]
+    },
+    "volume": {
+      "value": [
+        "2"
+      ]
+    },
+    "issue": {
+      "value": [
+
+      ]
+    },
+    "firstpage": {
+      "value": [
+        "e275"
+      ]
+    },
+    "description": {
+      "value": [
+        "The mutant form GGBP/H152C of the D-glucose/D-galactose-binding protein with the solvatochromic dye BADAN linked to cysteine residue Cys 152 can be used as a potential base for a sensitive element of glucose biosensor system. We investigated the influence of various external factors on the physical-chemical properties of GGBP/H152C-BADAN and its complex with glucose. The high affinity (Kd = 8.5 µM) and high binding rate of glucose make GGBP/H152C-BADAN a good candidate to determine the sugar content in biological fluids extracted using transdermal techniques. It was shown that changes in the ionic strength and pH of solution within the physiological range did not have a significant influence on the fluorescent characteristics of GGBP/H152C-BADAN. The mutant form GGBP/H152C has relatively low resistance to denaturation action of GdnHCl and urea. This result emphasizes the need to find more stable proteins for the creation of a sensitive element for a glucose biosensor system."
+      ]
+    },
+    "abstract": {
+      "value": [
+        "The mutant form GGBP/H152C of the D-glucose/D-galactose-binding protein with the solvatochromic dye BADAN linked to cysteine residue Cys 152 can be used as a potential base for a sensitive element of glucose biosensor system. We investigated the influence of various external factors on the physical-chemical properties of GGBP/H152C-BADAN and its complex with glucose. The high affinity (Kd = 8.5 µM) and high binding rate of glucose make GGBP/H152C-BADAN a good candidate to determine the sugar content in biological fluids extracted using transdermal techniques. It was shown that changes in the ionic strength and pH of solution within the physiological range did not have a significant influence on the fluorescent characteristics of GGBP/H152C-BADAN. The mutant form GGBP/H152C has relatively low resistance to denaturation action of GdnHCl and urea. This result emphasizes the need to find more stable proteins for the creation of a sensitive element for a glucose biosensor system."
+      ]
+    },
+    "fulltext_html": {
+      "value": [
+        "https://peerj.com/articles/275"
+      ]
+    },
+    "fulltext_pdf": {
+      "value": [
+        "https://peerj.com/articles/275.pdf"
+      ]
+    },
+    "fulltext_xml": {
+      "value": [
+        "/articles/275.xml"
+      ]
+    },
+    "supplementary_material": {
+      "value": [
+
+      ]
+    },
+    "figure": {
+      "value": [
+        "https://dfzljdn9uc3pi.cloudfront.net/2014/275/1/fig-1-full.png",
+        "https://dfzljdn9uc3pi.cloudfront.net/2014/275/1/fig-2-full.png",
+        "https://dfzljdn9uc3pi.cloudfront.net/2014/275/1/fig-3-full.png",
+        "https://dfzljdn9uc3pi.cloudfront.net/2014/275/1/fig-4-full.png",
+        "https://dfzljdn9uc3pi.cloudfront.net/2014/275/1/fig-5-full.png",
+        "https://dfzljdn9uc3pi.cloudfront.net/2014/275/1/fig-6-full.png",
+        "https://dfzljdn9uc3pi.cloudfront.net/2014/275/1/fig-7-full.png"
+      ]
+    },
+    "figure_caption": {
+      "value": [
+        "\nFigure 1: Determination of the dissociation constant (Kd) of the complex of GGBP/H152C-BADAN with glucose (Glc).\nThe excitation wavelength was 387 nm, the emission wavelength was 545 nm.\n  Download full-size image\nDOI: 10.7717/peerj.275/fig-1\n\n",
+        "\nFigure 2: The kinetics of Glc binding to GGBP/H152C-BADAN in solutions with different viscosities.\nGlc concentration was 20 mM. The excitation wavelength was 405 nm. Curve 1, 2 and 3 represents the control, Glc binding to GGBP/H152C-BADAN in a PBS solution, and in PBS-glycerol solution with viscosity equal to 4.0 cP. Inset: The kinetic curves 1 and 2 in interval from 0.01 to 0.08 s are given.\n  Download full-size image\nDOI: 10.7717/peerj.275/fig-2\n\n",
+        "\nFigure 3: The effect of solvent viscosity and temperature on the fluorescence quantum yield of the GGBP/H152C-BADAN in the open (circles) and closed (triangles) forms.\nThe excitation wavelength was 387 nm.\n  Download full-size image\nDOI: 10.7717/peerj.275/fig-3\n\n",
+        "\nFigure 4: GdnHCl-induced (A, B) and urea-induced (C, D) conformational changing of GGBP/H152C-BADAN structure in open (circles) and closed forms (triangles).\n(A) and (C) represents the dependence of the fluorescence intensity (the excitation wavelength was 387 nm, the emission wavelength was 545 nm) on the denaturants concentration. (B) and (D) represents the dependence of the parameter A = I320/I365 (I320 and I365 fluorescence intensities recorded at 320 and 365 nm, respectively) on the denaturants concentration (the excitation wavelength was 297 nm).\n  Download full-size image\nDOI: 10.7717/peerj.275/fig-4\n\n",
+        "\nFigure 5: Changes of ellipticity at 222 nm of GGBP/H152C-BADAN and GGBP/H152C-BADAN–Glc on the GdnHCl concentration.\n\n  Download full-size image\nDOI: 10.7717/peerj.275/fig-5\n\n",
+        "\nFigure 6: The effect of the pH solution on the fluorescent characteristics of GGBP/H152C-BADAN in the open (the solid curves) and closed (the dashed curves) forms.\n(A) The excitation wavelength was 297 nm. (B) The excitation wavelength was 387 nm. The pH values of the solution were 2.8 (black curves), 4.2 (red curves), 6.4 (blue curves), 7.4 (dark green curves) and 9.6 (dark red curves).\n  Download full-size image\nDOI: 10.7717/peerj.275/fig-6\n\n",
+        "\nFigure 7: The effect of NaCl and MgCl2 on the fluorescent characteristics of GGBP/H152C-BADAN in open (solid curves) and closed (dashed curves) forms.\n(A) Fluorescence spectra of GGBP/H152C-BADAN in solutions with 0.8 M NaCl (red curve) and 2.5 M NaCl (blue curve). (B) Fluorescence spectra of GGBP/H152C-BADAN in solutions with 0.1 M MgCl2 (red curve) and 0.5 M MgCl2 (blue curve). The fluorescence spectra of GGBP/H152C-BADAN in PBS solution appear in black. (The excitation wavelength was 387 nm.)\n  Download full-size image\nDOI: 10.7717/peerj.275/fig-7\n\n"
+      ]
+    },
+    "license": {
+      "value": [
+
+      ]
+    },
+    "copyright": {
+      "value": [
+
+      ]
+    },
+    "file_hashes": [
+      {
+        "fig-1-full.png": "3698cf17a11ba9ef9183634bd3801b49"
+      },
+      {
+        "fig-2-full.png": "90442c7e0490029e4d59193979537f6a"
+      },
+      {
+        "fig-3-full.png": "c41e4a8c837cfe6aeabff81982844a98"
+      },
+      {
+        "fig-4-full.png": "e3ea581b9d3ae478cc5c7e3c630576e8"
+      },
+      {
+        "fig-5-full.png": "97904c56a6215db7065fd1830624f708"
+      },
+      {
+        "fig-6-full.png": "fff6b0de359e83441f6b5838d862fd93"
+      },
+      {
+        "fig-7-full.png": "b76d31a596a07e5ef4fe238d687c5729"
+      },
+      {
+        "fulltext.html": "6e5fc1f3587b4c0eb4810a455b290a23"
+      },
+      {
+        "fulltext.pdf": "6b554c704f1ed7a8129863a2869036eb"
+      },
+      {
+        "fulltext.xml": "033fb090781f7a84c4e7b5ac43dec2b6"
+      }
+    ]
+  },
+  "https://peerj.com/articles/311/": {
+    "publisher": {
+      "value": [
+        "PeerJ Inc."
+      ]
+    },
+    "journal": {
+      "value": [
+        "PeerJ"
+      ]
+    },
+    "title": {
+      "value": [
+        "Religious attendance after elevated depressive symptoms: is selection bias at work?"
+      ]
+    },
+    "authors": {
+      "value": [
+        "Lloyd Balbuena",
+        "Marilyn Baetz",
+        "Rudy Bowen"
+      ]
+    },
+    "date": {
+      "value": [
+        "2014-03-13"
+      ]
+    },
+    "doi": {
+      "value": [
+        "10.7717/peerj.311"
+      ]
+    },
+    "volume": {
+      "value": [
+        "2"
+      ]
+    },
+    "issue": {
+      "value": [
+
+      ]
+    },
+    "firstpage": {
+      "value": [
+        "e311"
+      ]
+    },
+    "description": {
+      "value": [
+        "In an attempt to determine if selection bias could be a reason that religious attendance and depression are related, the predictive value of elevated depressive symptoms for a decrease in future attendance at religious services was examined in a longitudinal panel of 1,673 Dutch adults. Religious attendance was assessed yearly over five years using the single question, “how often do you attend religious gatherings nowadays?” Depressive symptoms were assessed four times within the first year using the Depression subscale of the Brief Symptom Inventory. Logistic regression models of change in attendance were created, stratifying by baseline attendance status. Attenders who developed elevated symptoms were less likely to subsequently decrease their attendance (relative risk ratio: 0.55, 95% CI [0.38–0.79]) relative to baseline as compared to those without elevated symptoms. This inverse association remained significant after controlling for health and demographic covariates, and when using multiply imputed data to account for attrition. Non-attenders were unlikely to start attending after elevated depressive symptoms. This study provides counter evidence against previous findings that church attenders are a self-selected healthier group."
+      ]
+    },
+    "abstract": {
+      "value": [
+        "In an attempt to determine if selection bias could be a reason that religious attendance and depression are related, the predictive value of elevated depressive symptoms for a decrease in future attendance at religious services was examined in a longitudinal panel of 1,673 Dutch adults. Religious attendance was assessed yearly over five years using the single question, “how often do you attend religious gatherings nowadays?” Depressive symptoms were assessed four times within the first year using the Depression subscale of the Brief Symptom Inventory. Logistic regression models of change in attendance were created, stratifying by baseline attendance status. Attenders who developed elevated symptoms were less likely to subsequently decrease their attendance (relative risk ratio: 0.55, 95% CI [0.38–0.79]) relative to baseline as compared to those without elevated symptoms. This inverse association remained significant after controlling for health and demographic covariates, and when using multiply imputed data to account for attrition. Non-attenders were unlikely to start attending after elevated depressive symptoms. This study provides counter evidence against previous findings that church attenders are a self-selected healthier group."
+      ]
+    },
+    "fulltext_html": {
+      "value": [
+        "https://peerj.com/articles/311"
+      ]
+    },
+    "fulltext_pdf": {
+      "value": [
+        "https://peerj.com/articles/311.pdf"
+      ]
+    },
+    "fulltext_xml": {
+      "value": [
+        "/articles/311.xml"
+      ]
+    },
+    "supplementary_material": {
+      "value": [
+
+      ]
+    },
+    "figure": {
+      "value": [
+        "https://dfzljdn9uc3pi.cloudfront.net/2014/311/1/fig-1-full.png",
+        "https://dfzljdn9uc3pi.cloudfront.net/2014/311/1/fig-2-full.png"
+      ]
+    },
+    "figure_caption": {
+      "value": [
+        "\nFigure 1: Subjects.\n(A) LISS datasets used and participant flowchart; (B) schedule of religion and depression assessments.\n  Download full-size image\nDOI: 10.7717/peerj.311/fig-1\n\n",
+        "\nFigure 2: Probabilities.\nPredicted probabilities of a decrease, same, and increase in religious attendance (95% CI).\n  Download full-size image\nDOI: 10.7717/peerj.311/fig-2\n\n"
+      ]
+    },
+    "license": {
+      "value": [
+
+      ]
+    },
+    "copyright": {
+      "value": [
+
+      ]
+    },
+    "file_hashes": [
+      {
+        "fig-1-full.png": "3ff19ca931ac3850d2e6d045efb5d213"
+      },
+      {
+        "fig-2-full.png": "b6a99fff0a72af9fde1e550f80d43799"
+      },
+      {
+        "fulltext.html": "f295d3b2bedfd76a24ce69bfb9d40b79"
+      },
+      {
+        "fulltext.pdf": "8aa4a538c24c0f3bfcc8b9fa5cd63d7c"
+      },
+      {
+        "fulltext.xml": "c7b28594cefc8f9bd2fd61bc226056a9"
+      }
+    ]
+  },
+  "https://peerj.com/articles/384/": {
+    "publisher": {
+      "value": [
+        "PeerJ Inc."
+      ]
+    },
+    "journal": {
+      "value": [
+        "PeerJ"
+      ]
+    },
+    "title": {
+      "value": [
+        "Mutation analysis of the SLC26A4, FOXI1 and KCNJ10 genes in individuals with congenital hearing loss"
+      ]
+    },
+    "authors": {
+      "value": [
+        "Lynn M. Pique",
+        "Marie-Luise Brennan",
+        "Colin J. Davidson",
+        "Frederick Schaefer",
+        "John Greinwald Jr",
+        "Iris Schrijver"
+      ]
+    },
+    "date": {
+      "value": [
+        "2014-05-08"
+      ]
+    },
+    "doi": {
+      "value": [
+        "10.7717/peerj.384"
+      ]
+    },
+    "volume": {
+      "value": [
+        "2"
+      ]
+    },
+    "issue": {
+      "value": [
+
+      ]
+    },
+    "firstpage": {
+      "value": [
+        "e384"
+      ]
+    },
+    "description": {
+      "value": [
+        "Pendred syndrome (PDS) and DFNB4 comprise a phenotypic spectrum of sensorineural hearing loss disorders that typically result from biallelic mutations of the SLC26A4 gene. Although PDS and DFNB4 are recessively inherited, sequencing of the coding regions and splice sites of SLC26A4 in individuals suspected to be affected with these conditions often fails to identify two mutations. We investigated the potential contribution of large SLC26A4 deletions and duplications to sensorineural hearing loss (SNHL) by screening 107 probands with one known SLC26A4 mutation by Multiplex Ligation-dependent Probe Amplification (MLPA). A heterozygous deletion, spanning exons 4–6, was detected in only one individual, accounting for approximately 1% of the missing mutations in our cohort. This low frequency is consistent with previously published MLPA results. We also examined the potential involvement of digenic inheritance in PDS/DFNB4 by sequencing the coding regions of FOXI1 and KCNJ10. Of the 29 probands who were sequenced, three carried nonsynonymous variants including one novel sequence change in FOXI1 and two polymorphisms in KCNJ10. We performed a review of prior studies and, in conjunction with our current data, conclude that the frequency of FOXI1 (1.4%) and KCNJ10 (3.6%) variants in PDS/DFNB4 individuals is low. Our results, in combination with previously published reports, indicate that large SLC26A4 deletions and duplications as well as mutations of FOXI1 and KCNJ10 play limited roles in the pathogenesis of SNHL and suggest that other genetic factors likely contribute to the phenotype."
+      ]
+    },
+    "abstract": {
+      "value": [
+        "Pendred syndrome (PDS) and DFNB4 comprise a phenotypic spectrum of sensorineural hearing loss disorders that typically result from biallelic mutations of the SLC26A4 gene. Although PDS and DFNB4 are recessively inherited, sequencing of the coding regions and splice sites of SLC26A4 in individuals suspected to be affected with these conditions often fails to identify two mutations. We investigated the potential contribution of large SLC26A4 deletions and duplications to sensorineural hearing loss (SNHL) by screening 107 probands with one known SLC26A4 mutation by Multiplex Ligation-dependent Probe Amplification (MLPA). A heterozygous deletion, spanning exons 4–6, was detected in only one individual, accounting for approximately 1% of the missing mutations in our cohort. This low frequency is consistent with previously published MLPA results. We also examined the potential involvement of digenic inheritance in PDS/DFNB4 by sequencing the coding regions of FOXI1 and KCNJ10. Of the 29 probands who were sequenced, three carried nonsynonymous variants including one novel sequence change in FOXI1 and two polymorphisms in KCNJ10. We performed a review of prior studies and, in conjunction with our current data, conclude that the frequency of FOXI1 (1.4%) and KCNJ10 (3.6%) variants in PDS/DFNB4 individuals is low. Our results, in combination with previously published reports, indicate that large SLC26A4 deletions and duplications as well as mutations of FOXI1 and KCNJ10 play limited roles in the pathogenesis of SNHL and suggest that other genetic factors likely contribute to the phenotype."
+      ]
+    },
+    "fulltext_html": {
+      "value": [
+        "https://peerj.com/articles/384"
+      ]
+    },
+    "fulltext_pdf": {
+      "value": [
+        "https://peerj.com/articles/384.pdf"
+      ]
+    },
+    "fulltext_xml": {
+      "value": [
+        "/articles/384.xml"
+      ]
+    },
+    "supplementary_material": {
+      "value": [
+
+      ]
+    },
+    "figure": {
+      "value": [
+        "https://dfzljdn9uc3pi.cloudfront.net/2014/384/1/fig-1-full.png"
+      ]
+    },
+    "figure_caption": {
+      "value": [
+        "\nFigure 1: Identification of the heterozygous SLC26A4 deletion g.8091T-22145Cdel in subject PDS41.\n(A) The SLC26A4 MLPA probe mix includes probes for the 21 SLC26A4 exons, 14 reference probes and three probes specific for the point mutations c.1001+1G>A (IV S8+1G>A), c.707T>C (p.Leu236Pro) and c.1246A>C (p.Thr416Pro). Subject PDS41 is heterozygous for a deletion (g.8091T-22145Cdel) spanning exons 4–6 in SLC26A4, as evidenced by the reproducible reduction in peak height for these three exon probes (peaks labeled 4, 5, 6) relative to the control. PDS41 also has a heterozygous c.1246A>C (p.Thr416Pro) mutation that was previously identified by sequencing and confirmed by these MLPA results (peak labeled p.T416P). (B) Sequencing chromatogram of the deletion breakpoints in SLC26A4 IVS3 and IVS6. The deletion removes a total of 14,053 bp. IVS, intervening sequence.\n  Download full-size image\nDOI: 10.7717/peerj.384/fig-1\n\n"
+      ]
+    },
+    "license": {
+      "value": [
+
+      ]
+    },
+    "copyright": {
+      "value": [
+
+      ]
+    },
+    "file_hashes": [
+      {
+        "fig-1-full.png": "6ee6bf8676df1087e9d724bfdc9178e8"
+      },
+      {
+        "fulltext.html": "b7306f1715e3bdba6bbbc4d788579fde"
+      },
+      {
+        "fulltext.pdf": "b2020a8f8037228e6face4a220751932"
+      },
+      {
+        "fulltext.xml": "03352087dcff14b9fba0271c47574759"
+      }
+    ]
+  }
 }

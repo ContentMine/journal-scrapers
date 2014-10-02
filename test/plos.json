@@ -1,344 +1,462 @@
 {
-  "http://www.plosbiology.org/article/info%3Adoi%2F10.1371%2Fjournal.pbio.1001874": [
-    {
-      "fulltext_pdf": "http://dx.plos.org/10.1371/journal.pbio.1001874.pdf"
-    },
-    {
-      "title": "Extracellular Vesicle-Mediated Transfer of Genetic Information between the Hematopoietic System and the Brain in Response to Inflammation"
-    },
-    {
-      "author": "Kirsten Ridder"
-    },
-    {
-      "author": "Sascha Keller"
-    },
-    {
-      "author": "Maria Dams"
-    },
-    {
-      "author": "Anne-Kathleen Rupp"
-    },
-    {
-      "author": "Jessica Schlaudraff"
-    },
-    {
-      "author": "Domenico Del Turco"
-    },
-    {
-      "author": "Julia Starmann"
-    },
-    {
-      "author": "Jadranka Macas"
-    },
-    {
-      "author": "Darja Karpova"
-    },
-    {
-      "author": "Kavi Devraj"
-    },
-    {
-      "author": "Candan Depboylu"
-    },
-    {
-      "author": "Britta Landfried"
-    },
-    {
-      "author": "Bernd Arnold"
-    },
-    {
-      "author": "Karl H. Plate"
-    },
-    {
-      "author": "Günter Höglinger"
-    },
-    {
-      "author": "Holger Sültmann"
-    },
-    {
-      "author": "Peter Altevogt"
-    },
-    {
-      "author": "Stefan Momma"
-    },
-    {
-      "date": "2014/6/3"
-    },
-    {
-      "doi": "10.1371/journal.pbio.1001874"
-    },
-    {
-      "volume": "12"
-    },
-    {
-      "issue": "6"
-    },
-    {
-      "firstpage": "e1001874"
-    },
-    {
-      "description": "PLOS Biology is an open-access, peer-reviewed journal that features works of exceptional significance in all areas of biological science, from molecules to ecosystems, including works at the interface with other disciplines."
-    },
-    {
-      "abstract": "AbstractMechanisms behind how the immune system signals to the brain in response to systemic inflammation are not fully understood. Transgenic mice expressing Cre recombinase specifically in the hematopoietic lineage in a Cre reporter background display recombination and marker gene expression in Purkinje neurons. Here we show that reportergene expression in neurons is caused by intercellular transfer of functional Cre recombinase messenger RNA from immune cells into neurons in the absence of cell fusion. In vitro purified secreted extracellular vesicles (EVs) from blood cells contain Cre mRNA, which induces recombination in neurons when injected into the brain. Although Cre-mediated recombination events in the brain occur very rarely in healthy animals, their number increases considerably in different injury models, particularly under inflammatory conditions, and extend beyond Purkinje neurons to other neuronal populations in cortex, hippocampus, and substantia nigra. Recombined Purkinje neurons differ in their miRNA profile from their nonrecombined counterparts, indicating physiological significance. These observations reveal the existence of a previously unrecognized mechanism to communicate RNA-based signals between the hematopoietic system and various organs, including the brain, in response to inflammation.\n"
-    },
-    {
-      "abstract": "\nAuthor Summary\nPeripheral infections leading to an inflammatory response can initiate signaling from the hematopoietic system to various organs including the brain. The traditional view of this communication between blood and brain is that individual factors are released by immune cells that in turn bind to neuronal or nonneuronal target cells in the brain where they exert their effects. By using a genetic tracing system, we now show that extracellular vesicles, small membrane structures that can contain a multitude of different molecules, can transfer functional RNA directly from blood cells to neurons. Although this type of signaling is highly restricted in the healthy animal, inflammatory injuries increase both the frequency of transfer and the range of the neuronal target populations in the brain. By showing altered miRNA profiles in neurons receiving extracellular vesicle cargo, we predict a complex regulation of gene expression in neural cells in response to peripheral inflammation.\n"
-    },
-    {
-      "journal.pbio.1001874.pdf": "c730b7b2434f950ea409d74a78c30316"
-    },
-    {
-      "rendered.html": "264e78eb7494e3c8cffe3da98b88806b"
-    }
-  ],
-  "http://www.plosbiology.org/article/info%3Adoi%2F10.1371%2Fjournal.pbio.1001882": [
-    {
-      "fulltext_pdf": "http://dx.plos.org/10.1371/journal.pbio.1001882.pdf"
-    },
-    {
-      "title": "The Billion Cell Construct: Will Three-Dimensional Printing Get Us There?"
-    },
-    {
-      "author": "Jordan S. Miller"
-    },
-    {
-      "date": "2014/6/17"
-    },
-    {
-      "doi": "10.1371/journal.pbio.1001882"
-    },
-    {
-      "volume": "12"
-    },
-    {
-      "issue": "6"
-    },
-    {
-      "firstpage": "e1001882"
-    },
-    {
-      "description": "PLOS Biology is an open-access, peer-reviewed journal that features works of exceptional significance in all areas of biological science, from molecules to ecosystems, including works at the interface with other disciplines."
-    },
-    {
-      "abstract": "AbstractHow structure relates to function—across spatial scales, from the single molecule to the whole organism—is a central theme in biology. Bioengineers, however, wrestle with the converse question: will function follow form? That is, we struggle to approximate the architecture of living tissues experimentally, hoping that the structure we create will lead to the function we desire. A new means to explore the relationship between form and function in living tissue has arrived with three-dimensional printing, but the technology is not without limitations.\n"
-    },
-    {
-      "journal.pbio.1001882.pdf": "b1a6bb4e193cb39cc6aef1b1866dcb3b"
-    },
-    {
-      "rendered.html": "3842a2f207852e476a6c31c7baeed87b"
-    }
-  ],
-  "http://www.plosgenetics.org/article/info%3Adoi%2F10.1371%2Fjournal.pgen.1004441": [
-    {
-      "fulltext_pdf": "http://dx.plos.org/10.1371/journal.pgen.1004441.pdf"
-    },
-    {
-      "title": "An Operon of Three Transcriptional Regulators Controls Horizontal Gene Transfer of the Integrative and Conjugative Element ICEclc in Pseudomonas knackmussii B13"
-    },
-    {
-      "author": "Nicolas Pradervand"
-    },
-    {
-      "author": "Sandra Sulser"
-    },
-    {
-      "author": "François Delavat"
-    },
-    {
-      "author": "Ryo Miyazaki"
-    },
-    {
-      "author": "Iker Lamas"
-    },
-    {
-      "author": "Jan Roelof van der Meer"
-    },
-    {
-      "date": "2014/6/19"
-    },
-    {
-      "doi": "10.1371/journal.pgen.1004441"
-    },
-    {
-      "volume": "10"
-    },
-    {
-      "issue": "6"
-    },
-    {
-      "firstpage": "e1004441"
-    },
-    {
-      "description": "PLOS Genetics is an open-access"
-    },
-    {
-      "abstract": "AbstractThe integrative and conjugative element ICEclc is a mobile genetic element in Pseudomonas knackmussii B13, and an experimental model for a widely distributed group of elements in Proteobacteria. ICEclc is transferred from specialized transfer competent cells, which arise at a frequency of 3-5% in a population at stationary phase. Very little is known about the different factors that control the transfer frequency of this ICE family. Here we report the discovery of a three-gene operon encoded by ICEclc, which exerts global control on transfer initiation. The operon consists of three consecutive regulatory genes, encoding a TetR-type repressor MfsR, a MarR-type regulator and a LysR-type activator TciR. We show that MfsR autoregulates expression of the operon, whereas TciR is a global activator of ICEclc gene expression, but no clear role was yet found for MarR. Deletion of mfsR increases expression of tciR and marR, causing the proportion of transfer competent cells to reach almost 100% and transfer frequencies to approach 1 per donor. mfsR deletion also caused a two orders of magnitude loss in population viability, individual cell growth arrest and loss of ICEclc. This indicates that autoregulation is an important feature maintaining ICE transfer but avoiding fitness loss. Bioinformatic analysis showed that the mfsR-marR-tciR operon is unique for ICEclc and a few highly related ICE, whereas tciR orthologues occur more widely in a large variety of suspected ICE among Proteobacteria.\n"
-    },
-    {
-      "abstract": "\nAuthor Summary\nIntegrative and conjugative elements (ICEs) are a relatively newly recognized class of mobile elements in bacteria, which integrate at one or more positions in a host chromosome, can be excised, circularized, and transfer by conjugation to a new recipient cell. Genome sequencing indicated that ICEs often carry genes with potential adaptive functions for the host. Various ICE-types have been described and ICEclc is a useful model for a wide class of elements found in Beta- and Gammaproteobacteria. Because ICEs normally remain “silent” in the host chromosome and often lack selectable markers, their lifestyle is difficult to study. One of the characteristics of ICEclc is that transfer is initiated in only 3-5% of donor cells in a population during stationary phase. Here, we describe an operon of three regulatory genes, two of which control the transfer initiation of ICEclc. Our findings suggest that the low transfer rate results from the repression of an activator and that this is essential to minimize the deleterious effect of hyper-activation of transfer initiation. While the individual regulatory genes are quite common on ICEs, they rarely occur in this configuration.\n"
-    },
-    {
-      "journal.pgen.1004441.pdf": "037d0a292bcca909943daf27a1e51f77"
-    },
-    {
-      "rendered.html": "7f62500dce027f9e941b755ba2b8eef3"
-    }
-  ],
-  "http://www.plosgenetics.org/article/info%3Adoi%2F10.1371%2Fjournal.pgen.1004433": [
-    {
-      "fulltext_pdf": "http://dx.plos.org/10.1371/journal.pgen.1004433.pdf"
-    },
-    {
-      "title": "A Novel Peptidoglycan Binding Protein Crucial for PBP1A-Mediated Cell Wall Biogenesis in Vibrio cholerae"
-    },
-    {
-      "author": "Tobias Dörr"
-    },
-    {
-      "author": "Hubert Lam"
-    },
-    {
-      "author": "Laura Alvarez"
-    },
-    {
-      "author": "Felipe Cava"
-    },
-    {
-      "author": "Brigid M. Davis"
-    },
-    {
-      "author": "Matthew K. Waldor"
-    },
-    {
-      "date": "2014/6/19"
-    },
-    {
-      "doi": "10.1371/journal.pgen.1004433"
-    },
-    {
-      "volume": "10"
-    },
-    {
-      "issue": "6"
-    },
-    {
-      "firstpage": "e1004433"
-    },
-    {
-      "description": "PLOS Genetics is an open-access"
-    },
-    {
-      "abstract": "AbstractThe bacterial cell wall, which is comprised of a mesh of polysaccharide strands crosslinked via peptide bridges (peptidoglycan, PG), is critical for maintenance of cell shape and survival. PG assembly is mediated by a variety of Penicillin Binding Proteins (PBP) whose fundamental activities have been characterized in great detail; however, there is limited knowledge of the factors that modulate their activities in different environments or growth phases. In Vibrio cholerae, the cause of cholera, PG synthesis during the transition into stationary phase is primarily mediated by the bifunctional enzyme PBP1A. Here, we screened an ordered V. cholerae transposon library for mutants that are sensitive to growth inhibition by non-canonical D-amino acids (DAA), which prevent growth and maintenance of cell shape in PBP1A-deficient V. cholerae. In addition to PBP1A and its lipoprotein activator LpoA, we found that CsiV, a small periplasmic protein with no previously described function, is essential for growth in the presence of DAA. Deletion of csiV, like deletion of lpoA or the PBP1A–encoding gene mrcA, causes cells to lose their rod shape in the presence of DAA or the beta-lactam antibiotic cefsulodin, and all three mutations are synthetically lethal with deletion of mrcB, which encodes PBP1B, V. cholerae's second key bifunctional PBP. CsiV interacts with LpoA and PG but apparently not with PBP1A, supporting the hypothesis that CsiV promotes LpoA's role as an activator of PBP1A, and thereby modulates V. cholerae PG biogenesis. Finally, the requirement for CsiV in PBP1A-mediated growth of V. cholerae can be overcome either by augmenting PG synthesis or by reducing PG degradation, thereby highlighting the importance of balancing these two processes for bacterial survival.\n"
-    },
-    {
-      "abstract": "\nAuthor Summary\nBacteria surround themselves with a mesh-like peptidoglycan (PG) cell wall, which is essential for maintenance of cell shape and survival. While the enzymes that catalyze the assembly of the cell wall (aka penicillin-binding proteins (PBPs)) have been extensively characterized, our understanding of the factors that modulate the activities of these enzymes is less developed. Here, using a genetic screen, we identified a gene of unknown function that plays a crucial role in PBP1A-mediated cell wall synthesis in Vibrio cholerae, the bacterium causing cholera. V. cholerae mutants lacking this gene, whose protein product was re-named CsiV (for Cell shape integrity Vibrio), share many phenotypes with PBP1A mutants, including becoming spherical during stationary phase. We show that CsiV interacts with LpoA, a lipoprotein activator of PBP1A, as well as with PG. CsiV, LpoA, or PBP1A are all required for survival of V. cholerae lacking PBP1B, and mutants lacking any of these factors show marked changes in PG content in stationary phase. Collectively, our data suggest that CsiV acts through LpoA to promote PG biogenesis in V. cholerae and other vibrio species as well as in the other genera where this protein is found.\n"
-    },
-    {
-      "journal.pgen.1004433.pdf": "890d664254554ae5142d7a8e0d10633e"
-    },
-    {
-      "rendered.html": "1f0c36ede91377b79f56d7c81ced323f"
-    }
-  ],
-  "http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0098781": [
-    {
-      "fulltext_pdf": "http://dx.plos.org/10.1371/journal.pone.0098781.pdf"
-    },
-    {
-      "title": "Foldscope: Origami-Based Paper Microscope"
-    },
-    {
-      "author": "James S. Cybulski"
-    },
-    {
-      "author": "James Clements"
-    },
-    {
-      "author": "Manu Prakash"
-    },
-    {
-      "date": "2014/6/18"
-    },
-    {
-      "doi": "10.1371/journal.pone.0098781"
-    },
-    {
-      "volume": "9"
-    },
-    {
-      "issue": "6"
-    },
-    {
-      "firstpage": "e98781"
-    },
-    {
-      "description": "PLOS ONE: an inclusive, peer-reviewed, open-access resource from the PUBLIC LIBRARY OF SCIENCE. Reports of well-performed scientific studies from all disciplines freely available to the whole world."
-    },
-    {
-      "abstract": "AbstractHere we describe an ultra-low-cost origami-based approach for large-scale manufacturing of microscopes, specifically demonstrating brightfield, darkfield, and fluorescence microscopes. Merging principles of optical design with origami enables high-volume fabrication of microscopes from 2D media. Flexure mechanisms created via folding enable a flat compact design. Structural loops in folded paper provide kinematic constraints as a means for passive self-alignment. This light, rugged instrument can survive harsh field conditions while providing a diversity of imaging capabilities, thus serving wide-ranging applications for cost-effective, portable microscopes in science and education.\n"
-    },
-    {
-      "journal.pone.0098781.pdf": "5dfa35bcba2f631b40673c498c62f64b"
-    },
-    {
-      "rendered.html": "7f91873f6353563e6ed11951ff5530c2"
-    }
-  ],
-  "http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0099348": [
-    {
-      "fulltext_pdf": "https://peerj.com/articles/384.pdf"
-    },
-    {
-      "fulltext_html": "https://peerj.com/articles/384"
-    },
-    {
-      "title": "Mutation analysis of the SLC26A4, FOXI1 and KCNJ10 genes in individuals with congenital hearing loss"
-    },
-    {
-      "author": "Lynn M. Pique"
-    },
-    {
-      "author": "Marie-Luise Brennan"
-    },
-    {
-      "author": "Colin J. Davidson"
-    },
-    {
-      "author": "Frederick Schaefer"
-    },
-    {
-      "author": "John Greinwald Jr"
-    },
-    {
-      "author": "Iris Schrijver"
-    },
-    {
-      "date": "2014-05-08"
-    },
-    {
-      "doi": "10.7717/peerj.384"
-    },
-    {
-      "volume": "2"
-    },
-    {
-      "firstpage": "e384"
-    },
-    {
-      "description": "Pendred syndrome (PDS) and DFNB4 comprise a phenotypic spectrum of sensorineural hearing loss disorders that typically result from biallelic mutations of the SLC26A4 gene. Although PDS and DFNB4 are recessively inherited, sequencing of the coding regions and splice sites of SLC26A4 in individuals suspected to be affected with these conditions often fails to identify two mutations. We investigated the potential contribution of large SLC26A4 deletions and duplications to sensorineural hearing loss (SNHL) by screening 107 probands with one known SLC26A4 mutation by Multiplex Ligation-dependent Probe Amplification (MLPA). A heterozygous deletion, spanning exons 4–6, was detected in only one individual, accounting for approximately 1% of the missing mutations in our cohort. This low frequency is consistent with previously published MLPA results. We also examined the potential involvement of digenic inheritance in PDS/DFNB4 by sequencing the coding regions of FOXI1 and KCNJ10. Of the 29 probands who were sequenced, three carried nonsynonymous variants including one novel sequence change in FOXI1 and two polymorphisms in KCNJ10. We performed a review of prior studies and, in conjunction with our current data, conclude that the frequency of FOXI1 (1.4%) and KCNJ10 (3.6%) variants in PDS/DFNB4 individuals is low. Our results, in combination with previously published reports, indicate that large SLC26A4 deletions and duplications as well as mutations of FOXI1 and KCNJ10 play limited roles in the pathogenesis of SNHL and suggest that other genetic factors likely contribute to the phenotype."
-    },
-    {
-      "abstract": "Pendred syndrome (PDS) and DFNB4 comprise a phenotypic spectrum of sensorineural hearing loss disorders that typically result from biallelic mutations of the SLC26A4 gene. Although PDS and DFNB4 are recessively inherited, sequencing of the coding regions and splice sites of SLC26A4 in individuals suspected to be affected with these conditions often fails to identify two mutations. We investigated the potential contribution of large SLC26A4 deletions and duplications to sensorineural hearing loss (SNHL) by screening 107 probands with one known SLC26A4 mutation by Multiplex Ligation-dependent Probe Amplification (MLPA). A heterozygous deletion, spanning exons 4–6, was detected in only one individual, accounting for approximately 1% of the missing mutations in our cohort. This low frequency is consistent with previously published MLPA results. We also examined the potential involvement of digenic inheritance in PDS/DFNB4 by sequencing the coding regions of FOXI1 and KCNJ10. Of the 29 probands who were sequenced, three carried nonsynonymous variants including one novel sequence change in FOXI1 and two polymorphisms in KCNJ10. We performed a review of prior studies and, in conjunction with our current data, conclude that the frequency of FOXI1 (1.4%) and KCNJ10 (3.6%) variants in PDS/DFNB4 individuals is low. Our results, in combination with previously published reports, indicate that large SLC26A4 deletions and duplications as well as mutations of FOXI1 and KCNJ10 play limited roles in the pathogenesis of SNHL and suggest that other genetic factors likely contribute to the phenotype."
-    },
-    {
-      "384": "72292ac92c4e073b47f2c50fb54dda67"
-    },
-    {
-      "384.pdf": "b2020a8f8037228e6face4a220751932"
-    },
-    {
-      "rendered.html": "8ef2fb18332a90a7fbbe6d533affb0ac"
-    }
-  ]
+  "http://www.plosbiology.org/article/info%3Adoi%2F10.1371%2Fjournal.pbio.1001874": {
+    "fulltext_pdf": {
+      "value": [
+        "http://dx.plos.org/10.1371/journal.pbio.1001874.pdf"
+      ]
+    },
+    "fulltext_html": {
+      "value": [
+
+      ]
+    },
+    "fulltext_xml": {
+      "value": [
+        "/article/fetchObjectAttachment.action?uri=info%3Adoi%2F10.1371%2Fjournal.pbio.1001874&representation=XML"
+      ]
+    },
+    "title": {
+      "value": [
+        "Extracellular Vesicle-Mediated Transfer of Genetic Information between the Hematopoietic System and the Brain in Response to Inflammation"
+      ]
+    },
+    "author": {
+      "value": [
+        "Kirsten Ridder",
+        "Sascha Keller",
+        "Maria Dams",
+        "Anne-Kathleen Rupp",
+        "Jessica Schlaudraff",
+        "Domenico Del Turco",
+        "Julia Starmann",
+        "Jadranka Macas",
+        "Darja Karpova",
+        "Kavi Devraj",
+        "Candan Depboylu",
+        "Britta Landfried",
+        "Bernd Arnold",
+        "Karl H. Plate",
+        "Günter Höglinger",
+        "Holger Sültmann",
+        "Peter Altevogt",
+        "Stefan Momma"
+      ]
+    },
+    "date": {
+      "value": [
+        "2014/6/3"
+      ]
+    },
+    "doi": {
+      "value": [
+        "10.1371/journal.pbio.1001874"
+      ]
+    },
+    "volume": {
+      "value": [
+        "12"
+      ]
+    },
+    "issue": {
+      "value": [
+        "6"
+      ]
+    },
+    "firstpage": {
+      "value": [
+        "e1001874"
+      ]
+    },
+    "description": {
+      "value": [
+        "PLOS Biology is an open-access, peer-reviewed journal that features works of exceptional significance in all areas of biological science, from molecules to ecosystems, including works at the interface with other disciplines."
+      ]
+    },
+    "abstract": {
+      "value": [
+        "AbstractMechanisms behind how the immune system signals to the brain in response to systemic inflammation are not fully understood. Transgenic mice expressing Cre recombinase specifically in the hematopoietic lineage in a Cre reporter background display recombination and marker gene expression in Purkinje neurons. Here we show that reportergene expression in neurons is caused by intercellular transfer of functional Cre recombinase messenger RNA from immune cells into neurons in the absence of cell fusion. In vitro purified secreted extracellular vesicles (EVs) from blood cells contain Cre mRNA, which induces recombination in neurons when injected into the brain. Although Cre-mediated recombination events in the brain occur very rarely in healthy animals, their number increases considerably in different injury models, particularly under inflammatory conditions, and extend beyond Purkinje neurons to other neuronal populations in cortex, hippocampus, and substantia nigra. Recombined Purkinje neurons differ in their miRNA profile from their nonrecombined counterparts, indicating physiological significance. These observations reveal the existence of a previously unrecognized mechanism to communicate RNA-based signals between the hematopoietic system and various organs, including the brain, in response to inflammation.\n",
+        "\nAuthor Summary\nPeripheral infections leading to an inflammatory response can initiate signaling from the hematopoietic system to various organs including the brain. The traditional view of this communication between blood and brain is that individual factors are released by immune cells that in turn bind to neuronal or nonneuronal target cells in the brain where they exert their effects. By using a genetic tracing system, we now show that extracellular vesicles, small membrane structures that can contain a multitude of different molecules, can transfer functional RNA directly from blood cells to neurons. Although this type of signaling is highly restricted in the healthy animal, inflammatory injuries increase both the frequency of transfer and the range of the neuronal target populations in the brain. By showing altered miRNA profiles in neurons receiving extracellular vesicle cargo, we predict a complex regulation of gene expression in neural cells in response to peripheral inflammation.\n"
+      ]
+    },
+    "file_hashes": [
+      {
+        "fulltext.pdf": "c730b7b2434f950ea409d74a78c30316"
+      },
+      {
+        "fulltext.xml": "40397e5bedf709fd1e98d19dc8a8a8fb"
+      }
+    ]
+  },
+  "http://www.plosbiology.org/article/info%3Adoi%2F10.1371%2Fjournal.pbio.1001882": {
+    "fulltext_pdf": {
+      "value": [
+        "http://dx.plos.org/10.1371/journal.pbio.1001882.pdf"
+      ]
+    },
+    "fulltext_html": {
+      "value": [
+
+      ]
+    },
+    "fulltext_xml": {
+      "value": [
+        "/article/fetchObjectAttachment.action?uri=info%3Adoi%2F10.1371%2Fjournal.pbio.1001882&representation=XML"
+      ]
+    },
+    "title": {
+      "value": [
+        "The Billion Cell Construct: Will Three-Dimensional Printing Get Us There?"
+      ]
+    },
+    "author": {
+      "value": [
+        "Jordan S. Miller"
+      ]
+    },
+    "date": {
+      "value": [
+        "2014/6/17"
+      ]
+    },
+    "doi": {
+      "value": [
+        "10.1371/journal.pbio.1001882"
+      ]
+    },
+    "volume": {
+      "value": [
+        "12"
+      ]
+    },
+    "issue": {
+      "value": [
+        "6"
+      ]
+    },
+    "firstpage": {
+      "value": [
+        "e1001882"
+      ]
+    },
+    "description": {
+      "value": [
+        "PLOS Biology is an open-access, peer-reviewed journal that features works of exceptional significance in all areas of biological science, from molecules to ecosystems, including works at the interface with other disciplines."
+      ]
+    },
+    "abstract": {
+      "value": [
+        "AbstractHow structure relates to function—across spatial scales, from the single molecule to the whole organism—is a central theme in biology. Bioengineers, however, wrestle with the converse question: will function follow form? That is, we struggle to approximate the architecture of living tissues experimentally, hoping that the structure we create will lead to the function we desire. A new means to explore the relationship between form and function in living tissue has arrived with three-dimensional printing, but the technology is not without limitations.\n"
+      ]
+    },
+    "file_hashes": [
+      {
+        "fulltext.pdf": "b1a6bb4e193cb39cc6aef1b1866dcb3b"
+      },
+      {
+        "fulltext.xml": "cc5a11cbce83bca1b9f4718f0ff90f56"
+      }
+    ]
+  },
+  "http://www.plosgenetics.org/article/info%3Adoi%2F10.1371%2Fjournal.pgen.1004441": {
+    "fulltext_pdf": {
+      "value": [
+        "http://dx.plos.org/10.1371/journal.pgen.1004441.pdf"
+      ]
+    },
+    "fulltext_html": {
+      "value": [
+
+      ]
+    },
+    "fulltext_xml": {
+      "value": [
+        "/article/fetchObjectAttachment.action?uri=info%3Adoi%2F10.1371%2Fjournal.pgen.1004441&representation=XML"
+      ]
+    },
+    "title": {
+      "value": [
+        "An Operon of Three Transcriptional Regulators Controls Horizontal Gene Transfer of the Integrative and Conjugative Element ICEclc in Pseudomonas knackmussii B13"
+      ]
+    },
+    "author": {
+      "value": [
+        "Nicolas Pradervand",
+        "Sandra Sulser",
+        "François Delavat",
+        "Ryo Miyazaki",
+        "Iker Lamas",
+        "Jan Roelof van der Meer"
+      ]
+    },
+    "date": {
+      "value": [
+        "2014/6/19"
+      ]
+    },
+    "doi": {
+      "value": [
+        "10.1371/journal.pgen.1004441"
+      ]
+    },
+    "volume": {
+      "value": [
+        "10"
+      ]
+    },
+    "issue": {
+      "value": [
+        "6"
+      ]
+    },
+    "firstpage": {
+      "value": [
+        "e1004441"
+      ]
+    },
+    "description": {
+      "value": [
+        "PLOS Genetics is an open-access"
+      ]
+    },
+    "abstract": {
+      "value": [
+        "AbstractThe integrative and conjugative element ICEclc is a mobile genetic element in Pseudomonas knackmussii B13, and an experimental model for a widely distributed group of elements in Proteobacteria. ICEclc is transferred from specialized transfer competent cells, which arise at a frequency of 3-5% in a population at stationary phase. Very little is known about the different factors that control the transfer frequency of this ICE family. Here we report the discovery of a three-gene operon encoded by ICEclc, which exerts global control on transfer initiation. The operon consists of three consecutive regulatory genes, encoding a TetR-type repressor MfsR, a MarR-type regulator and a LysR-type activator TciR. We show that MfsR autoregulates expression of the operon, whereas TciR is a global activator of ICEclc gene expression, but no clear role was yet found for MarR. Deletion of mfsR increases expression of tciR and marR, causing the proportion of transfer competent cells to reach almost 100% and transfer frequencies to approach 1 per donor. mfsR deletion also caused a two orders of magnitude loss in population viability, individual cell growth arrest and loss of ICEclc. This indicates that autoregulation is an important feature maintaining ICE transfer but avoiding fitness loss. Bioinformatic analysis showed that the mfsR-marR-tciR operon is unique for ICEclc and a few highly related ICE, whereas tciR orthologues occur more widely in a large variety of suspected ICE among Proteobacteria.\n",
+        "\nAuthor Summary\nIntegrative and conjugative elements (ICEs) are a relatively newly recognized class of mobile elements in bacteria, which integrate at one or more positions in a host chromosome, can be excised, circularized, and transfer by conjugation to a new recipient cell. Genome sequencing indicated that ICEs often carry genes with potential adaptive functions for the host. Various ICE-types have been described and ICEclc is a useful model for a wide class of elements found in Beta- and Gammaproteobacteria. Because ICEs normally remain “silent” in the host chromosome and often lack selectable markers, their lifestyle is difficult to study. One of the characteristics of ICEclc is that transfer is initiated in only 3-5% of donor cells in a population during stationary phase. Here, we describe an operon of three regulatory genes, two of which control the transfer initiation of ICEclc. Our findings suggest that the low transfer rate results from the repression of an activator and that this is essential to minimize the deleterious effect of hyper-activation of transfer initiation. While the individual regulatory genes are quite common on ICEs, they rarely occur in this configuration.\n"
+      ]
+    },
+    "file_hashes": [
+      {
+        "fulltext.pdf": "037d0a292bcca909943daf27a1e51f77"
+      },
+      {
+        "fulltext.xml": "09305c9e8d09f37ba7107df1fd0c7cd0"
+      }
+    ]
+  },
+  "http://www.plosgenetics.org/article/info%3Adoi%2F10.1371%2Fjournal.pgen.1004433": {
+    "fulltext_pdf": {
+      "value": [
+        "http://dx.plos.org/10.1371/journal.pgen.1004433.pdf"
+      ]
+    },
+    "fulltext_html": {
+      "value": [
+
+      ]
+    },
+    "fulltext_xml": {
+      "value": [
+        "/article/fetchObjectAttachment.action?uri=info%3Adoi%2F10.1371%2Fjournal.pgen.1004433&representation=XML"
+      ]
+    },
+    "title": {
+      "value": [
+        "A Novel Peptidoglycan Binding Protein Crucial for PBP1A-Mediated Cell Wall Biogenesis in Vibrio cholerae"
+      ]
+    },
+    "author": {
+      "value": [
+        "Tobias Dörr",
+        "Hubert Lam",
+        "Laura Alvarez",
+        "Felipe Cava",
+        "Brigid M. Davis",
+        "Matthew K. Waldor"
+      ]
+    },
+    "date": {
+      "value": [
+        "2014/6/19"
+      ]
+    },
+    "doi": {
+      "value": [
+        "10.1371/journal.pgen.1004433"
+      ]
+    },
+    "volume": {
+      "value": [
+        "10"
+      ]
+    },
+    "issue": {
+      "value": [
+        "6"
+      ]
+    },
+    "firstpage": {
+      "value": [
+        "e1004433"
+      ]
+    },
+    "description": {
+      "value": [
+        "PLOS Genetics is an open-access"
+      ]
+    },
+    "abstract": {
+      "value": [
+        "AbstractThe bacterial cell wall, which is comprised of a mesh of polysaccharide strands crosslinked via peptide bridges (peptidoglycan, PG), is critical for maintenance of cell shape and survival. PG assembly is mediated by a variety of Penicillin Binding Proteins (PBP) whose fundamental activities have been characterized in great detail; however, there is limited knowledge of the factors that modulate their activities in different environments or growth phases. In Vibrio cholerae, the cause of cholera, PG synthesis during the transition into stationary phase is primarily mediated by the bifunctional enzyme PBP1A. Here, we screened an ordered V. cholerae transposon library for mutants that are sensitive to growth inhibition by non-canonical D-amino acids (DAA), which prevent growth and maintenance of cell shape in PBP1A-deficient V. cholerae. In addition to PBP1A and its lipoprotein activator LpoA, we found that CsiV, a small periplasmic protein with no previously described function, is essential for growth in the presence of DAA. Deletion of csiV, like deletion of lpoA or the PBP1A–encoding gene mrcA, causes cells to lose their rod shape in the presence of DAA or the beta-lactam antibiotic cefsulodin, and all three mutations are synthetically lethal with deletion of mrcB, which encodes PBP1B, V. cholerae's second key bifunctional PBP. CsiV interacts with LpoA and PG but apparently not with PBP1A, supporting the hypothesis that CsiV promotes LpoA's role as an activator of PBP1A, and thereby modulates V. cholerae PG biogenesis. Finally, the requirement for CsiV in PBP1A-mediated growth of V. cholerae can be overcome either by augmenting PG synthesis or by reducing PG degradation, thereby highlighting the importance of balancing these two processes for bacterial survival.\n",
+        "\nAuthor Summary\nBacteria surround themselves with a mesh-like peptidoglycan (PG) cell wall, which is essential for maintenance of cell shape and survival. While the enzymes that catalyze the assembly of the cell wall (aka penicillin-binding proteins (PBPs)) have been extensively characterized, our understanding of the factors that modulate the activities of these enzymes is less developed. Here, using a genetic screen, we identified a gene of unknown function that plays a crucial role in PBP1A-mediated cell wall synthesis in Vibrio cholerae, the bacterium causing cholera. V. cholerae mutants lacking this gene, whose protein product was re-named CsiV (for Cell shape integrity Vibrio), share many phenotypes with PBP1A mutants, including becoming spherical during stationary phase. We show that CsiV interacts with LpoA, a lipoprotein activator of PBP1A, as well as with PG. CsiV, LpoA, or PBP1A are all required for survival of V. cholerae lacking PBP1B, and mutants lacking any of these factors show marked changes in PG content in stationary phase. Collectively, our data suggest that CsiV acts through LpoA to promote PG biogenesis in V. cholerae and other vibrio species as well as in the other genera where this protein is found.\n"
+      ]
+    },
+    "file_hashes": [
+      {
+        "fulltext.pdf": "890d664254554ae5142d7a8e0d10633e"
+      },
+      {
+        "fulltext.xml": "078a5543dd025d13f966e683187b85fd"
+      }
+    ]
+  },
+  "http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0098781": {
+    "fulltext_pdf": {
+      "value": [
+        "http://dx.plos.org/10.1371/journal.pone.0098781.pdf"
+      ]
+    },
+    "fulltext_html": {
+      "value": [
+
+      ]
+    },
+    "fulltext_xml": {
+      "value": [
+        "/article/fetchObjectAttachment.action?uri=info%3Adoi%2F10.1371%2Fjournal.pone.0098781&representation=XML"
+      ]
+    },
+    "title": {
+      "value": [
+        "Foldscope: Origami-Based Paper Microscope"
+      ]
+    },
+    "author": {
+      "value": [
+        "James S. Cybulski",
+        "James Clements",
+        "Manu Prakash"
+      ]
+    },
+    "date": {
+      "value": [
+        "2014/6/18"
+      ]
+    },
+    "doi": {
+      "value": [
+        "10.1371/journal.pone.0098781"
+      ]
+    },
+    "volume": {
+      "value": [
+        "9"
+      ]
+    },
+    "issue": {
+      "value": [
+        "6"
+      ]
+    },
+    "firstpage": {
+      "value": [
+        "e98781"
+      ]
+    },
+    "description": {
+      "value": [
+        "PLOS ONE: an inclusive, peer-reviewed, open-access resource from the PUBLIC LIBRARY OF SCIENCE. Reports of well-performed scientific studies from all disciplines freely available to the whole world."
+      ]
+    },
+    "abstract": {
+      "value": [
+        "AbstractHere we describe an ultra-low-cost origami-based approach for large-scale manufacturing of microscopes, specifically demonstrating brightfield, darkfield, and fluorescence microscopes. Merging principles of optical design with origami enables high-volume fabrication of microscopes from 2D media. Flexure mechanisms created via folding enable a flat compact design. Structural loops in folded paper provide kinematic constraints as a means for passive self-alignment. This light, rugged instrument can survive harsh field conditions while providing a diversity of imaging capabilities, thus serving wide-ranging applications for cost-effective, portable microscopes in science and education.\n"
+      ]
+    },
+    "file_hashes": [
+      {
+        "fulltext.pdf": "5dfa35bcba2f631b40673c498c62f64b"
+      },
+      {
+        "fulltext.xml": "49e918d4fee77f96ff9f1d49615f3785"
+      }
+    ]
+  },
+  "http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0099348": {
+    "fulltext_pdf": {
+      "value": [
+        "http://dx.plos.org/10.1371/journal.pone.0099348.pdf"
+      ]
+    },
+    "fulltext_html": {
+      "value": [
+
+      ]
+    },
+    "fulltext_xml": {
+      "value": [
+        "/article/fetchObjectAttachment.action?uri=info%3Adoi%2F10.1371%2Fjournal.pone.0099348&representation=XML"
+      ]
+    },
+    "title": {
+      "value": [
+        "Co-Infection of Blacklegged Ticks with Babesia microti and Borrelia burgdorferi Is Higher than Expected and Acquired from Small Mammal Hosts"
+      ]
+    },
+    "author": {
+      "value": [
+        "Michelle H. Hersh",
+        "Richard S. Ostfeld",
+        "Diana J. McHenry",
+        "Michael Tibbetts",
+        "Jesse L. Brunner",
+        "Mary E. Killilea",
+        "Kathleen LoGiudice",
+        "Kenneth A. Schmidt",
+        "Felicia Keesing"
+      ]
+    },
+    "date": {
+      "value": [
+        "2014/6/18"
+      ]
+    },
+    "doi": {
+      "value": [
+        "10.1371/journal.pone.0099348"
+      ]
+    },
+    "volume": {
+      "value": [
+        "9"
+      ]
+    },
+    "issue": {
+      "value": [
+        "6"
+      ]
+    },
+    "firstpage": {
+      "value": [
+        "e99348"
+      ]
+    },
+    "description": {
+      "value": [
+        "PLOS ONE: an inclusive, peer-reviewed, open-access resource from the PUBLIC LIBRARY OF SCIENCE. Reports of well-performed scientific studies from all disciplines freely available to the whole world."
+      ]
+    },
+    "abstract": {
+      "value": [
+        "AbstractHumans in the northeastern and midwestern United States are at increasing risk of acquiring tickborne diseases – not only Lyme disease, but also two emerging diseases, human granulocytic anaplasmosis and human babesiosis. Co-infection with two or more of these pathogens can increase the severity of health impacts. The risk of co-infection is intensified by the ecology of these three diseases because all three pathogens (Borrelia burgdorferi, Anaplasma phagocytophilum, and Babesia microti) are transmitted by the same vector, blacklegged ticks (Ixodes scapularis), and are carried by many of the same reservoir hosts. The risk of exposure to multiple pathogens from a single tick bite and the sources of co-infected ticks are not well understood. In this study, we quantify the risk of co-infection by measuring infection prevalence in 4,368 questing nymphs throughout an endemic region for all three diseases (Dutchess County, NY) to determine if co-infections occur at frequencies other than predicted by independent assortment of pathogens. Further, we identify sources of co-infection by quantifying rates of co-infection on 3,275 larval ticks fed on known hosts. We find significant deviations of levels of co-infection in questing nymphs, most notably 83% more co-infection with Babesia microti and Borrelia burgdorferi than predicted by chance alone. Further, this pattern of increased co-infection was observed in larval ticks that fed on small mammal hosts, but not on meso-mammal, sciurid, or avian hosts. Co-infections involving A. phagocytophilum were less common, and fewer co-infections of A. phagocytophilum and B. microti than predicted by chance were observed in both questing nymphs and larvae fed on small mammals. Medical practitioners should be aware of the elevated risk of B. microti/B. burgdorferi co-infection.\n"
+      ]
+    },
+    "file_hashes": [
+      {
+        "fulltext.pdf": "71ff4b0cd5933789dbb0a38d756c6193"
+      },
+      {
+        "fulltext.xml": "b8506c6bdd446151410a270ea4fde031"
+      }
+    ]
+  }
 }

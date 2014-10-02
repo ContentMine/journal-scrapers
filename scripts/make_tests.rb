@@ -68,12 +68,15 @@ Dir.chdir('test') do
           results = JSON.load(File.open 'results.json')
           files = Dir['*']
           files = files.keep_if { |f| f != 'results.json' }
+          file_hashes = []
           files.each do |f|
-            results << { f => Digest::MD5.file(f).hexdigest }
+            file_hashes << { f => Digest::MD5.file(f).hexdigest }
           end
+          results['file_hashes'] = file_hashes
+        end
         if (index + 1) < urls.length
-          puts "waiting 15 seconds before next scrape"
-          sleep(15)
+          puts "waiting 5 seconds before next scrape"
+          sleep(5)
         end
     end
     # store results for this URL

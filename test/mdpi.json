@@ -1,529 +1,845 @@
 {
-  "http://www.mdpi.com/1420-3049/19/4/5150/htm": [
-    {
-      "publisher": "Multidisciplinary Digital Publishing Institute"
-    },
-    {
-      "journal": "Molecules"
-    },
-    {
-      "title": "Development of Simple Sequence Repeat (SSR) Markers of Sesame (Sesamum indicum) from a Genome Survey"
-    },
-    {
-      "date": "2014-04-22"
-    },
-    {
-      "doi": "10.3390/molecules19045150"
-    },
-    {
-      "volume": "19"
-    },
-    {
-      "issue": "4"
-    },
-    {
-      "firstpage": "5150"
-    },
-    {
-      "description": "Sesame (Sesamum indicum), an important oil crop, is widely grown in tropical and subtropical regions. It provides part of the daily edible oil allowance for almost half of the world’s population. A limited number of co-dominant markers has been developed and applied in sesame genetic diversity and germplasm identity studies. Here we report for the first time a whole genome survey used to develop simple sequence repeat (SSR) markers and to detect the genetic diversity of sesame germplasm. From the initial assembled sesame genome, 23,438 SSRs (≥5 repeats) were identified. The most common repeat motif was dinucleotide with a frequency of 84.24%, followed by 13.53% trinucleotide, 1.65% tetranucleotide, 0.3% pentanucleotide and 0.28% hexanucleotide motifs. From 1500 designed and synthesised primer pairs, 218 polymorphic SSRs were developed and used to screen 31 sesame accessions that from 12 countries. STRUCTURE and phylogenetic analyses indicated that all sesame accessions could be divided into two groups: one mainly from China and another from other countries. Cluster analysis classified Chinese major sesame varieties into three groups. These novel SSR markers are a useful tool for genetic linkage map construction, genetic diversity detection, and marker-assisted selective sesame breeding."
-    },
-    {
-      "abstract": "Sesame (Sesamum indicum), an important oil crop, is widely grown in tropical and subtropical regions. It provides part of the daily edible oil allowance for almost half of the world’s population. A limited number of co-dominant markers has been developed and applied in sesame genetic diversity and germplasm identity studies. Here we report for the first time a whole genome survey used to develop simple sequence repeat (SSR) markers and to detect the genetic diversity of sesame germplasm. From the initial assembled sesame genome, 23,438 SSRs (≥5 repeats) were identified. The most common repeat motif was dinucleotide with a frequency of 84.24%, followed by 13.53% trinucleotide, 1.65% tetranucleotide, 0.3% pentanucleotide and 0.28% hexanucleotide motifs. From 1500 designed and synthesised primer pairs, 218 polymorphic SSRs were developed and used to screen 31 sesame accessions that from 12 countries. STRUCTURE and phylogenetic analyses indicated that all sesame accessions could be divided into two groups: one mainly from China and another from other countries. Cluster analysis classified Chinese major sesame varieties into three groups. These novel SSR markers are a useful tool for genetic linkage map construction, genetic diversity detection, and marker-assisted selective sesame breeding."
-    },
-    {
-      "fulltext_html": "http://www.mdpi.com/1420-3049/19/4/5150/htm"
-    },
-    {
-      "fulltext_pdf": "http://www.mdpi.com/1420-3049/19/4/5150/pdf"
-    },
-    {
-      "figure": "/molecules/molecules-19-05150/article_deploy/html/images/molecules-19-05150-g001-1024.png"
-    },
-    {
-      "figure": "/molecules/molecules-19-05150/article_deploy/html/images/molecules-19-05150-g002-1024.png"
-    },
-    {
-      "figure": "/molecules/molecules-19-05150/article_deploy/html/images/molecules-19-05150-g003-1024.png"
-    },
-    {
-      "figure": "/molecules/molecules-19-05150/article_deploy/html/images/molecules-19-05150-g004-1024.png"
-    },
-    {
-      "figure": "/molecules/molecules-19-05150/article_deploy/html/images/molecules-19-05150-g005-1024.png"
-    },
-    {
-      "figure_caption": "\n    Figure 1.\n      Distribution of various classes of simple repeat motifs with different numbers of repeats in the sesame genome.\n    \n      Click here to enlarge figure\n    \n  "
-    },
-    {
-      "figure_caption": "\n    Figure 2.\n      (a) Percentage of different dinucleotide repeat motifs in the sesame genome. and (b) Percentage of different motifs in trinucleotide repeat motifs in the sesame genome.\n    \n      Click here to enlarge figure\n    \n  "
-    },
-    {
-      "figure_caption": "\n    Figure 3.\n      Population structure of sesame accessions. STRUCTURE was constructed by all loci. K = 2. Clusters are indicated by different colours. Samples included in all clusters are listed in Table S3.\n    \n      Click here to enlarge figure\n    \n  "
-    },
-    {
-      "figure_caption": "\n    Figure 4.\n      Phylogenetic tree of 31 sesame accessions derived from NJ analysis based on 218 SSR markers. Bootstrap values >50 are shown.\n    \n      Click here to enlarge figure\n    \n  "
-    },
-    {
-      "figure_caption": "\n    Figure 5.\n      Dendrogram of 23 sesame varieties based on 20 high polymorphism markers. Samples are listed in Table S4.\n    \n      Click here to enlarge figure\n    \n  "
-    },
-    {
-      "molecules-19-05150-g004-1024.png": "f8a819eeb997cb72ac2651f6a37c1f78"
-    },
-    {
-      "molecules-19-05150-g005-1024.png": "62eb6d8e24dd966f32a6124e61a0de69"
-    },
-    {
-      "htm": "9c6c990abc3132b88e83d0bd78f7f95b"
-    },
-    {
-      "molecules-19-05150-g002-1024.png": "94703bfe8b0b62cf8548e84f0298dd32"
-    },
-    {
-      "pdf": "36fcc2bbb7d479c5542b09f6249cd262"
-    },
-    {
-      "molecules-19-05150-g003-1024.png": "1e4034516b7343ad496f6b7105c512ec"
-    },
-    {
-      "molecules-19-05150-g001-1024.png": "a3c4dc0eb2508db7a66a9eacb4fb387c"
-    },
-    {
-      "rendered.html": "fdda905ed712b6c4698bb3a986e7cdb3"
-    }
-  ],
-  "http://www.mdpi.com/1420-3049/19/7/9502": [
-    {
-      "publisher": "Multidisciplinary Digital Publishing Institute"
-    },
-    {
-      "journal": "Molecules"
-    },
-    {
-      "title": "Effects of Icariin on Reproductive Functions in Male Rats"
-    },
-    {
-      "date": "2014-07-03"
-    },
-    {
-      "doi": "10.3390/molecules19079502"
-    },
-    {
-      "volume": "19"
-    },
-    {
-      "issue": "7"
-    },
-    {
-      "firstpage": "9502"
-    },
-    {
-      "description": "The present study investigated the effects and potential mechanism(s) of action of icariin on the reproductive functions of male rats. Adult rats were treated orally with icariin at doses of 0 (control), 50, 100, or 200 mg/kg body weight for 35 consecutive days. The results show that icariin had virtually no effect on the body weight or organ coefficients of the testes or epididymides. However, 100 mg/kg icariin significantly increased epididymal sperm counts. In addition, 50 and 100 mg/kg icariin significantly increased testosterone levels. Real-time PCR suggests icariin may be involved in testosterone production via mRNA expression regulation of genes such as peripheral type benzodiazepine receptor (PBR) and steroidogenic acute regulatory protein (StAR). Furthermore, 100 mg/kg icariin treatment also affected follicle stimulating hormone receptor (FSHR) and claudin-11 mRNA expression in Sertoli cells. Superoxide dismutase (SOD) activity and malondialdehyde (MDA) levels were measured in the testes; 50 and 100 mg/kg icariin treatment improved antioxidative capacity, while 200 mg/kg icariin treatment upregulated oxidative stress. These results collectively suggest that icariin within a certain dose range is beneficial to male reproductive functions; meanwhile, higher doses of icariin may damage reproductive functions by increasing oxidative stress in the testes."
-    },
-    {
-      "abstract": "The present study investigated the effects and potential mechanism(s) of action of icariin on the reproductive functions of male rats. Adult rats were treated orally with icariin at doses of 0 (control), 50, 100, or 200 mg/kg body weight for 35 consecutive days. The results show that icariin had virtually no effect on the body weight or organ coefficients of the testes or epididymides. However, 100 mg/kg icariin significantly increased epididymal sperm counts. In addition, 50 and 100 mg/kg icariin significantly increased testosterone levels. Real-time PCR suggests icariin may be involved in testosterone production via mRNA expression regulation of genes such as peripheral type benzodiazepine receptor (PBR) and steroidogenic acute regulatory protein (StAR). Furthermore, 100 mg/kg icariin treatment also affected follicle stimulating hormone receptor (FSHR) and claudin-11 mRNA expression in Sertoli cells. Superoxide dismutase (SOD) activity and malondialdehyde (MDA) levels were measured in the testes; 50 and 100 mg/kg icariin treatment improved antioxidative capacity, while 200 mg/kg icariin treatment upregulated oxidative stress. These results collectively suggest that icariin within a certain dose range is beneficial to male reproductive functions; meanwhile, higher doses of icariin may damage reproductive functions by increasing oxidative stress in the testes."
-    },
-    {
-      "fulltext_pdf": "http://www.mdpi.com/1420-3049/19/7/9502/pdf"
-    },
-    {
-      "pdf": "04bad9a75a92c8fd28a47c83dfbd9caa"
-    },
-    {
-      "rendered.html": "026c9b22b4fa5f6dbe22c31a3435644a"
-    }
-  ],
-  "http://www.mdpi.com/1420-3049/12/3/290": [
-    {
-      "publisher": "Molecular Diversity Preservation International"
-    },
-    {
-      "journal": "Molecules"
-    },
-    {
-      "title": "Modelingof Acetylene Pyrolysis under Steel Vacuum Carburizing Conditions in a Tubular Flow Reactor"
-    },
-    {
-      "date": "2007-03-02"
-    },
-    {
-      "doi": "10.3390/12030290"
-    },
-    {
-      "volume": "12"
-    },
-    {
-      "issue": "3"
-    },
-    {
-      "firstpage": "290"
-    },
-    {
-      "description": "In the present work, the pyrolysis of acetylene was studied under steel vacuumcarburizing conditions in a tubular flow reactor. The pyrolysis temperature ranged from650 °C to 1050 °C. The partial pressure of acetylene in the feed mixture was 10 and 20mbar, respectively, while the rest of the mixture consisted of nitrogen. The total pressureof the mixture was 1.6 bar. A kinetic mechanism which consists of seven species andnine reactions has been used in the commercial computational fluid dynamics (CFD)software Fluent. The species transport and reaction model of Fluent was used in thesimulations. A comparison of simulated and experimental results is presented in thispaper."
-    },
-    {
-      "abstract": "In the present work, the pyrolysis of acetylene was studied under steel vacuumcarburizing conditions in a tubular flow reactor. The pyrolysis temperature ranged from650 °C to 1050 °C. The partial pressure of acetylene in the feed mixture was 10 and 20mbar, respectively, while the rest of the mixture consisted of nitrogen. The total pressureof the mixture was 1.6 bar. A kinetic mechanism which consists of seven species andnine reactions has been used in the commercial computational fluid dynamics (CFD)software Fluent. The species transport and reaction model of Fluent was used in thesimulations. A comparison of simulated and experimental results is presented in thispaper."
-    },
-    {
-      "fulltext_pdf": "http://www.mdpi.com/1420-3049/12/3/290/pdf"
-    },
-    {
-      "pdf": "f81f429b42f2cd8a752b50892d713ca0"
-    },
-    {
-      "rendered.html": "0a598a2fd773a3873fe0667805a9d2a1"
-    }
-  ],
-  "http://www.mdpi.com/2077-0472/4/2/199/htm": [
-    {
-      "publisher": "Multidisciplinary Digital Publishing Institute"
-    },
-    {
-      "journal": "Agriculture"
-    },
-    {
-      "title": "Rapid Development of Microsatellite Markers for  Plantago ovata Forsk.: Using Next Generation  Sequencing and Their Cross-Species Transferability"
-    },
-    {
-      "date": "2014-06-20"
-    },
-    {
-      "doi": "10.3390/agriculture4020199"
-    },
-    {
-      "volume": "4"
-    },
-    {
-      "issue": "2"
-    },
-    {
-      "firstpage": "199"
-    },
-    {
-      "description": "Isabgol (Plantago ovata Forsk.) is an important medicinal plant having high pharmacological activity in its seed husk, which is substantially used in the food, beverages and packaging industries. Nevertheless, isabgol lags behind in research, particularly for genomic resources, like molecular markers, genetic maps, etc. Presently, molecular markers can be easily developed through next generation sequencing technologies, more efficiently, cost effectively and in less time than ever before. This study was framed keeping in view the need to develop molecular markers for this economically important crop by employing a microsatellite enrichment protocol using a next generation sequencing platform (ion torrent PGM™) to obtain simple sequence repeats (SSRs) for Plantago ovata for the very first time. A total of 3447 contigs were assembled, which contained 249 SSRs. Thirty seven loci were randomly selected for primer development; of which, 30 loci were successfully amplified. The developed microsatellite markers showed the amplification of the expected size and cross-amplification in another six species of Plantago. The SSR markers were unable to show polymorphism within P. ovata, suggesting that low variability exists within genotypes of P. ovata. This study suggests that PGM™ sequencing is a rapid and cost-effective tool for developing SSR markers for non-model species, and the markers so-observed could be useful in the molecular breeding of P. ovata."
-    },
-    {
-      "abstract": "Isabgol (Plantago ovata Forsk.) is an important medicinal plant having high pharmacological activity in its seed husk, which is substantially used in the food, beverages and packaging industries. Nevertheless, isabgol lags behind in research, particularly for genomic resources, like molecular markers, genetic maps, etc. Presently, molecular markers can be easily developed through next generation sequencing technologies, more efficiently, cost effectively and in less time than ever before. This study was framed keeping in view the need to develop molecular markers for this economically important crop by employing a microsatellite enrichment protocol using a next generation sequencing platform (ion torrent PGM™) to obtain simple sequence repeats (SSRs) for Plantago ovata for the very first time. A total of 3447 contigs were assembled, which contained 249 SSRs. Thirty seven loci were randomly selected for primer development; of which, 30 loci were successfully amplified. The developed microsatellite markers showed the amplification of the expected size and cross-amplification in another six species of Plantago. The SSR markers were unable to show polymorphism within P. ovata, suggesting that low variability exists within genotypes of P. ovata. This study suggests that PGM™ sequencing is a rapid and cost-effective tool for developing SSR markers for non-model species, and the markers so-observed could be useful in the molecular breeding of P. ovata."
-    },
-    {
-      "fulltext_html": "http://www.mdpi.com/2077-0472/4/2/199/htm"
-    },
-    {
-      "fulltext_pdf": "http://www.mdpi.com/2077-0472/4/2/199/pdf"
-    },
-    {
-      "figure": "/agriculture/agriculture-04-00199/article_deploy/html/images/agriculture-04-00199-g001-1024.png"
-    },
-    {
-      "figure": "/agriculture/agriculture-04-00199/article_deploy/html/images/agriculture-04-00199-g002-1024.png"
-    },
-    {
-      "figure": "/agriculture/agriculture-04-00199/article_deploy/html/images/agriculture-04-00199-g003-1024.png"
-    },
-    {
-      "figure_caption": "\n    Figure 1.\n      Frequency distribution of microsatellites in P. ovata based on the di-repeat and tri-repeat motif sequence types.\n    \n      Click here to enlarge figure\n    \n  "
-    },
-    {
-      "figure_caption": "\n    Figure 2.\n      Agarose gel image showing amplification patterns of SSR markers, APOM 23 and APOM 25, among six genotypes of P. ovata and allied species. M, 100 bp plus ladder (Thermo Scientific); 1, GI-3; 2: GI-2; 3, RI-89; 4, DPO13; 5, DPO13; 6, EC124345; 7, Plantago arneria; 8, Plantago coronopus; 9, Plantago psyllium; 10, Plantago indica; 11, Plantago serraria, 12, Plantago lanceolata.\n    \n      Click here to enlarge figure\n    \n  "
-    },
-    {
-      "figure_caption": "\n    Figure 3.\n      Dendrogram based on UPGMA clustering of 12 genotypes of isabgol using SSR markers.\n    \n      Click here to enlarge figure\n    \n  "
-    },
-    {
-      "agriculture-04-00199-g003-1024.png": "3979c2a3fc22c8f8a04a4bd15ae55e05"
-    },
-    {
-      "agriculture-04-00199-g002-1024.png": "3dee15bacd3d66f75d41d167cd833e85"
-    },
-    {
-      "htm": "a37d92f2487441423d11442febf28340"
-    },
-    {
-      "pdf": "3764be3556ed014d2221707bc860dba9"
-    },
-    {
-      "rendered.html": "f3fd0cb07325a2e626a82e931b6d4710"
-    },
-    {
-      "agriculture-04-00199-g001-1024.png": "7be1acb663571046fae8d49eeda6eeba"
-    }
-  ],
-  "http://www.mdpi.com/1999-4893/7/3/363": [
-    {
-      "publisher": "Multidisciplinary Digital Publishing Institute"
-    },
-    {
-      "journal": "Algorithms"
-    },
-    {
-      "title": "Pressure Model of Control Valve Based on LS-SVM with the Fruit Fly Algorithm"
-    },
-    {
-      "date": "2014-07-11"
-    },
-    {
-      "doi": "10.3390/a7030363"
-    },
-    {
-      "volume": "7"
-    },
-    {
-      "issue": "3"
-    },
-    {
-      "firstpage": "363"
-    },
-    {
-      "description": "Control valve is a kind of essential terminal control component which is hard to model by traditional methodologies because of its complexity and nonlinearity. This paper proposes a new modeling method for the upstream pressure of control valve using the  least squares support vector machine (LS-SVM), which has been successfully used to identify nonlinear system. In order to improve the modeling performance, the fruit fly optimization algorithm (FOA) is used to optimize two critical parameters of LS-SVM. As an example, a set of actual production data from a controlling system of chlorine in a salt chemistry industry is applied. The validity of LS-SVM modeling method using FOA is verified by comparing the predicted results with the actual data with a value of MSE  2.474 × 10−3. Moreover, it is demonstrated that the initial position of FOA does not affect its optimal ability. By comparison, simulation experiments based on PSO algorithm and the grid search method are also carried out. The results show that LS-SVM based on FOA has equal performance in prediction accuracy. However, from the respect of calculation time, FOA has a significant advantage and is more suitable for the online prediction."
-    },
-    {
-      "abstract": "Control valve is a kind of essential terminal control component which is hard to model by traditional methodologies because of its complexity and nonlinearity. This paper proposes a new modeling method for the upstream pressure of control valve using the  least squares support vector machine (LS-SVM), which has been successfully used to identify nonlinear system. In order to improve the modeling performance, the fruit fly optimization algorithm (FOA) is used to optimize two critical parameters of LS-SVM. As an example, a set of actual production data from a controlling system of chlorine in a salt chemistry industry is applied. The validity of LS-SVM modeling method using FOA is verified by comparing the predicted results with the actual data with a value of MSE  2.474 × 10−3. Moreover, it is demonstrated that the initial position of FOA does not affect its optimal ability. By comparison, simulation experiments based on PSO algorithm and the grid search method are also carried out. The results show that LS-SVM based on FOA has equal performance in prediction accuracy. However, from the respect of calculation time, FOA has a significant advantage and is more suitable for the online prediction."
-    },
-    {
-      "fulltext_pdf": "http://www.mdpi.com/1999-4893/7/3/363/pdf"
-    },
-    {
-      "pdf": "c24f1907c6da67ae8ed8ab4d214965cb"
-    },
-    {
-      "rendered.html": "433e8866f2f35de4ff10aee12cbac396"
-    }
-  ],
-  "http://www.mdpi.com/2076-3425/2/3/347/htm": [
-    {
-      "publisher": "Molecular Diversity Preservation International"
-    },
-    {
-      "journal": "Brain Sciences"
-    },
-    {
-      "title": "Internet and Gaming Addiction: A Systematic Literature Review of Neuroimaging Studies"
-    },
-    {
-      "date": "2012-09-05"
-    },
-    {
-      "doi": "10.3390/brainsci2030347"
-    },
-    {
-      "volume": "2"
-    },
-    {
-      "issue": "3"
-    },
-    {
-      "firstpage": "347"
-    },
-    {
-      "description": "In the past decade, research has accumulated suggesting that excessive Internet use can lead to the development of a behavioral addiction. Internet addiction has been considered as a serious threat to mental health and the excessive use of the Internet has been linked to a variety of negative psychosocial consequences. The aim of this review is to identify all empirical studies to date that used neuroimaging techniques to shed light upon the emerging mental health problem of Internet and gaming addiction from a neuroscientific perspective. Neuroimaging studies offer an advantage over traditional survey and behavioral research because with this method, it is possible to distinguish particular brain areas that are involved in the development and maintenance of addiction. A systematic literature search was conducted, identifying 18 studies. These studies provide compelling evidence for the similarities between different types of addictions, notably substance-related addictions and Internet and gaming addiction, on a variety of levels. On the molecular level, Internet addiction is characterized by an overall reward deficiency that entails decreased dopaminergic activity. On the level of neural circuitry, Internet and gaming addiction led to neuroadaptation and structural changes that occur as a consequence of prolonged increased activity in brain areas associated with addiction. On a behavioral level, Internet and gaming addicts appear to be constricted with regards to their cognitive functioning in various domains. The paper shows that understanding the neuronal correlates associated with the development of Internet and gaming addiction will promote future research and will pave the way for the development of addiction treatment approaches."
-    },
-    {
-      "abstract": "In the past decade, research has accumulated suggesting that excessive Internet use can lead to the development of a behavioral addiction. Internet addiction has been considered as a serious threat to mental health and the excessive use of the Internet has been linked to a variety of negative psychosocial consequences. The aim of this review is to identify all empirical studies to date that used neuroimaging techniques to shed light upon the emerging mental health problem of Internet and gaming addiction from a neuroscientific perspective. Neuroimaging studies offer an advantage over traditional survey and behavioral research because with this method, it is possible to distinguish particular brain areas that are involved in the development and maintenance of addiction. A systematic literature search was conducted, identifying 18 studies. These studies provide compelling evidence for the similarities between different types of addictions, notably substance-related addictions and Internet and gaming addiction, on a variety of levels. On the molecular level, Internet addiction is characterized by an overall reward deficiency that entails decreased dopaminergic activity. On the level of neural circuitry, Internet and gaming addiction led to neuroadaptation and structural changes that occur as a consequence of prolonged increased activity in brain areas associated with addiction. On a behavioral level, Internet and gaming addicts appear to be constricted with regards to their cognitive functioning in various domains. The paper shows that understanding the neuronal correlates associated with the development of Internet and gaming addiction will promote future research and will pave the way for the development of addiction treatment approaches."
-    },
-    {
-      "fulltext_html": "http://www.mdpi.com/2076-3425/2/3/347/htm"
-    },
-    {
-      "fulltext_pdf": "http://www.mdpi.com/2076-3425/2/3/347/pdf"
-    },
-    {
-      "htm": "46820ea8dbad57c010a030db1fb8d257"
-    },
-    {
-      "pdf": "f26da200c65aee82debda1b3f00dfb45"
-    },
-    {
-      "rendered.html": "022bd9be411f343674d8382633657a08"
-    }
-  ],
-  "http://www.mdpi.com/2073-431X/2/4/152/htm": [
-    {
-      "publisher": "Multidisciplinary Digital Publishing Institute"
-    },
-    {
-      "journal": "Computers"
-    },
-    {
-      "title": "Static Three-Dimensional Fuzzy Routing Based on the Receiving Probability in Wireless Sensor Networks"
-    },
-    {
-      "date": "2013-11-12"
-    },
-    {
-      "doi": "10.3390/computers2040152"
-    },
-    {
-      "volume": "2"
-    },
-    {
-      "issue": "4"
-    },
-    {
-      "firstpage": "152"
-    },
-    {
-      "description": "A Wireless Sensor Network (WSN) is a collection of low-cost, low-power and large-scale wireless sensor nodes. Routing protocols are an important topic in WSN. Every sensor node should use a proper mechanism to transmit the generated packets to its destination, usually a base station. In previous works, routing protocols use the global information of the network that causes the redundant packets to be increased. Moreover,  it leads to an increase in the network traffic, to a decrease in the delivery ratio of data packets, and to a reduction in network life. In this paper, we propose a new inferential routing protocol called SFRRP (Static Three-Dimensional Fuzzy Routing based on the Receiving Probability). The proposed protocol solves the above mentioned problems considerably. The data packets are transmitted by hop-to-hop delivery to the base station.  It uses a fuzzy procedure to transmit the sensed data or the buffered data packets to one of the neighbors called selected node. In the proposed fuzzy system, the distance and number of neighbors are input variables, while the receiving probability is the output variable. SFRRP just uses the local neighborhood information to forward the packets and is not needed by any redundant packet for route discovery. The proposed protocol has some advantages such as a high delivery ratio, less delay time, high network life, and less network traffic. The performance of the proposed protocol surpasses the performance of the Flooding routing protocol in terms of delivery ratio, delay time and network lifetime."
-    },
-    {
-      "abstract": "A Wireless Sensor Network (WSN) is a collection of low-cost, low-power and large-scale wireless sensor nodes. Routing protocols are an important topic in WSN. Every sensor node should use a proper mechanism to transmit the generated packets to its destination, usually a base station. In previous works, routing protocols use the global information of the network that causes the redundant packets to be increased. Moreover,  it leads to an increase in the network traffic, to a decrease in the delivery ratio of data packets, and to a reduction in network life. In this paper, we propose a new inferential routing protocol called SFRRP (Static Three-Dimensional Fuzzy Routing based on the Receiving Probability). The proposed protocol solves the above mentioned problems considerably. The data packets are transmitted by hop-to-hop delivery to the base station.  It uses a fuzzy procedure to transmit the sensed data or the buffered data packets to one of the neighbors called selected node. In the proposed fuzzy system, the distance and number of neighbors are input variables, while the receiving probability is the output variable. SFRRP just uses the local neighborhood information to forward the packets and is not needed by any redundant packet for route discovery. The proposed protocol has some advantages such as a high delivery ratio, less delay time, high network life, and less network traffic. The performance of the proposed protocol surpasses the performance of the Flooding routing protocol in terms of delivery ratio, delay time and network lifetime."
-    },
-    {
-      "fulltext_html": "http://www.mdpi.com/2073-431X/2/4/152/htm"
-    },
-    {
-      "fulltext_pdf": "http://www.mdpi.com/2073-431X/2/4/152/pdf"
-    },
-    {
-      "figure": "/computers/computers-02-00152/article_deploy/html/images/computers-02-00152-g001-1024.png"
-    },
-    {
-      "figure": "/computers/computers-02-00152/article_deploy/html/images/computers-02-00152-g002-1024.png"
-    },
-    {
-      "figure": "/computers/computers-02-00152/article_deploy/html/images/computers-02-00152-g003-1024.png"
-    },
-    {
-      "figure": "/computers/computers-02-00152/article_deploy/html/images/computers-02-00152-g004-1024.png"
-    },
-    {
-      "figure": "/computers/computers-02-00152/article_deploy/html/images/computers-02-00152-g005-1024.png"
-    },
-    {
-      "figure": "/computers/computers-02-00152/article_deploy/html/images/computers-02-00152-g006-1024.png"
-    },
-    {
-      "figure": "/computers/computers-02-00152/article_deploy/html/images/computers-02-00152-g007-1024.png"
-    },
-    {
-      "figure": "/computers/computers-02-00152/article_deploy/html/images/computers-02-00152-g008-1024.png"
-    },
-    {
-      "figure": "/computers/computers-02-00152/article_deploy/html/images/computers-02-00152-g009-1024.png"
-    },
-    {
-      "figure": "/computers/computers-02-00152/article_deploy/html/images/computers-02-00152-g010-1024.png"
-    },
-    {
-      "figure": "/computers/computers-02-00152/article_deploy/html/images/computers-02-00152-g011-1024.png"
-    },
-    {
-      "figure": "/computers/computers-02-00152/article_deploy/html/images/computers-02-00152-g012-1024.png"
-    },
-    {
-      "figure": "/computers/computers-02-00152/article_deploy/html/images/computers-02-00152-g013-1024.png"
-    },
-    {
-      "figure": "/computers/computers-02-00152/article_deploy/html/images/computers-02-00152-g014-1024.png"
-    },
-    {
-      "figure": "/computers/computers-02-00152/article_deploy/html/images/computers-02-00152-g015-1024.png"
-    },
-    {
-      "figure": "/computers/computers-02-00152/article_deploy/html/images/computers-02-00152-g016-1024.png"
-    },
-    {
-      "figure_caption": "\n    Figure 1.\n      The fuzzy value for a room temperature.\n    \n      Click here to enlarge figure\n    \n  "
-    },
-    {
-      "figure_caption": "\n    Figure 2.\n      A fuzzy logic system.\n    \n      Click here to enlarge figure\n    \n  "
-    },
-    {
-      "figure_caption": "\n    Figure 3.\n      A network model to route the data packets by Static Three-Dimensional Fuzzy Routing Based on the Receiving Probability (SFRRP) in a typical Wireless Sensor Network (WSN).\n    \n      Click here to enlarge figure\n    \n  "
-    },
-    {
-      "figure_caption": "\n    Figure 4.\n      Memberships of the input variable distance.\n    \n      Click here to enlarge figure\n    \n  "
-    },
-    {
-      "figure_caption": "\n    Figure 5.\n      Memberships of the input variable number of neighbors.\n    \n      Click here to enlarge figure\n    \n  "
-    },
-    {
-      "figure_caption": "\n    Figure 6.\n      Memberships of the output variable receiving probability.\n    \n      Click here to enlarge figure\n    \n  "
-    },
-    {
-      "figure_caption": "\n    Figure 7.\n      Schematic of the fuzzy rules, (a) rules based on receiving probability and distance; and (b) rules based on receiving probability and number of neighbors.\n    \n      Click here to enlarge figure\n    \n  "
-    },
-    {
-      "figure_caption": "\n    Figure 8.\n      Scheme of the SFRRP functionality to choose the selected node.\n    \n      Click here to enlarge figure\n    \n  "
-    },
-    {
-      "figure_caption": "\n    Figure 9.\n      Work flow of SFRRP.\n    \n      Click here to enlarge figure\n    \n  "
-    },
-    {
-      "figure_caption": "\n    Figure 10.\n      Impact of data generation rate, (a) average delivery rate; (b) average delay; and (c) network life.\n    \n      Click here to enlarge figure\n    \n  "
-    },
-    {
-      "figure_caption": "\n    Figure 11.\n      Impact of buffer size, (a) average delivery rate; (b) average delay; and (c) network life.\n    \n      Click here to enlarge figure\n    \n  "
-    },
-    {
-      "figure_caption": "\n    Figure 12.\n      Impact of node initial energy, (a) average delivery rate; (b) average delay; and (c) network life.\n    \n      Click here to enlarge figure\n    \n  "
-    },
-    {
-      "figure_caption": "\n    Figure 13.\n      Total energy consumption of the nodes.\n    \n      Click here to enlarge figure\n    \n  "
-    },
-    {
-      "figure_caption": "\n    Figure 14.\n      The residual energy of the nodes in the proposed protocol.\n    \n      Click here to enlarge figure\n    \n  "
-    },
-    {
-      "figure_caption": "\n    Figure 15.\n      Number of live nodes.\n    \n      Click here to enlarge figure\n    \n  "
-    },
-    {
-      "figure_caption": "\n    Figure 16.\n      Percent of filled node buffer.\n    \n      Click here to enlarge figure\n    \n  "
-    },
-    {
-      "computers-02-00152-g014-1024.png": "5b0efd717600f47404abf05be4a64965"
-    },
-    {
-      "computers-02-00152-g012-1024.png": "4c856d5686ffd51727c0dd8e08610f6c"
-    },
-    {
-      "computers-02-00152-g016-1024.png": "a2ce86f98e0566497eef554a7629ff77"
-    },
-    {
-      "computers-02-00152-g015-1024.png": "7e5a61c578e226758c2c5b3ad7e9689e"
-    },
-    {
-      "computers-02-00152-g001-1024.png": "2ae71a48f49dee23127205d8c52628e7"
-    },
-    {
-      "htm": "f81fd6fb069ea7a2308235b67665fb29"
-    },
-    {
-      "computers-02-00152-g005-1024.png": "7c90363213d7fd98f5e7a20b08a19c80"
-    },
-    {
-      "pdf": "639d60f2edf4a21b5eb4760f08c2ef18"
-    },
-    {
-      "computers-02-00152-g010-1024.png": "9819440057f17feefe12b8763c3f97f7"
-    },
-    {
-      "computers-02-00152-g011-1024.png": "3705c3ea855bb92556bff9587730ec98"
-    },
-    {
-      "rendered.html": "c3304d0e156f1219d53a49c6f3bec52f"
-    },
-    {
-      "computers-02-00152-g013-1024.png": "00bf36ffe2dcb774498fadc260ca8f7e"
-    },
-    {
-      "computers-02-00152-g006-1024.png": "a30a231c7a2976768d0a5fc58f832c3b"
-    },
-    {
-      "computers-02-00152-g004-1024.png": "14aade47890186768c9fa855a00cb7a6"
-    },
-    {
-      "computers-02-00152-g008-1024.png": "c3bee75cde33eb4fe72b05a63510fd1a"
-    },
-    {
-      "computers-02-00152-g009-1024.png": "8f41e4c7fcb10243ab992d7667f4da2a"
-    },
-    {
-      "computers-02-00152-g003-1024.png": "e5814b3183dde01975554174095387c9"
-    },
-    {
-      "computers-02-00152-g002-1024.png": "ef45f1466a733db20859a2d81d8adbbe"
-    },
-    {
-      "computers-02-00152-g007-1024.png": "4caf09516a4b4497b31ada9ee92761ac"
-    }
-  ]
+  "http://www.mdpi.com/1420-3049/19/4/5150/htm": {
+    "publisher": {
+      "value": [
+        "Multidisciplinary Digital Publishing Institute"
+      ]
+    },
+    "journal": {
+      "value": [
+        "Molecules"
+      ]
+    },
+    "title": {
+      "value": [
+        "Development of Simple Sequence Repeat (SSR) Markers of Sesame (Sesamum indicum) from a Genome Survey"
+      ]
+    },
+    "authors": {
+      "value": [
+
+      ]
+    },
+    "date": {
+      "value": [
+        "2014-04-22"
+      ]
+    },
+    "doi": {
+      "value": [
+        "10.3390/molecules19045150"
+      ]
+    },
+    "volume": {
+      "value": [
+        "19"
+      ]
+    },
+    "issue": {
+      "value": [
+        "4"
+      ]
+    },
+    "firstpage": {
+      "value": [
+        "5150"
+      ]
+    },
+    "description": {
+      "value": [
+        "Sesame (Sesamum indicum), an important oil crop, is widely grown in tropical and subtropical regions. It provides part of the daily edible oil allowance for almost half of the world’s population. A limited number of co-dominant markers has been developed and applied in sesame genetic diversity and germplasm identity studies. Here we report for the first time a whole genome survey used to develop simple sequence repeat (SSR) markers and to detect the genetic diversity of sesame germplasm. From the initial assembled sesame genome, 23,438 SSRs (≥5 repeats) were identified. The most common repeat motif was dinucleotide with a frequency of 84.24%, followed by 13.53% trinucleotide, 1.65% tetranucleotide, 0.3% pentanucleotide and 0.28% hexanucleotide motifs. From 1500 designed and synthesised primer pairs, 218 polymorphic SSRs were developed and used to screen 31 sesame accessions that from 12 countries. STRUCTURE and phylogenetic analyses indicated that all sesame accessions could be divided into two groups: one mainly from China and another from other countries. Cluster analysis classified Chinese major sesame varieties into three groups. These novel SSR markers are a useful tool for genetic linkage map construction, genetic diversity detection, and marker-assisted selective sesame breeding."
+      ]
+    },
+    "abstract": {
+      "value": [
+        "Sesame (Sesamum indicum), an important oil crop, is widely grown in tropical and subtropical regions. It provides part of the daily edible oil allowance for almost half of the world’s population. A limited number of co-dominant markers has been developed and applied in sesame genetic diversity and germplasm identity studies. Here we report for the first time a whole genome survey used to develop simple sequence repeat (SSR) markers and to detect the genetic diversity of sesame germplasm. From the initial assembled sesame genome, 23,438 SSRs (≥5 repeats) were identified. The most common repeat motif was dinucleotide with a frequency of 84.24%, followed by 13.53% trinucleotide, 1.65% tetranucleotide, 0.3% pentanucleotide and 0.28% hexanucleotide motifs. From 1500 designed and synthesised primer pairs, 218 polymorphic SSRs were developed and used to screen 31 sesame accessions that from 12 countries. STRUCTURE and phylogenetic analyses indicated that all sesame accessions could be divided into two groups: one mainly from China and another from other countries. Cluster analysis classified Chinese major sesame varieties into three groups. These novel SSR markers are a useful tool for genetic linkage map construction, genetic diversity detection, and marker-assisted selective sesame breeding."
+      ]
+    },
+    "fulltext_html": {
+      "value": [
+        "http://www.mdpi.com/1420-3049/19/4/5150/htm"
+      ]
+    },
+    "fulltext_pdf": {
+      "value": [
+        "http://www.mdpi.com/1420-3049/19/4/5150/pdf"
+      ]
+    },
+    "fulltext_xml": {
+      "value": [
+
+      ]
+    },
+    "supplementary_material": {
+      "value": [
+
+      ]
+    },
+    "figure": {
+      "value": [
+        "/molecules/molecules-19-05150/article_deploy/html/images/molecules-19-05150-g001-1024.png",
+        "/molecules/molecules-19-05150/article_deploy/html/images/molecules-19-05150-g002-1024.png",
+        "/molecules/molecules-19-05150/article_deploy/html/images/molecules-19-05150-g003-1024.png",
+        "/molecules/molecules-19-05150/article_deploy/html/images/molecules-19-05150-g004-1024.png",
+        "/molecules/molecules-19-05150/article_deploy/html/images/molecules-19-05150-g005-1024.png"
+      ]
+    },
+    "figure_caption": {
+      "value": [
+        "\n    Figure 1.\n      Distribution of various classes of simple repeat motifs with different numbers of repeats in the sesame genome.\n    \n      Click here to enlarge figure\n    \n  ",
+        "\n    Figure 2.\n      (a) Percentage of different dinucleotide repeat motifs in the sesame genome. and (b) Percentage of different motifs in trinucleotide repeat motifs in the sesame genome.\n    \n      Click here to enlarge figure\n    \n  ",
+        "\n    Figure 3.\n      Population structure of sesame accessions. STRUCTURE was constructed by all loci. K = 2. Clusters are indicated by different colours. Samples included in all clusters are listed in Table S3.\n    \n      Click here to enlarge figure\n    \n  ",
+        "\n    Figure 4.\n      Phylogenetic tree of 31 sesame accessions derived from NJ analysis based on 218 SSR markers. Bootstrap values >50 are shown.\n    \n      Click here to enlarge figure\n    \n  ",
+        "\n    Figure 5.\n      Dendrogram of 23 sesame varieties based on 20 high polymorphism markers. Samples are listed in Table S4.\n    \n      Click here to enlarge figure\n    \n  "
+      ]
+    },
+    "license": {
+      "value": [
+
+      ]
+    },
+    "copyright": {
+      "value": [
+
+      ]
+    },
+    "file_hashes": [
+      {
+        "fulltext.html": "c9b9618f32515dae9c9ca37ea7a57758"
+      },
+      {
+        "fulltext.pdf": "36fcc2bbb7d479c5542b09f6249cd262"
+      },
+      {
+        "molecules-19-05150-g001-1024.png": "a3c4dc0eb2508db7a66a9eacb4fb387c"
+      },
+      {
+        "molecules-19-05150-g002-1024.png": "94703bfe8b0b62cf8548e84f0298dd32"
+      },
+      {
+        "molecules-19-05150-g003-1024.png": "1e4034516b7343ad496f6b7105c512ec"
+      },
+      {
+        "molecules-19-05150-g004-1024.png": "f8a819eeb997cb72ac2651f6a37c1f78"
+      },
+      {
+        "molecules-19-05150-g005-1024.png": "62eb6d8e24dd966f32a6124e61a0de69"
+      }
+    ]
+  },
+  "http://www.mdpi.com/1420-3049/19/7/9502": {
+    "publisher": {
+      "value": [
+        "Multidisciplinary Digital Publishing Institute"
+      ]
+    },
+    "journal": {
+      "value": [
+        "Molecules"
+      ]
+    },
+    "title": {
+      "value": [
+        "Effects of Icariin on Reproductive Functions in Male Rats"
+      ]
+    },
+    "authors": {
+      "value": [
+
+      ]
+    },
+    "date": {
+      "value": [
+        "2014-07-03"
+      ]
+    },
+    "doi": {
+      "value": [
+        "10.3390/molecules19079502"
+      ]
+    },
+    "volume": {
+      "value": [
+        "19"
+      ]
+    },
+    "issue": {
+      "value": [
+        "7"
+      ]
+    },
+    "firstpage": {
+      "value": [
+        "9502"
+      ]
+    },
+    "description": {
+      "value": [
+        "The present study investigated the effects and potential mechanism(s) of action of icariin on the reproductive functions of male rats. Adult rats were treated orally with icariin at doses of 0 (control), 50, 100, or 200 mg/kg body weight for 35 consecutive days. The results show that icariin had virtually no effect on the body weight or organ coefficients of the testes or epididymides. However, 100 mg/kg icariin significantly increased epididymal sperm counts. In addition, 50 and 100 mg/kg icariin significantly increased testosterone levels. Real-time PCR suggests icariin may be involved in testosterone production via mRNA expression regulation of genes such as peripheral type benzodiazepine receptor (PBR) and steroidogenic acute regulatory protein (StAR). Furthermore, 100 mg/kg icariin treatment also affected follicle stimulating hormone receptor (FSHR) and claudin-11 mRNA expression in Sertoli cells. Superoxide dismutase (SOD) activity and malondialdehyde (MDA) levels were measured in the testes; 50 and 100 mg/kg icariin treatment improved antioxidative capacity, while 200 mg/kg icariin treatment upregulated oxidative stress. These results collectively suggest that icariin within a certain dose range is beneficial to male reproductive functions; meanwhile, higher doses of icariin may damage reproductive functions by increasing oxidative stress in the testes."
+      ]
+    },
+    "abstract": {
+      "value": [
+        "The present study investigated the effects and potential mechanism(s) of action of icariin on the reproductive functions of male rats. Adult rats were treated orally with icariin at doses of 0 (control), 50, 100, or 200 mg/kg body weight for 35 consecutive days. The results show that icariin had virtually no effect on the body weight or organ coefficients of the testes or epididymides. However, 100 mg/kg icariin significantly increased epididymal sperm counts. In addition, 50 and 100 mg/kg icariin significantly increased testosterone levels. Real-time PCR suggests icariin may be involved in testosterone production via mRNA expression regulation of genes such as peripheral type benzodiazepine receptor (PBR) and steroidogenic acute regulatory protein (StAR). Furthermore, 100 mg/kg icariin treatment also affected follicle stimulating hormone receptor (FSHR) and claudin-11 mRNA expression in Sertoli cells. Superoxide dismutase (SOD) activity and malondialdehyde (MDA) levels were measured in the testes; 50 and 100 mg/kg icariin treatment improved antioxidative capacity, while 200 mg/kg icariin treatment upregulated oxidative stress. These results collectively suggest that icariin within a certain dose range is beneficial to male reproductive functions; meanwhile, higher doses of icariin may damage reproductive functions by increasing oxidative stress in the testes."
+      ]
+    },
+    "fulltext_html": {
+      "value": [
+        "http://www.mdpi.com/1420-3049/19/7/9502/htm"
+      ]
+    },
+    "fulltext_pdf": {
+      "value": [
+        "http://www.mdpi.com/1420-3049/19/7/9502/pdf"
+      ]
+    },
+    "fulltext_xml": {
+      "value": [
+
+      ]
+    },
+    "supplementary_material": {
+      "value": [
+
+      ]
+    },
+    "figure": {
+      "value": [
+
+      ]
+    },
+    "figure_caption": {
+      "value": [
+
+      ]
+    },
+    "license": {
+      "value": [
+
+      ]
+    },
+    "copyright": {
+      "value": [
+
+      ]
+    },
+    "file_hashes": [
+      {
+        "fulltext.html": "4a583800f094eed26aeb3f929e8679cd"
+      },
+      {
+        "fulltext.pdf": "04bad9a75a92c8fd28a47c83dfbd9caa"
+      }
+    ]
+  },
+  "http://www.mdpi.com/1420-3049/12/3/290": {
+    "publisher": {
+      "value": [
+        "Molecular Diversity Preservation International"
+      ]
+    },
+    "journal": {
+      "value": [
+        "Molecules"
+      ]
+    },
+    "title": {
+      "value": [
+        "Modelingof Acetylene Pyrolysis under Steel Vacuum Carburizing Conditions in a Tubular Flow Reactor"
+      ]
+    },
+    "authors": {
+      "value": [
+
+      ]
+    },
+    "date": {
+      "value": [
+        "2007-03-02"
+      ]
+    },
+    "doi": {
+      "value": [
+        "10.3390/12030290"
+      ]
+    },
+    "volume": {
+      "value": [
+        "12"
+      ]
+    },
+    "issue": {
+      "value": [
+        "3"
+      ]
+    },
+    "firstpage": {
+      "value": [
+        "290"
+      ]
+    },
+    "description": {
+      "value": [
+        "In the present work, the pyrolysis of acetylene was studied under steel vacuumcarburizing conditions in a tubular flow reactor. The pyrolysis temperature ranged from650 °C to 1050 °C. The partial pressure of acetylene in the feed mixture was 10 and 20mbar, respectively, while the rest of the mixture consisted of nitrogen. The total pressureof the mixture was 1.6 bar. A kinetic mechanism which consists of seven species andnine reactions has been used in the commercial computational fluid dynamics (CFD)software Fluent. The species transport and reaction model of Fluent was used in thesimulations. A comparison of simulated and experimental results is presented in thispaper."
+      ]
+    },
+    "abstract": {
+      "value": [
+        "In the present work, the pyrolysis of acetylene was studied under steel vacuumcarburizing conditions in a tubular flow reactor. The pyrolysis temperature ranged from650 °C to 1050 °C. The partial pressure of acetylene in the feed mixture was 10 and 20mbar, respectively, while the rest of the mixture consisted of nitrogen. The total pressureof the mixture was 1.6 bar. A kinetic mechanism which consists of seven species andnine reactions has been used in the commercial computational fluid dynamics (CFD)software Fluent. The species transport and reaction model of Fluent was used in thesimulations. A comparison of simulated and experimental results is presented in thispaper."
+      ]
+    },
+    "fulltext_html": {
+      "value": [
+
+      ]
+    },
+    "fulltext_pdf": {
+      "value": [
+        "http://www.mdpi.com/1420-3049/12/3/290/pdf"
+      ]
+    },
+    "fulltext_xml": {
+      "value": [
+
+      ]
+    },
+    "supplementary_material": {
+      "value": [
+
+      ]
+    },
+    "figure": {
+      "value": [
+
+      ]
+    },
+    "figure_caption": {
+      "value": [
+
+      ]
+    },
+    "license": {
+      "value": [
+
+      ]
+    },
+    "copyright": {
+      "value": [
+
+      ]
+    },
+    "file_hashes": [
+      {
+        "fulltext.pdf": "f81f429b42f2cd8a752b50892d713ca0"
+      }
+    ]
+  },
+  "http://www.mdpi.com/2077-0472/4/2/199/htm": {
+    "publisher": {
+      "value": [
+        "Multidisciplinary Digital Publishing Institute"
+      ]
+    },
+    "journal": {
+      "value": [
+        "Agriculture"
+      ]
+    },
+    "title": {
+      "value": [
+        "Rapid Development of Microsatellite Markers for  Plantago ovata Forsk.: Using Next Generation  Sequencing and Their Cross-Species Transferability"
+      ]
+    },
+    "authors": {
+      "value": [
+
+      ]
+    },
+    "date": {
+      "value": [
+        "2014-06-20"
+      ]
+    },
+    "doi": {
+      "value": [
+        "10.3390/agriculture4020199"
+      ]
+    },
+    "volume": {
+      "value": [
+        "4"
+      ]
+    },
+    "issue": {
+      "value": [
+        "2"
+      ]
+    },
+    "firstpage": {
+      "value": [
+        "199"
+      ]
+    },
+    "description": {
+      "value": [
+        "Isabgol (Plantago ovata Forsk.) is an important medicinal plant having high pharmacological activity in its seed husk, which is substantially used in the food, beverages and packaging industries. Nevertheless, isabgol lags behind in research, particularly for genomic resources, like molecular markers, genetic maps, etc. Presently, molecular markers can be easily developed through next generation sequencing technologies, more efficiently, cost effectively and in less time than ever before. This study was framed keeping in view the need to develop molecular markers for this economically important crop by employing a microsatellite enrichment protocol using a next generation sequencing platform (ion torrent PGM™) to obtain simple sequence repeats (SSRs) for Plantago ovata for the very first time. A total of 3447 contigs were assembled, which contained 249 SSRs. Thirty seven loci were randomly selected for primer development; of which, 30 loci were successfully amplified. The developed microsatellite markers showed the amplification of the expected size and cross-amplification in another six species of Plantago. The SSR markers were unable to show polymorphism within P. ovata, suggesting that low variability exists within genotypes of P. ovata. This study suggests that PGM™ sequencing is a rapid and cost-effective tool for developing SSR markers for non-model species, and the markers so-observed could be useful in the molecular breeding of P. ovata."
+      ]
+    },
+    "abstract": {
+      "value": [
+        "Isabgol (Plantago ovata Forsk.) is an important medicinal plant having high pharmacological activity in its seed husk, which is substantially used in the food, beverages and packaging industries. Nevertheless, isabgol lags behind in research, particularly for genomic resources, like molecular markers, genetic maps, etc. Presently, molecular markers can be easily developed through next generation sequencing technologies, more efficiently, cost effectively and in less time than ever before. This study was framed keeping in view the need to develop molecular markers for this economically important crop by employing a microsatellite enrichment protocol using a next generation sequencing platform (ion torrent PGM™) to obtain simple sequence repeats (SSRs) for Plantago ovata for the very first time. A total of 3447 contigs were assembled, which contained 249 SSRs. Thirty seven loci were randomly selected for primer development; of which, 30 loci were successfully amplified. The developed microsatellite markers showed the amplification of the expected size and cross-amplification in another six species of Plantago. The SSR markers were unable to show polymorphism within P. ovata, suggesting that low variability exists within genotypes of P. ovata. This study suggests that PGM™ sequencing is a rapid and cost-effective tool for developing SSR markers for non-model species, and the markers so-observed could be useful in the molecular breeding of P. ovata."
+      ]
+    },
+    "fulltext_html": {
+      "value": [
+        "http://www.mdpi.com/2077-0472/4/2/199/htm"
+      ]
+    },
+    "fulltext_pdf": {
+      "value": [
+        "http://www.mdpi.com/2077-0472/4/2/199/pdf"
+      ]
+    },
+    "fulltext_xml": {
+      "value": [
+
+      ]
+    },
+    "supplementary_material": {
+      "value": [
+
+      ]
+    },
+    "figure": {
+      "value": [
+        "/agriculture/agriculture-04-00199/article_deploy/html/images/agriculture-04-00199-g001-1024.png",
+        "/agriculture/agriculture-04-00199/article_deploy/html/images/agriculture-04-00199-g002-1024.png",
+        "/agriculture/agriculture-04-00199/article_deploy/html/images/agriculture-04-00199-g003-1024.png"
+      ]
+    },
+    "figure_caption": {
+      "value": [
+        "\n    Figure 1.\n      Frequency distribution of microsatellites in P. ovata based on the di-repeat and tri-repeat motif sequence types.\n    \n      Click here to enlarge figure\n    \n  ",
+        "\n    Figure 2.\n      Agarose gel image showing amplification patterns of SSR markers, APOM 23 and APOM 25, among six genotypes of P. ovata and allied species. M, 100 bp plus ladder (Thermo Scientific); 1, GI-3; 2: GI-2; 3, RI-89; 4, DPO13; 5, DPO13; 6, EC124345; 7, Plantago arneria; 8, Plantago coronopus; 9, Plantago psyllium; 10, Plantago indica; 11, Plantago serraria, 12, Plantago lanceolata.\n    \n      Click here to enlarge figure\n    \n  ",
+        "\n    Figure 3.\n      Dendrogram based on UPGMA clustering of 12 genotypes of isabgol using SSR markers.\n    \n      Click here to enlarge figure\n    \n  "
+      ]
+    },
+    "license": {
+      "value": [
+
+      ]
+    },
+    "copyright": {
+      "value": [
+
+      ]
+    },
+    "file_hashes": [
+      {
+        "agriculture-04-00199-g001-1024.png": "7be1acb663571046fae8d49eeda6eeba"
+      },
+      {
+        "agriculture-04-00199-g002-1024.png": "3dee15bacd3d66f75d41d167cd833e85"
+      },
+      {
+        "agriculture-04-00199-g003-1024.png": "3979c2a3fc22c8f8a04a4bd15ae55e05"
+      },
+      {
+        "fulltext.html": "be81dea88e6558d2ae16500c3133817c"
+      },
+      {
+        "fulltext.pdf": "3764be3556ed014d2221707bc860dba9"
+      }
+    ]
+  },
+  "http://www.mdpi.com/1999-4893/7/3/363": {
+    "publisher": {
+      "value": [
+        "Multidisciplinary Digital Publishing Institute"
+      ]
+    },
+    "journal": {
+      "value": [
+        "Algorithms"
+      ]
+    },
+    "title": {
+      "value": [
+        "Pressure Model of Control Valve Based on LS-SVM with the Fruit Fly Algorithm"
+      ]
+    },
+    "authors": {
+      "value": [
+
+      ]
+    },
+    "date": {
+      "value": [
+        "2014-07-11"
+      ]
+    },
+    "doi": {
+      "value": [
+        "10.3390/a7030363"
+      ]
+    },
+    "volume": {
+      "value": [
+        "7"
+      ]
+    },
+    "issue": {
+      "value": [
+        "3"
+      ]
+    },
+    "firstpage": {
+      "value": [
+        "363"
+      ]
+    },
+    "description": {
+      "value": [
+        "Control valve is a kind of essential terminal control component which is hard to model by traditional methodologies because of its complexity and nonlinearity. This paper proposes a new modeling method for the upstream pressure of control valve using the  least squares support vector machine (LS-SVM), which has been successfully used to identify nonlinear system. In order to improve the modeling performance, the fruit fly optimization algorithm (FOA) is used to optimize two critical parameters of LS-SVM. As an example, a set of actual production data from a controlling system of chlorine in a salt chemistry industry is applied. The validity of LS-SVM modeling method using FOA is verified by comparing the predicted results with the actual data with a value of MSE  2.474 × 10−3. Moreover, it is demonstrated that the initial position of FOA does not affect its optimal ability. By comparison, simulation experiments based on PSO algorithm and the grid search method are also carried out. The results show that LS-SVM based on FOA has equal performance in prediction accuracy. However, from the respect of calculation time, FOA has a significant advantage and is more suitable for the online prediction."
+      ]
+    },
+    "abstract": {
+      "value": [
+        "Control valve is a kind of essential terminal control component which is hard to model by traditional methodologies because of its complexity and nonlinearity. This paper proposes a new modeling method for the upstream pressure of control valve using the  least squares support vector machine (LS-SVM), which has been successfully used to identify nonlinear system. In order to improve the modeling performance, the fruit fly optimization algorithm (FOA) is used to optimize two critical parameters of LS-SVM. As an example, a set of actual production data from a controlling system of chlorine in a salt chemistry industry is applied. The validity of LS-SVM modeling method using FOA is verified by comparing the predicted results with the actual data with a value of MSE  2.474 × 10−3. Moreover, it is demonstrated that the initial position of FOA does not affect its optimal ability. By comparison, simulation experiments based on PSO algorithm and the grid search method are also carried out. The results show that LS-SVM based on FOA has equal performance in prediction accuracy. However, from the respect of calculation time, FOA has a significant advantage and is more suitable for the online prediction."
+      ]
+    },
+    "fulltext_html": {
+      "value": [
+
+      ]
+    },
+    "fulltext_pdf": {
+      "value": [
+        "http://www.mdpi.com/1999-4893/7/3/363/pdf"
+      ]
+    },
+    "fulltext_xml": {
+      "value": [
+
+      ]
+    },
+    "supplementary_material": {
+      "value": [
+
+      ]
+    },
+    "figure": {
+      "value": [
+
+      ]
+    },
+    "figure_caption": {
+      "value": [
+
+      ]
+    },
+    "license": {
+      "value": [
+
+      ]
+    },
+    "copyright": {
+      "value": [
+
+      ]
+    },
+    "file_hashes": [
+      {
+        "fulltext.pdf": "c24f1907c6da67ae8ed8ab4d214965cb"
+      }
+    ]
+  },
+  "http://www.mdpi.com/2076-3425/2/3/347/htm": {
+    "publisher": {
+      "value": [
+        "Molecular Diversity Preservation International"
+      ]
+    },
+    "journal": {
+      "value": [
+        "Brain Sciences"
+      ]
+    },
+    "title": {
+      "value": [
+        "Internet and Gaming Addiction: A Systematic Literature Review of Neuroimaging Studies"
+      ]
+    },
+    "authors": {
+      "value": [
+
+      ]
+    },
+    "date": {
+      "value": [
+        "2012-09-05"
+      ]
+    },
+    "doi": {
+      "value": [
+        "10.3390/brainsci2030347"
+      ]
+    },
+    "volume": {
+      "value": [
+        "2"
+      ]
+    },
+    "issue": {
+      "value": [
+        "3"
+      ]
+    },
+    "firstpage": {
+      "value": [
+        "347"
+      ]
+    },
+    "description": {
+      "value": [
+        "In the past decade, research has accumulated suggesting that excessive Internet use can lead to the development of a behavioral addiction. Internet addiction has been considered as a serious threat to mental health and the excessive use of the Internet has been linked to a variety of negative psychosocial consequences. The aim of this review is to identify all empirical studies to date that used neuroimaging techniques to shed light upon the emerging mental health problem of Internet and gaming addiction from a neuroscientific perspective. Neuroimaging studies offer an advantage over traditional survey and behavioral research because with this method, it is possible to distinguish particular brain areas that are involved in the development and maintenance of addiction. A systematic literature search was conducted, identifying 18 studies. These studies provide compelling evidence for the similarities between different types of addictions, notably substance-related addictions and Internet and gaming addiction, on a variety of levels. On the molecular level, Internet addiction is characterized by an overall reward deficiency that entails decreased dopaminergic activity. On the level of neural circuitry, Internet and gaming addiction led to neuroadaptation and structural changes that occur as a consequence of prolonged increased activity in brain areas associated with addiction. On a behavioral level, Internet and gaming addicts appear to be constricted with regards to their cognitive functioning in various domains. The paper shows that understanding the neuronal correlates associated with the development of Internet and gaming addiction will promote future research and will pave the way for the development of addiction treatment approaches."
+      ]
+    },
+    "abstract": {
+      "value": [
+        "In the past decade, research has accumulated suggesting that excessive Internet use can lead to the development of a behavioral addiction. Internet addiction has been considered as a serious threat to mental health and the excessive use of the Internet has been linked to a variety of negative psychosocial consequences. The aim of this review is to identify all empirical studies to date that used neuroimaging techniques to shed light upon the emerging mental health problem of Internet and gaming addiction from a neuroscientific perspective. Neuroimaging studies offer an advantage over traditional survey and behavioral research because with this method, it is possible to distinguish particular brain areas that are involved in the development and maintenance of addiction. A systematic literature search was conducted, identifying 18 studies. These studies provide compelling evidence for the similarities between different types of addictions, notably substance-related addictions and Internet and gaming addiction, on a variety of levels. On the molecular level, Internet addiction is characterized by an overall reward deficiency that entails decreased dopaminergic activity. On the level of neural circuitry, Internet and gaming addiction led to neuroadaptation and structural changes that occur as a consequence of prolonged increased activity in brain areas associated with addiction. On a behavioral level, Internet and gaming addicts appear to be constricted with regards to their cognitive functioning in various domains. The paper shows that understanding the neuronal correlates associated with the development of Internet and gaming addiction will promote future research and will pave the way for the development of addiction treatment approaches."
+      ]
+    },
+    "fulltext_html": {
+      "value": [
+        "http://www.mdpi.com/2076-3425/2/3/347/htm"
+      ]
+    },
+    "fulltext_pdf": {
+      "value": [
+        "http://www.mdpi.com/2076-3425/2/3/347/pdf"
+      ]
+    },
+    "fulltext_xml": {
+      "value": [
+
+      ]
+    },
+    "supplementary_material": {
+      "value": [
+
+      ]
+    },
+    "figure": {
+      "value": [
+
+      ]
+    },
+    "figure_caption": {
+      "value": [
+
+      ]
+    },
+    "license": {
+      "value": [
+
+      ]
+    },
+    "copyright": {
+      "value": [
+
+      ]
+    },
+    "file_hashes": [
+      {
+        "fulltext.html": "5f160c82e09bf6ad566db56ed4737e55"
+      },
+      {
+        "fulltext.pdf": "f26da200c65aee82debda1b3f00dfb45"
+      }
+    ]
+  },
+  "http://www.mdpi.com/2073-431X/2/4/152/htm": {
+    "publisher": {
+      "value": [
+        "Multidisciplinary Digital Publishing Institute"
+      ]
+    },
+    "journal": {
+      "value": [
+        "Computers"
+      ]
+    },
+    "title": {
+      "value": [
+        "Static Three-Dimensional Fuzzy Routing Based on the Receiving Probability in Wireless Sensor Networks"
+      ]
+    },
+    "authors": {
+      "value": [
+
+      ]
+    },
+    "date": {
+      "value": [
+        "2013-11-12"
+      ]
+    },
+    "doi": {
+      "value": [
+        "10.3390/computers2040152"
+      ]
+    },
+    "volume": {
+      "value": [
+        "2"
+      ]
+    },
+    "issue": {
+      "value": [
+        "4"
+      ]
+    },
+    "firstpage": {
+      "value": [
+        "152"
+      ]
+    },
+    "description": {
+      "value": [
+        "A Wireless Sensor Network (WSN) is a collection of low-cost, low-power and large-scale wireless sensor nodes. Routing protocols are an important topic in WSN. Every sensor node should use a proper mechanism to transmit the generated packets to its destination, usually a base station. In previous works, routing protocols use the global information of the network that causes the redundant packets to be increased. Moreover,  it leads to an increase in the network traffic, to a decrease in the delivery ratio of data packets, and to a reduction in network life. In this paper, we propose a new inferential routing protocol called SFRRP (Static Three-Dimensional Fuzzy Routing based on the Receiving Probability). The proposed protocol solves the above mentioned problems considerably. The data packets are transmitted by hop-to-hop delivery to the base station.  It uses a fuzzy procedure to transmit the sensed data or the buffered data packets to one of the neighbors called selected node. In the proposed fuzzy system, the distance and number of neighbors are input variables, while the receiving probability is the output variable. SFRRP just uses the local neighborhood information to forward the packets and is not needed by any redundant packet for route discovery. The proposed protocol has some advantages such as a high delivery ratio, less delay time, high network life, and less network traffic. The performance of the proposed protocol surpasses the performance of the Flooding routing protocol in terms of delivery ratio, delay time and network lifetime."
+      ]
+    },
+    "abstract": {
+      "value": [
+        "A Wireless Sensor Network (WSN) is a collection of low-cost, low-power and large-scale wireless sensor nodes. Routing protocols are an important topic in WSN. Every sensor node should use a proper mechanism to transmit the generated packets to its destination, usually a base station. In previous works, routing protocols use the global information of the network that causes the redundant packets to be increased. Moreover,  it leads to an increase in the network traffic, to a decrease in the delivery ratio of data packets, and to a reduction in network life. In this paper, we propose a new inferential routing protocol called SFRRP (Static Three-Dimensional Fuzzy Routing based on the Receiving Probability). The proposed protocol solves the above mentioned problems considerably. The data packets are transmitted by hop-to-hop delivery to the base station.  It uses a fuzzy procedure to transmit the sensed data or the buffered data packets to one of the neighbors called selected node. In the proposed fuzzy system, the distance and number of neighbors are input variables, while the receiving probability is the output variable. SFRRP just uses the local neighborhood information to forward the packets and is not needed by any redundant packet for route discovery. The proposed protocol has some advantages such as a high delivery ratio, less delay time, high network life, and less network traffic. The performance of the proposed protocol surpasses the performance of the Flooding routing protocol in terms of delivery ratio, delay time and network lifetime."
+      ]
+    },
+    "fulltext_html": {
+      "value": [
+        "http://www.mdpi.com/2073-431X/2/4/152/htm"
+      ]
+    },
+    "fulltext_pdf": {
+      "value": [
+        "http://www.mdpi.com/2073-431X/2/4/152/pdf"
+      ]
+    },
+    "fulltext_xml": {
+      "value": [
+
+      ]
+    },
+    "supplementary_material": {
+      "value": [
+
+      ]
+    },
+    "figure": {
+      "value": [
+        "/computers/computers-02-00152/article_deploy/html/images/computers-02-00152-g001.png",
+        "/computers/computers-02-00152/article_deploy/html/images/computers-02-00152-g002.png",
+        "/computers/computers-02-00152/article_deploy/html/images/computers-02-00152-g003.png",
+        "/computers/computers-02-00152/article_deploy/html/images/computers-02-00152-g004.png",
+        "/computers/computers-02-00152/article_deploy/html/images/computers-02-00152-g005.png",
+        "/computers/computers-02-00152/article_deploy/html/images/computers-02-00152-g006.png",
+        "/computers/computers-02-00152/article_deploy/html/images/computers-02-00152-g007.png",
+        "/computers/computers-02-00152/article_deploy/html/images/computers-02-00152-g008.png",
+        "/computers/computers-02-00152/article_deploy/html/images/computers-02-00152-g009.png",
+        "/computers/computers-02-00152/article_deploy/html/images/computers-02-00152-g010.png",
+        "/computers/computers-02-00152/article_deploy/html/images/computers-02-00152-g011.png",
+        "/computers/computers-02-00152/article_deploy/html/images/computers-02-00152-g012.png",
+        "/computers/computers-02-00152/article_deploy/html/images/computers-02-00152-g013.png",
+        "/computers/computers-02-00152/article_deploy/html/images/computers-02-00152-g014.png",
+        "/computers/computers-02-00152/article_deploy/html/images/computers-02-00152-g015.png",
+        "/computers/computers-02-00152/article_deploy/html/images/computers-02-00152-g016.png"
+      ]
+    },
+    "figure_caption": {
+      "value": [
+        "\n    Figure 1.\n      The fuzzy value for a room temperature.\n    \n      Click here to enlarge figure\n    \n  ",
+        "\n    Figure 2.\n      A fuzzy logic system.\n    \n      Click here to enlarge figure\n    \n  ",
+        "\n    Figure 3.\n      A network model to route the data packets by Static Three-Dimensional Fuzzy Routing Based on the Receiving Probability (SFRRP) in a typical Wireless Sensor Network (WSN).\n    \n      Click here to enlarge figure\n    \n  ",
+        "\n    Figure 4.\n      Memberships of the input variable distance.\n    \n      Click here to enlarge figure\n    \n  ",
+        "\n    Figure 5.\n      Memberships of the input variable number of neighbors.\n    \n      Click here to enlarge figure\n    \n  ",
+        "\n    Figure 6.\n      Memberships of the output variable receiving probability.\n    \n      Click here to enlarge figure\n    \n  ",
+        "\n    Figure 7.\n      Schematic of the fuzzy rules, (a) rules based on receiving probability and distance; and (b) rules based on receiving probability and number of neighbors.\n    \n      Click here to enlarge figure\n    \n  ",
+        "\n    Figure 8.\n      Scheme of the SFRRP functionality to choose the selected node.\n    \n      Click here to enlarge figure\n    \n  ",
+        "\n    Figure 9.\n      Work flow of SFRRP.\n    \n      Click here to enlarge figure\n    \n  ",
+        "\n    Figure 10.\n      Impact of data generation rate, (a) average delivery rate; (b) average delay; and (c) network life.\n    \n      Click here to enlarge figure\n    \n  ",
+        "\n    Figure 11.\n      Impact of buffer size, (a) average delivery rate; (b) average delay; and (c) network life.\n    \n      Click here to enlarge figure\n    \n  ",
+        "\n    Figure 12.\n      Impact of node initial energy, (a) average delivery rate; (b) average delay; and (c) network life.\n    \n      Click here to enlarge figure\n    \n  ",
+        "\n    Figure 13.\n      Total energy consumption of the nodes.\n    \n      Click here to enlarge figure\n    \n  ",
+        "\n    Figure 14.\n      The residual energy of the nodes in the proposed protocol.\n    \n      Click here to enlarge figure\n    \n  ",
+        "\n    Figure 15.\n      Number of live nodes.\n    \n      Click here to enlarge figure\n    \n  ",
+        "\n    Figure 16.\n      Percent of filled node buffer.\n    \n      Click here to enlarge figure\n    \n  "
+      ]
+    },
+    "license": {
+      "value": [
+
+      ]
+    },
+    "copyright": {
+      "value": [
+
+      ]
+    },
+    "file_hashes": [
+      {
+        "computers-02-00152-g001.png": "cef36a0b6e5fb999617c61d9187c6391"
+      },
+      {
+        "computers-02-00152-g002.png": "7db8b717396c30251ffc2d3ba7cdf661"
+      },
+      {
+        "computers-02-00152-g003.png": "d62941ff17d4a4aadeba3c39e403d91b"
+      },
+      {
+        "computers-02-00152-g004.png": "bb5d0f266dc5be4c9033f6da2f26f47e"
+      },
+      {
+        "computers-02-00152-g005.png": "aa050273c449ed92bd24fcf10d99900c"
+      },
+      {
+        "computers-02-00152-g006.png": "cf8a695427ae150fd458340d6940ecad"
+      },
+      {
+        "computers-02-00152-g007.png": "2a5da3300799c1eb563231d32ce6cc60"
+      },
+      {
+        "computers-02-00152-g008.png": "16181ed722daa58fc8971a590119f3ac"
+      },
+      {
+        "computers-02-00152-g009.png": "3623e28cb28f87201548b24e0a9e36cd"
+      },
+      {
+        "computers-02-00152-g010.png": "bdf676a1bfd9a8ca5ec84d342657fc34"
+      },
+      {
+        "computers-02-00152-g011.png": "80f44930263eee375f60c1b5ef3fe417"
+      },
+      {
+        "computers-02-00152-g012.png": "f65149570b02739a481423ba4921ae48"
+      },
+      {
+        "computers-02-00152-g013.png": "fe07b361b85f149ba0bcdbfac5e8f07a"
+      },
+      {
+        "computers-02-00152-g014.png": "13df108c772b82c2ef1eaa3404f6bc72"
+      },
+      {
+        "computers-02-00152-g015.png": "7005bd9a74a1fb18f3178979d2e97743"
+      },
+      {
+        "computers-02-00152-g016.png": "4cb244815df8fb4f3a7dcd8c1e1158f3"
+      },
+      {
+        "fulltext.html": "fec85a9bdabfd66e89cf607b94ffd4a4"
+      },
+      {
+        "fulltext.pdf": "639d60f2edf4a21b5eb4760f08c2ef18"
+      }
+    ]
+  }
 }
