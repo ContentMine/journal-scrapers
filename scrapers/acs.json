@@ -1,5 +1,6 @@
 {
   "url": "pubs\\.acs\\.org",
+  "headless": true,
   "elements": {
     "publisher": {
       "selector": "//meta[@name='dc.Publisher']",
@@ -49,12 +50,16 @@
     "fulltext_html": {
       "selector": "//a[@title='View the Full Text HTML']",
       "attribute": "href",
-      "download": true
+      "download": {
+        "rename": "fulltext.html"
+      }
     },
     "fulltext_pdf": {
       "selector": "//a[@title='Download the PDF Full Text']",
       "attribute": "href",
-      "download": true
+      "download": {
+        "rename": "fulltext.pdf"
+      }
     },
     "supplementary_material": {
       "selector": "//a[title='View Supporting Information']",
@@ -72,4 +77,3 @@
     }
   }
 }
-
