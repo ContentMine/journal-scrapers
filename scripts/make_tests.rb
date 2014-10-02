@@ -68,18 +68,9 @@ Dir.chdir('test') do
           results = JSON.load(File.open 'results.json')
           files = Dir['*']
           files = files.keep_if { |f| f != 'results.json' }
-          filehashes = `md5sum #{files.join(' ')}`
-          filehashes.split("\n").each do |line|
-            if line =~ /MD5 \(/
-              # OSX version of MD5
-              filename, filehash = /\((.*)\) = (\w+)/.match(line)[1, 2]
-            else
-              # linux version
-              filehash, filename = line.strip.split("  ")
-            end
-            results << { filename => filehash }
+          files.each do |f|
+            results << { f => Digest::MD5.file(f).hexdigest }
           end
-        end
         if (index + 1) < urls.length
           puts "waiting 15 seconds before next scrape"
           sleep(15)
