@@ -1,608 +1,893 @@
 {
-  "http://www.pnas.org/content/111/33/12019": [
-    {
-      "publisher": "National Acad Sciences"
-    },
-    {
-      "title": "Disassembly of mitotic checkpoint complexes by the joint action of the AAA-ATPase TRIP13 and p31comet"
-    },
-    {
-      "authors": "Esther Eytan"
-    },
-    {
-      "authors": "Kexi Wang"
-    },
-    {
-      "authors": "Shirly Miniowitz-Shemtov"
-    },
-    {
-      "authors": "Danielle Sitry-Shevah"
-    },
-    {
-      "authors": "Sharon Kaisari"
-    },
-    {
-      "authors": "Tim J. Yen"
-    },
-    {
-      "authors": "Song-Tao Liu"
-    },
-    {
-      "authors": "Avram Hershko"
-    },
-    {
-      "date": "08/19/2014"
-    },
-    {
-      "volume": "111"
-    },
-    {
-      "issue": "33"
-    },
-    {
-      "firstpage": "12019"
-    },
-    {
-      "lastpage": "12024"
-    },
-    {
-      "doi": "10.1073/pnas.1412901111"
-    },
-    {
-      "journal": "Proceedings of the National Academy of Sciences"
-    },
-    {
-      "abstract": "\n                           Abstract\n                           The mitotic (or spindle assembly) checkpoint system delays anaphase until all chromosomes are correctly attached to the mitotic\n                              spindle. When the checkpoint is active, a Mitotic Checkpoint Complex (MCC) assembles and inhibits the ubiquitin ligase Anaphase-Promoting\n                              Complex/Cyclosome (APC/C). MCC is composed of the checkpoint proteins Mad2, BubR1, and Bub3 associated with the APC/C activator\n                              Cdc20. When the checkpoint signal is turned off, MCC is disassembled and the checkpoint is inactivated. The mechanisms of\n                              the disassembly of MCC are not sufficiently understood. We have previously observed that ATP hydrolysis is required for the\n                              action of the Mad2-binding protein p31comet to disassemble MCC. We now show that HeLa cell extracts contain a factor that promotes ATP- and p31comet-dependent disassembly of a Cdc20–Mad2 subcomplex and identify it as Thyroid Receptor Interacting Protein 13 (TRIP13), an\n                              AAA-ATPase known to interact with p31comet. The joint action of TRIP13 and p31comet also promotes the release of Mad2 from MCC, participates in the complete disassembly of MCC and abrogates checkpoint inhibition\n                              of APC/C. We propose that TRIP13 plays centrally important roles in the sequence of events leading to MCC disassembly and\n                              checkpoint inactivation.\n                           \n                        "
-    },
-    {
-      "abstract_html": "http://www.pnas.org/content/111/33/12019.abstract"
-    },
-    {
-      "language": "en"
-    },
-    {
-      "fulltext_pdf": "http://www.pnas.org/content/111/33/12019.full.pdf"
-    },
-    {
-      "fulltext_html": "http://www.pnas.org/content/111/33/12019.full"
-    },
-    {
-      "supplementary_material": "/content/111/33/12019/suppl/DCSupplemental"
-    },
-    {
-      "12019.full": "3e4de6ee23ec43b80929bce80ac814ae"
-    },
-    {
-      "rendered.html": "c4562ad494ed219d6084f17305827b16"
-    }
-  ],
-  "http://www.pnas.org/content/111/34/12396": [
-    {
-      "publisher": "National Acad Sciences"
-    },
-    {
-      "title": "Microbial-induced meprin β cleavage in MUC2 mucin and a functional CFTR channel are required to release anchored small intestinal mucus"
-    },
-    {
-      "authors": "André Schütte"
-    },
-    {
-      "authors": "Anna Ermund"
-    },
-    {
-      "authors": "Christoph Becker-Pauly"
-    },
-    {
-      "authors": "Malin E. V. Johansson"
-    },
-    {
-      "authors": "Ana M. Rodriguez-Pineiro"
-    },
-    {
-      "authors": "Fredrik Bäckhed"
-    },
-    {
-      "authors": "Stefan Müller"
-    },
-    {
-      "authors": "Daniel Lottaz"
-    },
-    {
-      "authors": "Judith S. Bond"
-    },
-    {
-      "authors": "Gunnar C. Hansson"
-    },
-    {
-      "date": "08/26/2014"
-    },
-    {
-      "volume": "111"
-    },
-    {
-      "issue": "34"
-    },
-    {
-      "firstpage": "12396"
-    },
-    {
-      "lastpage": "12401"
-    },
-    {
-      "doi": "10.1073/pnas.1407597111"
-    },
-    {
-      "journal": "Proceedings of the National Academy of Sciences"
-    },
-    {
-      "abstract": "\n                           Abstract\n                           The mucus that covers and protects the epithelium of the intestine is built around its major structural component, the gel-forming\n                              MUC2 mucin. The gel-forming mucins have traditionally been assumed to be secreted as nonattached. The colon has a two-layered\n                              mucus system where the inner mucus is attached to the epithelium, whereas the small intestine normally has a nonattached mucus.\n                              However, the mucus of the small intestine of meprin β-deficient mice was now found to be attached. Meprin β is an endogenous\n                              zinc-dependent metalloprotease now shown to cleave the N-terminal region of the MUC2 mucin at two specific sites. When recombinant\n                              meprin β was added to the attached mucus of meprin β-deficient mice, the mucus was detached from the epithelium. Similar to\n                              meprin β-deficient mice, germ-free mice have attached mucus as they did not shed the membrane-anchored meprin β into the luminal\n                              mucus. The ileal mucus of cystic fibrosis (CF) mice with a nonfunctional cystic fibrosis transmembrane conductance regulator\n                              (CFTR) channel was recently shown to be attached to the epithelium. Addition of recombinant meprin β to CF mucus did not release\n                              the mucus, but further addition of bicarbonate rendered the CF mucus normal, suggesting that MUC2 unfolding exposed the meprin\n                              β cleavage sites. Mucus is thus secreted attached to the goblet cells and requires an enzyme, meprin β in the small intestine,\n                              to be detached and released into the intestinal lumen. This process regulates mucus properties, can be triggered by bacterial\n                              contact, and is nonfunctional in CF due to poor mucin unfolding.\n                           \n                        "
-    },
-    {
-      "abstract_html": "http://www.pnas.org/content/111/34/12396.abstract"
-    },
-    {
-      "language": "en"
-    },
-    {
-      "fulltext_pdf": "http://www.pnas.org/content/111/34/12396.full.pdf"
-    },
-    {
-      "fulltext_html": "http://www.pnas.org/content/111/34/12396.full"
-    },
-    {
-      "supplementary_material": "/content/111/34/12396/suppl/DCSupplemental"
-    },
-    {
-      "DCSupplemental": "a29c88e1ce8cbabb41fd557d1158ce68"
-    },
-    {
-      "rendered.html": "e82463b4b3bc6a32c4498503d32144a6"
-    }
-  ],
-  "http://www.pnas.org/content/111/34/12390": [
-    {
-      "publisher": "National Acad Sciences"
-    },
-    {
-      "title": "Chaperone-enhanced purification of unconventional myosin 15, a molecular motor specialized for stereocilia protein trafficking"
-    },
-    {
-      "authors": "Jonathan E. Bird"
-    },
-    {
-      "authors": "Yasuharu Takagi"
-    },
-    {
-      "authors": "Neil Billington"
-    },
-    {
-      "authors": "Marie-Paule Strub"
-    },
-    {
-      "authors": "James R. Sellers"
-    },
-    {
-      "authors": "Thomas B. Friedman"
-    },
-    {
-      "date": "08/26/2014"
-    },
-    {
-      "volume": "111"
-    },
-    {
-      "issue": "34"
-    },
-    {
-      "firstpage": "12390"
-    },
-    {
-      "lastpage": "12395"
-    },
-    {
-      "doi": "10.1073/pnas.1409459111"
-    },
-    {
-      "journal": "Proceedings of the National Academy of Sciences"
-    },
-    {
-      "abstract": "\n                           Abstract\n                           Unconventional myosin 15 is a molecular motor expressed in inner ear hair cells that transports protein cargos within developing\n                              mechanosensory stereocilia. Mutations of myosin 15 cause profound hearing loss in humans and mice; however, the properties\n                              of this motor and its regulation within the stereocilia organelle are unknown. To address these questions, we expressed a\n                              subfragment 1-like (S1) truncation of mouse myosin 15, comprising the predicted motor domain plus three light-chain binding\n                              sites. Following unsuccessful attempts to express functional myosin 15-S1 using the Spodoptera frugiperda (Sf9)-baculovirus system, we discovered that coexpression of the muscle-myosin–specific chaperone UNC45B, in addition to\n                              the chaperone heat-shock protein 90 (HSP90) significantly increased the yield of functional protein. Surprisingly, myosin\n                              15-S1 did not bind calmodulin with high affinity. Instead, the IQ domains bound essential and regulatory light chains that\n                              are normally associated with class II myosins. We show that myosin 15-S1 is a barbed-end–directed motor that moves actin filaments\n                              in a gliding assay (∼430 nm·s−1 at 30 °C), using a power stroke of 7.9 nm. The maximum ATPase rate (kcat ∼6 s−1) was similar to the actin-detachment rate (kdet = 6.2 s−1) determined in single molecule optical trapping experiments, indicating that myosin 15-S1 was rate limited by transit through\n                              strongly actin-bound states, similar to other processive myosin motors. Our data further indicate that in addition to folding\n                              muscle myosin, UNC45B facilitates maturation of an unconventional myosin. We speculate that chaperone coexpression may be\n                              a simple method to optimize the purification of other myosin motors from Sf9 insect cells.\n                           \n                        "
-    },
-    {
-      "abstract_html": "http://www.pnas.org/content/111/34/12390.abstract"
-    },
-    {
-      "language": "en"
-    },
-    {
-      "fulltext_pdf": "http://www.pnas.org/content/111/34/12390.full.pdf"
-    },
-    {
-      "fulltext_html": "http://www.pnas.org/content/111/34/12390.full"
-    },
-    {
-      "supplementary_material": "/content/111/34/12390/suppl/DCSupplemental"
-    },
-    {
-      "12390.abstract": "1f36cf2d40f2a295e8b60f3bf8a361fe"
-    },
-    {
-      "rendered.html": "e4678253091b9ed6a758e328f44764ca"
-    }
-  ],
-  "http://www.pnas.org/content/101/34/12520": [
-    {
-      "publisher": "National Acad Sciences"
-    },
-    {
-      "title": "Cell mechanosensitivity controls the anisotropy of focal adhesions"
-    },
-    {
-      "authors": "Alice Nicolas"
-    },
-    {
-      "authors": "Benjamin Geiger"
-    },
-    {
-      "authors": "Samuel A. Safran"
-    },
-    {
-      "date": "08/24/2004"
-    },
-    {
-      "volume": "101"
-    },
-    {
-      "issue": "34"
-    },
-    {
-      "firstpage": "12520"
-    },
-    {
-      "lastpage": "12525"
-    },
-    {
-      "doi": "10.1073/pnas.0403539101"
-    },
-    {
-      "journal": "Proceedings of the National Academy of Sciences of the United States of America"
-    },
-    {
-      "abstract": "\n                           \n                           Abstract\n                           \n                           Cellular adhesions are modulated by cytoskeletal forces or external stresses and adapt to the mechanical properties of the\n                              extracellular matrix. We propose that this mechanosensitivity can be driven at least in part by the elastic, cell-contractility-induced\n                              deformations of protein molecules that form the adhesion. The model accounts for observations of anisotropic growth and shrinkage\n                              of focal adhesions in the direction of the force and predicts that focal adhesions only grow within a range of force that\n                              is determined by the composition and matrix properties. This prediction is consistent with the observations of a force threshold\n                              for the appearance of elongated focal adhesions and the disruption of adhesions into fibrils on a mobile extracellular matrix.\n                              The growth dynamics is calculated and the predicted sliding of focal adhesions is consistent with several experiments.\n                           \n                           \n                        "
-    },
-    {
-      "abstract_html": "http://www.pnas.org/content/101/34/12520.abstract"
-    },
-    {
-      "language": "en"
-    },
-    {
-      "fulltext_pdf": "http://www.pnas.org/content/101/34/12520.full.pdf"
-    },
-    {
-      "fulltext_html": "http://www.pnas.org/content/101/34/12520.full"
-    },
-    {
-      "supplementary_material": "/content/101/34/12520/suppl/DC1"
-    },
-    {
-      "DC1": "0076772b82d2b0c3f1dd442e98a013f9"
-    },
-    {
-      "rendered.html": "e06f8aa80d9af9e7f4a8c82591b7576c"
-    }
-  ],
-  "http://www.pnas.org/content/71/2/302": [
-    {
-      "publisher": "National Acad Sciences"
-    },
-    {
-      "title": "Cell-Free Translation of Messenger RNA of Simian Virus 40: Synthesis of the Major Capsid Protein"
-    },
-    {
-      "authors": "Carol L. Prives"
-    },
-    {
-      "authors": "Haim Aviv"
-    },
-    {
-      "authors": "Bruce M. Paterson"
-    },
-    {
-      "authors": "Bryan E. Roberts"
-    },
-    {
-      "authors": "Shmuel Rozenblatt"
-    },
-    {
-      "authors": "Michel Revel"
-    },
-    {
-      "authors": "Ernest Winocour"
-    },
-    {
-      "date": "02/01/1974"
-    },
-    {
-      "volume": "71"
-    },
-    {
-      "issue": "2"
-    },
-    {
-      "firstpage": "302"
-    },
-    {
-      "lastpage": "306"
-    },
-    {
-      "journal": "Proceedings of the National Academy of Sciences"
-    },
-    {
-      "abstract": "\n                           Abstract\n                           Extracts of wheat germ are capable of synthesizing the major capsid protein of simian virus 40. Poly(A)-containing RNA from\n                              BS-C-1 cells infected with simian virus 40 directed the synthesis of a novel polypeptide that migrates in polyacrylamide gels\n                              together with the major capsid polypeptide of simian virus 40, VP-1. The patterns of the major tryptic peptides of purified\n                              VP-1 and the novel polypeptide synthesized in vitro were identical after two-dimensional paper electrophoresis. The novel polypeptide was not synthesized in response to poly(A)-rich\n                              RNA from uninfected cells or from virus-infected cells treated with cytosine arabinoside. Messenger RNA from infected cells\n                              purified by selective hybridization to DNA of simian virus 40 directs the synthesis of a major polypeptide of electrophoretic\n                              mobility similar to that of VP-1 of simian virus 40. This approach should prove useful in identifying additional products\n                              specified by DNA tumor viruses.\n                           \n                        "
-    },
-    {
-      "abstract_html": "http://www.pnas.org/content/71/2/302.abstract"
-    },
-    {
-      "language": "en"
-    },
-    {
-      "fulltext_pdf": "http://www.pnas.org/content/71/2/302.full.pdf"
-    },
-    {
-      "302.abstract": "ca6e67b294a77aac0fa426e85232f1f5"
-    },
-    {
-      "rendered.html": "ecb901b53714839fdb8a2d996623c138"
-    }
-  ],
-  "http://www.pnas.org/content/109/24/9248": [
-    {
-      "publisher": "National Acad Sciences"
-    },
-    {
-      "title": "Heart wall myofibers are arranged in minimal surfaces to optimize organ function"
-    },
-    {
-      "authors": "Peter Savadjiev"
-    },
-    {
-      "authors": "Gustav J. Strijkers"
-    },
-    {
-      "authors": "Adrianus J. Bakermans"
-    },
-    {
-      "authors": "Emmanuel Piuze"
-    },
-    {
-      "authors": "Steven W. Zucker"
-    },
-    {
-      "authors": "Kaleem Siddiqi"
-    },
-    {
-      "date": "06/12/2012"
-    },
-    {
-      "volume": "109"
-    },
-    {
-      "issue": "24"
-    },
-    {
-      "firstpage": "9248"
-    },
-    {
-      "lastpage": "9253"
-    },
-    {
-      "doi": "10.1073/pnas.1120785109"
-    },
-    {
-      "journal": "Proceedings of the National Academy of Sciences"
-    },
-    {
-      "abstract": "\n                           Abstract\n                           Heart wall myofibers wind as helices around the ventricles, strengthening them in a manner analogous to the reinforcement\n                              of concrete cylindrical columns by spiral steel cables [Richart FE, et al. (1929) Univ of Illinois, Eng Exp Stn Bull 190].\n                              A multitude of such fibers, arranged smoothly and regularly, contract and relax as an integrated functional unit as the heart\n                              beats. To orchestrate this motion, fiber tangling must be avoided and pumping should be efficient. Current models of myofiber\n                              orientation across the heart wall suggest groupings into sheets or bands, but the precise geometry of bundles of myofibers\n                              is unknown. Here we show that this arrangement takes the form of a special minimal surface, the generalized helicoid [Blair\n                              DE, Vanstone JR (1978) Minimal Submanifolds and Geodesics 13–16], closing the gap between individual myofibers and their collective wall structure. The model holds across species,\n                              with a smooth variation in its three curvature parameters within the myocardial wall providing tight fits to diffusion magnetic\n                              resonance images from the rat, the dog, and the human. Mathematically it explains how myofibers are bundled in the heart wall\n                              while economizing fiber length and optimizing ventricular ejection volume as they contract. The generalized helicoid provides\n                              a unique foundation for analyzing the fibrous composite of the heart wall and should therefore find applications in heart\n                              tissue engineering and in the study of heart muscle diseases.\n                           \n                        "
-    },
-    {
-      "abstract_html": "http://www.pnas.org/content/109/24/9248.abstract"
-    },
-    {
-      "language": "en"
-    },
-    {
-      "fulltext_pdf": "http://www.pnas.org/content/109/24/9248.full.pdf"
-    },
-    {
-      "fulltext_html": "http://www.pnas.org/content/109/24/9248.full"
-    },
-    {
-      "supplementary_material": "/content/109/24/9248/suppl/DCSupplemental"
-    },
-    {
-      "DCSupplemental": "5bf113bd006256852685f7baad425748"
-    },
-    {
-      "rendered.html": "bbf7da42dcfa67ee9b7072bc470bf967"
-    }
-  ],
-  "http://www.pnas.org/content/111/24/8788": [
-    {
-      "publisher": "National Acad Sciences"
-    },
-    {
-      "title": "Experimental evidence of massive-scale emotional contagion through social networks"
-    },
-    {
-      "authors": "Adam D. I. Kramer"
-    },
-    {
-      "authors": "Jamie E. Guillory"
-    },
-    {
-      "authors": "Jeffrey T. Hancock"
-    },
-    {
-      "date": "06/17/2014"
-    },
-    {
-      "volume": "111"
-    },
-    {
-      "issue": "24"
-    },
-    {
-      "firstpage": "8788"
-    },
-    {
-      "lastpage": "8790"
-    },
-    {
-      "doi": "10.1073/pnas.1320040111"
-    },
-    {
-      "journal": "Proceedings of the National Academy of Sciences"
-    },
-    {
-      "abstract": "\n                           Abstract\n                           Emotional states can be transferred to others via emotional contagion, leading people to experience the same emotions without\n                              their awareness. Emotional contagion is well established in laboratory experiments, with people transferring positive and\n                              negative emotions to others. Data from a large real-world social network, collected over a 20-y period suggests that longer-lasting\n                              moods (e.g., depression, happiness) can be transferred through networks [Fowler JH, Christakis NA (2008) BMJ 337:a2338], although the results are controversial. In an experiment with people who use Facebook, we test whether emotional\n                              contagion occurs outside of in-person interaction between individuals by reducing the amount of emotional content in the News\n                              Feed. When positive expressions were reduced, people produced fewer positive posts and more negative posts; when negative\n                              expressions were reduced, the opposite pattern occurred. These results indicate that emotions expressed by others on Facebook\n                              influence our own emotions, constituting experimental evidence for massive-scale contagion via social networks. This work\n                              also suggests that, in contrast to prevailing assumptions, in-person interaction and nonverbal cues are not strictly necessary\n                              for emotional contagion, and that the observation of others’ positive experiences constitutes a positive experience for people.\n                           \n                        "
-    },
-    {
-      "abstract_html": "http://www.pnas.org/content/111/24/8788.abstract"
-    },
-    {
-      "language": "en"
-    },
-    {
-      "fulltext_pdf": "http://www.pnas.org/content/111/24/8788.full.pdf"
-    },
-    {
-      "fulltext_html": "http://www.pnas.org/content/111/24/8788.full"
-    },
-    {
-      "8788.full": "6479c6f32c31b9edba389ef3fff7fc93"
-    },
-    {
-      "rendered.html": "d1a4184cea26192b275792bcb3095b6d"
-    }
-  ],
-  "http://www.pnas.org/content/111/29/10779.1": [
-    {
-      "publisher": "National Acad Sciences"
-    },
-    {
-      "title": "Editorial Expression of Concern: Experimental evidence of massivescale emotional contagion through social networks"
-    },
-    {
-      "date": "07/22/2014"
-    },
-    {
-      "volume": "111"
-    },
-    {
-      "issue": "29"
-    },
-    {
-      "firstpage": "10779"
-    },
-    {
-      "lastpage": "10779"
-    },
-    {
-      "doi": "10.1073/pnas.1412469111"
-    },
-    {
-      "journal": "Proceedings of the National Academy of Sciences"
-    },
-    {
-      "language": "en"
-    },
-    {
-      "fulltext_pdf": "http://www.pnas.org/content/111/29/10779.1.full.pdf"
-    },
-    {
-      "fulltext_html": "http://www.pnas.org/content/111/29/10779.1.full"
-    },
-    {
-      "10779.1.full.pdf": "f1ff6f1b35c5397c8e7762ffe36fed02"
-    },
-    {
-      "rendered.html": "553e807bf9b1e31721733c8f49db590e"
-    }
-  ],
-  "http://www.pnas.org/content/111/35/12758": [
-    {
-      "publisher": "National Acad Sciences"
-    },
-    {
-      "title": "Experimental basis for a new allosteric model for multisubunit proteins"
-    },
-    {
-      "authors": "Cristiano Viappiani"
-    },
-    {
-      "authors": "Stefania Abbruzzetti"
-    },
-    {
-      "authors": "Luca Ronda"
-    },
-    {
-      "authors": "Stefano Bettati"
-    },
-    {
-      "authors": "Eric. R. Henry"
-    },
-    {
-      "authors": "Andrea Mozzarelli"
-    },
-    {
-      "authors": "William A. Eaton"
-    },
-    {
-      "date": "09/02/2014"
-    },
-    {
-      "volume": "111"
-    },
-    {
-      "issue": "35"
-    },
-    {
-      "firstpage": "12758"
-    },
-    {
-      "lastpage": "12763"
-    },
-    {
-      "doi": "10.1073/pnas.1413566111"
-    },
-    {
-      "journal": "Proceedings of the National Academy of Sciences"
-    },
-    {
-      "abstract": "\n                           Abstract\n                           Monod, Wyman, and Changeux (MWC) explained allostery in multisubunit proteins with a widely applied theoretical model in which\n                              binding of small molecules, so-called allosteric effectors, affects reactivity by altering the equilibrium between more reactive\n                              (R) and less reactive (T) quaternary structures. In their model, each quaternary structure has a single reactivity. Here,\n                              we use silica gels to trap protein conformations and a new kind of laser photolysis experiment to show that hemoglobin, the\n                              paradigm of allostery, exhibits two ligand binding phases with the same fast and slow rates in both R and T quaternary structures.\n                              Allosteric effectors change the fraction of each phase but not the rates. These surprising results are readily explained by\n                              the simplest possible extension of the MWC model to include a preequilibrium between two tertiary conformations that have\n                              the same functional properties within each quaternary structure. They also have important implications for the long-standing\n                              question of a structural explanation for the difference in hemoglobin oxygen affinity of the two quaternary structures.\n                           \n                        "
-    },
-    {
-      "abstract_html": "http://www.pnas.org/content/111/35/12758.abstract"
-    },
-    {
-      "language": "en"
-    },
-    {
-      "fulltext_pdf": "http://www.pnas.org/content/111/35/12758.full.pdf"
-    },
-    {
-      "fulltext_html": "http://www.pnas.org/content/111/35/12758.full"
-    },
-    {
-      "supplementary_material": "/content/111/35/12758/suppl/DCSupplemental"
-    },
-    {
-      "12758.abstract": "886f0f703849b8ce926b57b3581915cb"
-    },
-    {
-      "rendered.html": "2cd299dcb051059fe566dce2f1168b3d"
-    }
-  ]
+  "http://www.pnas.org/content/111/33/12019": {
+    "publisher": {
+      "value": [
+        "National Acad Sciences"
+      ]
+    },
+    "title": {
+      "value": [
+        "Disassembly of mitotic checkpoint complexes by the joint action of the AAA-ATPase TRIP13 and p31comet"
+      ]
+    },
+    "authors": {
+      "value": [
+        "Esther Eytan",
+        "Kexi Wang",
+        "Shirly Miniowitz-Shemtov",
+        "Danielle Sitry-Shevah",
+        "Sharon Kaisari",
+        "Tim J. Yen",
+        "Song-Tao Liu",
+        "Avram Hershko"
+      ]
+    },
+    "date": {
+      "value": [
+        "08/19/2014"
+      ]
+    },
+    "volume": {
+      "value": [
+        "111"
+      ]
+    },
+    "issue": {
+      "value": [
+        "33"
+      ]
+    },
+    "firstpage": {
+      "value": [
+        "12019"
+      ]
+    },
+    "lastpage": {
+      "value": [
+        "12024"
+      ]
+    },
+    "doi": {
+      "value": [
+        "10.1073/pnas.1412901111"
+      ]
+    },
+    "journal": {
+      "value": [
+        "Proceedings of the National Academy of Sciences"
+      ]
+    },
+    "abstract": {
+      "value": [
+        "\n                           Abstract\n                           The mitotic (or spindle assembly) checkpoint system delays anaphase until all chromosomes are correctly attached to the mitotic\n                              spindle. When the checkpoint is active, a Mitotic Checkpoint Complex (MCC) assembles and inhibits the ubiquitin ligase Anaphase-Promoting\n                              Complex/Cyclosome (APC/C). MCC is composed of the checkpoint proteins Mad2, BubR1, and Bub3 associated with the APC/C activator\n                              Cdc20. When the checkpoint signal is turned off, MCC is disassembled and the checkpoint is inactivated. The mechanisms of\n                              the disassembly of MCC are not sufficiently understood. We have previously observed that ATP hydrolysis is required for the\n                              action of the Mad2-binding protein p31comet to disassemble MCC. We now show that HeLa cell extracts contain a factor that promotes ATP- and p31comet-dependent disassembly of a Cdc20–Mad2 subcomplex and identify it as Thyroid Receptor Interacting Protein 13 (TRIP13), an\n                              AAA-ATPase known to interact with p31comet. The joint action of TRIP13 and p31comet also promotes the release of Mad2 from MCC, participates in the complete disassembly of MCC and abrogates checkpoint inhibition\n                              of APC/C. We propose that TRIP13 plays centrally important roles in the sequence of events leading to MCC disassembly and\n                              checkpoint inactivation.\n                           \n                        "
+      ]
+    },
+    "abstract_html": {
+      "value": [
+        "http://www.pnas.org/content/111/33/12019.abstract"
+      ]
+    },
+    "language": {
+      "value": [
+        "en"
+      ]
+    },
+    "fulltext_pdf": {
+      "value": [
+        "http://www.pnas.org/content/111/33/12019.full.pdf"
+      ]
+    },
+    "fulltext_html": {
+      "value": [
+        "http://www.pnas.org/content/111/33/12019.full"
+      ]
+    },
+    "supplementary_material": {
+      "value": [
+        "/content/111/33/12019/suppl/DCSupplemental"
+      ]
+    },
+    "file_hashes": [
+      {
+        "12019.abstract": "4e869f429e6c09261677a36f131652e2"
+      },
+      {
+        "12019.full": "7332368f057b0639f6665dabe7cd2ae2"
+      },
+      {
+        "12019.full.pdf": "2b89720e492289665f2c6c4bf7cc38dd"
+      },
+      {
+        "DCSupplemental": "6f962f450a3df0b85a264f9f988ade58"
+      }
+    ]
+  },
+  "http://www.pnas.org/content/111/34/12396": {
+    "publisher": {
+      "value": [
+        "National Acad Sciences"
+      ]
+    },
+    "title": {
+      "value": [
+        "Microbial-induced meprin β cleavage in MUC2 mucin and a functional CFTR channel are required to release anchored small intestinal mucus"
+      ]
+    },
+    "authors": {
+      "value": [
+        "André Schütte",
+        "Anna Ermund",
+        "Christoph Becker-Pauly",
+        "Malin E. V. Johansson",
+        "Ana M. Rodriguez-Pineiro",
+        "Fredrik Bäckhed",
+        "Stefan Müller",
+        "Daniel Lottaz",
+        "Judith S. Bond",
+        "Gunnar C. Hansson"
+      ]
+    },
+    "date": {
+      "value": [
+        "08/26/2014"
+      ]
+    },
+    "volume": {
+      "value": [
+        "111"
+      ]
+    },
+    "issue": {
+      "value": [
+        "34"
+      ]
+    },
+    "firstpage": {
+      "value": [
+        "12396"
+      ]
+    },
+    "lastpage": {
+      "value": [
+        "12401"
+      ]
+    },
+    "doi": {
+      "value": [
+        "10.1073/pnas.1407597111"
+      ]
+    },
+    "journal": {
+      "value": [
+        "Proceedings of the National Academy of Sciences"
+      ]
+    },
+    "abstract": {
+      "value": [
+        "\n                           Abstract\n                           The mucus that covers and protects the epithelium of the intestine is built around its major structural component, the gel-forming\n                              MUC2 mucin. The gel-forming mucins have traditionally been assumed to be secreted as nonattached. The colon has a two-layered\n                              mucus system where the inner mucus is attached to the epithelium, whereas the small intestine normally has a nonattached mucus.\n                              However, the mucus of the small intestine of meprin β-deficient mice was now found to be attached. Meprin β is an endogenous\n                              zinc-dependent metalloprotease now shown to cleave the N-terminal region of the MUC2 mucin at two specific sites. When recombinant\n                              meprin β was added to the attached mucus of meprin β-deficient mice, the mucus was detached from the epithelium. Similar to\n                              meprin β-deficient mice, germ-free mice have attached mucus as they did not shed the membrane-anchored meprin β into the luminal\n                              mucus. The ileal mucus of cystic fibrosis (CF) mice with a nonfunctional cystic fibrosis transmembrane conductance regulator\n                              (CFTR) channel was recently shown to be attached to the epithelium. Addition of recombinant meprin β to CF mucus did not release\n                              the mucus, but further addition of bicarbonate rendered the CF mucus normal, suggesting that MUC2 unfolding exposed the meprin\n                              β cleavage sites. Mucus is thus secreted attached to the goblet cells and requires an enzyme, meprin β in the small intestine,\n                              to be detached and released into the intestinal lumen. This process regulates mucus properties, can be triggered by bacterial\n                              contact, and is nonfunctional in CF due to poor mucin unfolding.\n                           \n                        "
+      ]
+    },
+    "abstract_html": {
+      "value": [
+        "http://www.pnas.org/content/111/34/12396.abstract"
+      ]
+    },
+    "language": {
+      "value": [
+        "en"
+      ]
+    },
+    "fulltext_pdf": {
+      "value": [
+        "http://www.pnas.org/content/111/34/12396.full.pdf"
+      ]
+    },
+    "fulltext_html": {
+      "value": [
+        "http://www.pnas.org/content/111/34/12396.full"
+      ]
+    },
+    "supplementary_material": {
+      "value": [
+        "/content/111/34/12396/suppl/DCSupplemental"
+      ]
+    },
+    "file_hashes": [
+      {
+        "12396.abstract": "ca082186a4c61359f66319b740757716"
+      },
+      {
+        "12396.full": "259838128b20185244d84dc2a3c9a068"
+      },
+      {
+        "12396.full.pdf": "662864d14aad055c3a013c0d21907d11"
+      },
+      {
+        "DCSupplemental": "1afdc9c14911b0b883b471a223525a87"
+      }
+    ]
+  },
+  "http://www.pnas.org/content/111/34/12390": {
+    "publisher": {
+      "value": [
+        "National Acad Sciences"
+      ]
+    },
+    "title": {
+      "value": [
+        "Chaperone-enhanced purification of unconventional myosin 15, a molecular motor specialized for stereocilia protein trafficking"
+      ]
+    },
+    "authors": {
+      "value": [
+        "Jonathan E. Bird",
+        "Yasuharu Takagi",
+        "Neil Billington",
+        "Marie-Paule Strub",
+        "James R. Sellers",
+        "Thomas B. Friedman"
+      ]
+    },
+    "date": {
+      "value": [
+        "08/26/2014"
+      ]
+    },
+    "volume": {
+      "value": [
+        "111"
+      ]
+    },
+    "issue": {
+      "value": [
+        "34"
+      ]
+    },
+    "firstpage": {
+      "value": [
+        "12390"
+      ]
+    },
+    "lastpage": {
+      "value": [
+        "12395"
+      ]
+    },
+    "doi": {
+      "value": [
+        "10.1073/pnas.1409459111"
+      ]
+    },
+    "journal": {
+      "value": [
+        "Proceedings of the National Academy of Sciences"
+      ]
+    },
+    "abstract": {
+      "value": [
+        "\n                           Abstract\n                           Unconventional myosin 15 is a molecular motor expressed in inner ear hair cells that transports protein cargos within developing\n                              mechanosensory stereocilia. Mutations of myosin 15 cause profound hearing loss in humans and mice; however, the properties\n                              of this motor and its regulation within the stereocilia organelle are unknown. To address these questions, we expressed a\n                              subfragment 1-like (S1) truncation of mouse myosin 15, comprising the predicted motor domain plus three light-chain binding\n                              sites. Following unsuccessful attempts to express functional myosin 15-S1 using the Spodoptera frugiperda (Sf9)-baculovirus system, we discovered that coexpression of the muscle-myosin–specific chaperone UNC45B, in addition to\n                              the chaperone heat-shock protein 90 (HSP90) significantly increased the yield of functional protein. Surprisingly, myosin\n                              15-S1 did not bind calmodulin with high affinity. Instead, the IQ domains bound essential and regulatory light chains that\n                              are normally associated with class II myosins. We show that myosin 15-S1 is a barbed-end–directed motor that moves actin filaments\n                              in a gliding assay (∼430 nm·s−1 at 30 °C), using a power stroke of 7.9 nm. The maximum ATPase rate (kcat ∼6 s−1) was similar to the actin-detachment rate (kdet = 6.2 s−1) determined in single molecule optical trapping experiments, indicating that myosin 15-S1 was rate limited by transit through\n                              strongly actin-bound states, similar to other processive myosin motors. Our data further indicate that in addition to folding\n                              muscle myosin, UNC45B facilitates maturation of an unconventional myosin. We speculate that chaperone coexpression may be\n                              a simple method to optimize the purification of other myosin motors from Sf9 insect cells.\n                           \n                        "
+      ]
+    },
+    "abstract_html": {
+      "value": [
+        "http://www.pnas.org/content/111/34/12390.abstract"
+      ]
+    },
+    "language": {
+      "value": [
+        "en"
+      ]
+    },
+    "fulltext_pdf": {
+      "value": [
+        "http://www.pnas.org/content/111/34/12390.full.pdf"
+      ]
+    },
+    "fulltext_html": {
+      "value": [
+        "http://www.pnas.org/content/111/34/12390.full"
+      ]
+    },
+    "supplementary_material": {
+      "value": [
+        "/content/111/34/12390/suppl/DCSupplemental"
+      ]
+    },
+    "file_hashes": [
+      {
+        "12390.abstract": "18700f2015ae1db03ea524c2a79a2307"
+      },
+      {
+        "12390.full": "d5508b221f76a3c6512d9ee26a6c412c"
+      },
+      {
+        "12390.full.pdf": "ff979154097a61a629c318ac3a99bda2"
+      },
+      {
+        "DCSupplemental": "ea92c258a30ae255981b460fd8639ea6"
+      }
+    ]
+  },
+  "http://www.pnas.org/content/101/34/12520": {
+    "publisher": {
+      "value": [
+        "National Acad Sciences"
+      ]
+    },
+    "title": {
+      "value": [
+        "Cell mechanosensitivity controls the anisotropy of focal adhesions"
+      ]
+    },
+    "authors": {
+      "value": [
+        "Alice Nicolas",
+        "Benjamin Geiger",
+        "Samuel A. Safran"
+      ]
+    },
+    "date": {
+      "value": [
+        "08/24/2004"
+      ]
+    },
+    "volume": {
+      "value": [
+        "101"
+      ]
+    },
+    "issue": {
+      "value": [
+        "34"
+      ]
+    },
+    "firstpage": {
+      "value": [
+        "12520"
+      ]
+    },
+    "lastpage": {
+      "value": [
+        "12525"
+      ]
+    },
+    "doi": {
+      "value": [
+        "10.1073/pnas.0403539101"
+      ]
+    },
+    "journal": {
+      "value": [
+        "Proceedings of the National Academy of Sciences of the United States of America"
+      ]
+    },
+    "abstract": {
+      "value": [
+        "\n                           \n                           Abstract\n                           \n                           Cellular adhesions are modulated by cytoskeletal forces or external stresses and adapt to the mechanical properties of the\n                              extracellular matrix. We propose that this mechanosensitivity can be driven at least in part by the elastic, cell-contractility-induced\n                              deformations of protein molecules that form the adhesion. The model accounts for observations of anisotropic growth and shrinkage\n                              of focal adhesions in the direction of the force and predicts that focal adhesions only grow within a range of force that\n                              is determined by the composition and matrix properties. This prediction is consistent with the observations of a force threshold\n                              for the appearance of elongated focal adhesions and the disruption of adhesions into fibrils on a mobile extracellular matrix.\n                              The growth dynamics is calculated and the predicted sliding of focal adhesions is consistent with several experiments.\n                           \n                           \n                        "
+      ]
+    },
+    "abstract_html": {
+      "value": [
+        "http://www.pnas.org/content/101/34/12520.abstract"
+      ]
+    },
+    "language": {
+      "value": [
+        "en"
+      ]
+    },
+    "fulltext_pdf": {
+      "value": [
+        "http://www.pnas.org/content/101/34/12520.full.pdf"
+      ]
+    },
+    "fulltext_html": {
+      "value": [
+        "http://www.pnas.org/content/101/34/12520.full"
+      ]
+    },
+    "supplementary_material": {
+      "value": [
+        "/content/101/34/12520/suppl/DC1"
+      ]
+    },
+    "file_hashes": [
+      {
+        "12520.abstract": "be9e776a2627b77c4b6b8dff6b9a0981"
+      },
+      {
+        "12520.full": "834f11821ed9e2ef989c862920e0f7fa"
+      },
+      {
+        "12520.full.pdf": "097a6ef0b44f4cd99edba11588fc3a76"
+      },
+      {
+        "DC1": "98f9f3ea4bdbfc91c0abec479fd2cf58"
+      }
+    ]
+  },
+  "http://www.pnas.org/content/71/2/302": {
+    "publisher": {
+      "value": [
+        "National Acad Sciences"
+      ]
+    },
+    "title": {
+      "value": [
+        "Cell-Free Translation of Messenger RNA of Simian Virus 40: Synthesis of the Major Capsid Protein"
+      ]
+    },
+    "authors": {
+      "value": [
+        "Carol L. Prives",
+        "Haim Aviv",
+        "Bruce M. Paterson",
+        "Bryan E. Roberts",
+        "Shmuel Rozenblatt",
+        "Michel Revel",
+        "Ernest Winocour"
+      ]
+    },
+    "date": {
+      "value": [
+        "02/01/1974"
+      ]
+    },
+    "volume": {
+      "value": [
+        "71"
+      ]
+    },
+    "issue": {
+      "value": [
+        "2"
+      ]
+    },
+    "firstpage": {
+      "value": [
+        "302"
+      ]
+    },
+    "lastpage": {
+      "value": [
+        "306"
+      ]
+    },
+    "doi": {
+      "value": [
+
+      ]
+    },
+    "journal": {
+      "value": [
+        "Proceedings of the National Academy of Sciences"
+      ]
+    },
+    "abstract": {
+      "value": [
+        "\n                           Abstract\n                           Extracts of wheat germ are capable of synthesizing the major capsid protein of simian virus 40. Poly(A)-containing RNA from\n                              BS-C-1 cells infected with simian virus 40 directed the synthesis of a novel polypeptide that migrates in polyacrylamide gels\n                              together with the major capsid polypeptide of simian virus 40, VP-1. The patterns of the major tryptic peptides of purified\n                              VP-1 and the novel polypeptide synthesized in vitro were identical after two-dimensional paper electrophoresis. The novel polypeptide was not synthesized in response to poly(A)-rich\n                              RNA from uninfected cells or from virus-infected cells treated with cytosine arabinoside. Messenger RNA from infected cells\n                              purified by selective hybridization to DNA of simian virus 40 directs the synthesis of a major polypeptide of electrophoretic\n                              mobility similar to that of VP-1 of simian virus 40. This approach should prove useful in identifying additional products\n                              specified by DNA tumor viruses.\n                           \n                        "
+      ]
+    },
+    "abstract_html": {
+      "value": [
+        "http://www.pnas.org/content/71/2/302.abstract"
+      ]
+    },
+    "language": {
+      "value": [
+        "en"
+      ]
+    },
+    "fulltext_pdf": {
+      "value": [
+        "http://www.pnas.org/content/71/2/302.full.pdf"
+      ]
+    },
+    "fulltext_html": {
+      "value": [
+
+      ]
+    },
+    "supplementary_material": {
+      "value": [
+
+      ]
+    },
+    "file_hashes": [
+      {
+        "302.abstract": "fe44cb6682d599bcc8957462a285f842"
+      },
+      {
+        "302.full.pdf": "6758e842f8fb46351debdc09771e54b3"
+      }
+    ]
+  },
+  "http://www.pnas.org/content/109/24/9248": {
+    "publisher": {
+      "value": [
+        "National Acad Sciences"
+      ]
+    },
+    "title": {
+      "value": [
+        "Heart wall myofibers are arranged in minimal surfaces to optimize organ function"
+      ]
+    },
+    "authors": {
+      "value": [
+        "Peter Savadjiev",
+        "Gustav J. Strijkers",
+        "Adrianus J. Bakermans",
+        "Emmanuel Piuze",
+        "Steven W. Zucker",
+        "Kaleem Siddiqi"
+      ]
+    },
+    "date": {
+      "value": [
+        "06/12/2012"
+      ]
+    },
+    "volume": {
+      "value": [
+        "109"
+      ]
+    },
+    "issue": {
+      "value": [
+        "24"
+      ]
+    },
+    "firstpage": {
+      "value": [
+        "9248"
+      ]
+    },
+    "lastpage": {
+      "value": [
+        "9253"
+      ]
+    },
+    "doi": {
+      "value": [
+        "10.1073/pnas.1120785109"
+      ]
+    },
+    "journal": {
+      "value": [
+        "Proceedings of the National Academy of Sciences"
+      ]
+    },
+    "abstract": {
+      "value": [
+        "\n                           Abstract\n                           Heart wall myofibers wind as helices around the ventricles, strengthening them in a manner analogous to the reinforcement\n                              of concrete cylindrical columns by spiral steel cables [Richart FE, et al. (1929) Univ of Illinois, Eng Exp Stn Bull 190].\n                              A multitude of such fibers, arranged smoothly and regularly, contract and relax as an integrated functional unit as the heart\n                              beats. To orchestrate this motion, fiber tangling must be avoided and pumping should be efficient. Current models of myofiber\n                              orientation across the heart wall suggest groupings into sheets or bands, but the precise geometry of bundles of myofibers\n                              is unknown. Here we show that this arrangement takes the form of a special minimal surface, the generalized helicoid [Blair\n                              DE, Vanstone JR (1978) Minimal Submanifolds and Geodesics 13–16], closing the gap between individual myofibers and their collective wall structure. The model holds across species,\n                              with a smooth variation in its three curvature parameters within the myocardial wall providing tight fits to diffusion magnetic\n                              resonance images from the rat, the dog, and the human. Mathematically it explains how myofibers are bundled in the heart wall\n                              while economizing fiber length and optimizing ventricular ejection volume as they contract. The generalized helicoid provides\n                              a unique foundation for analyzing the fibrous composite of the heart wall and should therefore find applications in heart\n                              tissue engineering and in the study of heart muscle diseases.\n                           \n                        "
+      ]
+    },
+    "abstract_html": {
+      "value": [
+        "http://www.pnas.org/content/109/24/9248.abstract"
+      ]
+    },
+    "language": {
+      "value": [
+        "en"
+      ]
+    },
+    "fulltext_pdf": {
+      "value": [
+        "http://www.pnas.org/content/109/24/9248.full.pdf"
+      ]
+    },
+    "fulltext_html": {
+      "value": [
+        "http://www.pnas.org/content/109/24/9248.full"
+      ]
+    },
+    "supplementary_material": {
+      "value": [
+        "/content/109/24/9248/suppl/DCSupplemental"
+      ]
+    },
+    "file_hashes": [
+      {
+        "9248.abstract": "e0462616d7f1f2132571effd2331416b"
+      },
+      {
+        "9248.full": "98fca17a7e73a9b449a582bfa30ad32c"
+      },
+      {
+        "9248.full.pdf": "b73199c77ccf2955c3c78981d3320670"
+      },
+      {
+        "DCSupplemental": "d6c4e4e465b3932acfedb2f3cf914d9d"
+      }
+    ]
+  },
+  "http://www.pnas.org/content/111/24/8788": {
+    "publisher": {
+      "value": [
+        "National Acad Sciences"
+      ]
+    },
+    "title": {
+      "value": [
+        "Experimental evidence of massive-scale emotional contagion through social networks"
+      ]
+    },
+    "authors": {
+      "value": [
+        "Adam D. I. Kramer",
+        "Jamie E. Guillory",
+        "Jeffrey T. Hancock"
+      ]
+    },
+    "date": {
+      "value": [
+        "06/17/2014"
+      ]
+    },
+    "volume": {
+      "value": [
+        "111"
+      ]
+    },
+    "issue": {
+      "value": [
+        "24"
+      ]
+    },
+    "firstpage": {
+      "value": [
+        "8788"
+      ]
+    },
+    "lastpage": {
+      "value": [
+        "8790"
+      ]
+    },
+    "doi": {
+      "value": [
+        "10.1073/pnas.1320040111"
+      ]
+    },
+    "journal": {
+      "value": [
+        "Proceedings of the National Academy of Sciences"
+      ]
+    },
+    "abstract": {
+      "value": [
+        "\n                           Abstract\n                           Emotional states can be transferred to others via emotional contagion, leading people to experience the same emotions without\n                              their awareness. Emotional contagion is well established in laboratory experiments, with people transferring positive and\n                              negative emotions to others. Data from a large real-world social network, collected over a 20-y period suggests that longer-lasting\n                              moods (e.g., depression, happiness) can be transferred through networks [Fowler JH, Christakis NA (2008) BMJ 337:a2338], although the results are controversial. In an experiment with people who use Facebook, we test whether emotional\n                              contagion occurs outside of in-person interaction between individuals by reducing the amount of emotional content in the News\n                              Feed. When positive expressions were reduced, people produced fewer positive posts and more negative posts; when negative\n                              expressions were reduced, the opposite pattern occurred. These results indicate that emotions expressed by others on Facebook\n                              influence our own emotions, constituting experimental evidence for massive-scale contagion via social networks. This work\n                              also suggests that, in contrast to prevailing assumptions, in-person interaction and nonverbal cues are not strictly necessary\n                              for emotional contagion, and that the observation of others’ positive experiences constitutes a positive experience for people.\n                           \n                        "
+      ]
+    },
+    "abstract_html": {
+      "value": [
+        "http://www.pnas.org/content/111/24/8788.abstract"
+      ]
+    },
+    "language": {
+      "value": [
+        "en"
+      ]
+    },
+    "fulltext_pdf": {
+      "value": [
+        "http://www.pnas.org/content/111/24/8788.full.pdf"
+      ]
+    },
+    "fulltext_html": {
+      "value": [
+        "http://www.pnas.org/content/111/24/8788.full"
+      ]
+    },
+    "supplementary_material": {
+      "value": [
+
+      ]
+    },
+    "file_hashes": [
+      {
+        "8788.abstract": "a8ceb8815c015c460ee9200b69bddd2c"
+      },
+      {
+        "8788.full": "5571078dbc9c89db63169e9bbac2e532"
+      },
+      {
+        "8788.full.pdf": "42a734fa406ae79624cefe2dd88e707f"
+      }
+    ]
+  },
+  "http://www.pnas.org/content/111/29/10779.1": {
+    "publisher": {
+      "value": [
+        "National Acad Sciences"
+      ]
+    },
+    "title": {
+      "value": [
+        "Editorial Expression of Concern: Experimental evidence of massivescale emotional contagion through social networks"
+      ]
+    },
+    "authors": {
+      "value": [
+
+      ]
+    },
+    "date": {
+      "value": [
+        "07/22/2014"
+      ]
+    },
+    "volume": {
+      "value": [
+        "111"
+      ]
+    },
+    "issue": {
+      "value": [
+        "29"
+      ]
+    },
+    "firstpage": {
+      "value": [
+        "10779"
+      ]
+    },
+    "lastpage": {
+      "value": [
+        "10779"
+      ]
+    },
+    "doi": {
+      "value": [
+        "10.1073/pnas.1412469111"
+      ]
+    },
+    "journal": {
+      "value": [
+        "Proceedings of the National Academy of Sciences"
+      ]
+    },
+    "abstract": {
+      "value": [
+
+      ]
+    },
+    "abstract_html": {
+      "value": [
+
+      ]
+    },
+    "language": {
+      "value": [
+        "en"
+      ]
+    },
+    "fulltext_pdf": {
+      "value": [
+        "http://www.pnas.org/content/111/29/10779.1.full.pdf"
+      ]
+    },
+    "fulltext_html": {
+      "value": [
+        "http://www.pnas.org/content/111/29/10779.1.full"
+      ]
+    },
+    "supplementary_material": {
+      "value": [
+
+      ]
+    },
+    "file_hashes": [
+      {
+        "10779.1.full": "c010b1e0c1aae60bf8306c448c182c3a"
+      },
+      {
+        "10779.1.full.pdf": "74ab5eacd108d03d913a503223f5ffa3"
+      }
+    ]
+  },
+  "http://www.pnas.org/content/111/35/12758": {
+    "publisher": {
+      "value": [
+        "National Acad Sciences"
+      ]
+    },
+    "title": {
+      "value": [
+        "Experimental basis for a new allosteric model for multisubunit proteins"
+      ]
+    },
+    "authors": {
+      "value": [
+        "Cristiano Viappiani",
+        "Stefania Abbruzzetti",
+        "Luca Ronda",
+        "Stefano Bettati",
+        "Eric. R. Henry",
+        "Andrea Mozzarelli",
+        "William A. Eaton"
+      ]
+    },
+    "date": {
+      "value": [
+        "09/02/2014"
+      ]
+    },
+    "volume": {
+      "value": [
+        "111"
+      ]
+    },
+    "issue": {
+      "value": [
+        "35"
+      ]
+    },
+    "firstpage": {
+      "value": [
+        "12758"
+      ]
+    },
+    "lastpage": {
+      "value": [
+        "12763"
+      ]
+    },
+    "doi": {
+      "value": [
+        "10.1073/pnas.1413566111"
+      ]
+    },
+    "journal": {
+      "value": [
+        "Proceedings of the National Academy of Sciences"
+      ]
+    },
+    "abstract": {
+      "value": [
+        "\n                           Abstract\n                           Monod, Wyman, and Changeux (MWC) explained allostery in multisubunit proteins with a widely applied theoretical model in which\n                              binding of small molecules, so-called allosteric effectors, affects reactivity by altering the equilibrium between more reactive\n                              (R) and less reactive (T) quaternary structures. In their model, each quaternary structure has a single reactivity. Here,\n                              we use silica gels to trap protein conformations and a new kind of laser photolysis experiment to show that hemoglobin, the\n                              paradigm of allostery, exhibits two ligand binding phases with the same fast and slow rates in both R and T quaternary structures.\n                              Allosteric effectors change the fraction of each phase but not the rates. These surprising results are readily explained by\n                              the simplest possible extension of the MWC model to include a preequilibrium between two tertiary conformations that have\n                              the same functional properties within each quaternary structure. They also have important implications for the long-standing\n                              question of a structural explanation for the difference in hemoglobin oxygen affinity of the two quaternary structures.\n                           \n                        "
+      ]
+    },
+    "abstract_html": {
+      "value": [
+        "http://www.pnas.org/content/111/35/12758.abstract"
+      ]
+    },
+    "language": {
+      "value": [
+        "en"
+      ]
+    },
+    "fulltext_pdf": {
+      "value": [
+        "http://www.pnas.org/content/111/35/12758.full.pdf"
+      ]
+    },
+    "fulltext_html": {
+      "value": [
+        "http://www.pnas.org/content/111/35/12758.full"
+      ]
+    },
+    "supplementary_material": {
+      "value": [
+        "/content/111/35/12758/suppl/DCSupplemental"
+      ]
+    },
+    "file_hashes": [
+      {
+        "12758.abstract": "480761a5cf78bb983533f453f8ad2e67"
+      },
+      {
+        "12758.full": "ea072586b40f13a211dd582482449afe"
+      },
+      {
+        "12758.full.pdf": "7f63385f9b57ecbbb08326ff106b3c5b"
+      },
+      {
+        "DCSupplemental": "5de0aeaa14535b0a5c8ad7b9fc7a67b2"
+      }
+    ]
+  }
 }
