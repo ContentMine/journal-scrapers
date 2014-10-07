@@ -4,8 +4,9 @@ rvm:
 before_install:
   - sudo apt-get update -qq
   - sudo apt-get install -y software-properties-common
-  - sudo apt-get install -y build-essential libfontconfig1
+  - sudo apt-get install -y build-essential libfontconfig
   - curl https://raw.githubusercontent.com/creationix/nvm/v0.17.2/install.sh | bash
+  - bash && . ~/.profile
   - nvm install 0.10
   - nvm use 0.10
 install:
