@@ -9,6 +9,6 @@ before_install:
   - nvm use 0.10.32
   - npm update npm -g
 install:
-  - npm install --global quickscrape@0.3.2
+  - npm install --global quickscrape@0.3.3
 script:
   - ruby test/test_all.rb
