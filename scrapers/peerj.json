@@ -141,11 +141,11 @@
       "download": true
     },
     "license": {
-      "selector": "//div[contains(concat(' ', normalize-space(@class), ' '), ' license-p ')]",
+      "selector": "//span[contains(concat(' ', normalize-space(@class), ' '), ' license-p ')]",
       "attribute": "text"
     },
     "copyright": {
-      "selector": "//span[starts-with(@itemprop, 'copyright')]",
+      "selector": "//span[starts-with(@itemprop, 'copyright')]/..",
       "attribute": "text"
     }
   }
