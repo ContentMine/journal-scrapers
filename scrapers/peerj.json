@@ -5,21 +5,45 @@
       "selector": "//meta[@name='citation_publisher']",
       "attribute": "content"
     },
-    "journal": {
+    "journal_name": {
       "selector": "//meta[@name='citation_journal_title']",
+      "attribute": "content"
+    },
+    "journal_issn": {
+      "selector": "//meta[@name='citation_issn']",
       "attribute": "content"
     },
     "title": {
       "selector": "//meta[@name='citation_title']",
       "attribute": "content"
     },
-    "authors": {
+    "keywords": {
+      "selector": "//meta[@name='citation_keywords']",
+      "attribute": "content"
+    },
+    "author_name": {
       "selector": "//meta[@name='citation_author']",
       "attribute": "content"
     },
-    "date": {
+    "author_institution": {
+      "selector": "//meta[@name='citation_author_institution']",
+      "attribute": "content"
+    },
+    "editor_name": {
+      "selector": "//dd[@itemprop='editor']",
+      "attribute": "text"
+    },
+    "date_published": {
       "selector": "//meta[@name='citation_date']",
       "attribute": "content"
+    },
+    "date_accepted": {
+      "selector": "//time[@itemprop='dateAccepted']",
+      "attribute": "text"
+    },
+    "date_submitted": {
+      "selector": "//time[@itemprop='dateCreated']",
+      "attribute": "text"
     },
     "doi": {
       "selector": "//meta[@name='citation_doi']",
@@ -37,13 +61,53 @@
       "selector": "//meta[@name='citation_firstpage']",
       "attribute": "content"
     },
-    "description": {
-      "selector": "//meta[@name='description']",
-      "attribute": "content"
-    },
     "abstract": {
       "selector": "//meta[@name='description']",
       "attribute": "content"
+    },
+    "abstract_html": {
+      "selector": "//div[contains(@class, 'abstract')]",
+      "attribute": "html"
+    },
+    "introduction_html": {
+      "selector": "//section[@id='intro']",
+      "attribute": "html"
+    },
+    "methods_html": {
+      "selector": "//section[@id='materials|methods']",
+      "attribute": "html"
+    },
+    "results_html": {
+      "selector": "//section[@id='results']",
+      "attribute": "html"
+    },
+    "discussion_html": {
+      "selector": "//section[@id='discussion']",
+      "attribute": "html"
+    },
+    "conclusion_html": {
+      "selector": "//section[@id='conclusion']",
+      "attribute": "html"
+    },
+    "author_contrib_html": {
+      "selector": "//section[@id='author-contributions']",
+      "attribute": "html"
+    },
+    "competing_interests_html": {
+      "selector": "//section[@id='competing-interests']",
+      "attribute": "html"
+    },
+    "references_html": {
+      "selector": "//div[@itemprop='citation']",
+      "attribute": "html"
+    },
+    "figures_html": {
+      "selector": "//figure[@id[starts-with(.,'fig-')]]",
+      "attribute": "html"
+    },
+    "tables_html": {
+      "selector": "//figure[@id[starts-with(.,'table-')]]",
+      "attribute": "html"
     },
     "fulltext_html": {
       "selector": "//meta[@name='citation_fulltext_html_url']",
@@ -66,26 +130,22 @@
         "rename": "fulltext.xml"
       }
     },
-    "supplementary_material": {
+    "supplementary_file": {
       "selector": "//a[contains(concat(' ', normalize-space(@class), ' '), ' article-supporting-download ')]",
       "attribute": "href",
       "download": true
     },
-    "figure": {
+    "figures_image": {
       "selector": "//div[contains(concat(' ', normalize-space(@class), ' '), ' article-image-download ')]/a",
       "attribute": "href",
       "download": true
-    },
-    "figure_caption": {
-      "selector": "//figcaption",
-      "attribute": "text"
     },
     "license": {
       "selector": "//div[contains(concat(' ', normalize-space(@class), ' '), ' license-p ')]",
       "attribute": "text"
     },
     "copyright": {
-      "selector": "//div[contains(@class, 'copyright')]",
+      "selector": "//span[starts-with(@itemprop, 'copyright')]",
       "attribute": "text"
     }
   }
