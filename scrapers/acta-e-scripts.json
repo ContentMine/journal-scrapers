@@ -2,12 +2,12 @@
   "url": "scripts\\.iucr\\.org",
     "elements" : {
         "authors": {
-            "selector": "//div[@class='AU']//span[@class='au']",
-            "attribute": "class"
+            "selector": "//a[contains(@href, 'author_name=')]",
+            "attribute": "text"
         },
         "authorUrl": {
-            "selector": "//div[@class='AU']",
-            "attribute": "class"
+            "selector": "//a[contains(@href, 'author_name=')]",
+            "attribute": "href"
         },
         "doi": {
             "selector": "//meta[@name='DC.identifier']",
@@ -18,13 +18,6 @@
             "attribute": "href",
             "download": {
               "rename": "fulltext.pdf"
-            }
-        },
-        "fulltext_html": {
-            "selector": "//frame[@name='iucr_body']",
-            "attribute": "src",
-            "download": {
-                "rename": "fulltext.html"
             }
         }
     }

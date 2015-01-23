@@ -13,3 +13,8 @@ http://journals.iucr.org/e/issues/2012/03/00/vn2032/vn2032bdy.html
 http://journals.iucr.org/e/issues/2012/03/00/ru2029/ru2029bdy.html
 http://journals.iucr.org/e/issues/2012/03/00/hy2496/hy2496bdy.html
 http://journals.iucr.org/e/issues/2012/03/00/br2188/br2188bdy.html
+http://scripts.iucr.org/cgi-bin/paper?S1600536812006691
+http://scripts.iucr.org/cgi-bin/paper?S1600536812007611
+http://scripts.iucr.org/cgi-bin/paper?S160053681200801X
+http://scripts.iucr.org/cgi-bin/paper?S1600536812001924
+http://scripts.iucr.org/cgi-bin/paper?S1600536812003224
