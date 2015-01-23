@@ -3,3 +3,8 @@ http://dx.doi.org/10.1107/S1600536812007611
 http://dx.doi.org/10.1107/S160053681200801X
 http://dx.doi.org/10.1107/S1600536812001924
 http://dx.doi.org/10.1107/S1600536812003224
+http://journals.iucr.org/e/issues/2012/03/00/wm2588/index.html
+http://journals.iucr.org/e/issues/2012/03/00/vn2032/index.html
+http://journals.iucr.org/e/issues/2012/03/00/ru2029/index.html
+http://journals.iucr.org/e/issues/2012/03/00/hy2496/index.html
+http://journals.iucr.org/e/issues/2012/03/00/br2188/index.html
