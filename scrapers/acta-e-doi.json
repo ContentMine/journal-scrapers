@@ -1,0 +1,23 @@
+{
+  "url": "dx\\.doi\\.org/10.1107/",
+  "elements": {
+      "doi": {
+          "selector": "//meta[@name='DC.identifier']",
+          "attribute": "content"
+      },
+      "fulltext_pdf": {
+          "selector": "//a[img[@alt='pdf version']]",
+          "attribute": "href",
+          "download": {
+              "rename": "fulltext.pdf"
+          }
+      },
+      "fulltext_html": {
+          "selector": "//a[img[@alt='HTML version']]",
+          "attribute": "href",
+          "download": {
+              "rename": "fulltext.html"
+          }
+      }
+  }
+}
