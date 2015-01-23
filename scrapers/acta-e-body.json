@@ -1,0 +1,24 @@
+{
+    "url": "journals\\.iucr\\.org/.*bdy\\.html",
+    "elements" : {
+        "authors": {
+            "selector": "//div[@class='AU']//span[@class='au']",
+            "attribute": "class"
+        },
+        "authorUrl": {
+            "selector": "//div[@class='AU']",
+            "attribute": "class"
+        },
+        "doi": {
+            "selector": "//meta[@name='DC.identifier']",
+            "attribute": "content"
+        },
+        "fulltext_pdf": {
+            "selector": "//meta[@name='citation_pdf_url']",
+            "attribute": "content",
+            "download": {
+                "rename": "fulltext.pdf"
+            }
+        }
+    }
+}

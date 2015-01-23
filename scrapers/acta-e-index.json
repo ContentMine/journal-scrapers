@@ -1,0 +1,35 @@
+{
+  "url": "journals\\.iucr\\.org.*/index\\.html",
+    "elements" : {
+        "authors": {
+            "selector": "//meta[@name='citation_author']",
+            "attribute": "content"
+        },
+        "title": {
+            "selector": "//meta[@name='citation_title']",
+            "attribute": "content"
+        },
+        "html_title": {
+            "selector": "//title",
+            "attribute": "text"
+        },
+        "doi": {
+            "selector": "//meta[@name='DC.identifier']",
+            "attribute": "content"
+        },
+        "fulltext_pdf": {
+            "selector": "//meta[@name='citation_pdf_url']",
+            "attribute": "content",
+            "download": {
+                "rename": "fulltext.pdf"
+            }
+        },
+        "fulltext_html": {
+            "selector": "//frame[@name='iucr_body']",
+            "attribute": "src",
+            "download": {
+                "rename": "fulltext.html"
+            }
+        }
+    }
+}
