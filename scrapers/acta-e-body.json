@@ -3,11 +3,11 @@
     "elements" : {
         "authors": {
             "selector": "//div[@class='AU']//span[@class='au']",
-            "attribute": "class"
+            "attribute": "text"
         },
         "authorUrl": {
-            "selector": "//div[@class='AU']",
-            "attribute": "class"
+            "selector": "//div[@class='AU']//a[contains(@href, '/citedin')]",
+            "attribute": "href"
         },
         "doi": {
             "selector": "//meta[@name='DC.identifier']",
