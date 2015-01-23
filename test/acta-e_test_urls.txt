@@ -8,3 +8,8 @@ http://journals.iucr.org/e/issues/2012/03/00/vn2032/index.html
 http://journals.iucr.org/e/issues/2012/03/00/ru2029/index.html
 http://journals.iucr.org/e/issues/2012/03/00/hy2496/index.html
 http://journals.iucr.org/e/issues/2012/03/00/br2188/index.html
+http://journals.iucr.org/e/issues/2012/03/00/wm2588/wm2588bdy.html
+http://journals.iucr.org/e/issues/2012/03/00/vn2032/vn2032bdy.html
+http://journals.iucr.org/e/issues/2012/03/00/ru2029/ru2029bdy.html
+http://journals.iucr.org/e/issues/2012/03/00/hy2496/hy2496bdy.html
+http://journals.iucr.org/e/issues/2012/03/00/br2188/br2188bdy.html
