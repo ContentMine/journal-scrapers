@@ -12,6 +12,10 @@
             "attribute": "href"
         },
 
+        "identifier": {
+            "selector": "//meta[@name='DC.identifier']",
+            "attribute": "content"
+        },
         "publisher": {
             "selector": "//meta[@name='DC.publisher']",
             "attribute": "content"

@@ -3,7 +3,7 @@
     "comment": "A scraper for the IUCr Acta Cryst. E journal (S.G.)",
     "comment": "The full text HTML is not downloaded in this file since the page only gives a frame set, not the text itself.",
     "elements": {
-        "doi": {
+        "identifier": {
             "selector": "//meta[@name='DC.identifier']",
             "attribute": "content"
         },
