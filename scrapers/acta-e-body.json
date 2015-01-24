@@ -57,7 +57,7 @@
             "selector": "//meta[@name='citation_author_institution']",
             "attribute": "content"
         },
-        "author_emails": {
+        "corresponding_author_email": {
             "selector": "//meta[@name='citation_author_email']",
             "attribute": "content"
         },
