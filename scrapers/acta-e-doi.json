@@ -1,23 +1,23 @@
 {
-  "url": "dx\\.doi\\.org/10.1107/",
-  "comment": "A scraper for the IUCr Acta Cryst. E journal (S.G.)",
-  "comment": "The full text HTML is not downloaded in this file since the page only gives a frame set, not the text itself.",
-  "elements": {
-      "doi": {
-          "selector": "//meta[@name='DC.identifier']",
-          "attribute": "content"
-      },
-      "fulltext_pdf": {
-          "selector": "//a[img[@alt='pdf version']]",
-          "attribute": "href",
+    "url": "dx\\.doi\\.org/10.1107/",
+    "comment": "A scraper for the IUCr Acta Cryst. E journal (S.G.)",
+    "comment": "The full text HTML is not downloaded in this file since the page only gives a frame set, not the text itself.",
+    "elements": {
+        "doi": {
+            "selector": "//meta[@name='DC.identifier']",
+            "attribute": "content"
+        },
+        "fulltext_pdf": {
+            "selector": "//a[img[@alt='pdf version']]",
+            "attribute": "href",
           "download": {
               "rename": "fulltext.pdf"
           }
-      },
-      "fulltext_html": {
-          "selector": "//a[img[@alt='HTML version']]",
-          "attribute": "href",
-          "download": false
-      }
-  }
+        },
+        "fulltext_html": {
+            "selector": "//a[img[@alt='HTML version']]",
+            "attribute": "href",
+            "download": false
+        }
+    }
 }
