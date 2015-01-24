@@ -1,17 +1,122 @@
 {
     "url": "journals\\.iucr\\.org/.*bdy\\.html",
+    "comment": "A scraper for the IUCr Acta Cryst. E journal (S.G.)",
+    "comment": "The full text HTML is not downloaded in this file since the page only gives a frame set, not the text itself.",
     "elements" : {
-        "authors": {
+        "htmlBodyAuthors": {
             "selector": "//div[@class='AU']//span[@class='au']",
             "attribute": "text"
         },
-        "authorUrl": {
+        "htmlBodyAuthorUrls": {
             "selector": "//div[@class='AU']//a[contains(@href, '/citedin')]",
             "attribute": "href"
         },
-        "doi": {
-            "selector": "//meta[@name='DC.identifier']",
+
+        "publisher": {
+            "selector": "//meta[@name='DC.publisher']",
             "attribute": "content"
+        },
+        "creators": {
+            "selector": "//meta[@name='DC.creator']",
+            "attribute": "content"
+        },
+        "contributors": {
+            "selector": "//meta[@name='DC.contributor']",
+            "attribute": "content"
+        },
+        "source": {
+            "selector": "//meta[@name='DC.source']",
+            "attribute": "content"
+        },
+        "license": {
+            "selector": "//meta[@name='DC.rights']",
+            "attribute": "content"
+        },
+        "date": {
+            "selector": "//meta[@name='DC.date']",
+            "attribute": "content"
+        },
+        "language": {
+            "selector": "//meta[@name='DC.language']",
+            "attribute": "content"
+        },
+        "description": {
+            "selector": "//meta[@name='DC.description']",
+            "attribute": "content"
+        },
+
+        "title": {
+            "selector": "//meta[@name='citation_title']",
+            "attribute": "content"
+        },
+        "authors": {
+            "selector": "//meta[@name='citation_author']",
+            "attribute": "content"
+        },
+        "author_institutions": {
+            "selector": "//meta[@name='citation_author_institution']",
+            "attribute": "content"
+        },
+        "author_emails": {
+            "selector": "//meta[@name='citation_author_email']",
+            "attribute": "content"
+        },
+        "citationDate": {
+            "selector": "//meta[@name='citation_date']",
+            "attribute": "content"
+        },
+        "onlineDate": {
+            "selector": "//meta[@name='citation_online_date']",
+            "attribute": "content"
+        },
+        "volume": {
+            "selector": "//meta[@name='citation_volume']",
+            "attribute": "content"
+        },
+        "issue": {
+            "selector": "//meta[@name='citation_issue']",
+            "attribute": "content"
+        },
+        "firstpage": {
+            "selector": "//meta[@name='citation_firstpage']",
+            "attribute": "content"
+        },
+        "lastpage": {
+            "selector": "//meta[@name='citation_lastpage']",
+            "attribute": "content"
+        },
+        "doi": {
+            "selector": "//meta[@name='citation_doi']",
+            "attribute": "content"
+        },
+        "journal": {
+            "selector": "//meta[@name='citation_journal_title']",
+            "attribute": "content"
+        },
+        "issn": {
+            "selector": "//meta[@name='citation_issn']",
+            "attribute": "content"
+        },
+        "abstract": {
+            "selector": "//meta[@name='citation_abstract']",
+            "attribute": "text"
+        },
+        "abstract_html": {
+            "selector": "//meta[@name='citation_abstract_html_url']",
+            "attribute": "content",
+            "download": {
+                "rename": "abstract.html"
+            }
+        },
+        "references": {
+            "selector": "//meta[@name='citation_reference']",
+            "attribute": "content"
+        },
+
+        "fulltext_html_frameset": {
+            "selector": "//meta[@name='citation_fulltext_url']",
+            "attribute": "content",
+            "download": false
         },
         "fulltext_pdf": {
             "selector": "//meta[@name='citation_pdf_url']",
