@@ -1,5 +1,7 @@
 {
   "url": "dx\\.doi\\.org/10.1107/",
+  "comment": "A scraper for the IUCr Acta Cryst. E journal (S.G.)",
+  "comment": "The full text HTML is not downloaded in this file since the page only gives a frame set, not the text itself.",
   "elements": {
       "doi": {
           "selector": "//meta[@name='DC.identifier']",
@@ -15,9 +17,7 @@
       "fulltext_html": {
           "selector": "//a[img[@alt='HTML version']]",
           "attribute": "href",
-          "download": {
-              "rename": "fulltext.html"
-          }
+          "download": false
       }
   }
 }
