@@ -112,6 +112,10 @@
             "selector": "//meta[@name='citation_reference']",
             "attribute": "content"
         },
+        "htmlCitations": {
+            "selector": "//div[@class='BIBL']",
+            "attribute": "html"
+        },
 
         "fulltext_html_frameset": {
             "selector": "//meta[@name='citation_fulltext_url']",
