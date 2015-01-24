@@ -117,6 +117,12 @@
             "attribute": "html"
         },
 
+        "figure": {
+            "selector": "//div[@class='scheme']//img",
+            "attribute": "src",
+            "download": true
+        },
+
         "fulltext_html_frameset": {
             "selector": "//meta[@name='citation_fulltext_url']",
             "attribute": "content",
