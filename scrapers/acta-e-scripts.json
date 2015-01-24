@@ -2,6 +2,7 @@
     "url": "scripts\\.iucr\\.org",
     "comment": "A scraper for the IUCr Acta Cryst. E journal (S.G.)",
     "comment": "The full text HTML is not downloaded in this file since the page only gives a frame set, not the text itself.",
+    "comment": "This scraper probably gets the same input HTML as the 'acta-e-doi.json' scraper. (S.G.)",
     "elements" : {
         "htmlBodyAuthors": {
             "selector": "//a[contains(@href, 'author_name=')]",
