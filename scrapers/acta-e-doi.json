@@ -51,6 +51,22 @@
             "selector": "//a[img[@alt='HTML version']]",
             "attribute": "href",
             "download": false
+        },
+
+        "coordinates_cif": {
+            "selector": "//a[img[@alt='cif file']]",
+            "attribute": "href",
+            "download": {
+                "rename": "coordinates.cif"
+            }
+        },
+
+        "structure_factors_cif": {
+            "selector": "//a[img[@alt='structure factors']]",
+            "attribute": "href",
+            "download": {
+                "rename": "sf.hkl"
+            }
         }
     }
 }
