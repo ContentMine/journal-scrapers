@@ -1,38 +1,61 @@
 {
   "url": "plos.*\\.org",
   "elements": {
-    "fulltext_pdf": {
-      "selector": "//meta[@name='citation_pdf_url']",
-      "attribute": "content",
-      "download": {
-        "rename": "fulltext.pdf"
-      }
+    "publisher": {
+      "selector": "//meta[@name='citation_publisher']",
+      "attribute": "content"
     },
-    "fulltext_html": {
-      "selector": "//meta[@name='citation_fulltext_html_url']",
-      "attribute": "content",
-      "download": {
-        "rename": "fulltext.html"
-      }
+    "journal_name": {
+      "selector": "//meta[@name='citation_journal_title']",
+      "attribute": "content"
     },
-    "fulltext_xml": {
-      "selector": "//a[@title='Download article XML']",
-      "attribute": "href",
-      "download": {
-        "rename": "fulltext.xml"
-      }
+    "journal_issn": {
+      "selector": "//meta[@name='citation_issn']",
+      "attribute": "content"
     },
     "title": {
       "selector": "//meta[@name='citation_title']",
       "attribute": "content"
     },
-    "author": {
+    "keywords": {
+      "selector": "//meta[@name='citation_keywords']",
+      "attribute": "content"
+    },
+    "author_name": {
       "selector": "//meta[@name='citation_author']",
       "attribute": "content"
     },
-    "date": {
-      "selector": "//meta[@name='citation_date']",
-      "attribute": "content"
+    "author_institution": {
+      "selector": "//ul[contains(@class, 'authors')]//p[text()[contains(., 'Affiliations:')]]",
+      "attribute": "text",
+      "regex": {
+        "source": "Affiliations:\\s+(.+)"
+      }
+    },
+    "editor_name": {
+      "selector": "//dd[@itemprop='editor']",
+      "attribute": "text"
+    },
+    "date_published": {
+      "selector": "//div[@class='articleinfo']//p[node()[contains(., 'Published')]]",
+      "attribute": "text",
+      "regex": {
+        "source": "Published:\\s(.+)"
+      }
+    },
+    "date_accepted": {
+      "selector": "//div[@class='articleinfo']//p[node()[contains(., 'Accepted')]]",
+      "attribute": "text",
+      "regex": {
+        "source": "Accepted:\\s([^;]+)"
+      }
+    },
+    "date_submitted": {
+      "selector": "//div[@class='articleinfo']//p[node()[contains(., 'Received')]]",
+      "attribute": "text",
+      "regex": {
+        "source": "Received:\\s([^;]+)"
+      }
     },
     "doi": {
       "selector": "//meta[@name='citation_doi']",
@@ -50,12 +73,85 @@
       "selector": "//meta[@name='citation_firstpage']",
       "attribute": "content"
     },
-    "description": {
+    "abstract": {
       "selector": "//meta[@name='description']",
       "attribute": "content"
     },
-    "abstract":{
+    "abstract_html": {
       "selector": "//div[contains(@class, 'abstract')]",
+      "attribute": "html"
+    },
+    "abstract_text": {
+      "selector": "//meta[@name='twitter:description']",
+      "attribute": "content"
+    },
+    "introduction_html": {
+      "selector": "//h3[text()='Introduction']/..",
+      "attribute": "html"
+    },
+    "methods_html": {
+      "selector": "//h3[text()='Materials and Methods']/..",
+      "attribute": "html"
+    },
+    "results_html": {
+      "selector": "//h3[text()='Results']/..",
+      "attribute": "html"
+    },
+    "discussion_html": {
+      "selector": "//h3[text()='Discussion']/..",
+      "attribute": "html"
+    },
+    "author_contrib_html": {
+      "selector": "//div[contains(@class, 'contributions')]//p",
+      "attribute": "html"
+    },
+    "references_html": {
+      "selector": "//ol[contains(@class, 'references')]/li",
+      "attribute": "html"
+    },
+    "figures_html": {
+      "selector": "//div[contains(@class, 'figure')]",
+      "attribute": "html"
+    },
+    "tables_html": {
+      "selector": "//div[contains(@class, 'figure')]",
+      "attribute": "html"
+    },
+    "fulltext_html": {
+      "selector": "//link[@rel='canonical']",
+      "attribute": "href",
+      "download": {
+        "rename": "fulltext.html"
+      }
+    },
+    "fulltext_pdf": {
+      "selector": "//a[@id='downloadPdf']",
+      "attribute": "href",
+      "download": {
+        "rename": "fulltext.pdf"
+      }
+    },
+    "fulltext_xml": {
+      "selector": "//a[@id='downloadXml']",
+      "attribute": "href",
+      "download": {
+        "rename": "fulltext.xml"
+      }
+    },
+    "supplementary_file": {
+      "selector": "//h3[text()='Supporting Information']/..//a/@href",
+      "download": true
+    },
+    "figures_image": {
+      "selector": "//div[contains(@class, 'figure-inline-download')]//a[text()[contains(., 'larger')]]",
+      "attribute": "href"
+    },
+    "license": {
+      "selector": "//span[contains(concat(' ', normalize-space(@class), ' '), ' license-p ')]",
+      "attribute": "text"
+    },
+    "copyright": {
+      "selector": "//span[starts-with(@itemprop, 'copyright')]/..",
       "attribute": "text"
     }
   }
