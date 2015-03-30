@@ -1,0 +1,583 @@
+{
+  "http://openresearchsoftware.metajnl.com/article/view/503b9b1a69665": {
+    "journal_name": {
+      "value": [
+        "Journal of Open Research Software"
+      ]
+    },
+    "journal_issn": {
+      "value": [
+        "2049-9647"
+      ]
+    },
+    "volume": {
+      "value": [
+        "1"
+      ]
+    },
+    "issue": {
+      "value": [
+        "1"
+      ]
+    },
+    "firstpage": {
+      "value": [
+        "e1"
+      ]
+    },
+    "title": {
+      "value": [
+        "Drosophila Photo-transduction Simulator"
+      ]
+    },
+    "keywords": {
+      "value": [
+        "Photo-transduction modelling",
+        "stochastic simulations",
+        "TRP ion channels"
+      ]
+    },
+    "fulltext_pdf": {
+      "value": [
+        "http://openresearchsoftware.metajnl.com/article/download/503b9b1a69665/3"
+      ]
+    },
+    "fulltext_html": {
+      "value": [
+        "http://openresearchsoftware.metajnl.com/article/view/503b9b1a69665/1"
+      ]
+    },
+    "author": {
+      "value": [
+        "Konstantin Nikolic",
+        "Joaquim Loizu"
+      ]
+    },
+    "author_name": {
+      "value": [
+        "Konstantin Nikolic",
+        "Joaquim Loizu"
+      ]
+    },
+    "author_institution": {
+      "value": [
+        "Imperial College London",
+        "Centre de Recherches en Physique des Plasmas, Ecole Polytechnique Federale de Lausanne"
+      ]
+    },
+    "date": {
+      "value": [
+        "2013/04/14"
+      ]
+    },
+    "date_published": {
+      "value": [
+        "2013/04/14"
+      ]
+    },
+    "date_submitted": {
+      "value": [
+        "2013-05-28"
+      ]
+    },
+    "doi": {
+      "value": [
+        "10.5334/503b9b1a69665"
+      ]
+    },
+    "license": {
+      "value": [
+        "Authors who publish with this journal agree to the following terms:   Authors retain copyright and grant the journal right of first publication with the work simultaneously licensed under a  Creative Commons Attribution License  that allows others to share the work with an acknowledgement of the work's authorship and initial publication in this journal.  Authors are able to enter into separate, additional contractual arrangements for the non-exclusive distribution of the journal's published version of the work (e.g., post it to an institutional repository or publish it in a book), with an acknowledgement of its initial publication in this journal.  Authors are permitted and encouraged to post their work online (e.g., in institutional repositories or on their website) prior to and during the submission process, as it can lead to productive exchanges, as well as earlier and greater citation of published work (See  The Effect of Open Access ).  "
+      ]
+    },
+    "copyright": {
+      "value": [
+        "Authors who publish with this journal agree to the following terms:   Authors retain copyright and grant the journal right of first publication with the work simultaneously licensed under a  Creative Commons Attribution License  that allows others to share the work with an acknowledgement of the work's authorship and initial publication in this journal.  Authors are able to enter into separate, additional contractual arrangements for the non-exclusive distribution of the journal's published version of the work (e.g., post it to an institutional repository or publish it in a book), with an acknowledgement of its initial publication in this journal.  Authors are permitted and encouraged to post their work online (e.g., in institutional repositories or on their website) prior to and during the submission process, as it can lead to productive exchanges, as well as earlier and greater citation of published work (See  The Effect of Open Access ).  "
+      ]
+    },
+    "abstract_html": {
+      "value": [
+        "\n\t\t<h4>Abstract</h4>\n\t\t<div>This software contains detailed modelling of the single photon response, the&nbsp; quantum bump, of fly photoreceptors. All known components participating in the primary phototransduction process are taken into account, and estimates are given for both the physical and chemical parameters. Both deterministic and stochastic simulations of the photoinduced current are possible using the same software. The code was implemented in Matlab and stored at the Imperial College London repository. It includes a GUI which offers an easy access and manipulation of the input parameters and therefore allows for simulations for a vast number of interesting possibilities, such as various mutants, different ionic concentrations, etc. Explanations for all the equations and parameters used are given in ref. 1.</div>\n\t\t<br />\n\t\t"
+      ]
+    },
+    "abstract_text": {
+      "value": [
+        "This software contains detailed modelling of the single photon response, the  quantum bump, of fly photoreceptors. All known components participating in the primary phototransduction process are taken into account, and estimates are given for both the physical and chemical parameters. Both deterministic and stochastic simulations of the photoinduced current are possible using the same software. The code was implemented in Matlab and stored at the Imperial College London repository. It includes a GUI which offers an easy access and manipulation of the input parameters and therefore allows for simulations for a vast number of interesting possibilities, such as various mutants, different ionic concentrations, etc. Explanations for all the equations and parameters used are given in ref. 1."
+      ]
+    },
+    "file_hashes": [
+      {
+        "fulltext.html": "0c4b07f100f17912483168a12c7d4ecf"
+      },
+      {
+        "fulltext.pdf": "bd82c0455a09af093474869e7ded77ad"
+      }
+    ]
+  },
+  "http://openresearchsoftware.metajnl.com/article/view/jors.ad": {
+    "journal_name": {
+      "value": [
+        "Journal of Open Research Software"
+      ]
+    },
+    "journal_issn": {
+      "value": [
+        "2049-9647"
+      ]
+    },
+    "volume": {
+      "value": [
+        "1"
+      ]
+    },
+    "issue": {
+      "value": [
+        "1"
+      ]
+    },
+    "firstpage": {
+      "value": [
+        "e4"
+      ]
+    },
+    "title": {
+      "value": [
+        "A Web-based modeling tool for the SEMAT Essence theory of software engineering"
+      ]
+    },
+    "keywords": {
+      "value": [
+        "software engineering",
+        "general theory",
+        "web positioning system",
+        "SEMAT Essence Theory",
+        "project management"
+      ]
+    },
+    "fulltext_pdf": {
+      "value": [
+        "http://openresearchsoftware.metajnl.com/article/download/jors.ad/8"
+      ]
+    },
+    "fulltext_html": {
+      "value": [
+        "http://openresearchsoftware.metajnl.com/article/view/jors.ad/7"
+      ]
+    },
+    "author": {
+      "value": [
+        "Daniel Graziotin",
+        "Pekka Abrahamsson"
+      ]
+    },
+    "author_name": {
+      "value": [
+        "Daniel Graziotin",
+        "Pekka Abrahamsson"
+      ]
+    },
+    "author_institution": {
+      "value": [
+        "Free University of Bozen-Bolzano, Bolzano",
+        "Free University of Bozen-Bolzano, Bolzano"
+      ]
+    },
+    "date": {
+      "value": [
+        "2013/09/02"
+      ]
+    },
+    "date_published": {
+      "value": [
+        "2013/09/02"
+      ]
+    },
+    "date_submitted": {
+      "value": [
+        "2013-08-29"
+      ]
+    },
+    "doi": {
+      "value": [
+        "10.5334/jors.ad"
+      ]
+    },
+    "license": {
+      "value": [
+        "Authors who publish with this journal agree to the following terms:   Authors retain copyright and grant the journal right of first publication with the work simultaneously licensed under a  Creative Commons Attribution License  that allows others to share the work with an acknowledgement of the work's authorship and initial publication in this journal.  Authors are able to enter into separate, additional contractual arrangements for the non-exclusive distribution of the journal's published version of the work (e.g., post it to an institutional repository or publish it in a book), with an acknowledgement of its initial publication in this journal.  Authors are permitted and encouraged to post their work online (e.g., in institutional repositories or on their website) prior to and during the submission process, as it can lead to productive exchanges, as well as earlier and greater citation of published work (See  The Effect of Open Access ).  "
+      ]
+    },
+    "copyright": {
+      "value": [
+        "Authors who publish with this journal agree to the following terms:   Authors retain copyright and grant the journal right of first publication with the work simultaneously licensed under a  Creative Commons Attribution License  that allows others to share the work with an acknowledgement of the work's authorship and initial publication in this journal.  Authors are able to enter into separate, additional contractual arrangements for the non-exclusive distribution of the journal's published version of the work (e.g., post it to an institutional repository or publish it in a book), with an acknowledgement of its initial publication in this journal.  Authors are permitted and encouraged to post their work online (e.g., in institutional repositories or on their website) prior to and during the submission process, as it can lead to productive exchanges, as well as earlier and greater citation of published work (See  The Effect of Open Access ).  "
+      ]
+    },
+    "abstract_html": {
+      "value": [
+        "\n\t\t<h4>Abstract</h4>\n\t\t<div>As opposed to more mature subjects, software engineering lacks general theories that establish its foundations as a discipline. The Essence Theory of software engineering (Essence) has been proposed by the Software Engineering Methods and Theory (SEMAT) initiative. The goal of Essence is to develop a theoretically sound basis for software engineering practice and its wide adoption. However, Essence is far from reaching academic- and industry-wide adoption. The reasons for this include a struggle to foresee its utilization potential and a lack of tools for implementation. SEMAT Accelerator (SematAcc) is a Web-positioning tool for a software engineering endeavor, which implements the SEMAT’s Essence kernel. SematAcc permits the use of Essence, thus helping to understand it. The tool enables the teaching, adoption, and research of Essence in controlled experiments and case studies.</div>\n\t\t<br />\n\t\t"
+      ]
+    },
+    "abstract_text": {
+      "value": [
+        "As opposed to more mature subjects, software engineering lacks general theories that establish its foundations as a discipline. The Essence Theory of software engineering (Essence) has been proposed by the Software Engineering Methods and Theory (SEMAT) initiative. The goal of Essence is to develop a theoretically sound basis for software engineering practice and its wide adoption. However, Essence is far from reaching academic- and industry-wide adoption. The reasons for this include a struggle to foresee its utilization potential and a lack of tools for implementation. SEMAT Accelerator (SematAcc) is a Web-positioning tool for a software engineering endeavor, which implements the SEMAT’s Essence kernel. SematAcc permits the use of Essence, thus helping to understand it. The tool enables the teaching, adoption, and research of Essence in controlled experiments and case studies."
+      ]
+    },
+    "file_hashes": [
+      {
+        "fulltext.html": "a495eed81665288c3ec60b211608af88"
+      },
+      {
+        "fulltext.pdf": "bfcbc68430fa68be235baf27a6dfd0a6"
+      }
+    ]
+  },
+  "http://openresearchsoftware.metajnl.com/article/view/jors.aq": {
+    "journal_name": {
+      "value": [
+        "Journal of Open Research Software"
+      ]
+    },
+    "journal_issn": {
+      "value": [
+        "2049-9647"
+      ]
+    },
+    "volume": {
+      "value": [
+        "2"
+      ]
+    },
+    "issue": {
+      "value": [
+        "1"
+      ]
+    },
+    "firstpage": {
+      "value": [
+        "e23"
+      ]
+    },
+    "title": {
+      "value": [
+        "Historical Post Office Directory Parser (POD Parser) Software From the AddressingHistory Project"
+      ]
+    },
+    "keywords": {
+      "value": [
+
+      ]
+    },
+    "fulltext_pdf": {
+      "value": [
+        "http://openresearchsoftware.metajnl.com/article/download/jors.aq/70"
+      ]
+    },
+    "fulltext_html": {
+      "value": [
+        "http://openresearchsoftware.metajnl.com/article/view/jors.aq/69"
+      ]
+    },
+    "author": {
+      "value": [
+        "Nicola Osborne",
+        "George Hamilton",
+        "Stuart Macdonald"
+      ]
+    },
+    "author_name": {
+      "value": [
+        "Nicola Osborne",
+        "George Hamilton",
+        "Stuart Macdonald"
+      ]
+    },
+    "author_institution": {
+      "value": [
+        "Social Media Officer, EDINA",
+        "Software Engineer, EDINA"
+      ]
+    },
+    "date": {
+      "value": [
+        "2014/07/21"
+      ]
+    },
+    "date_published": {
+      "value": [
+        "2014/07/21"
+      ]
+    },
+    "date_submitted": {
+      "value": [
+        "2014-03-18"
+      ]
+    },
+    "doi": {
+      "value": [
+        "10.5334/jors.aq"
+      ]
+    },
+    "license": {
+      "value": [
+        "Authors who publish with this journal agree to the following terms:   Authors retain copyright and grant the journal right of first publication with the work simultaneously licensed under a  Creative Commons Attribution License  that allows others to share the work with an acknowledgement of the work's authorship and initial publication in this journal.  Authors are able to enter into separate, additional contractual arrangements for the non-exclusive distribution of the journal's published version of the work (e.g., post it to an institutional repository or publish it in a book), with an acknowledgement of its initial publication in this journal.  Authors are permitted and encouraged to post their work online (e.g., in institutional repositories or on their website) prior to and during the submission process, as it can lead to productive exchanges, as well as earlier and greater citation of published work (See  The Effect of Open Access ).  "
+      ]
+    },
+    "copyright": {
+      "value": [
+        "Authors who publish with this journal agree to the following terms:   Authors retain copyright and grant the journal right of first publication with the work simultaneously licensed under a  Creative Commons Attribution License  that allows others to share the work with an acknowledgement of the work's authorship and initial publication in this journal.  Authors are able to enter into separate, additional contractual arrangements for the non-exclusive distribution of the journal's published version of the work (e.g., post it to an institutional repository or publish it in a book), with an acknowledgement of its initial publication in this journal.  Authors are permitted and encouraged to post their work online (e.g., in institutional repositories or on their website) prior to and during the submission process, as it can lead to productive exchanges, as well as earlier and greater citation of published work (See  The Effect of Open Access ).  "
+      ]
+    },
+    "abstract_html": {
+      "value": [
+        "\n\t\t<h4>Abstract</h4>\n\t\t<div><p>&nbsp;</p><p>The POD Parser is Python software for parsing the OCR’d (optical character recognised) text of digitised historical Scottish Post Office Directories (PODs) to produce a consistent structured format for the data and for geocoding each address. The software was developed as part of the AddressingHistory project which sought to combine digitised historic directories with digitised and georeferenced historic maps.&nbsp;</p><p>The software has potential for reuse in multiple research contexts where historical post office directory data is relevant, and is therefore particularly of use in historical research into social, economic or demographic trends. The POD Parser is currently designed for use with Scottish directories but is extensible, perhaps with some adaptation, to use with other similarly formatted materials such as the English Trade Directories.</p></div>\n\t\t<br />\n\t\t"
+      ]
+    },
+    "abstract_text": {
+      "value": [
+        "    The POD Parser is Python software for parsing the OCR’d (optical character recognised) text of digitised historical Scottish Post Office Directories (PODs) to produce a consistent structured format for the data and for geocoding each address. The software was developed as part of the AddressingHistory project which sought to combine digitised historic directories with digitised and georeferenced historic maps.   The software has potential for reuse in multiple research contexts where historical post office directory data is relevant, and is therefore particularly of use in historical research into social, economic or demographic trends. The POD Parser is currently designed for use with Scottish directories but is extensible, perhaps with some adaptation, to use with other similarly formatted materials such as the English Trade Directories. "
+      ]
+    },
+    "file_hashes": [
+      {
+        "fulltext.html": "161d1d97412ad3cb2d858f58446610b2"
+      },
+      {
+        "fulltext.pdf": "f7e503b3a60c6d838f1fd7033be6c3fd"
+      }
+    ]
+  },
+  "http://openresearchsoftware.metajnl.com/article/view/jors.bp": {
+    "journal_name": {
+      "value": [
+        "Journal of Open Research Software"
+      ]
+    },
+    "journal_issn": {
+      "value": [
+        "2049-9647"
+      ]
+    },
+    "volume": {
+      "value": [
+        "3"
+      ]
+    },
+    "issue": {
+      "value": [
+        "1"
+      ]
+    },
+    "firstpage": {
+      "value": [
+        "e2"
+      ]
+    },
+    "title": {
+      "value": [
+        "The e-MERLIN Data Reduction Pipeline"
+      ]
+    },
+    "keywords": {
+      "value": [
+        "e-MERLIN",
+        "data reduction",
+        "radio interferometry",
+        "calibration"
+      ]
+    },
+    "fulltext_pdf": {
+      "value": [
+        "http://openresearchsoftware.metajnl.com/article/download/jors.bp/90"
+      ]
+    },
+    "fulltext_html": {
+      "value": [
+        "http://openresearchsoftware.metajnl.com/article/view/jors.bp/89"
+      ]
+    },
+    "author": {
+      "value": [
+        "Megan Kirsty Argo"
+      ]
+    },
+    "author_name": {
+      "value": [
+        "Megan Kirsty Argo"
+      ]
+    },
+    "author_institution": {
+      "value": [
+        "University of Manchester"
+      ]
+    },
+    "date": {
+      "value": [
+        "2015/01/29"
+      ]
+    },
+    "date_published": {
+      "value": [
+        "2015/01/29"
+      ]
+    },
+    "date_submitted": {
+      "value": [
+        "2014-08-06"
+      ]
+    },
+    "doi": {
+      "value": [
+        "10.5334/jors.bp"
+      ]
+    },
+    "license": {
+      "value": [
+        "Authors who publish with this journal agree to the following terms:   Authors retain copyright and grant the journal right of first publication with the work simultaneously licensed under a  Creative Commons Attribution License  that allows others to share the work with an acknowledgement of the work's authorship and initial publication in this journal.  Authors are able to enter into separate, additional contractual arrangements for the non-exclusive distribution of the journal's published version of the work (e.g., post it to an institutional repository or publish it in a book), with an acknowledgement of its initial publication in this journal.  Authors are permitted and encouraged to post their work online (e.g., in institutional repositories or on their website) prior to and during the submission process, as it can lead to productive exchanges, as well as earlier and greater citation of published work (See  The Effect of Open Access ).  "
+      ]
+    },
+    "copyright": {
+      "value": [
+        "Authors who publish with this journal agree to the following terms:   Authors retain copyright and grant the journal right of first publication with the work simultaneously licensed under a  Creative Commons Attribution License  that allows others to share the work with an acknowledgement of the work's authorship and initial publication in this journal.  Authors are able to enter into separate, additional contractual arrangements for the non-exclusive distribution of the journal's published version of the work (e.g., post it to an institutional repository or publish it in a book), with an acknowledgement of its initial publication in this journal.  Authors are permitted and encouraged to post their work online (e.g., in institutional repositories or on their website) prior to and during the submission process, as it can lead to productive exchanges, as well as earlier and greater citation of published work (See  The Effect of Open Access ).  "
+      ]
+    },
+    "abstract_html": {
+      "value": [
+        "\n\t\t<h4>Abstract</h4>\n\t\t<div><p>Written in Python and utilising ParselTongue to interface with the Astronomical Image Processing System (AIPS), the e-MERLIN data reduction pipeline is intended to automate the procedures required in processing and calibrating radio astronomy data from the e-MERLIN correlator. Driven by a plain text file of input parameters, the pipeline is modular and can be run in stages by the user, depending on requirements. The software includes options to load raw data, average in time and/or frequency, flag known sources of interference, flag more comprehensively with SERPent, carry out some or all of the calibration procedures (including self-calibration), and image in either normal or wide-field mode. It also optionally produces a number of useful diagnostic plots at various stages so that the quality of the data can be assessed. The software is available for download from the e-MERLIN website or via Github.</p></div>\n\t\t<br />\n\t\t"
+      ]
+    },
+    "abstract_text": {
+      "value": [
+        " Written in Python and utilising ParselTongue to interface with the Astronomical Image Processing System (AIPS), the e-MERLIN data reduction pipeline is intended to automate the procedures required in processing and calibrating radio astronomy data from the e-MERLIN correlator. Driven by a plain text file of input parameters, the pipeline is modular and can be run in stages by the user, depending on requirements. The software includes options to load raw data, average in time and/or frequency, flag known sources of interference, flag more comprehensively with SERPent, carry out some or all of the calibration procedures (including self-calibration), and image in either normal or wide-field mode. It also optionally produces a number of useful diagnostic plots at various stages so that the quality of the data can be assessed. The software is available for download from the e-MERLIN website or via Github. "
+      ]
+    },
+    "file_hashes": [
+      {
+        "fulltext.html": "1b763e34b0a237e4be066f61703f5891"
+      },
+      {
+        "fulltext.pdf": "c2d50ca92a3b709d15394e1a53012f33"
+      }
+    ]
+  },
+  "http://openresearchsoftware.metajnl.com/article/view/jors.ay": {
+    "journal_name": {
+      "value": [
+        "Journal of Open Research Software"
+      ]
+    },
+    "journal_issn": {
+      "value": [
+        "2049-9647"
+      ]
+    },
+    "volume": {
+      "value": [
+        "2"
+      ]
+    },
+    "issue": {
+      "value": [
+        "1"
+      ]
+    },
+    "firstpage": {
+      "value": [
+        "e21"
+      ]
+    },
+    "title": {
+      "value": [
+        "Best Practices for Computational Science: Software Infrastructure and Environments for Reproducible and Extensible Research"
+      ]
+    },
+    "keywords": {
+      "value": [
+        "best practices",
+        "reproducible research",
+        "archiving",
+        "data sharing",
+        "code sharing",
+        "wiki",
+        "open science",
+        "computational science",
+        "scientific method"
+      ]
+    },
+    "fulltext_pdf": {
+      "value": [
+        "http://openresearchsoftware.metajnl.com/article/download/jors.ay/64"
+      ]
+    },
+    "fulltext_html": {
+      "value": [
+        "http://openresearchsoftware.metajnl.com/article/view/jors.ay/63"
+      ]
+    },
+    "author": {
+      "value": [
+        "Victoria Stodden",
+        "Sheila Miguez"
+      ]
+    },
+    "author_name": {
+      "value": [
+        "Victoria Stodden",
+        "Sheila Miguez"
+      ]
+    },
+    "author_institution": {
+      "value": [
+        "Columbia University",
+        "Columbia University"
+      ]
+    },
+    "date": {
+      "value": [
+        "2014/07/09"
+      ]
+    },
+    "date_published": {
+      "value": [
+        "2014/07/09"
+      ]
+    },
+    "date_submitted": {
+      "value": [
+        "2014-04-06"
+      ]
+    },
+    "doi": {
+      "value": [
+        "10.5334/jors.ay"
+      ]
+    },
+    "license": {
+      "value": [
+        "Authors who publish with this journal agree to the following terms:   Authors retain copyright and grant the journal right of first publication with the work simultaneously licensed under a  Creative Commons Attribution License  that allows others to share the work with an acknowledgement of the work's authorship and initial publication in this journal.  Authors are able to enter into separate, additional contractual arrangements for the non-exclusive distribution of the journal's published version of the work (e.g., post it to an institutional repository or publish it in a book), with an acknowledgement of its initial publication in this journal.  Authors are permitted and encouraged to post their work online (e.g., in institutional repositories or on their website) prior to and during the submission process, as it can lead to productive exchanges, as well as earlier and greater citation of published work (See  The Effect of Open Access ).  "
+      ]
+    },
+    "copyright": {
+      "value": [
+        "Authors who publish with this journal agree to the following terms:   Authors retain copyright and grant the journal right of first publication with the work simultaneously licensed under a  Creative Commons Attribution License  that allows others to share the work with an acknowledgement of the work's authorship and initial publication in this journal.  Authors are able to enter into separate, additional contractual arrangements for the non-exclusive distribution of the journal's published version of the work (e.g., post it to an institutional repository or publish it in a book), with an acknowledgement of its initial publication in this journal.  Authors are permitted and encouraged to post their work online (e.g., in institutional repositories or on their website) prior to and during the submission process, as it can lead to productive exchanges, as well as earlier and greater citation of published work (See  The Effect of Open Access ).  "
+      ]
+    },
+    "abstract_html": {
+      "value": [
+        "\n\t\t<h4>Abstract</h4>\n\t\t<div><p>The goal of this article is to coalesce a discussion around best practices for scholarly research that utilizes computational methods, by providing a formalized set of best practice recommendations to guide computational scientists and other stakeholders wishing to disseminate reproducible research, facilitate innovation by enabling data and code re-use, and enable broader communication of the output of computational scientific research. Scholarly dissemination and communication standards are changing to reflect the increasingly computational nature of scholarly research, primarily to include the sharing of the data and code associated with published results. We also present these Best Practices as a living, evolving, and changing document at <a href=\"http://wiki.stodden.net/Best_Practices\">http://wiki.stodden.net/Best_Practices</a>.</p></div>\n\t\t<br />\n\t\t"
+      ]
+    },
+    "abstract_text": {
+      "value": [
+        " The goal of this article is to coalesce a discussion around best practices for scholarly research that utilizes computational methods, by providing a formalized set of best practice recommendations to guide computational scientists and other stakeholders wishing to disseminate reproducible research, facilitate innovation by enabling data and code re-use, and enable broader communication of the output of computational scientific research. Scholarly dissemination and communication standards are changing to reflect the increasingly computational nature of scholarly research, primarily to include the sharing of the data and code associated with published results. We also present these Best Practices as a living, evolving, and changing document at  http://wiki.stodden.net/Best_Practices . "
+      ]
+    },
+    "file_hashes": [
+      {
+        "fulltext.html": "ba51d263e033f785deed5ddfd3ff94c9"
+      },
+      {
+        "fulltext.pdf": "d8bf275068efd1d1303adba27f756ace"
+      }
+    ]
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "url": "openresearchsoftware.metajnl.com",
+  "elements": {
+    "journal_name": {
+      "selector": "//meta[@name='citation_journal_title']",
+      "attribute": "content"
+    },
+    "journal_issn": {
+      "selector": "//meta[@name='citation_issn']",
+      "attribute": "content"
+    },
+    "volume": {
+      "selector": "//meta[@name='citation_volume']",
+      "attribute": "content"
+    },
+    "issue": {
+      "selector": "//meta[@name='citation_issue']",
+      "attribute": "content"
+    },
+    "firstpage": {
+      "selector": "//meta[@name='citation_firstpage']",
+      "attribute": "content"
+    },
+    "title": {
+      "selector": "//meta[@name='citation_title']",
+      "attribute": "content"
+    },
+    "keywords": {
+      "selector": "//meta[@name='citation_keywords']",
+      "attribute": "content"
+    },
+    "fulltext_pdf": {
+      "selector": "//meta[@name='citation_pdf_url']",
+      "attribute": "content",
+      "download": {
+        "rename": "fulltext.pdf"
+      }
+    },
+    "fulltext_html": {
+      "selector": "//meta[@name='citation_fulltext_html_url']",
+      "attribute": "content",
+      "download": {
+        "rename": "fulltext.html"
+      }
+    },
+    "author": {
+      "selector": "//meta[@name='citation_author']",
+      "attribute": "content"
+    },
+    "author_name": {
+      "selector": "//meta[@name='citation_author']",
+      "attribute": "content"
+    },
+    "author_institution": {
+      "selector": "//meta[@name='citation_author_institution']",
+      "attribute": "content"
+    },
+    "date": {
+      "selector": "//meta[@name='citation_date']",
+      "attribute": "content"
+    },
+    "date_published": {
+      "selector": "//meta[@name='citation_date']",
+      "attribute": "content"
+    },
+    "date_submitted": {
+      "selector": "//meta[@name='DC.Date.dateSubmitted']",
+      "attribute": "content"
+    },
+    "doi": {
+      "selector": "//meta[@name='citation_doi']",
+      "attribute": "content"
+    },
+    "license": {
+      "selector": "//meta[@name='DC.Rights']",
+      "attribute": "content"
+    },
+    "copyright": {
+      "selector": "//meta[@name='DC.Rights']",
+      "attribute": "content"
+    },
+    "abstract_html": {
+      "selector": "//div[@id='articleAbstract']",
+      "attribute": "html"
+    },
+    "abstract_text": {
+      "selector": "//meta[@name='DC.Description']",
+      "attribute": "content"
+    }
+
+  }
+}
