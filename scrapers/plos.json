@@ -6,8 +6,8 @@
       "attribute": "content"
     },
     "journal_name": {
-      "selector": "//meta[@name='citation_journal_title']",
-      "attribute": "content"
+      "selector": "//li[contains(@class, 'home-link')]//a",
+      "attribute": "text"
     },
     "journal_issn": {
       "selector": "//meta[@name='citation_issn']",
@@ -26,7 +26,7 @@
       "attribute": "content"
     },
     "author_institution": {
-      "selector": "//ul[contains(@class, 'authors')]//p[text()[contains(., 'Affiliations:')]]",
+      "selector": "//dl[contains(@class, 'authors')]//dd",
       "attribute": "text",
       "regex": {
         "source": "Affiliations:\\s+(.+)"
@@ -132,7 +132,7 @@
       }
     },
     "fulltext_xml": {
-      "selector": "//a[@id='downloadXml']",
+      "selector": "//a[text()='XML']",
       "attribute": "href",
       "download": {
         "rename": "fulltext.xml"
