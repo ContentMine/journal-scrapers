@@ -60,7 +60,7 @@
       }
     },
     "fulltext_xml": {
-      "selector": "//meta[@name='fulltest_xml']",
+      "selector": "//meta[@name='fulltext_xml']",
       "attribute": "content",
       "download": {
         "rename": "fulltext.xml"
