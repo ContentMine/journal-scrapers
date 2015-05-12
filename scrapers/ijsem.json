@@ -1,0 +1,81 @@
+{
+  "url": "ijs\\.sgmjournals\\.org",
+  "elements": {
+    "publisher": {
+      "selector": "//meta[@name='DC.Publisher']",
+      "attribute": "content"
+    },
+    "journal": {
+      "selector": "//meta[@name='citation_journal_title']",
+      "attribute": "content"
+    },
+    "title": {
+      "selector": "//meta[@name='citation_title']",
+      "attribute": "content"
+    },
+    "authors": {
+      "selector": "//meta[@name='citation_author']",
+      "attribute": "content"
+    },
+    "date": {
+      "selector": "//meta[@name='citation_date']",
+      "attribute": "content"
+    },
+    "doi": {
+      "selector": "//meta[@name='citation_doi']",
+      "attribute": "content"
+    },
+    "volume": {
+      "selector": "//meta[@name='citation_volume']",
+      "attribute": "content"
+    },
+    "issue": {
+      "selector": "//meta[@name='citation_issue']",
+      "attribute": "content"
+    },
+    "firstpage": {
+      "selector": "//meta[@name='citation_firstpage']",
+      "attribute": "content"
+    },
+    "abstract": {
+      "selector": "//div[contains(@class, 'section abstract')]",
+      "attribute": "text"
+    },
+    "fulltext_html": {
+      "selector": "//meta[@name='citation_fulltext_html_url']",
+      "attribute": "content",
+      "download": {
+        "rename": "fulltext.html"
+      }
+    },
+    "fulltext_pdf": {
+      "selector": "//meta[@name='citation_pdf_url']",
+      "attribute": "content",
+      "download": {
+        "rename": "fulltext.pdf"
+      }
+    },
+    "supplementary_material": {
+      "selector": "//a[@rel='supplemental-data']",
+      "attribute": "href",
+      "download": true
+    },
+    "figure": {
+      "selector": "//div[contains(@class, 'fig-inline')]/a/img",
+      "attribute": "src",
+      "download": true
+    },
+    "figure_caption": {
+      "selector": "//div[contains(@class, 'fig-caption')]",
+      "attribute": "text"
+    },
+    "license": {
+      "selector": "//div[contains(@class, 'license')]",
+      "attribute": "text"
+    },
+    "copyright": {
+      "selector": "//div/p[contains(@class, 'copyright')]",
+      "attribute": "text"
+    }
+  }
+}	
