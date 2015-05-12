@@ -1,0 +1,820 @@
+{
+  "http://ijs.sgmjournals.org/content/63/Pt_12/4586.full": {
+    "publisher": {
+      "value": [
+        "Society for General Microbiology"
+      ]
+    },
+    "journal": {
+      "value": [
+        "International Journal of Systematic and Evolutionary\n                Microbiology"
+      ]
+    },
+    "title": {
+      "value": [
+        "Spirosoma endophyticum sp. nov., isolated from Zn- and Cd-accumulating Salix caprea"
+      ]
+    },
+    "authors": {
+      "value": [
+        "Julia Fries",
+        "Stefan Pfeiffer",
+        "Melanie Kuffner",
+        "Angela Sessitsch"
+      ]
+    },
+    "date": {
+      "value": [
+        "12/01/2013"
+      ]
+    },
+    "doi": {
+      "value": [
+        "10.1099/ijs.0.052654-0"
+      ]
+    },
+    "volume": {
+      "value": [
+        "63"
+      ]
+    },
+    "issue": {
+      "value": [
+        "Pt 12"
+      ]
+    },
+    "firstpage": {
+      "value": [
+        "4586"
+      ]
+    },
+    "abstract": {
+      "value": [
+        "\n                  \n                      Next Section\n                  Abstract\n                  \n                  A Gram-reaction-negative, yellow-pigmented strain, designated EX36T, was characterized using a polyphasic approach comprising phylogenetic, morphological and genotypic analyses. The endophytic\n                     strain was isolated from Zn/Cd-accumulating Salix caprea in Arnoldstein, Austria. Analysis of the 16S rRNA gene demonstrated that the novel strain is most closely related to members\n                     of the genus Spirosoma (95 % sequence similarity with Spirosoma linguale). The genomic DNA G+C content was 47.2 mol%. The predominant quinone was and the major cellular fatty acids were summed feature\n                     3 (iso-C15 : 0 2-OH and/or C16 : 1ω7c), C16 : 1ω5c, iso-C17 : 0 3-OH and iso-C15 : 0. On the basis of its phenotypic and genotypic properties, strain EX36T should be classified as a novel species of the genus Spirosoma, for which the name Spirosoma endophyticum sp. nov. is proposed. The type strain is EX36T ( = DSM 26130T = LMG 27272T).\n                  \n                  \n               "
+      ]
+    },
+    "fulltext_html": {
+      "value": [
+        "http://ijs.sgmjournals.org/content/63/Pt_12/4586.full"
+      ]
+    },
+    "fulltext_pdf": {
+      "value": [
+        "http://ijs.sgmjournals.org/content/63/Pt_12/4586.full.pdf"
+      ]
+    },
+    "supplementary_material": {
+      "value": [
+        "http://ijs.sgmjournals.org/content/63/Pt_12/4586/suppl/DC1"
+      ]
+    },
+    "figure": {
+      "value": [
+        "http://ijs.sgmjournals.org/content/63/Pt_12/4586/F1.small.gif"
+      ]
+    },
+    "figure_caption": {
+      "value": [
+        "Fig. 1.  \n                     \n                     Maximum-likelihood tree (bootstrap: 100 replicates) based on 16S rRNA gene sequence data (sequence length 1296 bp) showing\n                        the phylogenetic position of strain EX36T among related species selected from the phylum Bacteroidetes. Cardiobacterium hominis ATCC 15826T (M35014) was used as an outgroup.\n                     \n                     \n                     \n                  "
+      ]
+    },
+    "license": {
+      "value": [
+        "\n                  This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted\n                     use, distribution, and reproduction in any medium, provided the original work is properly cited.\n                  \n               "
+      ]
+    },
+    "copyright": {
+      "value": [
+        "Copyright ©\n                     \t\t2015 International Union of Microbiological Societies\n                     \t\n                  "
+      ]
+    },
+    "file_hashes": [
+      {
+        "DC1": "bf220c42e6441b3ddea0cbd073c2708f"
+      },
+      {
+        "fulltext.html": "bc438e43014341bfac5a6135716f6f08"
+      },
+      {
+        "fulltext.pdf": "3fc4173dccd2f43b665d5928b173ef67"
+      },
+      {
+        "F1.small.gif": "12e88c55ce745a981f991b06be6ac002"
+      }
+    ]
+  },
+  "http://ijs.sgmjournals.org/content/63/Pt_11/4174.full": {
+    "publisher": {
+      "value": [
+        "Society for General Microbiology"
+      ]
+    },
+    "journal": {
+      "value": [
+        "International Journal of Systematic and Evolutionary\n                Microbiology"
+      ]
+    },
+    "title": {
+      "value": [
+        "Arthrobacter siccitolerans sp. nov., a highly desiccation-tolerant, xeroprotectant-producing strain isolated from dry soil"
+      ]
+    },
+    "authors": {
+      "value": [
+        "L. SantaCruz-Calvo",
+        "J. González-López",
+        "M. Manzanera"
+      ]
+    },
+    "date": {
+      "value": [
+        "11/01/2013"
+      ]
+    },
+    "doi": {
+      "value": [
+        "10.1099/ijs.0.052902-0"
+      ]
+    },
+    "volume": {
+      "value": [
+        "63"
+      ]
+    },
+    "issue": {
+      "value": [
+        "Pt 11"
+      ]
+    },
+    "firstpage": {
+      "value": [
+        "4174"
+      ]
+    },
+    "abstract": {
+      "value": [
+        "\n                  \n                      Next Section\n                  Abstract\n                  \n                  A novel desiccation-tolerant, xeroprotectant-producing bacterium, designated strain 4J27T, was isolated from a Nerium oleander rhizosphere subjected to seasonal drought in Granada, Spain. Phylogenetic analysis based on 16S rRNA gene sequencing placed\n                     the isolate within the genus Arthrobacter, its closest relative being Arthrobacter phenanthrenivorans Shep3 DSM 18606T, with which it showed 99.23 % 16S rRNA gene sequence similarity. DNA–DNA hybridization measurements showed less than 25 %\n                     relatedness between strain 4J27T and Arthrobacter phenanthrenivorans DSM 18606T. The DNA base composition of strain 4J27T was 65.3 mol%. The main fatty acids were anteiso C15 : 0, anteiso C17 : 0, C16 : 0 and iso C16 : 0 and the major menaquinone was MK-9 (H2). The peptidoglycan type was A3α with an l-Lys–l-Ser–l-Thr–l-Ala interpeptide bridge. The bacterium tested positive for catalase activity and negative for oxidase activity. Phylogenetic,\n                     chemotaxonomic and phenotypic analyses indicated that the desiccation-tolerant strain 4J27T represents a novel species within the genus Arthrobacter, for which the name Arthrobacter siccitolerans is proposed. The type strain is 4J27T ( = CECT 8257T = LMG 27359T).\n                  \n                  \n               "
+      ]
+    },
+    "fulltext_html": {
+      "value": [
+        "http://ijs.sgmjournals.org/content/63/Pt_11/4174.full"
+      ]
+    },
+    "fulltext_pdf": {
+      "value": [
+        "http://ijs.sgmjournals.org/content/63/Pt_11/4174.full.pdf"
+      ]
+    },
+    "supplementary_material": {
+      "value": [
+        "http://ijs.sgmjournals.org/content/63/Pt_11/4174/suppl/DC1"
+      ]
+    },
+    "figure": {
+      "value": [
+        "http://ijs.sgmjournals.org/content/63/Pt_11/4174/F1.small.gif"
+      ]
+    },
+    "figure_caption": {
+      "value": [
+        "Fig. 1.  \n                     \n                     Neighbour-joining phylogenetic tree based on 16S rRNA sequence comparisons of strain 4J27T and its 24 closest relatives. Streptomyces albus AS 4.164T was used as the outgroup. The numbers at bifurcations indicate how many times each species coincided in this position as\n                        percentages and only values > 50% are shown. Bar, 0.01 changes per nucleotide position.\n                     \n                     \n                     \n                  "
+      ]
+    },
+    "license": {
+      "value": [
+        "\n                  This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted\n                     use, distribution, and reproduction in any medium, provided the original work is properly cited.\n                  \n               "
+      ]
+    },
+    "copyright": {
+      "value": [
+        "Copyright ©\n                     \t\t2015 International Union of Microbiological Societies\n                     \t\n                  "
+      ]
+    },
+    "file_hashes": [
+      {
+        "DC1": "f34b36f4a3649c6b8e904c1c56ac95bb"
+      },
+      {
+        "fulltext.html": "1e454ef4a17617e0998837eab636e944"
+      },
+      {
+        "fulltext.pdf": "bd01ce10f2a8c3e9865dbc7b072be971"
+      },
+      {
+        "F1.small.gif": "03be629d1638ec117574c4eaf916a75d"
+      }
+    ]
+  },
+  "http://ijs.sgmjournals.org/content/63/Pt_11/4141.full": {
+    "publisher": {
+      "value": [
+        "Society for General Microbiology"
+      ]
+    },
+    "journal": {
+      "value": [
+        "International Journal of Systematic and Evolutionary\n                Microbiology"
+      ]
+    },
+    "title": {
+      "value": [
+        "Sulfurimonas gotlandica sp. nov., a chemoautotrophic and psychrotolerant epsilonproteobacterium isolated from a pelagic redoxcline, and an emended description of the genus Sulfurimonas"
+      ]
+    },
+    "authors": {
+      "value": [
+        "Matthias Labrenz",
+        "Jana Grote",
+        "Kerstin Mammitzsch",
+        "Henricus T. S. Boschker",
+        "Michael Laue",
+        "Günter Jost",
+        "Sabine Glaubitz",
+        "Klaus Jürgens"
+      ]
+    },
+    "date": {
+      "value": [
+        "11/01/2013"
+      ]
+    },
+    "doi": {
+      "value": [
+        "10.1099/ijs.0.048827-0"
+      ]
+    },
+    "volume": {
+      "value": [
+        "63"
+      ]
+    },
+    "issue": {
+      "value": [
+        "Pt 11"
+      ]
+    },
+    "firstpage": {
+      "value": [
+        "4141"
+      ]
+    },
+    "abstract": {
+      "value": [
+        "\n                  \n                      Next Section\n                  Abstract\n                  \n                  A psychro- and aerotolerant bacterium was isolated from the sulfidic water of a pelagic redox zone of the central Baltic Sea.\n                     The slightly curved rod- or spiral-shaped cells were motile by one polar flagellum or two bipolar flagella. Growth was chemolithoautotrophic,\n                     with nitrate or nitrite as electron acceptor and either a variety of sulfur species of different oxidation states or hydrogen\n                     as electron donor. Although the bacterium was able to utilize organic substances such as acetate, pyruvate, peptone and yeast\n                     extract for growth, these compounds yielded considerably lower cell numbers than obtained with reduced sulfur or hydrogen;\n                     in addition, bicarbonate supplementation was necessary. The cells also had an absolute requirement for NaCl. Optimal growth\n                     occurred at 15 °C and at pH 6.6–8.0. The predominant fatty acid of this organism was 16 : 1ω7c, with 3-OH 14 : 0, 16 : 0, 16 : 1ω5c+t and 18 : 1ω7c present in smaller amounts. The DNA G+C content was 33.6 mol%. As determined in 16S rRNA gene sequence phylogeny analysis,\n                     the isolate belongs to the genus Sulfurimonas, within the class Epsilonproteobacteria, with 93.7 to 94.2 % similarity to the other species of the genus Sulfurimonas, Sulfurimonas autotrophica, Sulfurimonas paralvinellae and Sulfurimonas denitrificans. However, the distinct physiological and genotypic differences from these previously described taxa support the description\n                     of a novel species, Sulfurimonas gotlandica sp. nov. The type strain is GD1T ( = DSM 19862T = JCM 16533T). Our results also justify an emended description of the genus Sulfurimonas.\n                  \n                  \n               "
+      ]
+    },
+    "fulltext_html": {
+      "value": [
+        "http://ijs.sgmjournals.org/content/63/Pt_11/4141.full"
+      ]
+    },
+    "fulltext_pdf": {
+      "value": [
+        "http://ijs.sgmjournals.org/content/63/Pt_11/4141.full.pdf"
+      ]
+    },
+    "supplementary_material": {
+      "value": [
+
+      ]
+    },
+    "figure": {
+      "value": [
+        "http://ijs.sgmjournals.org/content/63/Pt_11/4141/F1.small.gif",
+        "http://ijs.sgmjournals.org/content/63/Pt_11/4141/F2.small.gif",
+        "http://ijs.sgmjournals.org/content/63/Pt_11/4141/F3.small.gif"
+      ]
+    },
+    "figure_caption": {
+      "value": [
+        "Fig. 1.  \n                     \n                     Cell morphology of spirilla-shaped cells of strain GD1T cultivated on ABW+NS medium. (a) Fluorescence microscopy of 4′,6′-diamidino-2-phenylindol (DAPI) stained cells. (b) Transmission\n                        electron microscopy of a bacterium with one flagellum and (c) of a bacterium with two flagella (indicated by arrows), both\n                        negatively stained with phosphotungstic acid.\n                     \n                     \n                     \n                  ",
+        "Fig. 2.  \n                     \n                     Impact of pyruvate on the growth of isolate GD1T. Error bars indicate the standard deviation of three independent replicates for each assay. (a) Growth on media with different\n                        substrate combinations: 1, NaHCO3, S2O32-, NO3−; 2, NaHCO3, S2O32-, NO3−, pyruvate; 3, NaHCO3, pyruvate; 4, pyruvate; 5, ABW without further supplements. The relative enrichment factor describes the increase of cell\n                        numbers after 7 days of incubation compared to the initial cell numbers after inoculation at day 0 (6.1×105 ml−1). (b) 14CO2 production and [14C]pyruvate incorporation after 24 h and 72 h of incubation. Media: 1, NaHCO3, S2O32-, NO3−, [14C]pyruvate; 2, NaHCO3, NO3−, [14C]pyruvate. P, pyruvate incorporation; CO2, CO2 production.\n                     \n                     \n                     \n                  ",
+        "Fig. 3.  \n                     \n                     Unrooted tree showing phylogenetic relationships of isolate GD1T and closely related members of the class Epsilonproteobacteria. The tree was reconstructed using the neighbour-joining method and was based on a comparison of approximately 1400 nt. Solid\n                        squares indicate that the corresponding nodes (or groups) were recovered in neighbour-joining, maximum-parsimony and maximum-likelihood\n                        methods. Branching points supported by two algorithms are marked by an open square. The following strains were used as an\n                        outgroup (not shown): Antarctobacter heliothermus EL-219T, Sagittula stellata E-37T, Roseovarius tolerans EL-172T, Roseovarius nubinhibens ISMT and Roseovarius mucosus DFL-24T. Bar, 1 substitution per 10 nt.\n                     \n                     \n                     \n                  "
+      ]
+    },
+    "license": {
+      "value": [
+        "\n                  This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted\n                     use, distribution, and reproduction in any medium, provided the original work is properly cited.\n                  \n               "
+      ]
+    },
+    "copyright": {
+      "value": [
+        "Copyright ©\n                     \t\t2015 International Union of Microbiological Societies\n                     \t\n                  "
+      ]
+    },
+    "file_hashes": [
+      {
+        "fulltext.html": "a887044376e21dfb26685e40d32aaca2"
+      },
+      {
+        "fulltext.pdf": "13093d660bf2da67b3f3039a75ddf3ff"
+      },
+      {
+        "F1.small.gif": "abbf749d8de9aa65712a4da7a8f31e43"
+      },
+      {
+        "F3.small.gif": "d719809141b1f9a8fd5a52cb46fee115"
+      },
+      {
+        "F2.small.gif": "13aaf9b0f7b5de672e7dd66be67640e5"
+      }
+    ]
+  },
+  "http://ijs.sgmjournals.org/content/63/Pt_11/4218.full": {
+    "publisher": {
+      "value": [
+        "Society for General Microbiology"
+      ]
+    },
+    "journal": {
+      "value": [
+        "International Journal of Systematic and Evolutionary\n                Microbiology"
+      ]
+    },
+    "title": {
+      "value": [
+        "Prevotella jejuni sp. nov., isolated from the small intestine of a child with coeliac disease"
+      ]
+    },
+    "authors": {
+      "value": [
+        "Maria E. Hedberg",
+        "Anne Israelsson",
+        "Edward R. B. Moore",
+        "Liselott Svensson-Stadler",
+        "Sun Nyunt Wai",
+        "Grzegorz Pietz",
+        "Olof Sandström",
+        "Olle Hernell",
+        "Marie-Louise Hammarström",
+        "Sten Hammarström"
+      ]
+    },
+    "date": {
+      "value": [
+        "11/01/2013"
+      ]
+    },
+    "doi": {
+      "value": [
+        "10.1099/ijs.0.052647-0"
+      ]
+    },
+    "volume": {
+      "value": [
+        "63"
+      ]
+    },
+    "issue": {
+      "value": [
+        "Pt 11"
+      ]
+    },
+    "firstpage": {
+      "value": [
+        "4218"
+      ]
+    },
+    "abstract": {
+      "value": [
+        "\n                  \n                      Next Section\n                  Abstract\n                  \n                  Five obligately anaerobic, Gram-stain-negative, saccharolytic and proteolytic, non-spore-forming bacilli (strains CD3 : 27,\n                     CD3 : 28T, CD3 : 33, CD3 : 32 and CD3 : 34) are described. All five strains were isolated from the small intestine of a female child\n                     with coeliac disease. Cells of the five strains were short rods or coccoid cells with longer filamentous forms seen sporadically.\n                     The organisms produced acetic acid and succinic acid as major metabolic end products. Phylogenetic analysis based on comparative\n                     16S rRNA gene sequence analysis revealed close relationships between CD3 : 27, CD3 : 28T and CD3 : 33, between CD3 : 32 and Prevotella histicola CCUG 55407T, and between CD3 : 34 and Prevotella melaninogenica CCUG 4944BT. Strains CD3 : 27, CD3 : 28T and CD3 : 33 were clearly different from all recognized species within the genus Prevotella and related most closely to but distinct from P. melaninogenica. Based on 16S rRNA, RNA polymerase β-subunit (rpoB) and 60 kDa chaperonin protein subunit (cpn60) gene sequencing, and phenotypic, chemical and biochemical properties, strains CD3 : 27, CD3 : 28T and CD3 : 33 are considered to represent a novel species within the genus Prevotella, for which the name Prevotella jejuni sp. nov. is proposed. Strain CD3 : 28T ( = CCUG 60371T = DSM 26989T) is the type strain of the proposed novel species. All five strains were able to form homologous aggregates, in which tube-like\n                     structures were connecting individual bacteria cells. The five strains were able to bind to human intestinal carcinoma cell\n                     lines at 37 °C.\n                  \n                  \n               "
+      ]
+    },
+    "fulltext_html": {
+      "value": [
+        "http://ijs.sgmjournals.org/content/63/Pt_11/4218.full"
+      ]
+    },
+    "fulltext_pdf": {
+      "value": [
+        "http://ijs.sgmjournals.org/content/63/Pt_11/4218.full.pdf"
+      ]
+    },
+    "supplementary_material": {
+      "value": [
+        "http://ijs.sgmjournals.org/content/63/Pt_11/4218/suppl/DC1"
+      ]
+    },
+    "figure": {
+      "value": [
+        "http://ijs.sgmjournals.org/content/63/Pt_11/4218/F1.small.gif",
+        "http://ijs.sgmjournals.org/content/63/Pt_11/4218/F2.small.gif"
+      ]
+    },
+    "figure_caption": {
+      "value": [
+        "Fig. 1.  \n                     \n                     Scanning electron micrographs showing surface structures of cells of P. jejuni, strains CD3 : 27 (a) and CD3 : 28T (b) and P. histicola strain CD3 : 32 (c). (d) Transmission electron micrograph of a cell of strain P. jejuni CD3 : 33; arrows indicate cross-section of the tube-like structures shown in (a)–(c) and arrowheads indicate outer membrane\n                        vesicles. Bars, 0.2 µm (a, b, d); 1 µm (c).\n                     \n                     \n                     \n                  ",
+        "Fig. 2.  \n                     \n                     Phylogenetic tree based on 16S rRNA gene sequences showing the relationships between strains CD3 : 27, CD3 : 28T and CD3 : 33 and related species. The 16S rRNA gene sequence of Porphyromonas gingivalis ATCC 33277T served as an outgroup. Bar, 0.02 substitutions per nucleotide position.\n                     \n                     \n                     \n                  "
+      ]
+    },
+    "license": {
+      "value": [
+        "\n                  This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted\n                     use, distribution, and reproduction in any medium, provided the original work is properly cited.\n                  \n               "
+      ]
+    },
+    "copyright": {
+      "value": [
+        "Copyright ©\n                     \t\t2015 International Union of Microbiological Societies\n                     \t\n                  "
+      ]
+    },
+    "file_hashes": [
+      {
+        "DC1": "8b17da00a9d7644b2eeffa6527b66c78"
+      },
+      {
+        "fulltext.html": "90805648c514979facf521d240e78014"
+      },
+      {
+        "fulltext.pdf": "431bf870a9fd96c3f825f992955e8995"
+      },
+      {
+        "F1.small.gif": "ea66b60efa60251d94417078b86b9fe5"
+      },
+      {
+        "F2.small.gif": "69ba63066563b0e3437364be1fa61471"
+      }
+    ]
+  },
+  "http://ijs.sgmjournals.org/content/63/Pt_11/4354.full": {
+    "publisher": {
+      "value": [
+        "Society for General Microbiology"
+      ]
+    },
+    "journal": {
+      "value": [
+        "International Journal of Systematic and Evolutionary\n                Microbiology"
+      ]
+    },
+    "title": {
+      "value": [
+        "Designation of type strains for seven species of the order Myxococcales and proposal for neotype strains of Cystobacter ferrugineus, Cystobacter minus and Polyangium fumosum"
+      ]
+    },
+    "authors": {
+      "value": [
+        "Elke Lang",
+        "Hans Reichenbach"
+      ]
+    },
+    "date": {
+      "value": [
+        "11/01/2013"
+      ]
+    },
+    "doi": {
+      "value": [
+        "10.1099/ijs.0.056440-0"
+      ]
+    },
+    "volume": {
+      "value": [
+        "63"
+      ]
+    },
+    "issue": {
+      "value": [
+        "Pt 11"
+      ]
+    },
+    "firstpage": {
+      "value": [
+        "4354"
+      ]
+    },
+    "abstract": {
+      "value": [
+        "\n                  \n                      Next Section\n                  Abstract\n                  \n                  Ten species of the order Myxococcales with validly published names are devoid of living type strains. Four species of the genus Chondromyces are represented by dead herbarium samples as the type material. For a species of the genus Melittangium and two species of the genus Polyangium, no physical type material was assigned at the time of validation of the names or later on. In accordance with rule 18f of\n                     the International Code of Nomenclature of Bacteria the following type strains are designated for these species: strain Cm\n                     a14T ( = DSM 14605T = JCM 12615T) as the type strain of Chondromyces apiculatus, strain Cm c5T ( = DSM 14714T = JCM 12616T) as the type strain of Chondromyces crocatus, strain Sy t2T ( = DSM 14631T = JCM 12617T) as the type strain of Chondromyces lanuginosus, strain Cm p51T ( = DSM 14607T = JCM 12618T) as the type strain of Chondromyces pediculatus, strain Me b8T ( = DSM 14713T = JCM 12633T) as the type strain of Melittangium boletus, strain Pl s12T ( = DSM 14670T = JCM 12637T) as the type strain of Polyangium sorediatum and strain Pl sm5T ( = DSM 14734T = JCM 12638T) as the type strain of Polyangium spumosum. Furthermore, the type strains given for three species of the genera Cystobacter and Polyangium had been kept at one university institute and have been lost according to our investigations. In accordance with Rule 18c\n                     of the Bacteriological Code, we propose the following neotype strains: strain Cb fe18 ( = DSM 14716  = JCM 12624) as the neotype\n                     strain of Cystobacter ferrugineus, strain Cb m2 ( = DSM 14751 = JCM 12627) as the neotype strain of Cystobacter minus and strain Pl fu5 ( = DSM 14668 = JCM 12636) as the neotype strain of Polyangium fumosum. The proposals of the strains are based on the descriptions and strain proposals given in the respective chapters of Bergey’s Manual of Systematic Bacteriology (2005).\n                  \n                  \n               "
+      ]
+    },
+    "fulltext_html": {
+      "value": [
+        "http://ijs.sgmjournals.org/content/63/Pt_11/4354.full"
+      ]
+    },
+    "fulltext_pdf": {
+      "value": [
+        "http://ijs.sgmjournals.org/content/63/Pt_11/4354.full.pdf"
+      ]
+    },
+    "supplementary_material": {
+      "value": [
+        "http://ijs.sgmjournals.org/content/63/Pt_11/4354/suppl/DC1"
+      ]
+    },
+    "figure": {
+      "value": [
+        "http://ijs.sgmjournals.org/content/63/Pt_11/4354/F1.small.gif",
+        "http://ijs.sgmjournals.org/content/63/Pt_11/4354/F2.small.gif",
+        "http://ijs.sgmjournals.org/content/63/Pt_11/4354/F3.small.gif",
+        "http://ijs.sgmjournals.org/content/63/Pt_11/4354/F4.small.gif",
+        "http://ijs.sgmjournals.org/content/63/Pt_11/4354/F5.small.gif",
+        "http://ijs.sgmjournals.org/content/63/Pt_11/4354/F6.small.gif",
+        "http://ijs.sgmjournals.org/content/63/Pt_11/4354/F7.small.gif",
+        "http://ijs.sgmjournals.org/content/63/Pt_11/4354/F8.small.gif",
+        "http://ijs.sgmjournals.org/content/63/Pt_11/4354/F9.small.gif",
+        "http://ijs.sgmjournals.org/content/63/Pt_11/4354/F10.small.gif"
+      ]
+    },
+    "figure_caption": {
+      "value": [
+        "Fig. 1.  \n                     \n                     Chondromyces apiculatus. (a) Drawing from Thaxter (1897), plate XXX on pages 405–406. (b) Fruiting body (bar, 100 µm) and vegetative cells (insert; bar, 10 µm) of Cm a14T.\n                     \n                     \n                     \n                  ",
+        "Fig. 10.  \n                     \n                     Polyangium fumosum. (a) Drawing from Krzemieniewska & Krzemieniewski (1930), plate XVI, nos 6–9 depict P. fumosum. Courtesy of the Polish Botanical Society. (b) Swarm of PI fu5 (bar, 2000 µm) and single sporangium of PI fu5 (insert; bar,\n                        100 µm). (c) Fruiting bodies of PI fu5. Bar, 300 µm.\n                     \n                     \n                     \n                  ",
+        "Fig. 2.  \n                     \n                     Chondromyces crocatus. (a) Drawing from Berkeley (1857), page 313. (b) Fruiting bodies of Cm c5T. Bar, 500 µm.\n                     \n                     \n                     \n                  ",
+        "Fig. 3.  \n                     \n                     Chondromyces lanuginosus. (a) Figures from Kofler (1913), Figs 1–3 on page 877 depict Chondromyces lanuginosus. Courtesy Österreichische Akademie der Wissenschaften. (b) Fruiting body of Sy t2T. Bar, 100 µm.\n                     \n                     \n                     \n                  ",
+        "Fig. 4.  \n                     \n                     Chondromyces pediculatus. (a) Drawing from Thaxter (1904), plate XXVI on page 411; nos 7–13 depict Chondromyces pediculatus. (b) Fruiting body of Cm p51T. Bar 100 µm.\n                     \n                     \n                     \n                  ",
+        "Fig. 5.  \n                     \n                     Melittangium boletus. (a) Drawing from Jahn (1924), plate II, Fig. 17 on page 78. Courtesy Bornträger-Cramer, www.borntraeger-cramer.de. (b) and (c) Fruiting bodies of Me b8T. Bars, 120 and 80 µm, respectively.\n                     \n                     \n                     \n                  ",
+        "Fig. 6.  \n                     \n                     Polyangium sorediatum. (a) Drawing from Thaxter (1904), plate XXVII. Nos 22–30 depict P. sorediatum. (b and c) Fruiting bodies of PI s12T. Insert: crushed sporangium releasing the single sporangioles. Bars, 200 µm.\n                     \n                     \n                     \n                  ",
+        "Fig. 7.  \n                     \n                     Polyangium spumosum. (a) Figures from Krzemieniewska & Krzemieniewski (1926), plate V; no. 19 depicts P. spumosum and from Krzemieniewska & Krzemieniewski (1930), plate XVI; nos 10–12 depict P. spumosum. Courtesy of the Polish Botanical Society. (b–d) Degenerated fruiting bodies of PI sm5T. Bars, 500, 100 and 250 µm, respectively.\n                     \n                     \n                     \n                  ",
+        "Fig. 8.  \n                     \n                     Cystobacter ferrugineus. (a) Figures from McCurdy (1970). (b–d) Strain Cb fe18, (b) myxospores and (c) fruiting bodies on Escherichia coli as food bacteria and (d) on a cellulose plate. Bars, 10 µm, 1 mm and 10 mm, respectively.\n                     \n                     \n                     \n                  ",
+        "Fig. 9.  \n                     \n                     Cystobacter minus. (a), Figures from McCurdy (1970). (b and c), Fruiting bodies of Cb m2. Bars, 500 µm and 200 µm, respectively.\n                     \n                     \n                     \n                  "
+      ]
+    },
+    "license": {
+      "value": [
+
+      ]
+    },
+    "copyright": {
+      "value": [
+        "Copyright ©\n                     \t\t2015 International Union of Microbiological Societies\n                     \t\n                  "
+      ]
+    },
+    "file_hashes": [
+      {
+        "F6.small.gif": "c5c5903484dece5a7a742b5f1165b15f"
+      },
+      {
+        "F8.small.gif": "fa0c93efc590e144f4582996c1e5ec6d"
+      },
+      {
+        "DC1": "ef6e9513aa87a7ec1b9f0651289e826b"
+      },
+      {
+        "fulltext.html": "5f43176a3e62906d4fc212c294b3876a"
+      },
+      {
+        "fulltext.pdf": "31c739bcd9ce5cad5194ce3a46a8f1c8"
+      },
+      {
+        "F4.small.gif": "8f7d7055087afe1b3f63d1ddd92fab73"
+      },
+      {
+        "F7.small.gif": "c8d2edb6aff2a9b00753aef90675c2cd"
+      },
+      {
+        "F9.small.gif": "0fe1c0fca4c80ba33bbdb4c87185bb44"
+      },
+      {
+        "F1.small.gif": "b0720168b0d4da92d80b5857b79a772a"
+      },
+      {
+        "F3.small.gif": "6a32d1b12627beeed962a8108c2fa053"
+      },
+      {
+        "F5.small.gif": "8c7b1c80563507b3dc7a6b5d00646fa8"
+      },
+      {
+        "F2.small.gif": "3d63b7ff0094446bf155b104ac34a36e"
+      },
+      {
+        "F10.small.gif": "8b5ffffaddf32f8168bfe41198cb0267"
+      }
+    ]
+  },
+  "http://ijs.sgmjournals.org/content/63/Pt_11/4340.full": {
+    "publisher": {
+      "value": [
+        "Society for General Microbiology"
+      ]
+    },
+    "journal": {
+      "value": [
+        "International Journal of Systematic and Evolutionary\n                Microbiology"
+      ]
+    },
+    "title": {
+      "value": [
+        "Molecular and phenotypic analyses reveal the non-identity of the Phaeobacter gallaeciensis type strain deposits CIP 105210T and DSM 17395"
+      ]
+    },
+    "authors": {
+      "value": [
+        "Nora Buddruhs",
+        "Silke Pradella",
+        "Markus Göker",
+        "Orsola Päuker",
+        "Rüdiger Pukall",
+        "Cathrin Spröer",
+        "Peter Schumann",
+        "Jörn Petersen",
+        "Thorsten Brinkhoff"
+      ]
+    },
+    "date": {
+      "value": [
+        "11/01/2013"
+      ]
+    },
+    "doi": {
+      "value": [
+        "10.1099/ijs.0.053900-0"
+      ]
+    },
+    "volume": {
+      "value": [
+        "63"
+      ]
+    },
+    "issue": {
+      "value": [
+        "Pt 11"
+      ]
+    },
+    "firstpage": {
+      "value": [
+        "4340"
+      ]
+    },
+    "abstract": {
+      "value": [
+        "\n                  \n                      Next Section\n                  Abstract\n                  \n                  The marine genus Phaeobacter currently comprises six species, some of which were intensively studied mainly due to their ability to produce secondary\n                     metabolites. The type strain of the type species, Phaeobacter gallaeciensis BS107T, has been deposited at several public culture collections worldwide. Based on differences in plasmid profiles, we detected\n                     that the alleged P. gallaeciensis type strains deposited at the Collection Institute Pasteur (CIP; Paris, France) as CIP 105210 and at the German Collection\n                     of Microorganisms and Cell Cultures (DSMZ; Braunschweig, Germany) as DSM 17395 are not identical. To determine the identity\n                     of these strains, we conducted DNA–DNA hybridization, matrix-assisted laser desorption/ionization time-of-flight mass spectrometry\n                     (MALDI-TOF), 16S rRNA gene and internal transcribed spacer (ITS) sequence analyses, as well as physiological experiments.\n                     Based on the detailed 16S rRNA gene reanalysis we showed that strain CIP 105210 most likely corresponds to the original P. gallaeciensis type strain BS107T. In contrast, the Phaeobacter strain DSM 17395 exhibits a much closer affiliation to Phaeobacter inhibens DSM 16374T ( = T5T) and should thus be allocated to this species. The detection of the dissimilarity of strains CIP 105210T and DSM 17395 will influence future comparative studies within the genus Phaeobacter.\n                  \n                  \n               "
+      ]
+    },
+    "fulltext_html": {
+      "value": [
+        "http://ijs.sgmjournals.org/content/63/Pt_11/4340.full"
+      ]
+    },
+    "fulltext_pdf": {
+      "value": [
+        "http://ijs.sgmjournals.org/content/63/Pt_11/4340.full.pdf"
+      ]
+    },
+    "supplementary_material": {
+      "value": [
+        "http://ijs.sgmjournals.org/content/63/Pt_11/4340/suppl/DC1"
+      ]
+    },
+    "figure": {
+      "value": [
+        "http://ijs.sgmjournals.org/content/63/Pt_11/4340/F1.small.gif",
+        "http://ijs.sgmjournals.org/content/63/Pt_11/4340/F2.small.gif",
+        "http://ijs.sgmjournals.org/content/63/Pt_11/4340/F3.small.gif",
+        "http://ijs.sgmjournals.org/content/63/Pt_11/4340/F4.small.gif",
+        "http://ijs.sgmjournals.org/content/63/Pt_11/4340/F5.small.gif"
+      ]
+    },
+    "figure_caption": {
+      "value": [
+        "Fig. 1.  \n                           \n                           (a) PFGE plasmid profiles of the Phaeobacter strains CIP 105210T, DSM 17395, DSM 24588 and DSM 16374T based on uncut high-molecular-mass genomic DNA. (b) Calculated plasmid sizes as mean values taken from at least two different\n                              gel runs. The PFGE conditions were: 1 % (w/v) agarose gel with pulse times of 1 to 48 s for 24 h at 200 V (6 V cm−1). Chr, chromosomal DNA; λ, lambda phage concatemers as molecular-mass PFGE markers (New England Biolabs); li, linear. (*), The two largest plasmids (linearized forms) of Phaeobacter strains CIP 105210T and DSM 17395 migrated about the same distance in the gel and thus seemed to have an identical size. In contrast, both bands\n                              could be clearly distinguished by their size in other PFGE runs (data not shown) using different DNA sample preparations.\n                              DNA mobility is largely influenced by the DNA concentration of the sample. The observed discrepancy can thus be explained\n                              by the relatively high DNA concentration in CIP 105210T (compared to DSM 17395T), which retards band migration (Römling et al., 1996). (†) (‡), The PFGE-based plasmid size estimations of 75 and 63 kb of DSM 17395 correspond to the plasmid sizes of 78 and 65 kb, respectively,\n                              determined by genome sequencing (Thole et al., 2012; NC_018287.1, NC_018288.1). (§), The 36 kb plasmid of P. gallaeciensis CIP 105210T had a very low fluorescence intensity and is thus hardly visible on the gel image. ++, The 77 kb band of strain CIP 105210T showed increased fluorescence intensity and presumably represents a double band (plasmid duplet).\n                           \n                           \n                           \n                        ",
+        "Fig. 2.  \n                              \n                              Midpoint-rooted MP phylogeny inferred from 16S rRNA gene sequences of Phaeobacter strains closely related to P. inhibens and P. gallaeciensis. Branches are scaled in terms of the minimum number of substitutions (using deltran optimization; Stamatakis et al., 2008). Numbers above branches are support values from MP (left) and ML (right) bootstrapping. Original designation of strains\n                                 that are deposited at culture collections is indicated in parentheses; square brackets give the respective accession number.\n                              \n                              \n                              \n                           ",
+        "Fig. 3.  \n                              \n                              Secondary structure of the 16S rRNA variable region V4 of P. gallaeciensis CIP 105210T (a) and P. inhibens DSM 17395 (b) demonstrating transition of bases 614 and 626 (E. coli numbering; bases 529 and 541 according to the CIP 105210T numbering). RNA folding was simulated using the Mfold web server for nucleic acid folding and hybridization prediction (Zuker, 2003; http://mfold.rna.albany.edu/?q=mfold/RNA-Folding-Form).\n                              \n                              \n                              \n                           ",
+        "Fig. 4.  \n                              \n                              Score-oriented dendrogram showing the similarity of MALDI-TOF mass spectra from cell extracts of selected Phaeobacter strains. The dendrogram was generated by the BioTyper software (version 3.0; Bruker Daltonics).\n                              \n                              \n                              \n                           ",
+        "Fig. 5.  \n                              \n                              Midpoint-rooted ML phylogeny inferred from ITS sequences of Phaeobacter strains closely related to P. inhibens and P. gallaeciensis. Branches are scaled in terms of the expected number of substitutions per site. Numbers above branches are support values\n                                 from ML (left) and MP (right) bootstrapping. Original designation of strains that are deposited at culture collections is\n                                 indicated in parentheses; square brackets give the respective accession number.\n                              \n                              \n                              \n                           "
+      ]
+    },
+    "license": {
+      "value": [
+
+      ]
+    },
+    "copyright": {
+      "value": [
+        "Copyright ©\n                     \t\t2015 International Union of Microbiological Societies\n                     \t\n                  "
+      ]
+    },
+    "file_hashes": [
+      {
+        "DC1": "675c7754722e186ffa1576435f3b2f4f"
+      },
+      {
+        "fulltext.html": "345883d7fdd1e14331ea163424e14b7d"
+      },
+      {
+        "fulltext.pdf": "ab6e80b488b6365fd707c85c20072d96"
+      },
+      {
+        "F4.small.gif": "ad008cdf55f016e3107fc06856481f7d"
+      },
+      {
+        "F1.small.gif": "665ee2996ce7c2e0b01365cce48cc777"
+      },
+      {
+        "F3.small.gif": "59f16fa10e76c125b5579c6c3f9a23ef"
+      },
+      {
+        "F5.small.gif": "c8f58568828e02c68b73a2eaffa377f3"
+      },
+      {
+        "F2.small.gif": "49aad7288e9167df6555cac4e8078000"
+      }
+    ]
+  },
+  "http://ijs.sgmjournals.org/content/63/Pt_11/4350.full": {
+    "publisher": {
+      "value": [
+        "Society for General Microbiology"
+      ]
+    },
+    "journal": {
+      "value": [
+        "International Journal of Systematic and Evolutionary\n                Microbiology"
+      ]
+    },
+    "title": {
+      "value": [
+        "Reclassification of Bifidobacterium stercoris Kim et al. 2010 as a later heterotypic synonym of Bifidobacterium adolescentis"
+      ]
+    },
+    "authors": {
+      "value": [
+        "J. Killer",
+        "I. Sedláček",
+        "V. Rada",
+        "J. Havlík",
+        "J. Kopečný"
+      ]
+    },
+    "date": {
+      "value": [
+        "11/01/2013"
+      ]
+    },
+    "doi": {
+      "value": [
+        "10.1099/ijs.0.054957-0"
+      ]
+    },
+    "volume": {
+      "value": [
+        "63"
+      ]
+    },
+    "issue": {
+      "value": [
+        "Pt 11"
+      ]
+    },
+    "firstpage": {
+      "value": [
+        "4350"
+      ]
+    },
+    "abstract": {
+      "value": [
+        "\n                  \n                      Next Section\n                  Abstract\n                  \n                  The taxonomic position of Bifidobacterium stercoris Eg1T ( = JCM 15918T) based on comparative 16S rRNA gene and hsp60 sequence analyses was found to be controversial, as the strain showed high similarity to the type strain of Bifidobacterium adolescentis, CCUG 18363T. Therefore, the relationship between the two species was investigated by a taxonomic study that included, in addition to\n                     re-evaluation of the 16S rRNA gene sequence, determination of DNA–DNA binding and multilocus sequence analysis (MLSA) of housekeeping\n                     genes encoding the DNA-directed RNA polymerase B subunit (rpoC), putative xylulose-5-phosphate/fructose-6-phosphate phosphoketolase (xfp), elongation factor EF-G (fusA), 50S ribosomal protein L2 (rplB) and DNA gyrase B subunit (gyrB). Comparative 16S rRNA gene sequence analysis showed relatively high similarity (98.9 %) between B. stercoris KCTC 5756T and B. adolescentis ATCC 15703T. MLSA revealed close relatedness between B. stercoris KCTC 5756T and B. adolescentis CCUG 18363T, with 99.3–100 % similarity between the rpoC, xfp, fusA, rplB and gyrB gene sequences. In addition, relatively high dnaJ1 gene sequence similarity of 97.7 % was found between the strains. Similar phenotypes and a high DNA–DNA binding value (78.9 %)\n                     confirmed that B. stercoris and B. adolescentis are synonymous. Based on these results, it is proposed that the species Bifidobacterium stercoris Kim et al. 2010 should be reclassified as a later heterotypic synonym of Bifidobacterium adolescentis Reuter 1963 (Approved Lists 1980).\n                  \n                  \n               "
+      ]
+    },
+    "fulltext_html": {
+      "value": [
+        "http://ijs.sgmjournals.org/content/63/Pt_11/4350.full"
+      ]
+    },
+    "fulltext_pdf": {
+      "value": [
+        "http://ijs.sgmjournals.org/content/63/Pt_11/4350.full.pdf"
+      ]
+    },
+    "supplementary_material": {
+      "value": [
+        "http://ijs.sgmjournals.org/content/63/Pt_11/4350/suppl/DC1"
+      ]
+    },
+    "figure": {
+      "value": [
+        "http://ijs.sgmjournals.org/content/63/Pt_11/4350/F1.small.gif"
+      ]
+    },
+    "figure_caption": {
+      "value": [
+        "Fig. 1.  \n                     \n                     Phylogenetic tree of the family Bifidobacteriaceae showing the very close relationship of B. adolescentis CCUG 18363T and B. stercoris KCTC 5756T, reconstructed by the maximum-likelihood method based on concatenated partial sequences of the hsp60 (539 nt) and xfp (418 nt) genes using mega version 5.05 software after removing hypervariable positions by using the program Gblocks. Sequence data were aligned using\n                        the clustal w algorithm. The Tamura–Nei model was used for reconstruction of the phylogenetic tree. Bootstrap values, expressed as percentages\n                        of 1000 datasets, are given at nodes. GenBank accession numbers of partial gene sequences derived from type strains are presented\n                        in Table S1. The tree was rooted by Gardnerella vaginalis ATCC 14018T. Bar, 0.04 substitutions per nucleotide position.\n                     \n                     \n                     \n                  "
+      ]
+    },
+    "license": {
+      "value": [
+
+      ]
+    },
+    "copyright": {
+      "value": [
+        "Copyright ©\n                     \t\t2015 International Union of Microbiological Societies\n                     \t\n                  "
+      ]
+    },
+    "file_hashes": [
+      {
+        "DC1": "798a2145a5155c74c0934a561456a369"
+      },
+      {
+        "fulltext.html": "0daef1d4fd8c1028078b2e9c3433275d"
+      },
+      {
+        "fulltext.pdf": "19da9ce1aa76192e1c8c69a0706c1a68"
+      },
+      {
+        "F1.small.gif": "d11d91f8dd9bdc9a3a59c8072ab24ba8"
+      }
+    ]
+  }
+}
