@@ -1,5 +1,15 @@
 {
   "url": "ijs\\.sgmjournals\\.org",
+  "followables": {
+    "figure_expansion": {
+      "selector": "//div[contains(@class, 'fig-inline')]//a[text()='In this window']",
+      "attribute": "href"
+    },
+    "suppdata_expansion": {
+      "selector": "//a[@rel='supplemental-data']",
+      "attribute": "href"
+    }
+  },
   "elements": {
     "publisher": {
       "selector": "//meta[@name='DC.Publisher']",
@@ -56,13 +66,15 @@
       }
     },
     "supplementary_material": {
-      "selector": "//a[@rel='supplemental-data']",
+      "follow": "suppdata_expansion",
+      "selector": "//div[@id='content-block']//a",
       "attribute": "href",
       "download": true
     },
     "figure": {
-      "selector": "//div[contains(@class, 'fig-inline')]/a/img",
-      "attribute": "src",
+      "follow": "figure_expansion",
+      "selector": "//div[contains(@class, 'fig-expansion')]/a",
+      "attribute": "href",
       "download": true
     },
     "figure_caption": {
@@ -78,4 +90,4 @@
       "attribute": "text"
     }
   }
-}	
+}
