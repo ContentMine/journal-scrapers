@@ -1,0 +1,63 @@
+{
+    "url": "scripts\\.iucr\\.org",
+    "comment": "A scraper for the IUCr Acta Cryst. E journal (S.G.)",
+    "comment": "The full text HTML is not downloaded in this file since the page only gives a frame set, not the text itself.",
+    "comment": "This scraper probably gets the same input HTML as the 'acta-e-doi.json' scraper. (S.G.)",
+    "elements" : {
+        "htmlBodyAuthors": {
+            "selector": "//a[contains(@href, 'author_name=')]",
+            "attribute": "text"
+        },
+        "htmlBodyAuthorUrls": {
+            "selector": "//a[contains(@href, 'author_name=')]",
+            "attribute": "href"
+        },
+
+
+        "identifier": {
+            "selector": "//meta[@name='DC.identifier']",
+            "attribute": "content"
+        },
+
+        "publisher": {
+            "selector": "//meta[@name='DC.publisher']",
+            "attribute": "content"
+        },
+        "creators": {
+            "selector": "//meta[@name='DC.creator']",
+            "attribute": "content"
+        },
+        "contributors": {
+            "selector": "//meta[@name='DC.contributor']",
+            "attribute": "content"
+        },
+        "source": {
+            "selector": "//meta[@name='DC.source']",
+            "attribute": "content"
+        },
+        "license": {
+            "selector": "//meta[@name='DC.rights']",
+            "attribute": "content"
+        },
+        "date": {
+            "selector": "//meta[@name='DC.date']",
+            "attribute": "content"
+        },
+        "language": {
+            "selector": "//meta[@name='DC.language']",
+            "attribute": "content"
+        },
+        "description": {
+            "selector": "//meta[@name='DC.description']",
+            "attribute": "content"
+        },
+
+        "fulltext_pdf": {
+            "selector": "//a[img[@alt='pdf version']]",
+            "attribute": "href",
+            "download": {
+              "rename": "fulltext.pdf"
+            }
+        }
+    }
+}
