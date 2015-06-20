@@ -1,5 +1,6 @@
 {
-  "url": "\\w+\\.\\w+",
+  "url": "journals\\.new\\.iucr\\.org/.*.html",
+  "comment": "A scraper for the new layout IUCr Acta Cryst. E journal",
   "elements": {
     "fulltext_pdf": {
       "selector": "//meta[@name='citation_pdf_url']",
@@ -46,6 +47,10 @@
     "description": {
       "selector": "//meta[@name='description']",
       "attribute": "content"
+    },
+    "abstract": {
+      "selector": "//div[@id='abs']",
+      "attribute": "html"
     }
   }
 }
