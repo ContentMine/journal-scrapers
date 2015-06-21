@@ -2,6 +2,14 @@
   "url": "journals\\.new\\.iucr\\.org/.*.html",
   "comment": "A scraper for the new layout IUCr Acta Cryst. E journal",
   "elements": {
+    "htmlBodyAuthors": {
+        "selector": "//div[@class='au']//span[@class='au']",
+        "attribute": "text"
+    },
+    "htmlBodyAuthorUrls": {
+        "selector": "//div[@class='au']//a[contains(@href, '/citedin')]",
+        "attribute": "href"
+    },
     "identifier": {
         "selector": "//meta[@name='DC.identifier']",
         "attribute": "content"
