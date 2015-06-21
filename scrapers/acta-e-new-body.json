@@ -1,6 +1,7 @@
 {
   "url": "journals\\.new\\.iucr\\.org/.*.html",
   "comment": "A scraper for the new layout IUCr Acta Cryst. E journal",
+  "comment": "The full text HTML is not downloaded in this file since the page only gives a frame set, not the text itself.",
   "elements": {
     "htmlBodyAuthors": {
         "selector": "//div[@class='au']//span[@class='au']",
@@ -61,9 +62,7 @@
     "fulltext_html": {
       "selector": "//meta[@name='citation_fulltext_url']",
       "attribute": "content",
-      "download": {
-        "rename": "fulltext.html"
-      }
+      "download": false
     },
     "title": {
       "selector": "//meta[@name='citation_title']",
