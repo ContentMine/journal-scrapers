@@ -2,6 +2,47 @@
   "url": "journals\\.new\\.iucr\\.org/.*.html",
   "comment": "A scraper for the new layout IUCr Acta Cryst. E journal",
   "elements": {
+    "identifier": {
+        "selector": "//meta[@name='DC.identifier']",
+        "attribute": "content"
+    },
+    "publisher": {
+        "selector": "//meta[@name='DC.publisher']",
+        "attribute": "content"
+    },
+    "creators": {
+        "selector": "//meta[@name='DC.creator']",
+        "attribute": "content"
+    },
+    "contributors": {
+        "selector": "//meta[@name='DC.contributor']",
+        "attribute": "content"
+    },
+    "source": {
+        "selector": "//meta[@name='DC.source']",
+        "attribute": "content"
+    },
+    "license": {
+        "selector": "//meta[@name='DC.rights']",
+        "attribute": "content"
+    },
+    "date": {
+        "selector": "//meta[@name='DC.date']",
+        "attribute": "content"
+    },
+    "language": {
+        "selector": "//meta[@name='DC.language']",
+        "attribute": "content"
+    },
+    "description": {
+      "selector": "//meta[@name='DC.description']",
+      "attribute": "content"
+    },
+    "fulltext_html_frameset": {
+        "selector": "//meta[@name='citation_fulltext_url']",
+        "attribute": "content",
+        "download": false
+    },
     "fulltext_pdf": {
       "selector": "//meta[@name='citation_pdf_url']",
       "attribute": "content",
@@ -24,6 +65,22 @@
       "selector": "//meta[@name='citation_author']",
       "attribute": "content"
     },
+    "author_institutions": {
+        "selector": "//meta[@name='citation_author_institution']",
+        "attribute": "content"
+    },
+    "corresponding_author_email": {
+        "selector": "//meta[@name='citation_author_email']",
+        "attribute": "content"
+    },
+    "citationDate": {
+        "selector": "//meta[@name='citation_date']",
+        "attribute": "content"
+    },
+    "onlineDate": {
+        "selector": "//meta[@name='citation_online_date']",
+        "attribute": "content"
+    },
     "date": {
       "selector": "//meta[@name='citation_date']",
       "attribute": "content"
@@ -44,9 +101,21 @@
       "selector": "//meta[@name='citation_firstpage']",
       "attribute": "content"
     },
-    "description": {
-      "selector": "//meta[@name='DC.description']",
-      "attribute": "content"
+    "lastpage": {
+        "selector": "//meta[@name='citation_lastpage']",
+        "attribute": "content"
+    },
+    "doi": {
+        "selector": "//meta[@name='citation_doi']",
+        "attribute": "content"
+    },
+    "journal": {
+        "selector": "//meta[@name='citation_journal_title']",
+        "attribute": "content"
+    },
+    "issn": {
+        "selector": "//meta[@name='citation_issn']",
+        "attribute": "content"
     },
     "abstract": {
       "selector": "//div[@id='abs']",
@@ -58,6 +127,11 @@
         "download": {
             "rename": "abstract.html"
         }
+    },
+    "figure": {
+        "selector": "//div[@class='scheme']//img",
+        "attribute": "src",
+        "download": true
     },
     "references": {
       "selector": "//meta[@name='citation_reference']",
