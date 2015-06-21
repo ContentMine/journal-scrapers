@@ -51,6 +51,10 @@
     "abstract": {
       "selector": "//div[@id='abs']",
       "attribute": "html"
+    },
+    "references": {
+      "selector": "//meta[@name='citation_reference']",
+      "attribute": "content"
     }
   }
 }
