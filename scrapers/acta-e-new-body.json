@@ -135,11 +135,11 @@
             "rename": "abstract.html"
         }
     },
-    "cif": {
+    "coordinates_cif": {
         "selector": "//a[@title='CIF']",
         "attribute": "href",
         "download": {
-            "rename": "supplement.cif"
+            "rename": "coordinates.cif"
         }
     },
     "figure": {
