@@ -10,7 +10,7 @@
       }
     },
     "fulltext_html": {
-      "selector": "//meta[@name='citation_fulltext_html_url']",
+      "selector": "//meta[@name='citation_fulltext_url']",
       "attribute": "content",
       "download": {
         "rename": "fulltext.html"
@@ -45,12 +45,19 @@
       "attribute": "content"
     },
     "description": {
-      "selector": "//meta[@name='description']",
+      "selector": "//meta[@name='DC.description']",
       "attribute": "content"
     },
     "abstract": {
       "selector": "//div[@id='abs']",
       "attribute": "html"
+    },
+    "abstract_html": {
+        "selector": "//meta[@name='citation_abstract_html_url']",
+        "attribute": "content",
+        "download": {
+            "rename": "abstract.html"
+        }
     },
     "references": {
       "selector": "//meta[@name='citation_reference']",
