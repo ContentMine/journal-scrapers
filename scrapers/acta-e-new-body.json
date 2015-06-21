@@ -135,6 +135,13 @@
             "rename": "abstract.html"
         }
     },
+    "cif": {
+        "selector": "//a[@title='CIF']",
+        "attribute": "href",
+        "download": {
+            "rename": "supplement.cif"
+        }
+    },
     "figure": {
         "selector": "//div[@class='scheme']//img",
         "attribute": "src",
