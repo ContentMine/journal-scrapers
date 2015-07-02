@@ -1,0 +1,254 @@
+{
+  "url": "pss\\.sagepub\\.com",
+  "elements": {
+    "publisher": {
+      "selector": "//meta[@name='DC.Publisher']",
+      "attribute": "content"
+    },
+    
+    "journal_name": {
+      "selector": "//meta[@name='citation_journal_title']",
+      "attribute": "content"
+    },
+
+    "journal_issn": {
+      "selector": "//meta[@name='citation_issn']",
+      "attribute": "content"
+    },
+    
+    "volume": {
+      "selector": "//meta[@name='citation_volume']",
+      "attribute": "content"
+    },
+
+    "issue": {
+      "selector": "//meta[@name='citation_issue']",
+      "attribute": "content"
+    },
+
+    "firstpage": {
+      "selector": "//meta[@name='citation_firstpage']",
+      "attribute": "content"
+    },
+
+    "title": {
+      "selector": "//meta[@name='DC.Title']",
+      "attribute": "content"
+    },
+
+    "keywords": {
+      "selector": "//meta[@name='']",
+      "attribute": "content"
+    },
+
+    "author_name": {
+      "selector": "//meta[@name='citation_author']",
+      "attribute": "content"
+    },
+
+    "author_institution": {
+      "selector": "//meta[@name='citation_author_institution']",
+      "attribute": "content"
+    },
+    
+    "author_givenName": {
+      "selector": "//meta[@name='']",
+      "attribute": "content"
+    },
+
+    "author_familyName": {
+      "selector": "//meta[@name='']",
+      "attribute": "content"
+    },
+    
+    "author_orcid": {
+      "selector": "//meta[@name='']",
+      "attribute": "content"
+    },
+
+    "date_published": {
+      "selector": "//*[@id='slugline']/cite/span[1]",
+      "attribute": "html"
+    },
+
+    "date_accepted": {
+      "selector": "//*[@id='content-block']/div[3]/ul[2]/li[2]",
+      "attribute": "html"
+    },
+
+    "date_submitted": {
+      "selector": "//*[@id='content-block']/div[3]/ul[2]/li[1]",
+      "attribute": "html"
+    },
+
+    "doi": {
+      "selector": "//meta[@name='citation_doi']",
+      "attribute": "content"
+    },
+
+    "pmid": {
+      "selector": "//meta[@name='citation_pmid']",
+      "attribute": "content"
+    },
+
+    "license": {
+      "selector": "//*[@id='']",
+      "attribute": "html"
+    },
+
+    "copyright": {
+      "selector": "//*[@id='copyright-statement-1']",
+      "attribute": "html"
+    },
+
+
+
+
+
+    "language": {
+      "selector": "//meta[@name='DC.Language']",
+      "attribute": "content"
+    },
+
+
+    "language": {
+      "selector": "//meta[@name='DC.Language']",
+      "attribute": "content"
+    },
+
+    "article_type": {
+      "selector": "//meta[@name='citation_section']",
+      "attribute": "content"
+    },
+
+    "fulltext_html": {
+      "selector": "//meta[@name='citation_fulltext_html_url']",
+      "attribute": "content",
+      "download": {
+        "rename": "fulltext.html"
+      }
+    },
+
+    "fulltext_pdf": {
+      "selector": "//meta[@name='citation_pdf_url']",
+      "attribute": "content",
+      "download": {
+        "rename": "fulltext.pdf"
+      }
+    },
+
+    "fulltext_xml": {
+      "selector": "//meta[@name='']",
+      "attribute": "content",
+      "download": {
+        "rename": "fulltext.xml"
+      }
+    },    
+
+    "supplementary_file": {
+      "selector": "",
+      "attribute": "href",
+      "download": true
+    },
+
+    "abstract_html": {
+      "selector": "//*[@id='abstract-1']",
+      "attribute": "html"
+    },
+
+    "abstract_text": {
+      "selector": "//*[@id='p-2']",
+      "attribute": "html"
+    },
+
+    "introduction_html": {
+      "selector": "",
+      "attribute": "html"
+    },
+
+    "introduction_text": {
+      "selector": "",
+      "attribute": "html"
+    },
+
+    "methods_html": {
+      "selector": "//*[@id='sec-1']",
+      "attribute": "html"
+    },
+
+    "methods_text": {
+      "selector": "",
+      "attribute": "html"
+    },
+
+    "results_html": {
+      "selector": "//*[@id='sec-5']",
+      "attribute": "html"
+    },
+
+    "results_text": {
+      "selector": "",
+      "attribute": "html"
+    },
+
+    "discussion_html": {
+      "selector": "//*[@id='sec-6']",
+      "attribute": "html"
+    },
+
+    "discussion_text": {
+      "selector": "",
+      "attribute": "html"
+    },
+
+    "conclusions_html": {
+      "selector": "//*[@id='sec-7']",
+      "attribute": "html"
+    },
+
+    "conclusions_text": {
+      "selector": "",
+      "attribute": "html"
+    },
+
+    "author_contrib_html": {
+      "selector": "//*[@id='fn-1']",
+      "attribute": "html"
+    },
+
+    "author_contrib_text": {
+      "selector": "",
+      "attribute": "html"
+    },
+
+    "competing_interests_html": {
+      "selector": "//div[contains(@class, 'fn-conflict')]",
+      "attribute": "html"
+    },
+
+    "competing_interests_text": {
+      "selector": "",
+      "attribute": "html"
+    },
+
+    "figures_html": {
+      "selector": "",
+      "attribute": "html"
+    },
+
+    "figures_image": {
+      "selector": "",
+      "attribute": "html"
+    },
+
+    "tables_html": {
+      "selector": "",
+      "attribute": "html"
+    },
+
+    "references_html": {
+      "selector": "//*[@id='ref-list-1']",
+      "attribute": "html"
+    }
+  }
+} 
