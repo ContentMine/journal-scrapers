@@ -1,0 +1,98 @@
+{
+  "url": "ijs\\.sgmjournals\\.org",
+  "followables": {
+    "fulltext_expansion": {
+      "selector": "//div[@id='itemFullTextId']",
+      "attribute": "data-fulltexturl"
+    },
+    "figure_expansion": {
+      "selector": "//div[@id='tab3']",
+      "attribute": "data-ajaxurl"
+    },
+    "suppdata_expansion": {
+      "selector": "//div[@id='tab5']",
+      "attribute": "data-ajaxurl"
+    }
+  },
+  "elements": {
+    "publisher": {
+      "selector": "//meta[@name='dc.publisher']",
+      "attribute": "content"
+    },
+    "journal": {
+      "selector": "//meta[@name='citation_journal_title']",
+      "attribute": "content"
+    },
+    "title": {
+      "selector": "//meta[@name='citation_title']",
+      "attribute": "content"
+    },
+    "authors": {
+      "selector": "//meta[@name='citation_author']",
+      "attribute": "content"
+    },
+    "date": {
+      "selector": "//meta[@name='citation_publication_date']",
+      "attribute": "content"
+    },
+    "doi": {
+      "selector": "//meta[@name='citation_doi']",
+      "attribute": "content"
+    },
+    "volume": {
+      "selector": "//meta[@name='citation_volume']",
+      "attribute": "content"
+    },
+    "issue": {
+      "selector": "//meta[@name='citation_issue']",
+      "attribute": "content"
+    },
+    "firstpage": {
+      "selector": "//meta[@name='citation_firstpage']",
+      "attribute": "content"
+    },
+    "abstract": {
+      "selector": "//meta[@name='citation_abstract']",
+      "attribute": "content"
+    },
+    "fulltext_html": {
+      "follow": "fulltext_expansion",
+      "selector": "//html",
+      "download": {
+        "rename": "fulltext.html"
+      }
+    },
+    "fulltext_pdf": {
+      "selector": "//a[@rel='external'][2]",
+      "attribute": "href",
+      "download": {
+        "rename": "fulltext.pdf"
+      }
+    },
+    "supplementary_material": {
+      "follow": "suppdata_expansion",
+      "selector": "//a[@rel='external']",
+      "attribute": "href",
+      "download": true
+    },
+    "figure": {
+      "follow": "figure_expansion",
+      "selector": "//div[@class='modal-body']/div/img",
+      "attribute": "src",
+      "download": true
+    },
+    "figure_caption": {
+      "follow": "figure_expansion",
+      "selector": "//div[@class='metadata_description']",
+      "attribute": "text"
+    },
+    "license": {
+      "selector": "//div[contains(@class, 'license')]",
+      "attribute": "text"
+    },
+    "copyright": {
+      "selector": "//div/p[contains(@class, 'copyright')]",
+      "attribute": "text"
+    }
+  }
+}
