@@ -1,0 +1,105 @@
+{
+  "url": "\\w+\\.\\pensoft.net",
+  "elements": {
+    "followables": {
+      "fulltext_expansion": {
+        "selector": "//iframe[@id='articleIframe']",
+        "attribute": "src"
+      }
+    },
+    "fulltext_pdf": {
+      "selector": "//meta[@name='citation_pdf_url']",
+      "attribute": "content",
+      "download": {
+        "rename": "fulltext.pdf"
+      }
+	},
+    "fulltext_html": {
+      "selector": "//iframe[@id='articleIframe']",
+      "attribute": "src",
+      "download": {
+        "rename": "fulltext.html"
+      }
+    },
+    "fulltext_xml": {
+      "selector": "//link[@type='application/xml']",
+      "attribute": "href",
+      "download": {
+        "rename": "fulltext.xml"
+      }
+    },
+    "title": {
+      "selector": "//meta[@name='citation_title']",
+      "attribute": "content"
+    },
+    "author": {
+      "selector": "//meta[@name='citation_author']",
+      "attribute": "content"
+    },
+    "date": {
+      "selector": "//meta[@name='citation_date']",
+      "attribute": "content"
+    },
+    "doi": {
+      "selector": "//meta[@name='citation_doi']",
+      "attribute": "content"
+    },
+    "volume": {
+      "selector": "//meta[@name='citation_volume']",
+      "attribute": "content"
+    },
+    "issue": {
+      "selector": "//meta[@name='citation_issue']",
+      "attribute": "content"
+    },
+    "firstpage": {
+      "selector": "//meta[@name='citation_firstpage']",
+      "attribute": "content"
+    },
+    "abstract": {
+      "selector": "//meta[@name='description']",
+      "attribute": "content"
+    },
+    "supplementary_material": {
+      "follow": "suppdata_expansion",
+      "selector": "//div[@id='content-block']//a",
+      "attribute": "href",
+      "download": true
+    },
+    "figure": {
+      "follow": "fulltext_expansion",
+      "selector": "//img[@class='image']",
+      "attribute": "src",
+      "download": true
+    },
+    "figure_caption": {
+      "follow": "fulltext_expansion",
+      "selector": "//div[@class='figureCaption']",
+      "attribute": "text"
+    },
+    "publication_name": {
+      "selector": "//meta[@name='prism.publicationName']",
+      "attribute": "content"
+    },
+    "publisher": {
+      "selector": "//meta[@name='dc.publisher']",
+      "attribute": "content"
+    },
+    "issn": {
+      "selector": "//meta[@name='prism.issn']",
+      "attribute": "content"
+    },
+    "eprints_type": {
+      "selector": "//meta[@name='eprints.type']",
+      "attribute": "content"
+    },
+    "license": {
+      "selector": "//meta[@name='dc.rights']",
+      "attribute": "content"
+    },
+    "copyright": {
+      "selector": "//meta[@name='prism.copyright']",
+      "attribute": "content"
+    }
+  }
+}
