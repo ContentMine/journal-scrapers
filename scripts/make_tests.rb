@@ -8,7 +8,7 @@ require 'tmpdir'
 parser = Trollop::Parser.new do
   banner <<-EOS
 make_tests.rb - ScraperJSON test generator script
-by Richard Smith-Unna <rds45@cam.ac.uk> for ContentMine.org
+by Richard Smith-Unna <richard5@contentmine.org> for ContentMine.org
 
 This script generates a test file from a ScraperJSON scraper definition
 and a list of URLs the scraper applies to.
@@ -68,11 +68,11 @@ Dir.chdir('test') do
           results = JSON.load(File.open 'results.json')
           files = Dir['*']
           files = files.keep_if { |f| f != 'results.json' }
-          file_hashes = []
+          file_sizes = []
           files.each do |f|
-            file_hashes << { f => Digest::MD5.file(f).hexdigest }
+            file_sizes << { f => File.size(f) }
           end
-          results['file_hashes'] = file_hashes
+          results['file_sizes'] = file_sizes
         end
         if (index + 1) < urls.length
           puts "waiting 5 seconds before next scrape"
