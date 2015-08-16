@@ -1,18 +1,12 @@
 language: ruby
 rvm:
   - 2.1.0
-addons:
-  apt:
-    packages:
-    - software-properties-common
-    - build-essential
-    - libfontconfig
 before_install:
   - nvm install 0.10.32
   - nvm use 0.10.32
   - npm update npm -g
 install:
-  - npm install --global quickscrape@0.3.3
+  - npm install --global quickscrape@0.4.6
 script:
   - ruby test/test_all.rb
 sudo: false
