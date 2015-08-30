@@ -19,7 +19,7 @@ def coverage(scraperjsonpath, results)
   # calculate coverage
   elements.each do |element|
     # calculate coverage for this line
-    if results.detect { |result| result.is_a? Hash && result.key? element }
+    if results.detect { |result| result.is_a?(Hash) && result.key?(element) }
       coverage << 1
     else
       coverage << 0
@@ -67,20 +67,21 @@ Dir.chdir(tmpdir) do
         results = JSON.load(File.open 'results.json')
         files = Dir['*']
         files = files.keep_if { |f| f != 'results.json' }.map{ |f| f.strip }
-        file_hashes = []
+        file_sizes = []
         files.each do |f|
-          file_hashes << { f => Digest::MD5.file(f).hexdigest }
+          file_sizes << { f => File.size(f) }
         end
-        results['file_hashes'] = file_hashes
+        results['file_sizes'] = file_sizes
       end
       coverage_files << coverage(scraper, results)
       # compare results to expected
       expected.each do |hash|
         key = hash.keys.first
-        next if key == 'file_hashes'
         exp_val = hash[key]
         exist = results.detect { |result| result.key? key }
-        match = results.detect { |result| result[key] == exp_val }
+        match = results.detect do |result|
+          result.key?(key) && result[key] == exp_val
+        end
         if exist && match
           puts "PASS: #{key}"
           passed += 1

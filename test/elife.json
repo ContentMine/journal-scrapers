@@ -55,7 +55,7 @@
     },
     "description": {
       "value": [
-        "eLife - Open access to the most promising advances in science"
+        "The molecular mechanism behind how emetine inhibits the ribosome of the human malaria parasite, along with structural details of the complex formed, is revealed at high resolution using cryo-electron microscopy."
       ]
     },
     "abstract": {
@@ -70,7 +70,7 @@
     },
     "fulltext_pdf": {
       "value": [
-        "http://elifesciences.org/content/elife/3/e03080.full.pdf"
+        "http://elifesciences.org/content/3/e03080.full.pdf"
       ]
     },
     "fulltext_xml": {
@@ -103,12 +103,12 @@
         ""
       ]
     },
-    "file_hashes": [
+    "file_sizes": [
       {
-        "fulltext.pdf": "851eb256466737ecd1de664e99151b1e"
+        "fulltext.pdf": 1584602
       },
       {
-        "fulltext.xml": "8e51231098b99ae7a87e9f635e0ffb18"
+        "fulltext.xml": 265268
       }
     ]
   },
@@ -169,7 +169,7 @@
     },
     "description": {
       "value": [
-        "eLife - Open access to the most promising advances in science"
+        "The number of CENP-A molecules at human centromeres helps to explain how this structure is built and epigenetically inherited."
       ]
     },
     "abstract": {
@@ -184,7 +184,7 @@
     },
     "fulltext_pdf": {
       "value": [
-        "http://elifesciences.org/content/elife/3/e02137.full.pdf"
+        "http://elifesciences.org/content/3/e02137.full.pdf"
       ]
     },
     "fulltext_xml": {
@@ -217,12 +217,12 @@
         ""
       ]
     },
-    "file_hashes": [
+    "file_sizes": [
       {
-        "fulltext.pdf": "99eeed6d3488672365d3ccaabcc828b0"
+        "fulltext.pdf": 2756614
       },
       {
-        "fulltext.xml": "9b1d02beb7f46567507afb00b746698b"
+        "fulltext.xml": 336749
       }
     ]
   },
@@ -281,7 +281,7 @@
     },
     "description": {
       "value": [
-        "eLife - Open access to the most promising advances in science"
+        "In addition to its cytoplasmic role for translation, the seryl-tRNA synthetase also antagonizes the c-Myc transcription factor in the nucleus to transcriptionally repress the growth factor VEGFA and ensure proper development of the vasculature in vertebrates."
       ]
     },
     "abstract": {
@@ -296,7 +296,7 @@
     },
     "fulltext_pdf": {
       "value": [
-        "http://elifesciences.org/content/elife/3/e02349.full.pdf"
+        "http://elifesciences.org/content/3/e02349.full.pdf"
       ]
     },
     "fulltext_xml": {
@@ -329,12 +329,12 @@
         ""
       ]
     },
-    "file_hashes": [
+    "file_sizes": [
       {
-        "fulltext.pdf": "7d8c1c8c30073ee4835035f0edab70a6"
+        "fulltext.pdf": 6826005
       },
       {
-        "fulltext.xml": "9de87984f8608b2fa85d50cd99064194"
+        "fulltext.xml": 184217
       }
     ]
   },
@@ -408,7 +408,7 @@
     },
     "description": {
       "value": [
-        "eLife - Open access to the most promising advances in science"
+        "One-quarter of the Chondrichthyes have an elevated risk of extinction, mainly as a result of overfishing."
       ]
     },
     "abstract": {
@@ -423,7 +423,7 @@
     },
     "fulltext_pdf": {
       "value": [
-        "http://elifesciences.org/content/elife/3/e00590.full.pdf"
+        "http://elifesciences.org/content/3/e00590.full.pdf"
       ]
     },
     "fulltext_xml": {
@@ -456,12 +456,12 @@
         ""
       ]
     },
-    "file_hashes": [
+    "file_sizes": [
       {
-        "fulltext.pdf": "0346be2f1154e0bd608459b19682a08b"
+        "fulltext.pdf": 3862063
       },
       {
-        "fulltext.xml": "4890527e549d9f9ee3f8ec22ea06f414"
+        "fulltext.xml": 458687
       }
     ]
   },
@@ -495,7 +495,7 @@
         "Dung T Le",
         "Evan J Lipson",
         "Paul B Chapman",
-        "Luis A Diaz, Jr",
+        "Luis A Diaz",
         "Bert Vogelstein",
         "Martin A Nowak"
       ]
@@ -527,7 +527,7 @@
     },
     "description": {
       "value": [
-        "eLife - Open access to the most promising advances in science"
+        "A study that models the evolution of drug resistance in tumors reveals that drugs are more effective when given in combination than sequentially, and that cure is much more likely when the drugs target different pathways."
       ]
     },
     "abstract": {
@@ -542,7 +542,7 @@
     },
     "fulltext_pdf": {
       "value": [
-        "http://elifesciences.org/content/elife/2/e00747.full.pdf"
+        "http://elifesciences.org/content/2/e00747.full.pdf"
       ]
     },
     "fulltext_xml": {
@@ -575,12 +575,12 @@
         ""
       ]
     },
-    "file_hashes": [
+    "file_sizes": [
       {
-        "fulltext.pdf": "c8e8c52362bbb1663c7d4c98cfbd0a56"
+        "fulltext.pdf": 3358321
       },
       {
-        "fulltext.xml": "77ac1d3b2d9bb7ba0c55daa06bf63e3e"
+        "fulltext.xml": 187697
       }
     ]
   }
