@@ -1,0 +1,64 @@
+{
+  "url": "\\w+\\.\\w+",
+  "elements": {
+    "fulltext_pdf": {
+      "selector": "//meta[@name='citation_pdf_url']",
+      "attribute": "content",
+      "download": {
+        "rename": "fulltext.pdf"
+      }
+    },
+    "fulltext_html": {
+      "selector": "//meta[@name='citation_fulltext_html_url']",
+      "attribute": "content",
+      "download": {
+        "rename": "fulltext.html"
+      }
+    },
+    "title": {
+      "selector": "//meta[@name='citation_title']",
+      "attribute": "content"
+    },
+    "author": {
+      "selector": "//meta[@name='citation_author']",
+      "attribute": "content"
+    },
+    "date": {
+      "selector": "//meta[@name='citation_publication_date']",
+      "attribute": "content"
+    },
+    "doi": {
+      "selector": "//meta[@name='citation_doi']",
+      "attribute": "content"
+    },
+    "volume": {
+      "selector": "//meta[@name='citation_volume']",
+      "attribute": "content"
+    },
+    "issue": {
+      "selector": "//meta[@name='citation_issue']",
+      "attribute": "content"
+    },
+    "firstpage": {
+      "selector": "//meta[@name='citation_firstpage']",
+      "attribute": "content"
+    },
+    "description": {
+      "selector": "//meta[@name='description']",
+      "attribute": "content"
+    },
+    "abstract": {
+      "selector": "//div[@id='abstract']//div[@class='para']",
+      "attribute": "text"
+    },
+    "supplementary_material": {
+      "selector": "//a[@title='Link to supporting information']",
+      "attribute": "href",
+      "download": true
+    },
+    "copyright": {
+      "selector": "//p[@id='copyright']",
+      "attribute": "text"
+    }
+  }
+}
