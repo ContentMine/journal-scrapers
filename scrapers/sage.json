@@ -1,5 +1,5 @@
 {
-  "url": "pss\\.sagepub\\.com",
+  "url": ".*\\.sagepub\\.com",
   "elements": {
     "publisher": {
       "selector": "//meta[@name='DC.Publisher']",
