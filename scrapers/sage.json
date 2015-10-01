@@ -32,8 +32,13 @@
     },
 
     "title": {
-      "selector": "//meta[@name='DC.Title']",
+      "selector": "//meta[@name='citation_title']",
       "attribute": "content"
+    },
+
+    "keywords": {
+      "selector": "//ul[contains(@class, 'kwd-group')]",
+      "attribute": "text"
     },
 
     "author_name": {
@@ -45,20 +50,10 @@
       "selector": "//meta[@name='citation_author_institution']",
       "attribute": "content"
     },
-    
+
     "date_published": {
       "selector": "//*[@id='slugline']/cite/span[1]",
-      "attribute": "html"
-    },
-
-    "date_accepted": {
-      "selector": "//*[contains(@class, 'accepted')]",
       "attribute": "text"
-    },
-
-    "date_submitted": {
-      "selector": "//*[contains(@class, 'received')]",
-      "attribute": "html"
     },
 
     "doi": {
@@ -93,43 +88,16 @@
     },
 
     "abstract_html": {
-      "selector": "//*[@id='abstract-1']",
-      "attribute": "html"
+      "selector": "//meta[@name='citation_abstract_html_url']",
+      "attribute": "content",
+      "download": {
+        "rename": "abstract.html"
+      }
     },
-
-    "methods_html": {
-      "selector": "//*[@id='sec-1']",
-      "attribute": "html"
-    },
-
-    "results_html": {
-      "selector": "//*[@id='sec-5']",
-      "attribute": "html"
-    },
-
-    "discussion_html": {
-      "selector": "//*[@id='sec-6']",
-      "attribute": "html"
-    },
-
-    "conclusions_html": {
-      "selector": "//*[@id='sec-7']",
-      "attribute": "html"
-    },
-
-    "author_contrib_html": {
-      "selector": "//*[@id='fn-1']",
-      "attribute": "html"
-    },
-
+    
     "competing_interests_html": {
-      "selector": "//*[contains(@class, 'conflict')]",
-      "attribute": "html"
-    },
-
-    "references_html": {
-      "selector": "//*[@id='ref-list-1']",
-      "attribute": "html"
+      "selector": "//*[contains(@class, 'fn-conflict')]",
+      "attribute": "text"
     }
   }
-} 
+}
