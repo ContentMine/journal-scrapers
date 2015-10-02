@@ -1,0 +1,89 @@
+{
+  "url": "onlinelibrary\\.wiley\\.com/doi/.*/.*/full",
+  "elements": {
+    "publisher": {
+      "selector": "//meta[contains(@name, 'publisher')]",
+      "attribute": "content"
+    },
+    
+    "journal_name": {
+      "selector": "//meta[contains(@name, 'citation_journal_title')]",
+      "attribute": "content"
+    },
+
+    "journal_issn": {
+      "selector": "//meta[contains(@name, 'citation_issn')]",
+      "attribute": "content"
+    },
+    
+    "volume": {
+      "selector": "//meta[contains(@name, 'citation_volume')]",
+      "attribute": "content"
+    },
+
+    "issue": {
+      "selector": "//meta[contains(@name, 'citation_issue')]",
+      "attribute": "content"
+    },
+
+    "firstpage": {
+      "selector": "//meta[contains(@name, 'citation_firstpage')]",
+      "attribute": "content"
+    },
+
+    "title": {
+      "selector": "//meta[contains(@name, 'citation_title')]",
+      "attribute": "content"
+    },
+
+    "author_name": {
+      "selector": "//meta[contains(@name, 'citation_author')]",
+      "attribute": "content"
+    },
+
+    "author_institution": {
+      "selector": "//meta[contains(@name, 'citation_author_institution')]",
+      "attribute": "content"
+    },
+
+    "date_published": {
+      "selector": "//meta[contains(@name, 'citation_publication_date')]",
+      "attribute": "text"
+    },
+
+    "doi": {
+      "selector": "//meta[contains(@name, 'citation_doi')]",
+      "attribute": "content"
+    },
+
+    "fulltext_html": {
+      "selector": "//meta[contains(@name, 'citation_fulltext_html_url')]",
+      "attribute": "content",
+      "download": {
+        "rename": "fulltext.html"
+      }
+    },
+
+    "fulltext_pdf": {
+      "selector": "//meta[contains(@name, 'citation_pdf_url')]",
+      "attribute": "content",
+      "download": {
+        "rename": "fulltext.pdf"
+      }
+    },
+
+    "abstract_html": {
+      "selector": "//meta[contains(@name, 'citation_abstract_html_url')]",
+      "attribute": "href",
+      "download": {
+        "rename": "abstract.html"
+      },
+
+    "figures_image": {
+      "selector": "//*[@id='desc12177-fig-0001_img']",
+      "attribute": "src",
+      "download": true
+    }
+    }
+  }
+}
