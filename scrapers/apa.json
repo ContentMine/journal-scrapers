@@ -1,0 +1,103 @@
+  {
+  "url": "web.a.ebscohost.com",
+  "elements": {
+    "publisher": {
+      "selector": "//meta[@name='DC.Publisher']",
+      "attribute": "content"
+    },
+    
+    "journal_name": {
+      "selector": "//meta[@name='citation_journal_title']",
+      "attribute": "content"
+    },
+
+    "journal_issn": {
+      "selector": "//meta[@name='citation_issn']",
+      "attribute": "content"
+    },
+    
+    "volume": {
+      "selector": "//meta[@name='citation_volume']",
+      "attribute": "content"
+    },
+
+    "issue": {
+      "selector": "//meta[@name='citation_issue']",
+      "attribute": "content"
+    },
+
+    "firstpage": {
+      "selector": "//meta[@name='citation_firstpage']",
+      "attribute": "content"
+    },
+
+    "title": {
+      "selector": "//title",
+      "attribute": "content"
+    },
+
+    "keywords": {
+      "selector": "//ul[contains(@class, 'kwd-group')]",
+      "attribute": "text"
+    },
+
+    "author_name": {
+      "selector": "//meta[@name='citation_author']",
+      "attribute": "content"
+    },
+
+    "author_institution": {
+      "selector": "//meta[@name='citation_author_institution']",
+      "attribute": "content"
+    },
+
+    "date_published": {
+      "selector": "//*[@id='slugline']/cite/span[1]",
+      "attribute": "text"
+    },
+
+    "doi": {
+      "selector": "//meta[@name='citation_doi']",
+      "attribute": "content"
+    },
+
+    "pmid": {
+      "selector": "//meta[@name='citation_pmid']",
+      "attribute": "content"
+    },
+
+    "copyright": {
+      "selector": "//*[@id='copyright-statement-1']",
+      "attribute": "html"
+    },
+
+    "fulltext_html": {
+      "selector": "//meta[@name='citation_fulltext_html_url']",
+      "attribute": "content",
+      "download": {
+        "rename": "fulltext.html"
+      }
+    },
+
+    "fulltext_pdf": {
+      "selector": "//meta[@name='citation_pdf_url']",
+      "attribute": "content",
+      "download": {
+        "rename": "fulltext.pdf"
+      }
+    },
+
+    "abstract_html": {
+      "selector": "//meta[@name='citation_abstract_html_url']",
+      "attribute": "content",
+      "download": {
+        "rename": "abstract.html"
+      }
+    },
+    
+    "competing_interests_html": {
+      "selector": "//*[contains(@class, 'fn-conflict')]",
+      "attribute": "text"
+    }
+  }
+}
