@@ -72,7 +72,7 @@
     },
 
     "fulltext_html": {
-      "selector": "//meta[@name='citation_fulltext_html_url']",
+      "selector": "//meta[contains(@name, 'fulltext_html']",
       "attribute": "content",
       "download": {
         "rename": "fulltext.html"
