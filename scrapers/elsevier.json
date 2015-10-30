@@ -1,6 +1,10 @@
 {
   "url": "sciencedirect\\.com",
   "elements": {
+    "title": {
+      "selector": "//title",
+      "attribute": "content"
+    },
     "fulltext_html": {
       "selector": "//link[contains(@rel, 'canonical')]",
       "attribute": "href",
