@@ -56,7 +56,7 @@
 
     "fulltext_pdf": {
       "selector": "//a[text()='PDF']",
-      "attribute": "content",
+      "attribute": "href",
       "download": {
         "rename": "fulltext.pdf"
       }
