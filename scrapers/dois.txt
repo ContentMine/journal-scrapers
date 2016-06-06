@@ -1,0 +1,315 @@
+http://dx.doi.org/10.1007/s10648-016-9367-1
+    Springer: (WORKS)
+	  <meta name="citation_publisher" content="Springer US"/>
+	  <meta name="citation_title" content="Gavriel Salomon: In Memoriam"/>
+	  <meta name="citation_firstpage" content="207"/>
+	  <meta name="citation_lastpage" content="213"/>
+	  <meta name="citation_doi" content="10.1007/s10648-016-9367-1"/>
+	  <meta name="citation_language" content="en"/>
+	  <meta name="citation_abstract_html_url" content="http://link.springer.com/article/10.1007/s10648-016-9367-1"/>
+	  <meta name="citation_fulltext_html_url" content="http://link.springer.com/article/10.1007/s10648-016-9367-1/fulltext.html"/>
+	  <meta name="citation_pdf_url" content="http://link.springer.com/content/pdf/10.1007%2Fs10648-016-9367-1.pdf"/>
+	  <meta name="citation_springer_api_url" content="http://api.springer.com/metadata/pam?q=doi:SpringerId(10.1007/s10648-016-9367-1)&amp;api_key="/>
+	  <meta name="citation_author" content="David Berliner"/>
+	  <meta name="citation_author_institution" content="Arizona State University"/>
+	  <meta name="citation_author" content="Denis Phillips"/>
+	  <meta name="citation_author_institution" content="Graduate School of Education, Stanford University"/>
+	  <meta name="citation_author" content="Moshe Zeidner"/>
+	  <meta name="citation_author_institution" content="University of Haifa"/>
+	  <meta name="citation_author" content="Erik de Corte"/>
+	  <meta name="citation_author_institution" content="Center for Instructional Psychology &amp; Technology (CIP&amp;T), University of Leuven"/>
+	  <meta name="citation_author" content="Rich Shavelson"/>
+	  <meta name="citation_author_institution" content="Graduate School of Education, Stanford University"/>
+	  <meta name="citation_author" content="Maria de Ibarrola"/>
+	  <meta name="citation_author_institution" content="Center for Research and Advanced Studies"/>
+	  <meta name="citation_author" content="Richard Clark"/>
+	  <meta name="citation_author_institution" content="University of Southern California, Berkeley"/>
+	  <meta name="citation_author_email" content="r.clark@usc.edu"/>
+	  <meta name="citation_journal_title" content="Educational Psychology Review"/>
+	  <meta name="citation_journal_abbrev" content="Educ Psychol Rev"/>
+	  <meta name="citation_volume" content="28"/>
+	  <meta name="citation_issue" content="2"/>
+	  <meta name="citation_issn" content="1040-726X"/>
+	  <meta name="citation_issn" content="1573-336X"/>
+	  <meta name="citation_online_date" content="2016/05/02"/>
+	  <meta name="citation_cover_date" content="2016/06/01"/>
+	  <meta name="dc.identifier" content="10.1007/s10648-016-9367-1"/>
+	  
+http://dx.doi.org/10.1037/abn0000162 =>
+    http://psycnet.apa.org/psycarticles/2016-21271-001
+	APA (FAILS)
+	     <title>PsycNET - Display Record</title>
+		<meta name="citation_publisher" content="American Psychological Association" /> 
+		<meta name="citation_authors" content="Lim, Michelle H.; Rodebaugh, Thomas L.; Zyphur, Michael J.; Gleeson, John F. M." /> 
+		<meta name="citation_title" content="Loneliness Over Time: The Crucial Role of Social Anxiety." /> 
+		<meta name="citation_date" content="Apr  28,  2016" /> 
+		<meta name="citation_doi" content="10.1037/abn0000162" /> 
+		<meta name="citation_abstract_html_url" content="http://psycnet.apa.org/psycarticles/2016-21271-001" /> 
+		<meta name="citation_fulltext_html_url" content="http://psycnet.apa.org/psycarticles/2016-21271-001.html" /> 
+		<meta name="citation_pdf_url" content="http://psycnet.apa.org/psycarticles/2016-21271-001.pdf" /> 
+		<meta name="citation_issn" content="1939-1846 (Electronic)" /> 
+		<meta name="citation_issn" content="0021-843X (Print)" /> 
+		<meta name="citation_keywords" content="loneliness; paranoia; social anxiety; depression; longitudinal" /> 
+		<meta property="og:site_name" content="APA PsycNET" /> 
+		<meta property="og:image" content="http://psycnet.apa.org/images/PsycNET_R.jpg" /> 
+		<meta property="fb:app_id" content="283445965181506" /> 
+		<meta property="og:locale" content="en_US" /> 
+		<meta property="og:title" content="Loneliness Over Time: The Crucial Role of Social Anxiety." /> 
+		<meta property="og:url" content="http://psycnet.apa.org/psycarticles/2016-21271-001" /> 
+		<meta property="og:description" content="Loneliness is known to be associated with multiple adverse physical outcomes, including higher mortality and morbidity risk. However, the impact of loneliness on mental health is less well researched, with most studies assessing how loneliness relates to depressive symptoms alone. We hypothesized that 2 mental health symptoms that relate to the fearloneliness. (PsycINFO Database Record (c) 2016 APA, all rights reserved)" />
+				<base href="http://psycnet.apa.org/" />
+				
+
+http://dx.doi.org/10.1080/00224545.2016.1184125 T+F (WORKS) http://www.tandfonline.com/doi/full/10.1080/00224545.2016.1184125
+    <title>
+            Patriotism and the Impact on Perceived Threat and Immigration Attitudes - The Journal of Social Psychology - 
+    </title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+	<meta name="robots" content="noarchive,nofollow" /> 
+    <meta property="og:type" content="article" /> 
+    <meta property="og:url" content="http://www.tandfonline.com/doi/abs/10.1080/00224545.2016.1184125" /> 
+    <meta property="og:title" content="Patriotism and the Impact on Perceived Threat and Immigration Attitudes" /> 
+    <meta property="og:description" content="Patriotism and the Impact on Perceived Threat and Immigration Attitudes. . . doi: 10.1080/00224545.2016.1184125" /> 
+    <meta property="og:site_name" content="Taylor & Francis" />
+
+http://dx.doi.org/10.1093/jpepsy/jsw029 OUP (WORKS) http://jpepsy.oxfordjournals.org/content/early/2016/05/01/jpepsy.jsw029
+      <title>Commentary: Demon$trating (Our) Value </title>
+      <meta content="/jpepsy/early/2016/05/01/jpepsy.jsw029.atom" name="HW.identifier" />
+      <meta name="DC.Format" content="text/html" />
+      <meta name="DC.Language" content="en" />
+      <meta content="Commentary: Demon$trating (Our) Value" name="DC.Title" />
+      <meta content="10.1093/jpepsy/jsw029" name="DC.Identifier" />
+      <meta content="2016-05-02" name="DC.Date" />
+      <meta content="Oxford University Press" name="DC.Publisher" />
+      <meta content="Michael A. Harris" name="DC.Contributor" />
+      <meta content="David V. Wagner" name="DC.Contributor" />
+      <meta content="Dmitry Dukhovny" name="DC.Contributor" />
+      <meta content="Journal of Pediatric Psychology" name="citation_journal_title" />
+      <meta content="J. Pediatr. Psychol." name="citation_journal_abbrev" />
+      <meta content="0146-8693" name="citation_issn" />
+      <meta content="1465-735X" name="citation_issn" />
+      <meta name="citation_author" content="Michael A. Harris" />
+      <meta name="citation_author_institution" content="Oregon Health &amp; Science University" />
+      <meta name="citation_author" content="David V. Wagner" />
+      <meta name="citation_author_institution" content="Oregon Health &amp; Science University" />
+      <meta name="citation_author" content="Dmitry Dukhovny" />
+      <meta name="citation_author_institution" content="Oregon Health &amp; Science University" />
+      <meta content="Commentary: Demon$trating (Our) Value" name="citation_title" />
+      <meta content="jsw029" name="citation_firstpage" />
+      <meta content="jsw029v1" name="citation_id" />
+      <meta content="//jpepsy.jsw029" name="citation_id_from_sass_path" />
+      <meta content="jpepsy;jsw029v1" name="citation_mjid" />
+      <meta content="10.1093/jpepsy/jsw029" name="citation_doi" />
+      <meta content="http://jpepsy.oxfordjournals.org/content/early/2016/05/01/jpepsy.jsw029.full"
+            name="citation_fulltext_html_url" />
+      <meta content="http://jpepsy.oxfordjournals.org/content/early/2016/05/01/jpepsy.jsw029.full.pdf"
+            name="citation_pdf_url" />
+      <meta content="http://jpepsy.oxfordjournals.org/content/early/2016/05/01/jpepsy.jsw029"
+            name="citation_public_url" />
+      <meta content="27143177" name="citation_pmid" />
+      <meta name="citation_section" content="Commentary" />
+      <meta name="robots" content="noarchive" />
+
+http://dx.doi.org/10.1108/jcp-02-2016-0004 Emerald
+    http://www.emeraldinsight.com/doi/abs/10.1108/JCP-02-2016-0004 FAILS
+
+<link rel="schema.DC" href="http://purl.org/DC/elements/1.0/" />
+<meta name="dc.Title" content="Psychopathic features in young incarcerated females" />
+<meta name="citation_journal_title" content="Journal of Criminal Psychology" />
+<meta name="dc.Creator" content=" Susanne Strand " />
+<meta name="dc.Creator" content=" Stefan Luebbers " />
+<meta name="dc.Creator" content=" Stephane M. Shepherd " />
+<meta name="dc.Subject" content="Psychopathy; Self-harm; Childhood trauma; AD/HD; Criminal offending; Female juveniles" />
+<meta name="dc.Description" content="Purpose – The purpose of this paper is to explore the relationship between psychopathic features as measured with the Psychopathy Checklist: Youth Version (PCL:YV) and behavi... be identifying young females with AD/HD r..." />
+<meta name="dc.Publisher" content=" Emerald Group Publishing Limited " />
+<meta name="dc.Date" scheme="WTN8601" content="2016-05-05" />
+<meta name="dc.Type" content="research-article" />
+<meta name="dc.Format" content="text/HTML" />
+<meta name="dc.Identifier" scheme="doi" content="10.1108/JCP-02-2016-0004" />
+<meta name="dc.Identifier" scheme="original-pdf" content="JCP-02-2016-0004.pdf" />
+<meta name="dc.Source" content="http://dx.doi.org/10.1108/JCP-02-2016-0004" />
+<meta name="dc.Language" content="en" /><meta name="dc.Coverage" content="world" />
+<meta name="keywords" content="Psychopathy, Self-harm, Childhood trauma, AD/HD, Criminal offending, Female juveniles" />
+    <meta name="Dcsuri" content="/doi/abs/10.1108/JCP-02-2016-0004" />
+    <meta name="Dcscip" content="131.111.112.229" />
+        <meta name="WT.cg_n" content="View Abstract" />
+    <meta name="DCSext.WT_issn" content="2009-3829" />
+    <meta name="DCSext.WT_name" content="Journal of Criminal Psychology" />
+        <meta name="DCSext.WT_Subject" content="Criminology & forensic psychology" />
+        <meta name="DCSext.WT_Subject" content="Criminal justice" />
+        <meta name="DCSext.WT_Subject" content="Criminal psychology" />
+        <meta name="DCSext.WT_Subject" content="Deviant behaviour" />
+        <meta name="DCSext.WT_Subject" content="Journals" />
+        <meta name="DCSext.WT_Subject" content="EMF Health Care Management" />
+        <meta name="DCSext.WT_Subject" content="Journal With sample articles" />
+        <meta name="DCSext.WT_Subject" content="Emerald Health and Social Care eJournal Collection" />
+        <meta name="DCSext.WT_Subject" content="Emerald Management First Criminology / Forensic Psychology eJournal Collection" />
+        <meta name="DCSext.WT_Subject" content="Emerald Management First Health and Social Care eJournal Collection" />
+        <meta name="DCSext.WT_Subject" content="Emerald Criminology / Forensic Psychology eJournal Collection" />
+        <meta name="DCSext.WT_Subject" content="2012 Emerald Health and Social Care eJournal Collection" />
+        <meta name="DCSext.WT_Subject" content="Emerald eJournal Premier Collection" />
+        <meta name="DCSext.WT_Subject" content="Health & Social Care" />
+        <meta name="DCSext.WT_Subject" content="Emerald Collection" />
+    <meta name="WT.si_n" content="DocAccess" />
+    <meta name="WT.si_x" content="3" />
+        <meta name="DCSext.WT_volume" content="Volume 6" />
+        <meta name="DCSext.WT_issue" content="Issue 2" />
+        <meta name="DCSext.WT_doi" content="10.1108/JCP-02-2016-0004" />
+        <meta name="DCSext.WT_title" content="Psychopathic features in young incarcerated females" />
+
+
+
+http://dx.doi.org/10.1123/jpah.2015-0358
+     http://journals.humankinetics.com/
+ 			<meta property="dc.creator" content="Christopher P. Connolly,James M. Pivarnik,Lanay M. Mudd,Deborah L. Feltz,Rebecca Ann Schlaff,Mark G. Lewis,Robert M. Silver,Maria K. Lapinski" />
+			
+ 	<meta name="Description" content="The information leader in physical activity and health." />
+ 	<meta property="og:site_name" content="Human Kinetics Journals"/>
+ 	<meta property="og:title" content="The Influence of Risk Perceptions and Efficacy Beliefs on Leisure-Time Physical Activity During Pregnancy"/>
+ 	<meta property="dc:title" content="The Influence of Risk Perceptions and Efficacy Beliefs on Leisure-Time Physical Activity During Pregnancy"/>
+ 	<meta property="og:description" content="The information leader in physical activity and health."/>
+ 	<meta property="dc:description" content="The information leader in physical activity and health."/>
+ 	<meta property="og:type" content="Article"/>
+ 	<meta property="dc.date" content="2015-10-28" />
+ 	<meta property="dc.language" content="En" />
+	 
+	 
+http://dx.doi.org/10.1163/15736121-12341320
+    http://booksandjournals.brillonline.com/content/journals/10.1163/15736121-12341320 BRILL
+
+<meta name="author" content="Mercedes Sheen|Timothy R. Jordan" />
+<meta name="keywords" content="expectation|religiosity|context|Shroud of Turin|pareidolia|illusory perception" />
+<meta name="description" content="Summary For many years,... artefacts." />
+<title>Believing is Seeing: A Perspective on Perceiving Images of Objects on the Shroud of Turin&nbsp;&nbsp;&#x00BB;&nbsp;&nbsp;Brill Online</title>
+<meta name="DC.title" content="Believing is Seeing: A Perspective on Perceiving Images of Objects on the Shroud of Turin"/>
+<meta name="DC.type" scheme="DCMIType" content="Text"/>
+<meta name="DC.creator" content="Mercedes Sheen"/>
+<meta name="DC.creator" content="Timothy R. Jordan"/>
+<meta name="DC.publisher" content="Brill"/>
+<meta name="DCTERMS.issued" content="May 2016"/>
+<meta name="DCTERMS.bibliographicCitation" content="Brill, Archive for the Psychology of Religion, -"/>
+<meta name="citation_journal_title" content="Brill"/>
+<meta name="citation_publisher" content="Brill"/>
+<meta name="citation_author" content="Mercedes Sheen" />
+<meta name="citation_author_email" content="Mercedes.sheen@zu.ac.ae" />
+<meta name="citation_author_institution" content="Zayed University p.o. Box 19282, Dubai United Arab Emirates " />
+<meta name="citation_author" content="Timothy R. Jordan" />
+<meta name="citation_author_institution" content="Department of Psychology, Zayed University Dubai" />
+<meta name="citation_title" content="Believing is Seeing: A Perspective on Perceiving Images of Objects on the Shroud of Turin"/>
+<meta name="citation_date" content="2016/05/03"/>
+<meta name="citation_year" content="2016"/>
+<meta name="citation_keywords" content="expectation; religiosity; context; Shroud of Turin; pareidolia; illusory perception"/>
+<meta name="citation_doi" content="10.1163/15736121-12341320"/>
+<meta name="citation_abstract" content="Summary For many ye... artefacts."/>
+<meta name="citation_abstract_html_url" content="http://booksandjournals.brillonline.com/content/journals/10.1163/15736121-12341320"/>
+
+	 
+http://dx.doi.org/10.1177/0146167216643934 Sage (WORKS)
+	http://psp.sagepub.com/content/early/2016/04/30/0146167216643934
+    <title>Optimal Distinctiveness Signals Membership Trust </title>
+    <meta name="HW.ad-path" content="/cgi/content/abstract/0146167216643934v1" />
+    <meta content="/sppsp/early/2016/04/30/0146167216643934.atom" name="HW.identifier" />
+    <meta name="DC.Format" content="text/html" />
+    <meta name="DC.Language" content="en" />
+    <meta content="Optimal Distinctiveness Signals Membership Trust" name="DC.Title" />
+    <meta content="10.1177/0146167216643934" name="DC.Identifier" />
+    <meta content="2016-05-02" name="DC.Date" />
+    <meta content="SAGE Publications" name="DC.Publisher" />
+    <meta content="Geoffrey J. Leonardelli" name="DC.Contributor" />
+    <meta content="Denise Lewin Loyd" name="DC.Contributor" />
+    <meta content="Personality and Social Psychology Bulletin"
+          name="citation_journal_title" />
+    <meta content="Pers Soc Psychol Bull" name="citation_journal_abbrev" />
+    <meta content="0146-1672" name="citation_issn" />
+    <meta content="1552-7433" name="citation_issn" />
+    <meta name="citation_author" content="Geoffrey J. Leonardelli" />
+    <meta name="citation_author_institution"
+          content="1Rotman School of Management, University of Toronto, Ontario, Canada" />
+    <meta name="citation_author_institution"
+          content="2Dept. of Psychology, University of Toronto, Ontario, Canada" />
+    <meta name="citation_author_email" content="Geoffrey.leonardelli@rotman.utoronto.ca" />
+    <meta name="citation_author" content="Denise Lewin Loyd" />
+    <meta name="citation_author_institution"
+          content="3College of Business, University of Illinois at Urbana–Champaign, USA" />
+    <meta content="Optimal Distinctiveness Signals Membership Trust"
+          name="citation_title" />
+    <meta content="0146167216643934" name="citation_firstpage" />
+    <meta content="0146167216643934v1" name="citation_id" />
+    <meta content="//0146167216643934" name="citation_id_from_sass_path" />
+    <meta content="sppsp;0146167216643934v1" name="citation_mjid" />
+    <meta content="10.1177/0146167216643934" name="citation_doi" />
+    <meta content="http://psp.sagepub.com/content/early/2016/04/30/0146167216643934.abstract"
+          name="citation_abstract_html_url" />
+    <meta content="http://psp.sagepub.com/content/early/2016/04/30/0146167216643934.full"
+          name="citation_fulltext_html_url" />
+    <meta content="http://psp.sagepub.com/content/early/2016/04/30/0146167216643934.full.pdf"
+          name="citation_pdf_url" />
+    <meta content="http://psp.sagepub.com/content/early/2016/04/30/0146167216643934"
+          name="citation_public_url" />
+    <meta content="27140657" name="citation_pmid" />
+    <meta name="citation_section" content="Article" />
+	
+http://dx.doi.org/10.17220/ijpes.2016.02.001
+    <meta name="keywords" content="HTML5 Template" />
+    <meta name="description" content="International Journal of Psychology and Educational Studies ">
+    <meta name="author" content="okler.net">
+    <meta name="citation_title" content="The impact of interdependent cross-age peer ... mathematics self- concepts ">
+    <meta name="citation_author" content="Mirjan  Zeneli">
+    <meta name="citation_author" content="Peter  Tymms ">
+    <meta name="citation_author" content="David  Bolden ">
+    <meta name="citation_publication_date" content="2016/05/01">
+    <meta name="citation_journal_title" content="International Journal of Psychology and Educational Studies">
+    <meta name="citation_volume" content="3">
+    <meta name="citation_issue" content="2">
+    <meta name="citation_firstpage" content="1">
+    <meta name="citation_lastpage" content="13">
+    <meta name="citation_pdf_url" content="http://www.ijpes.com/Frontend//articles/pdf/v3i2/v03i02-1pdf.pdf">
+    <meta name="citation_issn" content="2148-9378">
+    <meta name="citation_abstract" content="Abstract: 
+This paper adds to the limited body of literature and concentrates on investigating the impact of a new peer tutoring framework, &lsquo;Interdependent Cross Age-Peer Tutoring&rsquo; (ICAT), on the socio-academic process of learning of self-concepts. ICAT is informed by Social Interdependence Th ... ere observed.
+">
+
+
+http://dx.doi.org/10.3389/fpsyg.2016.00548 (Frontiers)
+    http://journal.frontiersin.org/article/10.3389/fpsyg.2016.00548/full
+    <title>Frontiers | Minimal Interference from Possessor Phrases in ...Subject-Verb Agreement | Language Sciences</title>
+    <meta property="og:type" content="article"/>
+    <meta property="frontiers:type" content="Article" />
+    <meta property="og:site_name" name="site_name" content="Frontiers" />
+    <meta property="og:title" name="Title" content="Minimal Interference from Possessor.. Production of Subject-Verb Agreement" />
+    <meta property="og:description" name="Description" content="AbstractWe explore the language production process by eliciting subject-verb agreement errors.  Participants were asked to create complete sentences from sentence beginnings such as The elf&#39;s/elves&#39; house with the tiny window/windows arker, ..." />
+    <meta property="og:url" name="url" content="http://journal.frontiersin.org/article/10.3389/fpsyg.2016.00548/full" />
+    <meta name="citation_volume" content="7" />
+    <meta name="citation_journal_title" content="Frontiers in Psychology" />
+    <meta name="citation_publisher" content="Frontiers" />
+    <meta name="citation_journal_abbrev" content="Front. Psychol." />
+    <meta name="citation_issn" content="1664-1078" />
+    <meta name="citation_doi" content="10.3389/fpsyg.2016.00548" />
+    <meta name="citation_pages" content="548" />
+    <meta name="citation_language" content="English" />
+    <meta name="citation_title" content="Minimal Interference from Possessor ... of Subject-Verb Agreement" />
+    <meta name="citation_keywords" content="subject-verb agreement; Possessive; Possessor; Genitive; Production error; attraction error; case; casemarking; semantic integration" />
+    <meta name="citation_author" content="Nicol, Janet L." />
+    <meta name="citation_author_institution" content="Department of Linguistics, Program in Cognitive Science, University of Arizona, Tucson, AZ, USA" />
+    <meta name="citation_author_institution" content="Department of Psychology, Program in Cognitive Science, University of Arizona, Tucson, AZ, USA" />
+    <meta name="citation_author_email" content="nicol@email.arizona.edu" />
+    <meta name="citation_author" content="Barss, Andrew" />
+    <meta name="citation_author_institution" content="Department of Psychology, Program in Cognitive Science, University of Arizona, Tucson, AZ, USA" />
+    <meta name="citation_author_email" content="" />
+    <meta name="citation_author" content="Barker, Jason E." />
+    <meta name="citation_author_institution" content="Formerly Affiliated with Department of Psychology, Program in Cognitive Science, University of Arizona, Tucson, AZ, USA" />
+    <meta name="citation_author_email" content="" />
+    <meta name="citation_abstract" content="Abstract We explore the language production process by eliciting subject-verb agreement errors. Participants were asked to create complete ...t even speakers of inflectionally impoverished languages like English are sensitive to morphophonological case-like marking." />
+    <meta name="description" content="Abstract We explore the language production process by eliciting subject-verb agreement errors. Participants were asked to create complete sentences f... marking." />
+    <meta name="citation_online_date" content="2016/04/01" />
+    <meta name="citation_date" content="2016" />
+    <meta name="citation_publication_date" content="2016/05/02" />
+    <meta name="citation_fulltext_html_url" content="http://journal.frontiersin.org/article/10.3389/fpsyg.2016.00548/full" />
+    <meta name="citation_abstract_html_url" content="http://journal.frontiersin.org/article/10.3389/fpsyg.2016.00548/abstract" />
+    <meta name="citation_pdf_url" content="http://journal.frontiersin.org/article/10.3389/fpsyg.2016.00548/pdf" />
+    <meta name="fulltext_pdf" content="http://journal.frontiersin.org/article/10.3389/fpsyg.2016.00548/pdf" />
+    <meta name="fulltext_html" content="http://journal.frontiersin.org/article/10.3389/fpsyg.2016.00548/full" />
+    <meta name="citation_xml_url" content="http://journal.frontiersin.org/article/10.3389/fpsyg.2016.00548/xml" />
+    <meta name="Keywords" content="subject-verb agreement, Possessive, Possessor, Genitive, Production error, attraction error, case, casemarking, semantic integration" />
+        <meta name="dc.identifier" content="doi:10.3389/fpsyg.2016.00548"> <!--CrossMark widget-->
+	

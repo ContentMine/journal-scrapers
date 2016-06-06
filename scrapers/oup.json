@@ -1,0 +1,44 @@
+{
+  "url": "oxford.*\\.org",
+  "headless": true,
+  "elements": {
+    "publisher": {
+      "selector": "//meta[@name='DC.Publisher']",
+      "attribute": "content"
+    },
+    "title": {
+      "selector": "//meta[@name='DC.Title']",
+      "attribute": "content"
+    },
+    "authors": {
+      "selector": "//meta[@name='citation_author']",
+      "attribute": "content"
+    },
+    "date": {
+      "selector": "//meta[@name='DC.Date']",
+      "attribute": "content"
+    },
+    "doi": {
+      "selector": "//meta[@name='DC.Identifier']",
+      "attribute": "content"
+    },
+    "issn": {
+      "selector": "//meta[@name='citation_issn']",
+      "attribute": "content"
+    },
+    "fulltext_html": {
+      "selector": "//meta[@name='citation_fulltext_html_url']",
+      "attribute": "content",
+      "download": {
+        "rename": "fulltext.html"
+      }
+    },
+    "fulltext_pdf": {
+      "selector": "//meta[@name='citation_pdf_url']",
+      "attribute": "content",
+      "download": {
+        "rename": "fulltext.pdf"
+      }
+    }
+  }
+}
