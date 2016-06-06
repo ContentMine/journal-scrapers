@@ -1,0 +1,67 @@
+{
+  "url": "www\\.jneurosci\\.org",
+  "elements": {
+    "fulltext_pdf": {
+      "selector": "//meta[@name='citation_pdf_url']",
+      "attribute": "content",
+      "download": {
+        "rename": "fulltext.pdf"
+      }
+    },
+    "caption": {
+      "selector": "//div[@class='fig-inline']/a",
+      "attribute": "href",
+      "download": true
+	},
+	"largefigure": {
+	  "selector": "//a[contains(@href,'large.')]",
+	  "attribute": "href",
+	  "follow": "caption",
+	  "download": true
+	},
+    "fulltext_html": {
+      "selector": "//meta[@name='citation_fulltext_html_url']",
+      "attribute": "content",
+      "download": {
+        "rename": "fulltext.html"
+      }
+    },
+    "title": {
+      "selector": "//meta[@name='citation_title']",
+      "attribute": "content"
+    },
+    "author": {
+      "selector": "//meta[@name='citation_author']",
+      "attribute": "content"
+    },
+    "date": {
+      "selector": "//meta[@name='citation_date']",
+      "attribute": "content"
+    },
+    "doi": {
+      "selector": "//meta[@name='citation_doi']",
+      "attribute": "content"
+    },
+    "volume": {
+      "selector": "//meta[@name='citation_volume']",
+      "attribute": "content"
+    },
+    "issue": {
+      "selector": "//meta[@name='citation_issue']",
+      "attribute": "content"
+    },
+    "firstpage": {
+      "selector": "//meta[@name='citation_firstpage']",
+      "attribute": "content"
+    },
+    "smallfigure": {
+      "selector": "//div[@class='fig-inline']/a/img",
+      "attribute": "src",
+      "download": true
+    },
+    "abstract": {
+      "selector": "//metad[@name='abstract']",
+      "attribute": "content"
+    }
+  }
+}
