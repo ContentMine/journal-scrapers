@@ -1,5 +1,5 @@
 {
-"url": "www\\.biomedcentral\\.com",
+"url": "biomedcentral\\.com",
 "elements": {
 "publisher": {
 "selector": "//meta[@name='citation_publisher']",
@@ -38,11 +38,11 @@
 "attribute": "content"
 },
 "description": {
-"selector": "//meta[@name='description']",
+"selector": "//meta[@name='dc.description']",
 "attribute": "content"
 },
 "abstract": {
-"selector": "//meta[@name='description']",
+"selector": "//meta[@name='dc.description']",
 "attribute": "content"
 },
 "fulltext_html": {
@@ -59,32 +59,25 @@
 "rename": "fulltext.pdf"
 }
 },
-"fulltext_xml": {
-"selector": "//a[.='Download XML']",
-"attribute": "href",
-"download": {
-"rename": "fulltext.xml"
-}
-},
 "supplementary_material": {
-"selector": "//link[starts-with(@title,'Additional file')]",
+"selector": "//a[@class='filename']",
 "attribute": "href",
 "download": true
 },
 "figure": {
-"selector": "//div[@class='fig']/p/a/img",
+"selector": "//figure[@class='Figure']/div/img",
 "attribute": "src",
 "download": true
 },
 "figure_caption": {
-"selector": "//div[@class='fig']//strong"
+"selector": "//figure[@class='Figure']/figcaption"
 },
 "license": {
-"selector": "//p[a/@href='http://creativecommons.org/licenses/by/4.0']"
+"selector": "//section[@id='CopyrightMessage']//div[@class='CopyrightComment']/p"
 },
 "copyright": {
-"selector": "//p[contains(.,'licensee')]"
+"selector": "//meta[@name='dc.copyright']",
+"attribute": "content"
 }
 }
 }
-
