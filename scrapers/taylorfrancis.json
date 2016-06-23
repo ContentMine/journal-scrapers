@@ -1,0 +1,66 @@
+{
+	"url": "tandfonline.com",
+	"elements": {
+		"publisher": {
+      "selector": "//meta[@name='dc.Publisher']",
+      "attribute": "content"
+    },
+    
+    "journal_name": {
+      "selector": "//meta[@name='citation_journal_title']",
+      "attribute": "content"
+    },
+    
+    "volume": {
+      "selector": "//*[@id='unit2']/div[1]/div/div/table/tbody/tr/td[1]/h3/a[1]",
+      "attribute": "content"
+    },
+
+    "issue": {
+      "selector": "//*[@id='unit2']/div[1]/div/div/table/tbody/tr/td[1]/h3/a[2]",
+      "attribute": "content"
+    },
+
+    "title": {
+      "selector": "//meta[@name='dc.Title']",
+      "attribute": "content"
+    },
+
+    "keywords": {
+      "selector": "//meta[@name='dc.Subject']",
+      "attribute": "text"
+    },
+
+    "author_name": {
+      "selector": "//meta[@name='dc.Creator']",
+      "attribute": "content"
+    },
+
+        "date_published": {
+      "selector": "//meta[@name='dc.Date']",
+      "attribute": "text"
+    },
+
+    "doi": {
+      "selector": "//meta[@scheme='doi']",
+      "attribute": "content"
+    },
+
+    "fulltext_html": {
+      "selector": "//meta[@name='dc.Source']",
+      "attribute": "content",
+      "download": {
+        "rename": "fulltext.html"
+      }
+    },
+
+    "fulltext_pdf": {
+      "selector": "//a[text()='PDF']",
+      "attribute": "href",
+      "download": {
+        "rename": "fulltext.pdf"
+      }
+    }
+
+	}	
+}

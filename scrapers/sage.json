@@ -1,31 +1,84 @@
 {
-  "url": ".*sagepub.*\\.com",
-  "headless": true,
+  "url": ".*\\.sagepub\\.com",
   "elements": {
     "publisher": {
       "selector": "//meta[@name='DC.Publisher']",
       "attribute": "content"
     },
-    "title": {
-      "selector": "//meta[@name='DC.Title']",
+    
+    "journal_name": {
+      "selector": "//meta[@name='citation_journal_title']",
       "attribute": "content"
     },
-    "authors": {
+
+    "journal_issn": {
+      "selector": "//meta[@name='citation_issn']",
+      "attribute": "content"
+    },
+    
+    "volume": {
+      "selector": "//meta[@name='citation_volume']",
+      "attribute": "content"
+    },
+
+    "issue": {
+      "selector": "//meta[@name='citation_issue']",
+      "attribute": "content"
+    },
+
+    "firstpage": {
+      "selector": "//meta[@name='citation_firstpage']",
+      "attribute": "content"
+    },
+
+    "title": {
+      "selector": "//meta[@name='citation_title']",
+      "attribute": "content"
+    },
+
+    "keywords": {
+      "selector": "//ul[contains(@class, 'kwd-group')]",
+      "attribute": "text"
+    },
+
+    "author_name": {
       "selector": "//meta[@name='citation_author']",
       "attribute": "content"
     },
-    "date": {
-      "selector": "//meta[@name='citation_online_date']",
+
+    "author_institution": {
+      "selector": "//meta[@name='citation_author_institution']",
       "attribute": "content"
     },
+
+    "date_published": {
+      "selector": "//*[@id='slugline']/cite/span[1]",
+      "attribute": "text"
+    },
+
     "doi": {
       "selector": "//meta[@name='citation_doi']",
       "attribute": "content"
     },
-    "issn": {
-      "selector": "//meta[@name='citation_issn']",
+
+    "pmid": {
+      "selector": "//meta[@name='citation_pmid']",
       "attribute": "content"
     },
+
+    "copyright": {
+      "selector": "//*[@id='copyright-statement-1']",
+      "attribute": "html"
+    },
+
+    "fulltext_html": {
+      "selector": "//meta[@name='citation_fulltext_html_url']",
+      "attribute": "content",
+      "download": {
+        "rename": "fulltext.html"
+      }
+    },
+
     "fulltext_pdf": {
       "selector": "//meta[@name='citation_pdf_url']",
       "attribute": "content",
@@ -33,12 +86,18 @@
         "rename": "fulltext.pdf"
       }
     },
-    "fulltext_html": {
-      "selector": "//meta[@name='citation_fulltext_html_url']",
+
+    "abstract_html": {
+      "selector": "//meta[@name='citation_abstract_html_url']",
       "attribute": "content",
       "download": {
-        "rename": "fulltext.html"
+        "rename": "abstract.html"
       }
+    },
+    
+    "competing_interests_html": {
+      "selector": "//*[contains(@class, 'fn-conflict')]",
+      "attribute": "text"
     }
   }
 }
