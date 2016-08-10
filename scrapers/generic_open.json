@@ -1,5 +1,7 @@
 {
   "url": "\\w+\\.\\w+",
+  "name": "Generic Open",
+  "generic": true,
   "elements": {
     "fulltext_pdf": {
       "selector": "//meta[@name='citation_pdf_url']",
