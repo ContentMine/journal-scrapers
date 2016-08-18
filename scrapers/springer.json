@@ -1,4 +1,4 @@
-{
+  {
   "url": ".*springer.*\\.com",
   "headless": true,
   "elements": {
@@ -10,6 +10,7 @@
       "selector": "//meta[@name='citation_title']",
       "attribute": "content"
     },
+
     "authors": {
       "selector": "//meta[@name='citation_author']",
       "attribute": "content"
@@ -18,10 +19,12 @@
       "selector": "//meta[@name='citation_online_date']",
       "attribute": "content"
     },
+
     "doi": {
       "selector": "//meta[@name='citation_doi']",
       "attribute": "content"
     },
+
     "issn": {
       "selector": "//meta[@name='citation_issn']",
       "attribute": "content"
@@ -33,6 +36,7 @@
         "rename": "fulltext.pdf"
       }
     },
+
     "fulltext_html": {
       "selector": "//meta[@name='citation_fulltext_html_url']",
       "attribute": "content",
