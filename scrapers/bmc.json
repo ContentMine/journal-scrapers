@@ -1,9 +1,5 @@
 {
-<<<<<<< HEAD
-"url": "www\\.biomedcentral\\.com",
-=======
 "url": "biomedcentral\\.com",
->>>>>>> 5ba53bf6d08fc9d102cccc623c5511502f7711c1
 "elements": {
 "publisher": {
 "selector": "//meta[@name='citation_publisher']",
@@ -42,19 +38,11 @@
 "attribute": "content"
 },
 "description": {
-<<<<<<< HEAD
-"selector": "//meta[@name='description']",
-"attribute": "content"
-},
-"abstract": {
-"selector": "//meta[@name='description']",
-=======
 "selector": "//meta[@name='dc.description']",
 "attribute": "content"
 },
 "abstract": {
 "selector": "//meta[@name='dc.description']",
->>>>>>> 5ba53bf6d08fc9d102cccc623c5511502f7711c1
 "attribute": "content"
 },
 "fulltext_html": {
@@ -71,46 +59,17 @@
 "rename": "fulltext.pdf"
 }
 },
-<<<<<<< HEAD
-"fulltext_xml": {
-"selector": "//a[.='Download XML']",
-"attribute": "href",
-"download": {
-"rename": "fulltext.xml"
-}
-},
-"supplementary_material": {
-"selector": "//link[starts-with(@title,'Additional file')]",
-=======
 "supplementary_material": {
 "selector": "//a[@class='filename']",
->>>>>>> 5ba53bf6d08fc9d102cccc623c5511502f7711c1
 "attribute": "href",
 "download": true
 },
 "figure": {
-<<<<<<< HEAD
-"selector": "//div[@class='fig']/p/a/img",
-=======
 "selector": "//figure[@class='Figure']/div/img",
->>>>>>> 5ba53bf6d08fc9d102cccc623c5511502f7711c1
 "attribute": "src",
 "download": true
 },
 "figure_caption": {
-<<<<<<< HEAD
-"selector": "//div[@class='fig']//strong"
-},
-"license": {
-"selector": "//p[a/@href='http://creativecommons.org/licenses/by/4.0']"
-},
-"copyright": {
-"selector": "//p[contains(.,'licensee')]"
-}
-}
-}
-
-=======
 "selector": "//figure[@class='Figure']/figcaption"
 },
 "license": {
@@ -122,4 +81,3 @@
 }
 }
 }
->>>>>>> 5ba53bf6d08fc9d102cccc623c5511502f7711c1
