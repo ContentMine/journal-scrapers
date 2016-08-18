@@ -1,9 +1,5 @@
 {
-<<<<<<< HEAD
-"url": "www\\.biomedcentral\\.com",
-=======
-"url": "biomedcentral\\.com",
->>>>>>> 5ba53bf6d08fc9d102cccc623c5511502f7711c1
+"url": "http://ieeexplore\\.ieee\\.org/xpl/",
 "elements": {
 "publisher": {
 "selector": "//meta[@name='citation_publisher']",
@@ -11,6 +7,10 @@
 },
 "journal": {
 "selector": "//meta[@name='citation_journal_title']",
+"attribute": "content"
+},
+"conference": {
+"selector": "//meta[@name='citation_conference']",
 "attribute": "content"
 },
 "title": {
@@ -41,64 +41,40 @@
 "selector": "//meta[@name='citation_firstpage']",
 "attribute": "content"
 },
+"lastpage": {
+"selector": "//meta[@name='citation_lastpage']",
+"attribute": "content"
+},
 "description": {
-<<<<<<< HEAD
 "selector": "//meta[@name='description']",
 "attribute": "content"
 },
 "abstract": {
 "selector": "//meta[@name='description']",
-=======
-"selector": "//meta[@name='dc.description']",
-"attribute": "content"
-},
-"abstract": {
-"selector": "//meta[@name='dc.description']",
->>>>>>> 5ba53bf6d08fc9d102cccc623c5511502f7711c1
 "attribute": "content"
 },
 "fulltext_html": {
-"selector": "//meta[@name='citation_fulltext_html_url']",
-"attribute": "content",
+"selector": "//a[@id='full-text-html']",
+"attribute": "href",
 "download": {
+"follow" : "fulltext_html",
 "rename": "fulltext.html"
 }
 },
 "fulltext_pdf": {
-"selector": "//meta[@name='citation_pdf_url']",
-"attribute": "content",
+"selector": "//a[@id='full-text-pdf']",
+"attribute": "href",
 "download": {
+"follow" : "fulltext_pdf",
 "rename": "fulltext.pdf"
 }
 },
-<<<<<<< HEAD
-"fulltext_xml": {
-"selector": "//a[.='Download XML']",
-"attribute": "href",
-"download": {
-"rename": "fulltext.xml"
-}
-},
-"supplementary_material": {
-"selector": "//link[starts-with(@title,'Additional file')]",
-=======
-"supplementary_material": {
-"selector": "//a[@class='filename']",
->>>>>>> 5ba53bf6d08fc9d102cccc623c5511502f7711c1
-"attribute": "href",
-"download": true
-},
 "figure": {
-<<<<<<< HEAD
 "selector": "//div[@class='fig']/p/a/img",
-=======
-"selector": "//figure[@class='Figure']/div/img",
->>>>>>> 5ba53bf6d08fc9d102cccc623c5511502f7711c1
 "attribute": "src",
 "download": true
 },
 "figure_caption": {
-<<<<<<< HEAD
 "selector": "//div[@class='fig']//strong"
 },
 "license": {
@@ -110,16 +86,3 @@
 }
 }
 
-=======
-"selector": "//figure[@class='Figure']/figcaption"
-},
-"license": {
-"selector": "//section[@id='CopyrightMessage']//div[@class='CopyrightComment']/p"
-},
-"copyright": {
-"selector": "//meta[@name='dc.copyright']",
-"attribute": "content"
-}
-}
-}
->>>>>>> 5ba53bf6d08fc9d102cccc623c5511502f7711c1

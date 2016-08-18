@@ -1,54 +1,23 @@
   {
-  "url": "link.springer.com",
+  "url": ".*springer.*\\.com",
+  "headless": true,
   "elements": {
     "publisher": {
       "selector": "//meta[@name='citation_publisher']",
       "attribute": "content"
     },
-    
-    "journal_name": {
-      "selector": "//meta[@name='citation_journal_title']",
-      "attribute": "content"
-    },
-
-    "journal_issn": {
-      "selector": "//meta[@name='citation_issn']",
-      "attribute": "content"
-    },
-    
-    "volume": {
-      "selector": "//meta[@name='citation_volume']",
-      "attribute": "content"
-    },
-
-    "issue": {
-      "selector": "//meta[@name='citation_issue']",
-      "attribute": "content"
-    },
-
-    "firstpage": {
-      "selector": "//meta[@name='citation_firstpage']",
-      "attribute": "content"
-    },
-
     "title": {
       "selector": "//meta[@name='citation_title']",
       "attribute": "content"
     },
 
-    "author_name": {
+    "authors": {
       "selector": "//meta[@name='citation_author']",
       "attribute": "content"
     },
-
-    "author_institution": {
-      "selector": "//meta[@name='citation_author_institution']",
+    "date": {
+      "selector": "//meta[@name='citation_online_date']",
       "attribute": "content"
-    },
-
-    "date_published": {
-      "selector": "//meta[@name='citation_cover_date']",
-      "attribute": "text"
     },
 
     "doi": {
@@ -56,14 +25,10 @@
       "attribute": "content"
     },
 
-    "fulltext_html": {
-      "selector": "//meta[contains(@name, 'fulltext_html')]",
-      "attribute": "content",
-      "download": {
-        "rename": "fulltext.html"
-      }
+    "issn": {
+      "selector": "//meta[@name='citation_issn']",
+      "attribute": "content"
     },
-
     "fulltext_pdf": {
       "selector": "//meta[@name='citation_pdf_url']",
       "attribute": "content",
@@ -72,11 +37,11 @@
       }
     },
 
-    "abstract_html": {
-      "selector": "//meta[@name='citation_abstract_html_url']",
+    "fulltext_html": {
+      "selector": "//meta[@name='citation_fulltext_html_url']",
       "attribute": "content",
       "download": {
-        "rename": "abstract.html"
+        "rename": "fulltext.html"
       }
     }
   }

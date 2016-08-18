@@ -1,0 +1,91 @@
+{
+"url": "www\\.nature\\.com",
+"elements": {
+"publisher": {
+"selector": "//meta[@name='citation_publisher']",
+"attribute": "content"
+},
+"journal": {
+"selector": "//meta[@name='citation_journal_title']",
+"attribute": "content"
+},
+"title": {
+"selector": "//meta[@name='citation_title']",
+"attribute": "content"
+},
+"authors": {
+"selector": "//meta[@name='citation_authors' or @name='citation_author']",
+"attribute": "content"
+},
+"date": {
+"selector": "//meta[@name='citation_date']",
+"attribute": "content"
+},
+"doi": {
+"selector": "//meta[@name='citation_doi']",
+"attribute": "content"
+},
+"volume": {
+"selector": "//meta[@name='citation_volume']",
+"attribute": "content"
+},
+"issue": {
+"selector": "//meta[@name='prism.number']",
+"attribute": "content"
+},
+"firstpage": {
+"selector": "//meta[@name='prism.startingPage']",
+"attribute": "content"
+},
+"description": {
+"selector": "//meta[@name='citation_description']",
+"attribute": "content"
+},
+"abstract": {
+"selector": "//meta[@name='citation_abstract']",
+"attribute": "content"
+},
+"fulltext_html": {
+"selector": "/*",
+"download": {
+"rename": "fulltext.html"
+}
+},
+"fulltext_pdf": {
+"selector": "//a[@id='download-pdf']",
+"attribute": "href",
+"download": {
+"rename": "fulltext.pdf"
+}
+},
+"fulltext_ePUB": {
+"selector": "//a[normalize-space(.)='Full-Text ePUB']",
+"attribute": "href",
+"download": {
+"rename": "fulltext.epub"
+}
+},
+"supplementary_material": {
+"selector": "//link[starts-with(@title,'Additional file')]",
+"attribute": "href",
+"download": true
+},
+"figure": {
+"selector": "//a[starts-with(@href,'fig')]",
+"attribute": "href",
+"download": true
+},
+"figure_caption": {
+"selector": "//a[starts-with(@href,'fig')]",
+"attribute": "href",
+"download": true
+},
+"license": {
+"selector": "//p[starts-with(.,'Copyright')]"
+},
+"copyright": {
+"selector": "//p[starts-with(.,'Copyright')]"
+}
+}
+}
+

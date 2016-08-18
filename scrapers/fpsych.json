@@ -1,36 +1,35 @@
 {
-
-  "url": ".*sagepub.*\\.com",
+  "url": "frontiersin\\.org",
   "headless": true,
   "elements": {
     "publisher": {
-      "selector": "//meta[@name='DC.Publisher']",
+      "selector": "//meta[@name='citation_publisher']",
       "attribute": "content"
     },
-
     "title": {
-      "selector": "//meta[@name='DC.Title']",
+      "selector": "//meta[@name='citation_title']",
       "attribute": "content"
     },
     "authors": {
-      "selector": "//meta[@name='citation_author']",
+      "selector": "//meta[@name='citation_authors']",
       "attribute": "content"
     },
     "date": {
-      "selector": "//meta[@name='DC.Date']",
+      "selector": "//meta[@name='citation_date']",
       "attribute": "content"
     },
-
     "doi": {
       "selector": "//meta[@name='citation_doi']",
       "attribute": "content"
     },
-
     "issn": {
       "selector": "//meta[@name='citation_issn']",
       "attribute": "content"
     },
-
+    "publisher": {
+      "selector": "//meta[@name='citation_publisher']",
+      "attribute": "content"
+    },
     "fulltext_pdf": {
       "selector": "//meta[@name='citation_pdf_url']",
       "attribute": "content",
@@ -38,9 +37,8 @@
         "rename": "fulltext.pdf"
       }
     },
-
     "fulltext_html": {
-      "selector": "//meta[@name='citation_fulltext_html_url']",
+      "selector": "//meta[@name='citation_fulltext_pdf_url']",
       "attribute": "content",
       "download": {
         "rename": "fulltext.html"

@@ -1,7 +1,5 @@
 {
   "url": "\\w+\\.\\w+",
-  "name": "Generic Open",
-  "generic": true,
   "elements": {
     "fulltext_pdf": {
       "selector": "//meta[@name='citation_pdf_url']",
@@ -11,7 +9,7 @@
       }
     },
     "fulltext_html": {
-      "selector": "//meta[@name='citation_fulltext_html_url']",
+      "selector": "//meta[@name='citation_full_html_url']",
       "attribute": "content",
       "download": {
         "rename": "fulltext.html"
@@ -26,7 +24,7 @@
       "attribute": "content"
     },
     "date": {
-      "selector": "//meta[@name='citation_date']",
+      "selector": "//meta[@name='DC.Date']",
       "attribute": "content"
     },
     "doi": {
@@ -46,8 +44,12 @@
       "attribute": "content"
     },
     "description": {
-      "selector": "//meta[@name='description']",
-      "attribute": "content"
+      "selector": "//meta[@name='citation_abstract_html_url']",
+      "attribute": "content",
+      "download": {
+        "rename": "abstract.html"
+      }
+	  
     }
   }
 }

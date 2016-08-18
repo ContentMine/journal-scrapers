@@ -1,7 +1,5 @@
 {
-  "url": "\\w+\\.\\w+",
-  "name": "Generic Open",
-  "generic": true,
+  "url": "www\\.jneurosci\\.org",
   "elements": {
     "fulltext_pdf": {
       "selector": "//meta[@name='citation_pdf_url']",
@@ -10,6 +8,17 @@
         "rename": "fulltext.pdf"
       }
     },
+    "caption": {
+      "selector": "//div[@class='fig-inline']/a",
+      "attribute": "href",
+      "download": true
+	},
+	"largefigure": {
+	  "selector": "//a[contains(@href,'large.')]",
+	  "attribute": "href",
+	  "follow": "caption",
+	  "download": true
+	},
     "fulltext_html": {
       "selector": "//meta[@name='citation_fulltext_html_url']",
       "attribute": "content",
@@ -45,8 +54,13 @@
       "selector": "//meta[@name='citation_firstpage']",
       "attribute": "content"
     },
-    "description": {
-      "selector": "//meta[@name='description']",
+    "smallfigure": {
+      "selector": "//div[@class='fig-inline']/a/img",
+      "attribute": "src",
+      "download": true
+    },
+    "abstract": {
+      "selector": "//metad[@name='abstract']",
       "attribute": "content"
     }
   }

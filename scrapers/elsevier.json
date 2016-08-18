@@ -2,7 +2,7 @@
   "url": "sciencedirect\\.com",
   "elements": {
     "title": {
-      "selector": "//title",
+      "selector": "/html/head/title",
       "attribute": "content"
     },
     "fulltext_html": {
