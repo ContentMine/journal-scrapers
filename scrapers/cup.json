@@ -1,0 +1,76 @@
+{
+  "url": "cambridge\\.org",
+  "elements": {
+    "publisher": {
+      "selector": "//meta[@name='citation_publisher']",
+      "attribute": "content"
+    },
+    "journal": {
+      "selector": "//meta[@name='citation_journal_title']",
+      "attribute": "content"
+    },
+    "title": {
+      "selector": "//meta[@name='citation_title']",
+      "attribute": "content"
+    },
+    "authors": {
+      "selector": "//meta[@name='citation_author']",
+      "attribute": "content"
+    },
+    "date": {
+      "selector": "//meta[@name='citation_publication_date']",
+      "attribute": "content"
+    },
+    "doi": {
+      "selector": "//meta[@name='citation_doi']",
+      "attribute": "content"
+    },
+    "volume": {
+      "selector": "//meta[@name='citation_volume']",
+      "attribute": "content"
+    },
+    "issue": {
+      "selector": "//meta[@name='citation_issue']",
+      "attribute": "content"
+    },
+    "firstpage": {
+      "selector": "//meta[@name='citation_firstpage']",
+      "attribute": "content"
+    },
+    "lastpage": {
+      "selector": "//meta[@name='citation_lastpage']",
+      "attribute": "content"
+    },
+    "description": {
+      "selector": "//meta[@name='description']",
+      "attribute": "content"
+    },
+    "abstract": {
+      "selector": "//*[contains(@data-abstract-type, 'normal')]",
+      "attribute": "content"
+    },
+    "fulltext_html": {
+      "selector": "//a[@class='button medium radius core-reader']",
+      "attribute": "href",
+      "download": {
+        "rename": "fulltext.html"
+      }
+    },
+    "fulltext_pdf": {
+      "selector": "//meta[@name='citation_pdf_url']",
+      "attribute": "content",
+      "download": {
+        "rename": "fulltext.pdf"
+      }
+    },
+    "supplementary_material": {
+      "selector": "//a[contains(concat(' ', normalize-space(@class), ' '), ' article-supporting-download ')]",
+      "attribute": "href",
+      "download": true
+    },
+    "copyright": {
+      "selector": "//div[@class='copyright']",
+      "attribute": "text"
+    }
+  }
+}
