@@ -1,0 +1,567 @@
+{
+  "http://dx.doi.org/10.1101/082271": {
+    "publisher": {
+      "value": [
+        "Cold Spring Harbor Labs Journals"
+      ]
+    },
+    "journal_name": {
+      "value": [
+        "bioRxiv"
+      ]
+    },
+    "title": {
+      "value": [
+        "Bees Without Flowers: Before Peak Bloom, Diverse Native Bees Visit Insect-produced Honeydew Sugars"
+      ]
+    },
+    "keywords": {
+      "value": [
+
+      ]
+    },
+    "author_name": {
+      "value": [
+        "Joan M Meiners",
+        "Terry L Griswold",
+        "David J Harris",
+        "S.K. Morgan Ernest"
+      ]
+    },
+    "author_institution": {
+      "value": [
+        "University of Florida;",
+        "USDA-ARS Pollinating Insects Research Unit",
+        "University of Florida;",
+        "University of Florida;"
+      ]
+    },
+    "author_email": {
+      "value": [
+        "joan.meiners@gmail.com",
+        "terry.griswold@ars.usda.gov",
+        "dave@harris-research.me",
+        "skmorgane@ufl.edu"
+      ]
+    },
+    "author_orcid": {
+      "value": [
+        "http://orcid.org/0000-0001-9369-9313"
+      ]
+    },
+    "date_published": {
+      "value": [
+        "2016-10-21"
+      ]
+    },
+    "doi": {
+      "value": [
+        "10.1101/082271"
+      ]
+    },
+    "firstpage": {
+      "value": [
+        "082271"
+      ]
+    },
+    "abstract_html": {
+      "value": [
+        "<span class=\"highwire-journal-article-marker-start\"></span><div class=\"section abstract\" id=\"abstract-1\"><h2>Abstract</h2><p id=\"p-2\">Bee foragers respond to complex visual, olfactory, and extrasensory cues to optimize searches for floral rewards. Their abilities to detect and distinguish floral colors, shapes, volatiles, and ultraviolet signals, and even gauge nectar availability from changes in floral humidity or electric fields are well studied. Bee foraging behaviors in the absence of floral cues, however, are rarely considered. We observed forty-four species of wild bees visiting inconspicuous, non-flowering shrubs during early spring in a protected, Mediterranean habitat. We determined experimentally that these bees were accessing sugary honeydew secretions from scale insects without the aid of standard cues. While honeydew use is known among some social Hymenoptera, its use across a diverse community of mostly solitary bees is a novel observation. The widespread ability of native bees to locate and use unadvertised, non-floral sugars suggests unappreciated sensory mechanisms and/or the existence of a social foraging network among solitary bees that may influence how native bee communities cope with increasing environmental change.</p></div><span class=\"highwire-journal-article-marker-end\"></span>",
+        "<h2>Abstract</h2><p id=\"p-2\">Bee foragers respond to complex visual, olfactory, and extrasensory cues to optimize searches for floral rewards. Their abilities to detect and distinguish floral colors, shapes, volatiles, and ultraviolet signals, and even gauge nectar availability from changes in floral humidity or electric fields are well studied. Bee foraging behaviors in the absence of floral cues, however, are rarely considered. We observed forty-four species of wild bees visiting inconspicuous, non-flowering shrubs during early spring in a protected, Mediterranean habitat. We determined experimentally that these bees were accessing sugary honeydew secretions from scale insects without the aid of standard cues. While honeydew use is known among some social Hymenoptera, its use across a diverse community of mostly solitary bees is a novel observation. The widespread ability of native bees to locate and use unadvertised, non-floral sugars suggests unappreciated sensory mechanisms and/or the existence of a social foraging network among solitary bees that may influence how native bee communities cope with increasing environmental change.</p>"
+      ]
+    },
+    "fulltext_pdf": {
+      "value": [
+        "http://biorxiv.org/content/biorxiv/early/2016/10/21/082271.full.pdf"
+      ]
+    },
+    "copyright": {
+      "value": [
+        "© 2016, Posted by Cold Spring Harbor Laboratory Press. This pre-print is available under a Creative Commons License (Attribution 4.0 International), CC BY 4.0, as described at http://creativecommons.org/licenses/by/4.0/"
+      ]
+    },
+    "file_sizes": [
+      {
+        "article.metrics": 74725
+      },
+      {
+        "fulltext.pdf": 22485636
+      }
+    ]
+  },
+  "http://dx.doi.org/10.1101/082115": {
+    "publisher": {
+      "value": [
+        "Cold Spring Harbor Labs Journals"
+      ]
+    },
+    "journal_name": {
+      "value": [
+        "bioRxiv"
+      ]
+    },
+    "title": {
+      "value": [
+        "Quantifying predator dependence in the functional response of generalist predators."
+      ]
+    },
+    "keywords": {
+      "value": [
+
+      ]
+    },
+    "author_name": {
+      "value": [
+        "Mark Novak",
+        "Christopher Wolf",
+        "Kyle E Coblentz",
+        "Isaac Shepard"
+      ]
+    },
+    "author_institution": {
+      "value": [
+        "Oregon State University",
+        "Oregon State University",
+        "Oregon State University",
+        "Oregon State University"
+      ]
+    },
+    "author_email": {
+      "value": [
+        "mark.novak@oregonstate.edu"
+      ]
+    },
+    "author_orcid": {
+      "value": [
+
+      ]
+    },
+    "date_published": {
+      "value": [
+        "2016-10-20"
+      ]
+    },
+    "doi": {
+      "value": [
+        "10.1101/082115"
+      ]
+    },
+    "firstpage": {
+      "value": [
+        "082115"
+      ]
+    },
+    "abstract_html": {
+      "value": [
+        "<span class=\"highwire-journal-article-marker-start\"></span><div class=\"section abstract\" id=\"abstract-1\"><h2>Abstract</h2><p id=\"p-2\">A longstanding debate concerns whether functional responses are best described by prey-dependent versus ratio-dependent models.  Theory suggests that ratio dependence can explain many food web patterns left unexplained by simple prey-dependent models.  However, for logistical reasons, ratio dependence and predator dependence more generally have seen infrequent empirical evaluation and then only so in specialist predators, which are rare in nature. Here we develop an approach to simultaneously estimate the prey-specific attack rates and predator-specific interference rates of predators interacting with arbitrary numbers of prey and predator species.  We apply the approach to field surveys and two field experiments involving two intertidal whelks and their full suite of potential prey. Our study provides strong evidence for the presence of weak predator dependence that is closer to being prey dependent than ratio dependent over manipulated and natural ranges of species abundances.  It also indicates how, for generalist predators, even the qualitative nature of predator dependence can be prey-specific.</p></div><span class=\"highwire-journal-article-marker-end\"></span>",
+        "<h2>Abstract</h2><p id=\"p-2\">A longstanding debate concerns whether functional responses are best described by prey-dependent versus ratio-dependent models.  Theory suggests that ratio dependence can explain many food web patterns left unexplained by simple prey-dependent models.  However, for logistical reasons, ratio dependence and predator dependence more generally have seen infrequent empirical evaluation and then only so in specialist predators, which are rare in nature. Here we develop an approach to simultaneously estimate the prey-specific attack rates and predator-specific interference rates of predators interacting with arbitrary numbers of prey and predator species.  We apply the approach to field surveys and two field experiments involving two intertidal whelks and their full suite of potential prey. Our study provides strong evidence for the presence of weak predator dependence that is closer to being prey dependent than ratio dependent over manipulated and natural ranges of species abundances.  It also indicates how, for generalist predators, even the qualitative nature of predator dependence can be prey-specific.</p>"
+      ]
+    },
+    "fulltext_pdf": {
+      "value": [
+        "http://biorxiv.org/content/biorxiv/early/2016/10/20/082115.full.pdf"
+      ]
+    },
+    "copyright": {
+      "value": [
+        "© 2016, Posted by Cold Spring Harbor Laboratory Press. This pre-print is available under a Creative Commons License (Attribution-NonCommercial-NoDerivs 4.0 International), CC BY-NC-ND 4.0, as described at http://creativecommons.org/licenses/by-nc-nd/4.0/"
+      ]
+    },
+    "file_sizes": [
+      {
+        "article.metrics": 73937
+      },
+      {
+        "fulltext.pdf": 2331360
+      },
+      {
+        "supplementary.data": 74967
+      }
+    ]
+  },
+  "http://dx.doi.org/10.1101/081489": {
+    "publisher": {
+      "value": [
+        "Cold Spring Harbor Labs Journals"
+      ]
+    },
+    "journal_name": {
+      "value": [
+        "bioRxiv"
+      ]
+    },
+    "title": {
+      "value": [
+        "Extinction rate has a complex and non-linear relationship with area"
+      ]
+    },
+    "keywords": {
+      "value": [
+
+      ]
+    },
+    "author_name": {
+      "value": [
+        "Petr Keil",
+        "Juliano S Cabral",
+        "Jonathan Chase",
+        "Ines S Martins",
+        "Felix May",
+        "Henrique M Pereira",
+        "Marten Winter"
+      ]
+    },
+    "author_institution": {
+      "value": [
+        "German Centre for Integrative Biodiversity Research (iDiv), Halle-Jena-Leipzig;",
+        "Ecosystem Modeling, Center for Computational and Theoretical Biology (CCTB), University of Wuerzburg",
+        "German Centre for Integrative Biodiversity Research (iDiv), Halle-Jena-Leipzig;",
+        "German Centre for Integrative Biodiversity Research (iDiv), Halle-Jena-Leipzig;",
+        "German Centre for Integrative Biodiversity Research (iDiv), Halle-Jena-Leipzig;",
+        "German Centre for Integrative Biodiversity Research (iDiv), Halle-Jena-Leipzig;",
+        "German Centre for Integrative Biodiversity Research (iDiv), Halle-Jena-Leipzig;"
+      ]
+    },
+    "author_email": {
+      "value": [
+        "pkeil@seznam.cz",
+        "juliano.sarmento_cabral@uni-wuerzburg.de",
+        "jonathan.chase@idiv.de",
+        "ines.martins@idiv.de",
+        "felix.may@idiv.de",
+        "henrique.pereira@idiv.de",
+        "marten.winter@idiv.de"
+      ]
+    },
+    "author_orcid": {
+      "value": [
+
+      ]
+    },
+    "date_published": {
+      "value": [
+        "2016-10-18"
+      ]
+    },
+    "doi": {
+      "value": [
+        "10.1101/081489"
+      ]
+    },
+    "firstpage": {
+      "value": [
+        "081489"
+      ]
+    },
+    "abstract_html": {
+      "value": [
+        "<span class=\"highwire-journal-article-marker-start\"></span><div class=\"section abstract\" id=\"abstract-1\"><h2>Abstract</h2><p id=\"p-2\">AIM. Biodiversity loss, measured as count of extinction events, is a key component of biodiversity change, and can significantly impact ecosystem services. However, estimation of the loss has focused mostly on per-species extinction rates measured over limited numbers of spatial scales, with no theory linking small-scale extirpations with global extinctions. Here we provide such link by introducing the relationship between area and per-species probability of extinction (PxAR) and between area and count of realized extinction events in that area (NxAR). We show theoretical and empirical forms of these relationships, and we discuss their role in perception and estimation of the current extinction crisis.  LOCATION. USA, Europe, Czech Republic, Barro Colorado Island   METHODS. We derived the expected forms of PxAR and NxAR from a range of theoretical frameworks based on theory of island biogeography, neutral models, and species-area relationships. We constructed PxAR and NxAR in five empirical datasets on butterflies, plants, trees and birds, collected over range of spatial scales.  RESULTS. Both the theoretical arguments and empirical data support monotonically decreasing PxAR, i.e. per-species extinction probability decreasing with increasing area; however, we also report a rare theoretical possibility of locally increasing PxAR. In contrast, both theory and data revealed complex NxAR, i.e. counts of extinction events follow variety of relationships with area, including nonlinear unimodal, multimodal and U-shaped relationships, depending on region and taxon.  MAIN CONCLUSIONS. The uncovered wealth of forms of NxAR can explain why biodiversity change (the net outcome of losses and gains) also appears scale-dependent. Furthermore, the complex scale dependence of PxAR and NxAR means that global extinctions indicate little about local extirpations, and vice versa. Hence, effort should be made to understand and report extinction crisis as a scale-dependent problem. In this effort, estimation of scaling relationships such as PxAR and NxAR should be central.</p></div><span class=\"highwire-journal-article-marker-end\"></span>",
+        "<h2>Abstract</h2><p id=\"p-2\">AIM. Biodiversity loss, measured as count of extinction events, is a key component of biodiversity change, and can significantly impact ecosystem services. However, estimation of the loss has focused mostly on per-species extinction rates measured over limited numbers of spatial scales, with no theory linking small-scale extirpations with global extinctions. Here we provide such link by introducing the relationship between area and per-species probability of extinction (PxAR) and between area and count of realized extinction events in that area (NxAR). We show theoretical and empirical forms of these relationships, and we discuss their role in perception and estimation of the current extinction crisis.  LOCATION. USA, Europe, Czech Republic, Barro Colorado Island   METHODS. We derived the expected forms of PxAR and NxAR from a range of theoretical frameworks based on theory of island biogeography, neutral models, and species-area relationships. We constructed PxAR and NxAR in five empirical datasets on butterflies, plants, trees and birds, collected over range of spatial scales.  RESULTS. Both the theoretical arguments and empirical data support monotonically decreasing PxAR, i.e. per-species extinction probability decreasing with increasing area; however, we also report a rare theoretical possibility of locally increasing PxAR. In contrast, both theory and data revealed complex NxAR, i.e. counts of extinction events follow variety of relationships with area, including nonlinear unimodal, multimodal and U-shaped relationships, depending on region and taxon.  MAIN CONCLUSIONS. The uncovered wealth of forms of NxAR can explain why biodiversity change (the net outcome of losses and gains) also appears scale-dependent. Furthermore, the complex scale dependence of PxAR and NxAR means that global extinctions indicate little about local extirpations, and vice versa. Hence, effort should be made to understand and report extinction crisis as a scale-dependent problem. In this effort, estimation of scaling relationships such as PxAR and NxAR should be central.</p>"
+      ]
+    },
+    "fulltext_pdf": {
+      "value": [
+        "http://biorxiv.org/content/biorxiv/early/2016/10/18/081489.full.pdf"
+      ]
+    },
+    "copyright": {
+      "value": [
+        "© 2016, Posted by Cold Spring Harbor Laboratory Press. This pre-print is available under a Creative Commons License (Attribution 4.0 International), CC BY 4.0, as described at http://creativecommons.org/licenses/by/4.0/"
+      ]
+    },
+    "file_sizes": [
+      {
+        "article.metrics": 81176
+      },
+      {
+        "fulltext.pdf": 1299747
+      }
+    ]
+  },
+  "http://dx.doi.org/10.1101/025742": {
+    "publisher": {
+      "value": [
+        "Cold Spring Harbor Labs Journals"
+      ]
+    },
+    "journal_name": {
+      "value": [
+        "bioRxiv"
+      ]
+    },
+    "title": {
+      "value": [
+        "Do we need demographic data to forecast plant population dynamics?"
+      ]
+    },
+    "keywords": {
+      "value": [
+
+      ]
+    },
+    "author_name": {
+      "value": [
+        "Andrew T. Tredennick",
+        "Mevin B. Hooten",
+        "Peter B. Adler"
+      ]
+    },
+    "author_institution": {
+      "value": [
+        "Utah State University;",
+        "Colorado State University",
+        "Utah State University;"
+      ]
+    },
+    "author_email": {
+      "value": [
+        "atredenn@gmail.com"
+      ]
+    },
+    "author_orcid": {
+      "value": [
+
+      ]
+    },
+    "date_published": {
+      "value": [
+        "2016-10-17"
+      ]
+    },
+    "doi": {
+      "value": [
+        "10.1101/025742"
+      ]
+    },
+    "firstpage": {
+      "value": [
+        "025742"
+      ]
+    },
+    "abstract_html": {
+      "value": [
+        "<span class=\"highwire-journal-article-marker-start\"></span><div class=\"section abstract\" id=\"abstract-1\"><h2>Abstract</h2><p id=\"p-2\">1. Rapid environmental change has generated growing interest in forecasts of future population trajectories. Traditional population models built with detailed demographic observations from one study site can address the impacts of environmental change at particular locations, but are difficult to scale up to the landscape and regional scales relevant to management decisions. An alternative is to build models using population-level data that are much easier to collect over broad spatial scales than individual-level data.  However, it is unknown whether models built using population-level data adequately capture the effects of density-dependence and environmental forcing that are necessary to generate skillful forecasts.\n\n2. Here, we test the consequences of aggregating individual responses when forecasting the population states (percent cover) and trajectories of four perennial grass species in a semi-arid grassland in Montana, USA. We parameterized two population models for each species, one based on individual-level data (survival, growth and recruitment) and one on population-level data (percent cover), and compared their forecasting accuracy and forecast horizons with and without the inclusion of climate covariates. For both models, we used Bayesian ridge regression to weight the influence of climate covariates for optimal prediction. \n\n3. In the absence of climate effects, we found no significant difference between the forecast accuracy of models based on individual-level data and models based on population-level data. Climate effects were weak, but increased forecast accuracy for two species. Increases in accuracy with climate covariates were similar between model types.\n\n4. In our case study, percent cover models generated forecasts as accurate as those from a demographic model. For the goal of forecasting, models based on aggregated individual-level data may offer a practical alternative to data-intensive demographic models. Long time series of percent cover data already exist for many plant species. Modelers should exploit these data to predict the impacts of environmental change.</p></div><span class=\"highwire-journal-article-marker-end\"></span>",
+        "<h2>Abstract</h2><p id=\"p-2\">1. Rapid environmental change has generated growing interest in forecasts of future population trajectories. Traditional population models built with detailed demographic observations from one study site can address the impacts of environmental change at particular locations, but are difficult to scale up to the landscape and regional scales relevant to management decisions. An alternative is to build models using population-level data that are much easier to collect over broad spatial scales than individual-level data.  However, it is unknown whether models built using population-level data adequately capture the effects of density-dependence and environmental forcing that are necessary to generate skillful forecasts.\n\n2. Here, we test the consequences of aggregating individual responses when forecasting the population states (percent cover) and trajectories of four perennial grass species in a semi-arid grassland in Montana, USA. We parameterized two population models for each species, one based on individual-level data (survival, growth and recruitment) and one on population-level data (percent cover), and compared their forecasting accuracy and forecast horizons with and without the inclusion of climate covariates. For both models, we used Bayesian ridge regression to weight the influence of climate covariates for optimal prediction. \n\n3. In the absence of climate effects, we found no significant difference between the forecast accuracy of models based on individual-level data and models based on population-level data. Climate effects were weak, but increased forecast accuracy for two species. Increases in accuracy with climate covariates were similar between model types.\n\n4. In our case study, percent cover models generated forecasts as accurate as those from a demographic model. For the goal of forecasting, models based on aggregated individual-level data may offer a practical alternative to data-intensive demographic models. Long time series of percent cover data already exist for many plant species. Modelers should exploit these data to predict the impacts of environmental change.</p>"
+      ]
+    },
+    "fulltext_pdf": {
+      "value": [
+        "http://biorxiv.org/content/biorxiv/early/2016/10/17/025742.full.pdf"
+      ]
+    },
+    "copyright": {
+      "value": [
+        "© 2016, Published by Cold Spring Harbor Laboratory Press. This pre-print is available under a Creative Commons License (Attribution-NonCommercial-NoDerivs 4.0 International), CC BY-NC-ND 4.0, as described at http://creativecommons.org/licenses/by-nc-nd/4.0/"
+      ]
+    },
+    "file_sizes": [
+      {
+        "article.metrics": 74946
+      },
+      {
+        "fulltext.pdf": 486375
+      },
+      {
+        "supplementary.data": 76673
+      }
+    ]
+  },
+  "http://dx.doi.org/10.1101/077768": {
+    "publisher": {
+      "value": [
+        "Cold Spring Harbor Labs Journals"
+      ]
+    },
+    "journal_name": {
+      "value": [
+        "bioRxiv"
+      ]
+    },
+    "title": {
+      "value": [
+        "Dynamics of the bacterial community associated with Phaeodactylum tricornutum cultures"
+      ]
+    },
+    "keywords": {
+      "value": [
+
+      ]
+    },
+    "author_name": {
+      "value": [
+        "Fiona Wanjiku Moejes",
+        "Ovidiu Popa",
+        "Antonella Succurro",
+        "Julie Maguire",
+        "Oliver Ebenhoeh"
+      ]
+    },
+    "author_institution": {
+      "value": [
+        "Heinrich Heine University Dusseldorf;",
+        "Heinrich Heine University Dusseldorf;",
+        "Heinrich Heine University Dusseldorf;",
+        "Daithi O'Murchu Marine Research Station",
+        "Heinrich Heine University Dusseldorf;"
+      ]
+    },
+    "author_email": {
+      "value": [
+        "fiona.moejes@hhu.de",
+        "ovidiu.popa@hhu.de",
+        "antonella.succurro@hhu.de",
+        "julie.maguire@dommrc.com",
+        "oliver.ebenhoeh@hhu.de"
+      ]
+    },
+    "author_orcid": {
+      "value": [
+        "http://orcid.org/0000-0002-7464-7590"
+      ]
+    },
+    "date_published": {
+      "value": [
+        "2016-10-17"
+      ]
+    },
+    "doi": {
+      "value": [
+        "10.1101/077768"
+      ]
+    },
+    "firstpage": {
+      "value": [
+        "077768"
+      ]
+    },
+    "abstract_html": {
+      "value": [
+        "<span class=\"highwire-journal-article-marker-start\"></span><div class=\"section abstract\" id=\"abstract-1\"><h2>Abstract</h2><p id=\"p-2\">The pennate diatom Phaeodactylum tricornutum is a model organism able to synthesise industrially-relevant molecules. Large-scale monocultures are prone to bio-contamination, however, little is known about the identity of the invading organisms. To gain insight into the bacterial community associated with diatoms, we translated the complexity of a natural system into reproducible experiments where we investigated the microbiome of P. tricornutum cultures. The results revealed a dynamic bacterial community that changed over time and in differing media conditions. We propose a network of putative interactions between P. tricornutum and the main bacterial factions, which is translated into a set of ordinary differential equations constituting a computational dynamic model. The proposed mathematical model is able to capture the population dynamics, further supporting the hypothesised interactions. The interdisciplinary approach implemented provides a framework for understanding the dynamics of diatom-associated microbial communities, and provides a foundation for further systematic investigations of host-microbe interactions.</p></div><span class=\"highwire-journal-article-marker-end\"></span>",
+        "<h2>Abstract</h2><p id=\"p-2\">The pennate diatom Phaeodactylum tricornutum is a model organism able to synthesise industrially-relevant molecules. Large-scale monocultures are prone to bio-contamination, however, little is known about the identity of the invading organisms. To gain insight into the bacterial community associated with diatoms, we translated the complexity of a natural system into reproducible experiments where we investigated the microbiome of P. tricornutum cultures. The results revealed a dynamic bacterial community that changed over time and in differing media conditions. We propose a network of putative interactions between P. tricornutum and the main bacterial factions, which is translated into a set of ordinary differential equations constituting a computational dynamic model. The proposed mathematical model is able to capture the population dynamics, further supporting the hypothesised interactions. The interdisciplinary approach implemented provides a framework for understanding the dynamics of diatom-associated microbial communities, and provides a foundation for further systematic investigations of host-microbe interactions.</p>"
+      ]
+    },
+    "fulltext_pdf": {
+      "value": [
+        "http://biorxiv.org/content/biorxiv/early/2016/10/17/077768.full.pdf"
+      ]
+    },
+    "copyright": {
+      "value": [
+        "© 2016, Published by Cold Spring Harbor Laboratory Press. This pre-print is available under a Creative Commons License (Attribution-NoDerivs 4.0 International), CC BY-ND 4.0, as described at http://creativecommons.org/licenses/by-nd/4.0/"
+      ]
+    },
+    "file_sizes": [
+      {
+        "article.metrics": 76686
+      },
+      {
+        "fulltext.pdf": 2817369
+      },
+      {
+        "supplementary.data": 78734
+      }
+    ]
+  },
+  "http://dx.doi.org/10.1101/080986": {
+    "publisher": {
+      "value": [
+        "Cold Spring Harbor Labs Journals"
+      ]
+    },
+    "journal_name": {
+      "value": [
+        "bioRxiv"
+      ]
+    },
+    "title": {
+      "value": [
+        "Low plastic ingestion rate in Atlantic Cod (Gadus morhua) from Newfoundland destined for human consumption collected through citizen science methods"
+      ]
+    },
+    "keywords": {
+      "value": [
+
+      ]
+    },
+    "author_name": {
+      "value": [
+        "Max Liboiron",
+        "France Liboiron",
+        "Emily Wells",
+        "Natalie Richard",
+        "Alexander Zahara",
+        "Charles Mather",
+        "Hillary Bradshaw",
+        "Judyannet Murichi"
+      ]
+    },
+    "author_institution": {
+      "value": [
+        "Memorial University of Newfoundland",
+        "Memorial University of Newfoundland",
+        "Memorial University of Newfoundland",
+        "Memorial University of Newfoundland",
+        "Memorial University of Newfoundland",
+        "Memorial University of Newfoundland",
+        "Memorial University of Newfoundland",
+        "Memorial University of Newfoundland"
+      ]
+    },
+    "author_email": {
+      "value": [
+        "mliboiron@mun.ca",
+        "fel480@mun.ca",
+        "eewells@mun.ca",
+        "nr8136@mun.ca",
+        "ardz76@mun.ca",
+        "cmather@mun.ca",
+        "cmather@mun.ca",
+        "jwm473@mun.ca"
+      ]
+    },
+    "author_orcid": {
+      "value": [
+        "http://orcid.org/0000-0003-3837-8650"
+      ]
+    },
+    "date_published": {
+      "value": [
+        "2016-10-14"
+      ]
+    },
+    "doi": {
+      "value": [
+        "10.1101/080986"
+      ]
+    },
+    "firstpage": {
+      "value": [
+        "080986"
+      ]
+    },
+    "abstract_html": {
+      "value": [
+        "<span class=\"highwire-journal-article-marker-start\"></span><div class=\"section abstract\" id=\"abstract-1\"><h2>Abstract</h2><p id=\"p-2\">Marine microplastics are a contaminant of concern because their small size allows ingestion by a wide range of marine life. Using citizen science during the Newfoundland recreational cod fishery, we sampled 205 Atlantic cod (Gadus morhua) destined for human consumption and found that 5 had eaten plastic, an ingestion prevalence rate of 2.4%. This ingestion rate for Atlantic cod is the second lowest recorded rate in the reviewed published literature (the lowest is 1.4%), and the lowest for any fish in the North Atlantic. This is the first report for plastic ingestion in fish in Newfoundland, Canada, a province dependent on fish for sustenance and livelihoods.</p></div><span class=\"highwire-journal-article-marker-end\"></span>",
+        "<h2>Abstract</h2><p id=\"p-2\">Marine microplastics are a contaminant of concern because their small size allows ingestion by a wide range of marine life. Using citizen science during the Newfoundland recreational cod fishery, we sampled 205 Atlantic cod (Gadus morhua) destined for human consumption and found that 5 had eaten plastic, an ingestion prevalence rate of 2.4%. This ingestion rate for Atlantic cod is the second lowest recorded rate in the reviewed published literature (the lowest is 1.4%), and the lowest for any fish in the North Atlantic. This is the first report for plastic ingestion in fish in Newfoundland, Canada, a province dependent on fish for sustenance and livelihoods.</p>"
+      ]
+    },
+    "fulltext_pdf": {
+      "value": [
+        "http://biorxiv.org/content/biorxiv/early/2016/10/14/080986.full.pdf"
+      ]
+    },
+    "copyright": {
+      "value": [
+        "© 2016, Published by Cold Spring Harbor Laboratory Press. This pre-print is available under a Creative Commons License (Attribution-NonCommercial-NoDerivs 4.0 International), CC BY-NC-ND 4.0, as described at http://creativecommons.org/licenses/by-nc-nd/4.0/"
+      ]
+    },
+    "file_sizes": [
+      {
+        "article.metrics": 81834
+      },
+      {
+        "fulltext.pdf": 2030292
+      }
+    ]
+  }
+}
