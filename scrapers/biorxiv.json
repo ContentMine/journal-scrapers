@@ -1,0 +1,81 @@
+{
+  "url": "biorxiv\\.org",
+
+  "followables": {
+    "follow_metrics": {
+      "selector": "//a[contains(@data-trigger, 'article-metrics')]",
+      "attribute": "href",
+      "download": {
+        "rename": "article.metrics"
+	}
+      },
+    "follow_supplementary": {
+      "selector": "//a[contains(@data-trigger, 'figures-only')]",
+      "attribute": "href",
+      "download": {
+        "rename": "supplementary.data"
+      }
+    }
+  },
+  "elements": {
+    "publisher": {
+      "selector": "//meta[@name='citation_publisher']",
+      "attribute": "content"
+    },
+    "journal_name": {
+      "selector": "//meta[@name='citation_journal_title']",
+      "attribute": "content"
+    },
+    "title": {
+      "selector": "//meta[@name='citation_title']",
+      "attribute": "content"
+    },
+    "keywords": {
+      "selector": "//meta[@name='citation_keywords']",
+      "attribute": "content"
+    },
+    "author_name": {
+      "selector": "//meta[@name='citation_author']",
+      "attribute": "content"
+    },
+    "author_institution": {
+      "selector": "//meta[@name='citation_author_institution']",
+      "attribute": "content"
+    },
+    "author_email": {
+      "selector": "//meta[@name='citation_author_email']",
+      "attribute": "content"
+    },
+    "author_orcid": {
+      "selector": "//meta[@name='citation_author_orcid']",
+      "attribute": "content"
+    },
+    "date_published": {
+      "selector": "//meta[@name='citation_date']",
+      "attribute": "content"
+    },
+    "doi": {
+      "selector": "//meta[@name='citation_doi']",
+      "attribute": "content"
+    },
+    "firstpage": {
+      "selector": "//meta[@name='citation_firstpage']",
+      "attribute": "content"
+    },
+    "abstract_html": {
+      "selector": "//div[contains(@class, 'abstract')]",
+      "attribute": "html"
+    },
+    "fulltext_pdf": {
+      "selector": "//meta[@name='citation_pdf_url']",
+      "attribute": "content",
+      "download": {
+        "rename": "fulltext.pdf"
+      }
+    },
+    "copyright": {
+      "selector": "//meta[@name='DC.Rights']",
+      "attribute": "content"
+    }
+  }
+ }
