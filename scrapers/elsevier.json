@@ -14,7 +14,7 @@
     },
 
     "fulltext_pdf": {
-      "selector": "//*[contains(@id, 'pdfLink')]",
+      "selector": "(//*[@id='article-download']/a | //*[@id='pdfLink'])",
       "attribute": "href",
       "download": {
         "rename": "fulltext.pdf"
