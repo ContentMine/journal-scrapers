@@ -1,9 +1,9 @@
 language: ruby
 rvm:
-  - 2.1.0
+  - 2.5.1
 before_install:
-  - nvm install 0.10.32
-  - nvm use 0.10.32
+  - nvm install 8.11.3
+  - nvm use 8.11.3
   - npm update npm -g
 install:
   - npm install --global quickscrape@0.4.6

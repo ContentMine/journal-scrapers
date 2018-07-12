@@ -11,6 +11,10 @@ passed = 0
 warnings = 0
 errors = 0
 
+log_PASS = "\e[0;32mPASS\e[39m"
+log_WARN = "\e[0;33mWARN\e[39m"
+log_ERROR = "\e[0;31mERROR\e[39m"
+
 # generate coverage information for tests
 def coverage(scraperjsonpath, results)
   # get the element names
@@ -19,7 +23,7 @@ def coverage(scraperjsonpath, results)
   # calculate coverage
   elements.each do |element|
     # calculate coverage for this line
-    if results.detect { |result| result.is_a?(Hash) && result.key?(element) }
+    if results.key?(element) && !results[element]['value'].empty?
       coverage << 1
     else
       coverage << 0
@@ -34,6 +38,7 @@ end
 coverage_files = []
 tmpdir = Dir.mktmpdir
 puts "using tmp dir #{tmpdir}"
+puts ""
 Dir.chdir(tmpdir) do
   scrapers.each do |scraper|
     scrapercount += 1
@@ -54,12 +59,12 @@ Dir.chdir(tmpdir) do
       cmd += " --scraper #{scraper}"
       cmd += " --output output"
       cmd += " --loglevel debug"
-      puts `#{cmd}`
+      system "#{cmd}", [:out, :err] => File::NULL
       # load the output
       cleanurl = url.gsub(/:?\/+/, '_')
       Dir.chdir("output/#{cleanurl}") do
         unless File.exist? 'results.json'
-          puts "FAIL: no results from scraping"
+          puts "#{log_ERROR}: no results from scraping"
           errors += 1
           coverage_files << coverage(scraper, {})
           next
@@ -75,30 +80,27 @@ Dir.chdir(tmpdir) do
       end
       coverage_files << coverage(scraper, results)
       # compare results to expected
-      expected.each do |hash|
-        key = hash.keys.first
-        exp_val = hash[key]
-        exist = results.detect { |result| result.key? key }
-        match = results.detect do |result|
-          result.key?(key) && result[key] == exp_val
-        end
+      expected.each do |key, exp_val|
+        exist = results.key? key
+        match = results.key?(key) && results[key] == exp_val
         if exist && match
-          puts "PASS: #{key}"
+          puts "#{log_PASS}: #{key}"
           passed += 1
         elsif exist
-          puts "WARN: #{key} exists in results but is not exactly the same"
+          puts "#{log_WARN}: #{key} exists in results but is not exactly the same"
           warnings += 1
         else
-          puts "ERROR: #{key} not found in results"
+          puts "#{log_ERROR}: #{key} not found in results"
           puts "expected value: #{exp_val}"
           errors += 1
         end
       end
     else
-      puts "WARN: no test found!"
+      puts "#{log_WARN}: no test found!"
       warnings += 1
       coverage_files << coverage(scraper, {})
     end
+    puts ""
   end
 end
 
