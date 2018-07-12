@@ -54,7 +54,7 @@ Dir.chdir(tmpdir) do
       cmd += " --scraper #{scraper}"
       cmd += " --output output"
       cmd += " --loglevel debug"
-      puts `#{cmd}`
+      system "#{cmd}", [:out, :err] => File::NULL
       # load the output
       cleanurl = url.gsub(/:?\/+/, '_')
       Dir.chdir("output/#{cleanurl}") do
@@ -75,13 +75,9 @@ Dir.chdir(tmpdir) do
       end
       coverage_files << coverage(scraper, results)
       # compare results to expected
-      expected.each do |hash|
-        key = hash.keys.first
-        exp_val = hash[key]
-        exist = results.detect { |result| result.key? key }
-        match = results.detect do |result|
-          result.key?(key) && result[key] == exp_val
-        end
+      expected.each do |key, exp_val|
+        exist = results.key? key
+        match = results.key?(key) && results[key] == exp_val
         if exist && match
           puts "PASS: #{key}"
           passed += 1
