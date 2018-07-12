@@ -11,6 +11,10 @@ passed = 0
 warnings = 0
 errors = 0
 
+log_PASS = "\e[0;32mPASS\e[39m"
+log_WARN = "\e[0;33mWARN\e[39m"
+log_ERROR = "\e[0;31mERROR\e[39m"
+
 # generate coverage information for tests
 def coverage(scraperjsonpath, results)
   # get the element names
@@ -34,6 +38,7 @@ end
 coverage_files = []
 tmpdir = Dir.mktmpdir
 puts "using tmp dir #{tmpdir}"
+puts ""
 Dir.chdir(tmpdir) do
   scrapers.each do |scraper|
     scrapercount += 1
@@ -59,7 +64,7 @@ Dir.chdir(tmpdir) do
       cleanurl = url.gsub(/:?\/+/, '_')
       Dir.chdir("output/#{cleanurl}") do
         unless File.exist? 'results.json'
-          puts "FAIL: no results from scraping"
+          puts "#{log_ERROR}: no results from scraping"
           errors += 1
           coverage_files << coverage(scraper, {})
           next
@@ -79,22 +84,23 @@ Dir.chdir(tmpdir) do
         exist = results.key? key
         match = results.key?(key) && results[key] == exp_val
         if exist && match
-          puts "PASS: #{key}"
+          puts "#{log_PASS}: #{key}"
           passed += 1
         elsif exist
-          puts "WARN: #{key} exists in results but is not exactly the same"
+          puts "#{log_WARN}: #{key} exists in results but is not exactly the same"
           warnings += 1
         else
-          puts "ERROR: #{key} not found in results"
+          puts "#{log_ERROR}: #{key} not found in results"
           puts "expected value: #{exp_val}"
           errors += 1
         end
       end
     else
-      puts "WARN: no test found!"
+      puts "#{log_WARN}: no test found!"
       warnings += 1
       coverage_files << coverage(scraper, {})
     end
+    puts ""
   end
 end
 
