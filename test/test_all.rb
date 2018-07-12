@@ -23,7 +23,7 @@ def coverage(scraperjsonpath, results)
   # calculate coverage
   elements.each do |element|
     # calculate coverage for this line
-    if results.detect { |result| result.is_a?(Hash) && result.key?(element) }
+    if results.key?(element) && !results[element]['value'].empty?
       coverage << 1
     else
       coverage << 0
