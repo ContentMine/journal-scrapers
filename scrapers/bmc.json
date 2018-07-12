@@ -1,83 +1,91 @@
 {
-"url": "biomedcentral\\.com",
-"elements": {
-"publisher": {
-"selector": "//meta[@name='citation_publisher']",
-"attribute": "content"
-},
-"journal": {
-"selector": "//meta[@name='citation_journal_title']",
-"attribute": "content"
-},
-"title": {
-"selector": "//meta[@name='citation_title']",
-"attribute": "content"
-},
-"authors": {
-"selector": "//meta[@name='citation_author']",
-"attribute": "content"
-},
-"date": {
-"selector": "//meta[@name='citation_date']",
-"attribute": "content"
-},
-"doi": {
-"selector": "//meta[@name='citation_doi']",
-"attribute": "content"
-},
-"volume": {
-"selector": "//meta[@name='citation_volume']",
-"attribute": "content"
-},
-"issue": {
-"selector": "//meta[@name='citation_issue']",
-"attribute": "content"
-},
-"firstpage": {
-"selector": "//meta[@name='citation_firstpage']",
-"attribute": "content"
-},
-"description": {
-"selector": "//meta[@name='dc.description']",
-"attribute": "content"
-},
-"abstract": {
-"selector": "//meta[@name='dc.description']",
-"attribute": "content"
-},
-"fulltext_html": {
-"selector": "//meta[@name='citation_fulltext_html_url']",
-"attribute": "content",
-"download": {
-"rename": "fulltext.html"
-}
-},
-"fulltext_pdf": {
-"selector": "//meta[@name='citation_pdf_url']",
-"attribute": "content",
-"download": {
-"rename": "fulltext.pdf"
-}
-},
-"supplementary_material": {
-"selector": "//a[@class='filename']",
-"attribute": "href",
-"download": true
-},
-"figure": {
-"selector": "//figure[@class='Figure']/div/img",
-"attribute": "src",
-"download": true
-},
-"figure_caption": {
-"selector": "//figure[@class='Figure']/figcaption"
-},
-"license": {
-"selector": "//section[@id='CopyrightMessage']//div[@class='CopyrightComment']/p"
-},
-"copyright": {
-"selector": "//meta[@name='dc.copyright']",
-"attribute": "content"
-}
-}
+  "url": "biomedcentral\\.com",
+  "elements": {
+    "publisher": {
+      "selector": "\/\/meta[@name='citation_publisher']",
+      "attribute": "content"
+    },
+    "journal_name": {
+      "selector": "\/\/meta[@name='citation_journal_title']",
+      "attribute": "content"
+    },
+    "journal_issn": {
+      "selector": "\/\/meta[@name='citation_issn']",
+      "attribute": "content"
+    },
+    "title": {
+      "selector": "\/\/meta[@name='citation_title']",
+      "attribute": "content"
+    },
+    "author_name": {
+      "selector": "\/\/meta[@name='citation_author']",
+      "attribute": "content"
+    },
+    "author_institution": {
+      "selector": "\/\/meta[@name='citation_author_institution']",
+      "attribute": "content"
+    },
+    "date_published": {
+      "selector": "\/\/meta[@name='citation_online_date']",
+      "attribute": "content"
+    },
+    "doi": {
+      "selector": "\/\/meta[@name='citation_doi']",
+      "attribute": "content"
+    },
+    "volume": {
+      "selector": "\/\/meta[@name='citation_volume']",
+      "attribute": "content"
+    },
+    "issue": {
+      "selector": "\/\/meta[@name='citation_issue']",
+      "attribute": "content"
+    },
+    "firstpage": {
+      "selector": "\/\/meta[@name='citation_firstpage']",
+      "attribute": "content"
+    },
+    "description": {
+      "selector": "\/\/meta[@name='description']",
+      "attribute": "content"
+    },
+    "abstract": {
+      "selector": "\/\/meta[@name='citation_abstract']",
+      "attribute": "content"
+    },
+    "fulltext_html": {
+      "selector": "\/\/meta[@name='citation_fulltext_html_url']",
+      "attribute": "content",
+      "download": {
+        "rename": "fulltext.html"
+      }
+    },
+    "fulltext_pdf": {
+      "selector": "\/\/meta[@name='citation_pdf_url']",
+      "attribute": "content",
+      "download": {
+        "rename": "fulltext.pdf"
+      }
+    },
+    "supplementary_material": {
+      "selector": "\/\/a[@class='filename']",
+      "attribute": "href",
+      "download": true
+    },
+    "figure": {
+      "selector": "\/\/figure[@class='Figure']\/div\/img",
+      "attribute": "src",
+      "download": true
+    },
+    "figure_caption": {
+      "selector": "\/\/figure[@class='Figure']\/figcaption"
+    },
+    "license": {
+      "selector": "\/\/section[@id='CopyrightMessage']\/\/div[@class='CopyrightComment']\/p"
+    },
+    "copyright": {
+      "selector": "\/\/meta[@name='dc.copyright']",
+      "attribute": "content"
+    }
+  }
 }
